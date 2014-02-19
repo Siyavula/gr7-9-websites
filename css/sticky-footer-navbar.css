@@ -38,3 +38,16 @@ body > .container {
 code {
   font-size: 80%;
 }
+
+#footer a > img{
+    max-width:200px;
+       
+}
+
+#footer div.footer-logo{
+     text-align: center;
+     padding:15px;
+
+}
+
+
