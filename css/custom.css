@@ -1,0 +1,12 @@
+.container .jumbotron{
+    background-color:rgb(224, 224, 224);
+    border-radius: 0px;
+    text-align: center;
+}
+
+
+img.cover{
+    width:90%;
+    margin:20px;
+}   
+
