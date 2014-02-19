@@ -1,12 +1,70 @@
 .container .jumbotron{
-    background-color:rgb(224, 224, 224);
+    background-color:#e7e7e7;
     border-radius: 0px;
     text-align: center;
+    padding-top:15px;
+    margin-top:20px;
+}
+
+div.subject{
+    text-align:center;
+    margin:10px;
+}
+
+div.subject > h2{
+    font-size:24px;
+    padding-bottom:2px;
+}
+
+div.subject > h3{
+    font-size: 18px;
+    padding-top:0px;
+}   
+img.cover{
+    width:90%;
+    margin-top: 20px;
+    margin-bottom:20px;
+}   
+
+/*change homepage btn-primary buttons to be greens not dark blue*/
+.btn-primary {
+color: #fff;
+background-color: #87BA87;
+border-color: #7BA97B;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  color: #ffffff;
+ background-color: #679d67;
+  border-color: #4f8f4f;
+}
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  background-image: none;
+}
+.btn-primary.disabled,
+.btn-primary[disabled],
+fieldset[disabled] .btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled:active,
+.btn-primary[disabled]:active,
+fieldset[disabled] .btn-primary:active,
+.btn-primary.disabled.active,
+.btn-primary[disabled].active,
+fieldset[disabled] .btn-primary.active {
+  background-color: #679d67;
+  border-color: #4f8f4f;
 }
 
 
-img.cover{
-    width:90%;
-    margin:20px;
-}   
 
