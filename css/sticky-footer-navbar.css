@@ -14,7 +14,7 @@ body {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 135px;
+  height: 100px;
   background-color: #fff;
   border-top:1px solid rgb(208, 206, 206);
   text-align:center;
@@ -42,7 +42,7 @@ code {
 }
 
 #footer a > img{
-    max-width:80%;
+    max-width:75%;
        
 }
 
