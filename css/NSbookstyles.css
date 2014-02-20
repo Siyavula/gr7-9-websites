@@ -16,79 +16,7 @@ div.solution{
     display:none;
 }
 
-/*Bootstrap tweaks
---------------------------------------------------*/
-div.main-content{
-    margin-top:5em;
-}
 
-.navbar-inverse {
-background-color: #4CABDB;
-
-border-color: #4E99BF;
-}
-
-.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
-color: #fff;
-background-color: #60B8E5;
-}
-
-.navbar-inverse .navbar-brand {
-color: #DADADA;}
-
-
-.navbar-inverse .navbar-nav>li>a {
-color: #DADADA;
-}
-
- .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
-background-color: #4CABDB;
-color: #fff;
-}
-
-ul.nav.navbar-nav > li.dropdown.open > a.dropdown-toggle{
-    backgroound-color:  #4CABDB;
-
-}
-
-ul.dropdown-menu{
-   background-color: #4CABDB;
-} 
-ul.dropdown-menu > li > a{
-    color: white;
-    }
-
-.navbar-inverse .navbar-toggle .icon-bar {
-background-color: #4CABDB;
-
-}
-.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-background-color: #60B8E5;
-}
-
-.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
-background-color: #60B8E5;
-color: #fff;
-}
-
-.navbar-inverse .navbar-toggle .icon-bar {
-background-color: white;
-}
-
-.navbar-inverse .navbar-toggle {
-border-color: #DADADA;
-}
-
-.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-border-color: #DADADA;
-}
-
-/*Tocify styles
--------------------------------------------------*/
-#toc{
-    margin-top:7em;
-    
-}
 
 
 /*Life and Living Styles
