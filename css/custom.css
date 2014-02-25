@@ -83,3 +83,9 @@ fieldset[disabled] .btn-primary.active {
         margin:0px;
     }
 }
+
+#toc {
+    top:100px;
+    margin: 50px;
+    max-width:300px;
+}
