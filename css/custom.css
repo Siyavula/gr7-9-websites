@@ -87,5 +87,19 @@ fieldset[disabled] .btn-primary.active {
 #toc {
     top:100px;
     margin: 50px;
-    max-width:300px;
+}
+
+#toc p  a.H2 {
+    padding-left:20px
+    overflow: hidden;
+}
+
+#toc p  a.H3 {
+    overflow: hidden;
+    padding-left:40px;
+}
+
+#toc p  a.H4 {
+    overflow: hidden;
+    padding-left:60px;
 }
