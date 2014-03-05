@@ -13,7 +13,6 @@ $(function() {
         }
     });
 
-    
     for (var i=0; i < headings.length; i++){
         var a = $('<a>' + headings[i].text() + '</a>');
         a.attr('href', '#toc-id-' + currentTocId);
@@ -23,16 +22,17 @@ $(function() {
         li.append(a);
         headings[i].prop('id', 'toc-id-' + currentTocId);
         currentTocId += 1;
-        console.log(headings[i].text());
         toc.append(li);
     }
 
-
     $('#toc').append(toc);
-
-
 });
 
+
+//
+//
+// The code below handles the highlighting of the current doc position in ToC.
+//
 
 // returns true if given element is in viewport
 function isElementInViewport (el) {
@@ -46,8 +46,6 @@ function isElementInViewport (el) {
     );
 }
 
-
-
 function elementVisibilityMayChange () {
     var tocelementIDs = [];
     var tocelements = [];
@@ -60,13 +58,12 @@ function elementVisibilityMayChange () {
     
     // Find visible element and highlight it 
     for (var i = 0; i < tocelementIDs.length; i++){
-        console.log(tocelementIDs[i]);
         var el = $('#' + tocelementIDs[i])[0];
         if ( isElementInViewport(el) ) {
             // remove highlight only if new element is visible.
             $('#toc>p>a').each(function() {
                 $(this).removeClass('toc-highlight');
-                });
+            });
             // add highlight to first visible element
             tocelements[i].addClass('toc-highlight');
             break;
