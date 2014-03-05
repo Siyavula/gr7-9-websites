@@ -91,7 +91,6 @@ fieldset[disabled] .btn-primary.active {
     border-radius: 10px;
     padding-left: 1em;
     padding-top: 1em;
-    
 }
 
 #toc p  a.H2 {
@@ -109,4 +108,7 @@ fieldset[disabled] .btn-primary.active {
     padding-left:60px;
 }
 
+#toc p a.toc-highlight {
+    background-color:#F8F8F8;
+}
 
