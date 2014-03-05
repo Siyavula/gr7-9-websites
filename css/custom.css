@@ -84,9 +84,14 @@ fieldset[disabled] .btn-primary.active {
     }
 }
 
+/*Book Table of Contents Styles--------------------------*/
 #toc {
     top:100px;
-    margin: 50px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding-left: 1em;
+    padding-top: 1em;
+    
 }
 
 #toc p  a.H2 {
@@ -103,3 +108,5 @@ fieldset[disabled] .btn-primary.active {
     overflow: hidden;
     padding-left:60px;
 }
+
+
