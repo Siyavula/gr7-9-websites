@@ -1,21 +1,20 @@
-div.maths{
+div.tech{
     margin-top:50px;
     max-width:80%;
 }
 
 
-div.maths > p.headerbar{
+div.tech > p.headerbar{
     background-color:#EFD0C2;
     font-size: large;
     font-weight: bold;
-    text-transform: uppercase;
     padding-left: 10px;
     margin-top: 15px;
     margin-bottom: 15px;
 }
 
-div.mathsnote{
-    border-left: 10px solid #B2432F;
+div.technote{
+    background-color:#F4E5DD;
     padding-left: 10px;
     max-width: 50%;
     margin-left: auto;
@@ -37,3 +36,13 @@ p{
 line-height:2em;
 margin:4px;
 }
+
+img{
+    max-width:50%;
+    }
+
+figure{
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:20px;
+    }
