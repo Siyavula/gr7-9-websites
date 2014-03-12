@@ -85,6 +85,8 @@ fieldset[disabled] .btn-primary.active {
 }
 
 /*Book Table of Contents Styles--------------------------*/
+/*
+ *
 #toc {
     top:100px;
     border: 1px solid lightgray;
@@ -115,4 +117,4 @@ fieldset[disabled] .btn-primary.active {
 #toc p a.toc-highlight {
     background-color:#F8F8F8;
 }
-
+*/
