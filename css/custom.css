@@ -84,8 +84,37 @@ fieldset[disabled] .btn-primary.active {
     }
 }
 
+/*Book Table of Contents Styles--------------------------*/
+/*
+ *
 #toc {
     top:100px;
-    margin: 50px;
-    max-width:300px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding-left: 1em;
+    padding-top: 1em;
+    margin-left:-250px;
+    left: 250px;
+    width:350px;
+    position:fixed;
 }
+
+#toc p  a.H2 {
+    padding-left:20px
+    overflow: hidden;
+}
+
+#toc p  a.H3 {
+    overflow: hidden;
+    padding-left:40px;
+}
+
+#toc p  a.H4 {
+    overflow: hidden;
+    padding-left:60px;
+}
+
+#toc p a.toc-highlight {
+    background-color:#F8F8F8;
+}
+*/
