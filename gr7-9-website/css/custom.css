@@ -79,8 +79,8 @@ h1.page-title {
     margin-top:-60px;
 }
 
-@media (min-width: 768px) and (max-width: 979px){
-    h1{
+@media (min-width: 769px) and (max-width: 991px){
+    body{
         margin-top:60px;
     }
     div.subject{
@@ -88,9 +88,19 @@ h1.page-title {
     }
 
     div.container > div.language-toggle {
+        
+        float:right;
+    }
+}
+
+@media (min-width: 992px){
+
+     div.container > div.language-toggle {
+        margin-top:10px;
         margin-right:20%;
         float:right;
     }
+
 }
 
 /*Book Table of Contents Styles--------------------------*/
