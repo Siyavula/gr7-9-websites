@@ -1,0 +1,660 @@
+/* Universal font
+ ------------------------------------------------- */
+*{
+    font-family: "arial", "Helvetica", sans-serif;
+
+}
+
+/* Hide TG and Solutions
+ ------------------------------------------------- */
+
+div.teachers-guide{
+    display: none;
+}
+
+div.solution{
+    display:none;
+}
+
+/*Life and Living Styles
+------------------------------------------------- */
+
+body.lifeandliving div[data-type*="newwords"]{
+    background: url(img/newwords/Beaker1-bottom.png) no-repeat 90%;
+    background-color: #DCC6DB;
+    background-size: 120px;
+}
+
+body.lifeandliving div[data-type*="didyouknow"]{
+    background: url(img/didyouknow/Apple1.png) no-repeat 95%;
+    background-size: 120px;
+    background-color: #F8D6D7;
+}
+body.lifeandliving div[data-type*="visit"]{
+    background: url(img/visit/Earth1-bottom.png) no-repeat 93%;
+    background-size: 120px;
+    background-color: #E5EDD3;
+}
+
+body.lifeandliving div[data-type*="takenote"]{
+    background: url(img/takenote/Paper2-bottom.png) no-repeat 93%;
+    background-size: 120px;
+    background-color: #D7EAF9;
+}
+
+body.lifeandliving div[data-type*="keyquestions"], body.lifeandliving div[data-type*="keyconcepts"]{
+    background: url(img/keys/Key1.png) no-repeat top right 15px;
+    background-size:140px;
+    background-color: #C3C9E0;
+    background-position: 98%;
+}
+
+body.lifeandliving h1.title{
+    background: #009A4E;
+}
+
+body.lifeandliving h2.title{
+    background: #C7E0CD;
+    color:#009A4E; 
+}
+/*Matter and Material Styles
+------------------------------------------------- */
+
+body.matterandmaterials div[data-type*="newwords"]{
+    background: url(img/newwords/Beaker2-bottom.png) no-repeat 90%;
+    background-color: #DCC6DB;
+    background-size: 120px;
+}
+
+body.matterandmaterials div[data-type*="didyouknow"]{
+    background: url(img/didyouknow/Apple2-bottom.png) no-repeat 93%;
+    background-size: 120px;
+    background-color: #F8D6D7;
+}
+body.matterandmaterials div[data-type*="visit"]{
+    background: url(img/visit/Earth2-bottom.png) no-repeat 93%;
+    background-size: 120px;
+    background-color: #E5EDD3;
+}
+
+body.matterandmaterials div[data-type*="takenote"]{
+    background: url(img/takenote/Paper1-bottom.png) no-repeat 95%;
+    background-size: 120px;
+    background-color: #D7EAF9;
+}
+
+body.matterandmaterials div[data-type*="keyquestions"], body.matterandmaterials div[data-type*="keyconcepts"]{
+    background: url(img/keys/Key2.png) no-repeat top right 15px;
+    background-size:140px;
+    background-color: #C3C9E0;
+    background-position: 98%;
+}
+
+body.matterandmaterials h1.title{
+    background: #00549A;
+}
+
+body.matterandmaterials h2.title{
+    background: #C3C9E0;
+    color:#00549A; 
+}
+/*Energy and Change Styles
+------------------------------------------------- */
+
+body.energyandchange div[data-type*="newwords"]{
+    background: url(img/newwords/Beaker3-bottom.png) no-repeat 90%;
+    background-color: #DCC6DB;
+    background-size: 100px;
+}
+
+body.energyandchange div[data-type*="didyouknow"]{
+    background: url(img/didyouknow/Apple3-bottom.png) no-repeat 93%;
+    background-size: 120px;
+    background-color: #F8D6D7;
+}
+body.energyandchange div[data-type*="visit"]{
+    background: url(img/visit/Earth3-bottom.png) no-repeat 93%;
+    background-size: 120px;
+    background-color: #E5EDD3;
+}
+
+body.energyandchange div[data-type*="takenote"]{
+    background: url(img/takenote/Paper3-bottom.png) no-repeat 93%;
+    background-size: 120px;
+    background-color: #D7EAF9;
+}
+
+body.energyandchange div[data-type*="keyquestions"], body.energyandchange div[data-type*="keyconcepts"]{
+    background: url(img/keys/Key3.png) no-repeat top right 15px;
+    background-size:140px;
+    background-color: #C3C9E0;
+    background-position: 98%;
+}
+
+body.energyandchange h1.title{
+    background: #EC9123;
+}
+
+body.energyandchange h2.title{
+    background: #FBE4CA;
+    color:#EC9123; 
+}
+
+/*Earth and Beyond Styles
+------------------------------------------------- */
+
+body.earthandbeyond div[data-type*="newwords"]{
+    background: url(img/newwords/Beaker4-bottom.png) no-repeat 90%;
+    background-color: #DCC6DB;
+    background-size: 120px;
+}
+
+body.earthandbeyond div[data-type*="didyouknow"]{
+    background: url(img/didyouknow/Apple4-bottom.png) no-repeat 95%;
+    
+    background-size: 130px;
+    background-color: #F8D6D7;
+}
+body.earthandbeyond div[data-type*="visit"]{
+    background: url(img/visit/Earth4-bottom.png) no-repeat 95%;
+    background-size: 120px;
+
+    background-color: #E5EDD3;
+}
+
+body.earthandbeyond div[data-type*="takenote"]{
+    background: url(img/takenote/Paper4-bottom.png) no-repeat 93%;
+    background-size: 110px;
+    background-color: #D7EAF9;
+}
+
+body.earthandbeyond div[data-type*="keyquestions"], body.earthandbeyond div[data-type*="keyconcepts"]{
+    background: url(img/keys/Key4.png) no-repeat top right 15px;
+    background-size:140px;
+    background-color: #C3C9E0;
+    background-position: 98%;
+}
+
+body.earthandbeyond h1.title{
+    background: #B82937;
+}
+
+body.earthandbeyond h2.title{
+    background: #EBC9BF;
+    color:#B82937; 
+}
+/* Headings and General Styles
+ ------------------------------------------------- */
+h1.title {
+	color:#fff;
+	padding: 20px 20px 30px;
+	margin-top: 0;
+	font-size: 30px
+}
+
+h2.title {
+	font-size: 26px
+}
+
+h3.title {
+	font-size: 22px
+}
+
+
+p{
+    clear:both;
+}
+
+div.section{
+    clear:both;
+    width:100%;
+}
+ul{
+    clear:both;
+}
+
+
+hr{
+    margin: 20px 0;
+    float: left;
+    width: 100%;
+    border: 0;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #fff;
+    border-color: #000;
+clear: both;
+    }
+
+li{
+    clear:both;
+}
+
+
+
+/* Key Questions & Key Concepts
+------------------------------------------------- */
+[data-type*="keyquestions"]:before {
+    content:"Key Questions";
+    color:#00549A; 
+    clear: both;
+    font-size: 20px;
+    font-weight:bold;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+}
+
+
+[data-type*="keyconcepts"]:before {
+    content:"Key Concepts";
+    color:#00549A; 
+    font-weight:bold;
+    clear: both;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    font-family: grb,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase
+}
+
+
+[data-type*="keyquestions"], [data-type*="keyconcepts"] {
+    background-color: #fce78e;
+    padding: 20px;
+    float:center;
+    margin-left: auto;
+    margin-right:auto;
+    clear:both;
+    max-width:100%;
+   
+}
+
+
+[data-type*="keyquestions"] > ul,[data-type*="keyconcepts"]  > ul {
+    width: 57%;
+}
+
+/* Huge Table Hacks
+ ------------------------------------------------- */
+/*too-large works for most big tables*/
+table.too-large > tr > td > figure > img{
+    padding: 0px;
+    max-width:100%
+}
+
+table.too-large > tr > td > figure > img.vertical{
+    max-width:180%;
+}
+
+table.too-large > tr > td{
+    vertical-align: top;
+    max-width:200px
+}
+
+table.too-large > tr > td > p > a{
+    font-size: 70%;
+    max-width:30%;
+}
+
+/*no-header: for tables without coloured header*/
+table.no-header> tr:first-child{
+    background:none;
+    font-weight: normal;
+}
+
+/*For the odd big table that refuses to play nicely with too-large*/
+table.anomalous > tr > td{
+    vertical-align: top;
+    max-width:20%;
+}
+table.anomalous > tr > td figure{
+    width: 50%;
+    margin-left: 5px;
+    margin-right:auto;
+}
+
+table.anomalous > tr > td > figure > img{
+    width: 160%;
+}
+
+
+/* Activity Styles
+-------------------------------------------------- */
+div.activity{
+    width:95%;
+}
+[data-type*="Activity"] {
+    float:left;
+    clear:both;
+    background: #C7DFCD;
+    margin-bottom:20px;
+    margin-top:20px;
+    padding:15px;
+  
+}
+
+[data-type*="Activity"] .figure {
+    clear: both;
+    margin: 0;
+    text-align: center;
+    max-width: 100%;
+    float: left
+}
+[data-type*="Activity"] > .title:before {
+	content: "Activity: ";
+    color: #009A4E;
+	text-transform: uppercase;
+    font-weight:bold;
+}
+
+
+[data-type*="Activity"] > .title {
+    max-width: 100%;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding-left:0px;
+    padding-top:0px;
+}
+
+
+[data-type="Activity"] tr:first-child{
+    background: #A3C8AB;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+div[data-type*="Activity"] > h1.title{
+    background: transparent;
+    color: black;
+}
+
+/* Revision Styles
+-------------------------------------------------- */
+[data-type*="Revision"] {
+    background: #EAC9BF;
+    padding: 10px;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    clear:both;
+}
+[data-type*="Revision"] > h1.title:before {
+	content: "Revision: ";
+    color:#B82937;
+    font-weight:bold;
+	text-transform: uppercase;
+    font-family: grb,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+[data-type*="Revision"] tr:first-child {
+    background: #DAA597;
+}
+
+div[data-type*="Revision"] > h1.title{
+    background: transparent;
+    color: black;
+    padding:0px;
+}
+
+/* Investigation Styles
+-------------------------------------------------- */
+[data-type*="Investigation"] {
+    background: #FBE4CA;
+    clear: both;
+    padding: 10px;
+    float: left;
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+[data-type*="Investigation"] > h1.title:before {
+	content: "Investigation: ";
+    color: #EC9123;
+    font-weight:bold;
+	text-transform: uppercase;
+    font-family: grb,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+[data-type*="Investigation"] tr:first-child {
+    background: #F8CCA0;
+}
+.Investigationkid {
+	height: 440px
+}
+
+div[data-type*="Investigation"] > h1.title{
+    background: transparent;
+    color: black;
+    padding:0px;
+}
+
+
+
+/* New Words Styles
+------------------------------------------------- */
+[data-type*="newwords"] > ul > li {
+    width:250px;
+}
+
+[data-type*="newwords"]:before {
+    content: "New words";
+    font-weight:bold;
+    text-transform: uppercase;
+}
+
+
+/* Did You Know Styles
+-------------------------------------------------- */
+[data-type*="didyouknow"]:before {
+    content: "Did you know";
+    font-weight:bold;
+    text-transform: uppercase;
+}
+
+
+/*Visit Styles
+--------------------------------------------------*/
+
+[data-type*="visit"]:before {
+    content: "Visit";
+    font-weight:bold;
+    text-transform: uppercase;
+}
+
+/* Take Note Styles
+------------------------------------------------- */
+[data-type*="takenote"] > ul > li {
+    width:250px;
+}
+
+[data-type*="takenote"]:before {
+    content: "Take note";
+    font-weight:bold;
+    text-transform: uppercase;
+}
+
+/*Overall Margin Note Styles 
+ --------------------------------------------------*/
+[data-type*="newwords"], [data-type*="didyouknow"], [data-type*="visit"], [data-type*="takenote"] {
+    border: 2px solid gray;
+    border-radius: 13px;
+    padding: 20px;
+    padding-right: 140px;
+    
+    max-width: 250px;
+    float:center;
+    clear:both;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/* Figure Styles
+-------------------------------------------------- */
+figure{
+    text-align: center;
+}
+
+figure img,
+.figure img {
+    text-align: center;
+	max-height: 350px;
+	/*width: auto*/
+}
+figure a.lightbox,
+.figure a.lightbox {
+	width: 300px;
+	float: left;
+	text-align: center
+}
+.nofigc {
+	width: 100%!important
+}
+figcaption.caption,
+.caption {
+    font-style: italic;
+    }
+
+
+/*Links Styles
+ -----------------------------------------------*/
+[data-class*="ExternalLink"] {
+padding: 5px 0;
+	word-wrap: break-word;
+}
+
+p > [data-class*="ExternalLink"]{
+    word-break:break-all;
+}
+
+/* Table Styles
+------------------------------------------------- */
+table, th, td{
+    border: 2px solid gray;
+    border-collapse: collapse;
+    vertical-align: top;
+    }
+
+table{
+    margin-bottom: 20px;
+    margin-top:20px;
+    width:100%;
+}
+tr > th, td{
+    padding: 5px;
+}
+
+table.white > tr > td{
+    background:white;
+    font-weight: normal;
+}
+
+/* Questions Styles
+------------------------------------------------- */
+div[data-type*="Questions"]:before {
+	content: "Questions";
+    font-weight:bold;
+	text-transform: uppercase;
+	font-family: grb,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
+	padding-top: 10px;
+
+}
+
+div[data-type*="Questions"] > h1.title{
+    background: transparent;
+    padding: none;
+}
+div[data-type*="Questions"] {
+    border: 10px solid #FBC1C1;
+    background: transparent;
+    float: left;
+    clear:both;
+    padding: 10px;
+    margin-top:20px;
+    margin-bottom:20px;
+    /*width:85%*/
+}
+
+/*Activity Questions Numbering 
+--------------------------------------------*/
+/*div.problemset {counter-reset: questionNr;
+}
+
+div.entry {counter-increment: questionNr;
+}
+
+div.problem > p:before{
+    content: counter(questionNr) ". ";
+}*/
+
+
+/*Heading numbering
+--------------------------------------------*/
+/*Spans to reset chapter numbers for 7 - 9*/
+
+
+span.ch-nr-1{counter-reset: headingNr 0;
+}
+
+span.ch-nr-2{counter-reset: headingNr 1;
+}
+
+span.ch-nr-3{counter-reset: headingNr 2;
+}
+
+span.ch-nr-4{counter-reset: headingNr 3;
+}
+
+span.ch-nr-5{counter-reset: headingNr 4;
+}
+
+span.ch-nr-6{counter-reset: headingNr 5;
+}
+/*body {counter-reset: headingNr;
+}*/
+
+div.section > h1.title {counter-increment: headingNr;
+}
+
+div.section > h1.title:before{
+    content: counter(headingNr) " ";
+}
+
+body > div.section {counter-reset: subheadingNr;
+}
+
+div.section  div.section > h2.title {counter-increment: subheadingNr;
+}
+
+div.section > h2.title:before{
+    content: counter(headingNr) "." counter(subheadingNr) " ";
+}
+
+
+/*Glossary Styles
+----------------------------------------------*/
+h1.glossary{
+    display: none;
+}
+ul.glossary{
+    background:#DCC6DB;
+    padding:30px;
+
+}
+
+ul.glossary:before {
+	content: "Glossary";
+    font-weight:bold;
+    color:#932784;
+	text-transform: uppercase;
+	font-family: grb,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 20px;
+	padding-top: 20px;
+    padding-bottom:15px;
+
+}
+
+ul.glossary > li:first-child{
+    padding-top:20px;
+}
