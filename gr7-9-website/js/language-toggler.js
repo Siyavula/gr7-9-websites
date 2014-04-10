@@ -4,16 +4,17 @@ var toggleAfrEng = function(pathname) {
     var newpathname = '';
 
     if (pathname.indexOf('-afr.html') == -1) {
-        // -afr is not in the pathname
+        // -afr is not in the path name
         newpathname = pathname.replace('.html', '-afr.html')
     }
     else {
+        // -afr is in the path name
         newpathname = pathname.replace('-afr.html', '.html')
     }
 
     return newpathname;
-
 }
+
 
 $( document ).ready(function() {
     $('div.language-toggle').on('click', function(){
