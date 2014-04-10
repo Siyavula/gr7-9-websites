@@ -25,9 +25,21 @@
     <body>
 
     {% include header.html %}
-
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
     {{ content }}
-
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
     {% include footer.html %}
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -35,6 +47,7 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
 <!--    <script src="js/filter-html.js"></script> -->
     </body>
 </html>
