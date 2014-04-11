@@ -20,7 +20,32 @@ var filelists = {'natural-sciences-gr7':
                     'gr7-eb-01.html',
                     'gr7-eb-02.html',
                     'gr7-eb-03.html',
-                    'gr7-eb-glossary.html']};
+                    'gr7-eb-glossary.html'],
+
+                'natuurwetenskappe-gr7': 
+                    ['inhoudsopgawe-afr.html',
+                    'gr7-ll-01-afr.html',
+                    'gr7-ll-02-afr.html',
+                    'gr7-ll-03-afr.html',
+                    'gr7-ll-04-afr.html',
+                    'gr7-ll-woordelys-afr.html',
+                    'gr7-mm-01-afr.html',
+                    'gr7-mm-02-afr.html',
+                    'gr7-mm-03-afr.html',
+                    'gr7-mm-04-afr.html', 
+                    'gr7-ec-01-afr.html',
+                    'gr7-ec-02-afr.html',
+                    'gr7-ec-03-afr.html',
+                    'gr7-ec-04-afr.html',
+                    'gr7-ec-05-afr.html',
+                    'gr7-ec-06-afr.html',
+                    'gr7-ec-woordelys-afr.html',
+                    'gr7-eb-01-afr.html',
+                    'gr7-eb-02-afr.html',
+                    'gr7-eb-03-afr.html',
+                    'gr7-eb-woordelys-afr.html']
+                    
+                    };
 
 
 $( document ).ready(function() {
@@ -41,46 +66,56 @@ $( document ).ready(function() {
 
         console.log(filename);
         // if it is not the table of contents.
-        if (filename.substring('tableofcontents') == -1){
-            chap = filename.split('-')[2].split('.')[0];
+        console.log("Chap ", filename.split('-'));
+        if (filename.indexOf('tableofcontents') === -1 && filename.indexOf('inhoudsopgawe-afr') === -1 ){
+            chap = filename.split('-')[2];
         }
         // if it is the table of contents
         else {
             grade = thispage[2];
         }
 
+        console.log("AFR DEBUG:", grade, strand, chap, filename.split('-'));
+        console.log(location.pathname);
+        
         // get the correct file list from the variable
-        if (location.pathname.substring('natural-sciences') !== -1){
+        if (location.pathname.indexOf('natural-sciences') !== -1){
             currentfilelist = filelists['natural-sciences-' + grade];
         }
-        else if (location.pathname.substring('mathematics') !== -1){
+        else if (location.pathname.indexOf('mathematics') !== -1){
             currentfilelist = filelists['mathematics-' + grade];
         }
-        else {
+        else if (location.pathname.indexOf('technology') !== -1){
             currentfilelist = filelists['technology-' + grade];
         }
-        
+        else if (location.pathname.indexOf('natuurwetenskappe') !== -1){
+            currentfilelist = filelists['natuurwetenskappe-' + grade];
+        }
+        else if (location.pathname.indexOf('wiskunde') !== -1){
+            currentfilelist = filelists['wiskunde-' + grade];
+        }
+        else if (location.pathname.indexOf('tegnologie') !== -1){
+            currentfilelist = filelists['tegnologie-' + grade];
+        }
+        console.log(currentfilelist); 
         // set the next and previous files' links
-        for (var i=0; i < currentfilelist.length; i++) {
+        for (var i=0; i < currentfilelist.length-1; i++) {
             // if the current file is not the first or last in a chapter
             if (filename == currentfilelist[i] && i !== 0 && i !== currentfilelist.length-1){
                 nextfile = currentfilelist[i+1];
                 prevfile = currentfilelist[i-1];
-                break;
             }
             // if the current file is the table of contents, set previous to inactive and only set next.
             else if (i == 0){
                 nextfile = currentfilelist[i+1];
                 prevfile = '#';
-                break;
             }
-            else {
+            else if (i == currentfilelist.length-1){
                 nextfile = '#';
                 prevfile = currentfilelist[i-1];
-                break;
             }
         }
-
+        console.log("Next:", nextfile, "Previous", prevfile);
         // set the link for the next file
         $('a.next').each(function(){
             $(this).prop('href', nextfile);                
