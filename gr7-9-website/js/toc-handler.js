@@ -1,10 +1,26 @@
-function UrlExists(url)
-{
-    var http = new XMLHttpRequest();
-    http.open('HEAD', url, false);
-    http.send();
-    return http.status!=404;
-}
+var filelists = {'natural-sciences-gr7':
+                    ['tableofcontents.html',
+                    'gr7-ll-01.html',
+                    'gr7-ll-02.html',
+                    'gr7-ll-03.html',
+                    'gr7-ll-04.html',
+                    'gr7-ll-glossary.html',
+                    'gr7-mm-01.html',
+                    'gr7-mm-02.html',
+                    'gr7-mm-03.html',
+                    'gr7-mm-04.html',
+                    'gr7-mm-glossary.html',
+                    'gr7-ec-01.html',
+                    'gr7-ec-02.html',
+                    'gr7-ec-03.html',
+                    'gr7-ec-04.html',
+                    'gr7-ec-05.html',
+                    'gr7-ec-06.html',
+                    'gr7-ec-glossary.html',
+                    'gr7-eb-01.html',
+                    'gr7-eb-02.html',
+                    'gr7-eb-03.html',
+                    'gr7-eb-glossary.html']};
 
 
 $( document ).ready(function() {
@@ -13,62 +29,63 @@ $( document ).ready(function() {
 
         var thispage = location.pathname.split('/');
         var filename = thispage[thispage.length-1];
-
+        var currentfilelist;
+        var nextfile;
+        var prevfile;
         // get grade, strand and chapter number
         var grade;
         var strand;
         var chap;
         grade = filename.split('-')[0];
         strand = filename.split('-')[1];
-        chap = filename.split('-')[2].split('.')[0];
-        console.log(grade, strand, chap);
 
-
-        var strandorder = new Array();
-        strandorder[0] = 'tableofcontents';
-        strandorder[1] = 'll';
-        strandorder[2] = 'mm';
-        strandorder[3] = 'ec';
-        strandorder[4] = 'eb';
-
-        // get the name of the next file in the correct order
-        var nextfile;
-
-        if (chap == 'glossary') {
-            for (var i=0; i<5; i++) {
-                if (strandorder[i] == strand && i < 4) {
-                    nextfile = grade + '-' + strandorder[i+1] + '-' + '01.html';
-                    break;
-                }
-                if (i == 4) {
-                    nextfile = "#";
-                }
-            }
+        console.log(filename);
+        // if it is not the table of contents.
+        if (filename.substring('tableofcontents') == -1){
+            chap = filename.split('-')[2].split('.')[0];
         }
-       else {
-            // check if the next file exists
-            nextchap = +chap + 1
-            nextfile = grade + '-' + strand + '-0' + nextchap + '.html';
-            if (UrlExists(location.pathname.replace(filename, nextfile))){
-                // the url exists
-            }
-            else {
-                // the next one must be the glossary
-                nextfile = grade + '-' + strand + '-glossary.html';
-            }
+        // if it is the table of contents
+        else {
+            grade = thispage[2];
+        }
+
+        // get the correct file list from the variable
+        if (location.pathname.substring('natural-sciences') !== -1){
+            currentfilelist = filelists['natural-sciences-' + grade];
+        }
+        else if (location.pathname.substring('mathematics') !== -1){
+            currentfilelist = filelists['mathematics-' + grade];
+        }
+        else {
+            currentfilelist = filelists['technology-' + grade];
         }
         
+        // set the next and previous files' links
+        for (var i=0; i < currentfilelist.length; i++) {
+            // if the current file is not the first or last in a chapter
+            if (filename == currentfilelist[i] && i !== 0 && i !== currentfilelist.length-1){
+                nextfile = currentfilelist[i+1];
+                prevfile = currentfilelist[i-1];
+                break;
+            }
+            // if the current file is the table of contents, set previous to inactive and only set next.
+            else if (i == 0){
+                nextfile = currentfilelist[i+1];
+                prevfile = '#';
+            }
+            else {
+                nextfile = '#';
+                prevfile = currentfilelist[i-1];
+            }
+        }
+
         // set the link for the next file
         $('a.next').each(function(){
             $(this).prop('href', nextfile);                
         });
-
-
-//
-//  Now lets look for the previous file in order
-//
-        var prevfile;
-        
+        $('a.previous').each(function(){
+            $(this).prop('href', prevfile);                
+        });
 
     }
 
