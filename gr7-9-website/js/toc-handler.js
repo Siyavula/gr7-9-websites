@@ -72,10 +72,12 @@ $( document ).ready(function() {
             else if (i == 0){
                 nextfile = currentfilelist[i+1];
                 prevfile = '#';
+                break;
             }
             else {
                 nextfile = '#';
                 prevfile = currentfilelist[i-1];
+                break;
             }
         }
 
