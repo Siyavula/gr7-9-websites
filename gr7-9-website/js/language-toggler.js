@@ -12,7 +12,9 @@ var toggleAfrEng = function(pathname) {
         for (var i=0; i < transTable.length; i++){
             var eng = transTable[i][0];
             var afr = transTable[i][1];
-            newpathname = newpathname.replace(eng, afr);
+            var find = eng;
+            var re = new RegExp(find, 'g');
+            newpathname = newpathname.replace(re, afr);
         }
     }
     else {
@@ -22,7 +24,9 @@ var toggleAfrEng = function(pathname) {
         for (var i=0; i < transTable.length; i++){
             var eng = transTable[i][0];
             var afr = transTable[i][1];
-            newpathname = newpathname.replace(afr, eng);
+            var find = afr;
+            var re = new RegExp(find, 'g');
+            newpathname = newpathname.replace(re, eng);
         }
     }
 
