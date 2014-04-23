@@ -75,13 +75,32 @@ fieldset[disabled] .btn-primary.active {
 
 
 
-@media (min-width: 768px) and (max-width: 979px){
-    h1{
+h1.page-title {
+    margin-top:-60px;
+}
+
+@media (min-width: 769px) and (max-width: 991px){
+    body{
         margin-top:60px;
     }
     div.subject{
         margin:0px;
     }
+
+    div.container > div.language-toggle {
+        
+        float:right;
+    }
+}
+
+@media (min-width: 992px){
+
+     div.container > div.language-toggle {
+        margin-top:10px;
+        margin-right:20%;
+        float:right;
+    }
+
 }
 
 /*Book Table of Contents Styles--------------------------*/
@@ -117,4 +136,22 @@ fieldset[disabled] .btn-primary.active {
 #toc p a.toc-highlight {
     background-color:#F8F8F8;
 }
+*
 */
+
+
+
+/* language toggle thing
+ */
+
+div.container > div.language-toggle {
+    float:right;
+}
+div.container > div.language-toggle > button > a {
+    color: black;
+}
+div.container > div.language-toggle > button.active > a {
+    color: white;
+}
+
+
