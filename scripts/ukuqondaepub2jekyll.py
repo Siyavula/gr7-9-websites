@@ -1,55 +1,14 @@
 import sys
 import os
+import copy
 
+import docopt
 from lxml import etree
 
 #
 # For every xhtml file in the current folder, transform it into the jekyll
 # format # i.e. everything in <body> must go into a jekyll template, that is in
 # the current folder
-
-
-def addBootstrapClasses(html):
-    ''' Add the necessary bootstrap elements to the given etree tree'''
-
-    # add bootstrap class to note divs
-    for note in html.findall('.//{http://www.w3.org/1999/xhtml}div[@class="note"]'):
-        if note.attrib['data-type'] in ['newwords', 'takenote', 'visit', 'didyouknow']:
-            note.attrib['class'] += ' col-md-6'
-        else:
-            note.attrib['class'] += ' col-md-10'
-
-    return html
-
-
-def writeTOC():
-    ''' create the toc from the epub version'''
-
-    tocfile = [f for f in os.listdir(os.curdir) if '.nav' in f and '.xhtml' in f][0]
-
-    # find the TOC, it has id="toc"
-    ID = None
-    for element in etree.XML(open(tocfile, 'r').read()).iter():
-        if 'id' in element.attrib:
-            if element.attrib['id'] == 'toc':
-                ID = element[0]
-                break
-    # replace xhtml links with html
-    print ID.nsmap
-    for a in element.findall('.//{%s}a' % ID.nsmap[None]):
-        a.attrib['href'] = a.attrib['href'].replace('xhtml', 'html')
-
-    # remove the first li since it contains the frontmatter entry
-    ID.remove(ID[0])
-    template = open(sys.argv[1], 'r').read()
-    template += '<div class="container">'
-    template += '<div id="contents" class="col-md-12 main-content">'
-    template += etree.tostring(ID, pretty_print=True)
-    template = template.replace('xmlns="http://www.w3.org/1999/xhtml"', '')
-    template += "</div></div>"
-
-    with open('tableofcontents.html', 'w') as f:
-        f.write(template)
 
 
 def split_chapters(body):
@@ -59,12 +18,23 @@ def split_chapters(body):
     '''
     chapters = []
 
+    # there are some divs in body. Replace them with their children
+    for child in body:
+        if 'h1' not in child.tag:
+            for subchild in child:
+                child.addprevious(subchild)
+            try:
+                assert(child.tail is None)
+            except AssertionError:
+                assert(child.tail.strip() == '')
+            assert(len(child) == 0)
+            body.remove(child)
 
     # clean up the title text a bit
     for heading in ['h1', 'h2', 'h3']:
-        for h1 in body.findall('.//{http://www.w3.org/1999/xhtml}{}'.format(heading)):
+        for h1 in body.findall('.//{{http://www.w3.org/1999/xhtml}}{}'.format(heading)):
             title_text = ' '.join([t.strip() for t in h1.itertext()]).strip()
-            title_text = ' '.join([t.strip() for t in title_text.split()])
+            title_text = ' '.join([t.strip() for t in title_text.split()]).strip()
             while title_text[0].isdigit():
                 title_text = title_text[1:].strip()
 
@@ -72,8 +42,17 @@ def split_chapters(body):
                 h1.remove(child)
                 h1.text = title_text
 
+
+    try:
+        assert(body[0].tag.endswith('h1'))
+    except AssertionError as aerr:
+        print("First tag in body is not h1")
+        print(aerr)
+        import ipdb; ipdb.set_trace()
+
     # split into chapters
     for h1 in body.findall('.//{http://www.w3.org/1999/xhtml}h1'):
+
         thischapter = []
         thischapter.append(h1)
 
@@ -84,37 +63,89 @@ def split_chapters(body):
             thischapter.append(h1sibling)
         chapters.append(thischapter)
 
+    # check that we're not missing any h1 that is nested somehow
+    assert(len(chapters) == etree.tostring(body).count('<h1'))
+
     return chapters
 
 
-if __name__ == "__main__":
-    if len(sys.argv) < 3:
-        print("Usage: %s template-name title" % sys.argv[0])
-        sys.exit(1)
 
-    xhtmlfiles = [f for f in os.listdir(os.curdir) if f.endswith('.xhtml')]
+
+def create_toc(file_list):
+    '''Take file list and turn it into a TOC'''
+
+    toc = []
+
+    for htmlfile in file_list:
+        with open(htmlfile) as hf:
+            html = hf.readlines()
+            html = html[4:]
+            html = '\n'.join([h for h in html])
+            html = etree.HTML(html)
+
+        for element in html.iter():
+            if element.tag in ['h1', 'h2']:
+                toc.append((htmlfile, copy.deepcopy(element)))
+
+    for t in toc:
+        print(t[1].attrib['id']); print(t[1].text.strip())
+
+
+    assert(len(toc) == len(set(toc)))
+    # TODO remember to add this:
+    #
+    # ---
+    # layout: content-page
+    # title: Natural Sciences Grade 7
+    # ---
+
+
+    return toc
+
+
+
+
+
+
+
+if __name__ == "__main__":
+
+    usage = "Usage: prog <template-name> <title> <files>..."
+    arguments = docopt.docopt(usage)
+
+    xhtmlfiles = arguments['<files>']
+    template_name = arguments['<template-name>']
+    title = arguments['<title>']
+
+    CHAPTER = 1
+
+    file_list = []
 
     for xhtml in xhtmlfiles:
-        prog, template_name, title = sys.argv
-        template = '''---\nlayout: {}\ntitle:{}\n---\n'''.format(template_name, title)
-        template += '<div class="container">\n'
-        template += '  <div id="contents" class="col-md-12 main-content">'
         html = etree.XML(open(xhtml, 'r').read())
 
         body = html.find('.//{http://www.w3.org/1999/xhtml}body')
         chapters = split_chapters(body)
 
         for number, chapter in enumerate(chapters):
-            with open('{:02d}-{}.html'.format(number+1, '-'.join(title.lower().split())), 'w') as outputfile:
+            template = '''---\nlayout: {}\ntitle:{}\n---\n'''.format(template_name, title)
+            template += '<div class="container">\n'
+            template += '  <div id="contents" class="col-md-12 main-content">'
+            outputfilename = '{:02d}-{}.html'.format(CHAPTER,
+                                                     '-'.join(title.lower().split()))
+            file_list.append(outputfilename)
+            CHAPTER += 1
+            with open(outputfilename, 'w') as outputfile:
                 for content in chapter:
-                    outputfile.write(etree.tostring(content, encoding='utf-8'))
+                    template += etree.tostring(content, encoding='utf-8')
 
+                template += "\n  </div>\n</div>"
+                outputfile.write(template)
 
+    create_toc(file_list)
 #       for bodychild in body:
 #           template += etree.tostring(bodychild, method='xml')
 #       template = template.replace('xmlns="http://www.w3.org/1999/xhtml"', '')
-        template += "\n  </div>\n</div>"
-        print(template)
 #       with open(xhtml.replace('.xhtml', '-test.html'), 'w') as output:
 #           output.write(template.encode('utf-8'))
 
