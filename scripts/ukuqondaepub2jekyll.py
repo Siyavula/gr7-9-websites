@@ -1,5 +1,3 @@
-import sys
-import os
 import copy
 
 import docopt
@@ -42,13 +40,13 @@ def split_chapters(body):
                 h1.remove(child)
                 h1.text = title_text
 
-
     try:
         assert(body[0].tag.endswith('h1'))
     except AssertionError as aerr:
         print("First tag in body is not h1")
         print(aerr)
-        import ipdb; ipdb.set_trace()
+        import ipdb
+        ipdb.set_trace()
 
     # split into chapters
     for h1 in body.findall('.//{http://www.w3.org/1999/xhtml}h1'):
@@ -69,6 +67,64 @@ def split_chapters(body):
     return chapters
 
 
+class TOCBuilder(object):
+    ''' Class for TOC'''
+
+    def __init__(self):
+        self.top_level_entries = []
+        self.previous_element = None
+
+    def as_etree_element(self):
+        ''' Returns Toc as etree element'''
+        ol = etree.Element('ol')
+
+        for entry in self.top_level_entries:
+            ol.append(entry.asEtreeElement())
+
+        return ol
+
+    def add_entry(self, tocelement):
+        ''' Add a new tocelement'''
+
+        # if there are no entries
+        if (not self.top_level_entries):
+            self.top_level_entries.append(tocelement)
+            self.previous_element = tocelement
+            return
+
+        # if there are some entries already and it is also an h1
+        if tocelement.level == 1:
+            self.top_level_entries.append(tocelement)
+            self.previous_element = tocelement
+            return
+
+        else:
+
+
+
+
+
+class TocElement(object):
+    '''Class to represent an element in the TOC'''
+    def __init__(self, filename, h_element):
+        self.filename = filename
+        self.element = h_element
+        self.children = []
+        self.level = int(self.element.tag[1])
+
+    def as_etree_element(self):
+        ''' Return object as etree element'''
+        li = etree.Element('li')
+        a = etree.Element('a')
+        a.attrib['href'] = '{}#{}'.format(self.filename, self.element.attrib['id'])
+        a.text = self.element.text
+        li.append(a)
+        ol = etree.Element('ol')
+        for child in self.children:
+            ol.append(child.asEtreeElement())
+        li.append(ol)
+
+        return li
 
 
 def create_toc(file_list):
@@ -87,9 +143,7 @@ def create_toc(file_list):
             if element.tag in ['h1', 'h2']:
                 toc.append((htmlfile, copy.deepcopy(element)))
 
-    for t in toc:
-        print(t[1].attrib['id']); print(t[1].text.strip())
-
+    tocelements = [TocElement(t[0], t[1]) for t in toc]
 
     assert(len(toc) == len(set(toc)))
     # TODO remember to add this:
@@ -101,11 +155,6 @@ def create_toc(file_list):
 
 
     return toc
-
-
-
-
-
 
 
 if __name__ == "__main__":
