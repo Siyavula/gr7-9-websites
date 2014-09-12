@@ -33,12 +33,24 @@ def split_chapters(body):
         for h1 in body.findall('.//{{http://www.w3.org/1999/xhtml}}{}'.format(heading)):
             title_text = ' '.join([t.strip() for t in h1.itertext()]).strip()
             title_text = ' '.join([t.strip() for t in title_text.split()]).strip()
-            while title_text[0].isdigit():
-                title_text = title_text[1:].strip()
+
+            # strip numbers out of titles
+            print
+            print(title_text)
+            words = title_text.split()
+            cleaned = []
+            for word in words:
+                if any([char.isdigit() for char in word]):
+                    continue
+
+                cleaned.append(word.strip())
+
+            title_text = ' '.join(cleaned)
+            print(title_text)
 
             for child in h1:
                 h1.remove(child)
-                h1.text = title_text
+            h1.text = title_text
 
     try:
         assert(body[0].tag.endswith('h1'))
@@ -50,7 +62,6 @@ def split_chapters(body):
 
     # split into chapters
     for h1 in body.findall('.//{http://www.w3.org/1999/xhtml}h1'):
-
         thischapter = []
         thischapter.append(h1)
 
@@ -99,8 +110,6 @@ class TOCBuilder(object):
 
             return
 
-
-
         # if we add a lower level to a higher level
         if tocelement.level > self.previous_element.level:
             assert(tocelement.level - self.previous_element.level == 1)
@@ -133,11 +142,6 @@ class TOCBuilder(object):
             return
 
 
-
-
-
-
-
 class TocElement(object):
     '''Class to represent an element in the TOC'''
     def __init__(self, filename, h_element):
@@ -157,7 +161,8 @@ class TocElement(object):
         ol = etree.Element('ol')
         for child in self.children:
             ol.append(child.as_etree_element())
-        li.append(ol)
+        if len(ol) > 0:
+            li.append(ol)
 
         return li
 
@@ -186,16 +191,12 @@ def create_toc(file_list):
     for tocelement in tocelements:
         tocbuilder.add_entry(tocelement)
 
-    with open('test.html', 'w') as test:
-        test.write(etree.tostring(tocbuilder.as_etree_element(), pretty_print=True))
-    # TODO remember to add this:
-    #
-    # ---
-    # layout: content-page
-    # title: Natural Sciences Grade 7
-    # ---
 
-    return toc
+    toccontent = '<div class="container"><div id="contents" class="col-md-12 main-content">\n'
+    toccontent += etree.tostring(tocbuilder.as_etree_element(), pretty_print=True)
+    toccontent += '\n</div></div>'
+
+    return toccontent
 
 
 if __name__ == "__main__":
@@ -218,7 +219,7 @@ if __name__ == "__main__":
         chapters = split_chapters(body)
 
         for number, chapter in enumerate(chapters):
-            template = '''---\nlayout: {}\ntitle:{}\n---\n'''.format(template_name, title)
+            template = '''---\nlayout: {}\ntitle: {}\n---\n'''.format(template_name, title)
             template += '<div class="container">\n'
             template += '  <div id="contents" class="col-md-12 main-content">'
             outputfilename = '{:02d}-{}.html'.format(CHAPTER,
@@ -232,11 +233,7 @@ if __name__ == "__main__":
                 template += "\n  </div>\n</div>"
                 outputfile.write(template)
 
-    create_toc(file_list)
-#       for bodychild in body:
-#           template += etree.tostring(bodychild, method='xml')
-#       template = template.replace('xmlns="http://www.w3.org/1999/xhtml"', '')
-#       with open(xhtml.replace('.xhtml', '-test.html'), 'w') as output:
-#           output.write(template.encode('utf-8'))
-
-#   writeTOC()
+    toccontent = create_toc(file_list)
+    with open('tableofcontents.html', 'w') as tableofcontents:
+        tableofcontents.write('---\nlayout: {}\ntitle: {}\n---\n'.format(template_name, title))
+        tableofcontents.write(toccontent)
