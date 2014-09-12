@@ -71,15 +71,15 @@ class TOCBuilder(object):
     ''' Class for TOC'''
 
     def __init__(self):
-        self.top_level_entries = []
+        self.entries = []
         self.previous_element = None
 
     def as_etree_element(self):
         ''' Returns Toc as etree element'''
         ol = etree.Element('ol')
 
-        for entry in self.top_level_entries:
-            ol.append(entry.asEtreeElement())
+        for entry in self.entries:
+            ol.append(entry.as_etree_element())
 
         return ol
 
@@ -87,18 +87,52 @@ class TOCBuilder(object):
         ''' Add a new tocelement'''
 
         # if there are no entries
-        if (not self.top_level_entries):
-            self.top_level_entries.append(tocelement)
+        if (not self.entries):
+            self.entries.append(tocelement)
             self.previous_element = tocelement
+
             return
 
-        # if there are some entries already and it is also an h1
         if tocelement.level == 1:
-            self.top_level_entries.append(tocelement)
+            self.entries.append(tocelement)
             self.previous_element = tocelement
+
             return
 
+
+
+        # if we add a lower level to a higher level
+        if tocelement.level > self.previous_element.level:
+            assert(tocelement.level - self.previous_element.level == 1)
+            self.previous_element.children.append(tocelement)
+            tocelement.parent = self.previous_element
+            self.previous_element = tocelement
+
+            return
+
+        # we add a level the same as the previous one
+        if tocelement.level == self.previous_element.level:
+            self.previous_element.parent.children.append(tocelement)
+            tocelement.parent = self.previous_element.parent
+            self.previous_element = tocelement
+
+            return
+
+        # we add a higher than the previous one, could go from h3 to h1 or h3
+        # to h2 etc.
         else:
+            leveldiff = tocelement.level - self.previous_element.level
+            parent = self.previous_element.parent
+            for i in range(leveldiff+1):
+                parent = parent.parent
+
+            parent.children.append(tocelement)
+            tocelement.parent = parent
+            self.previous_element = tocelement
+
+            return
+
+
 
 
 
@@ -110,6 +144,7 @@ class TocElement(object):
         self.filename = filename
         self.element = h_element
         self.children = []
+        self.parent = None
         self.level = int(self.element.tag[1])
 
     def as_etree_element(self):
@@ -121,7 +156,7 @@ class TocElement(object):
         li.append(a)
         ol = etree.Element('ol')
         for child in self.children:
-            ol.append(child.asEtreeElement())
+            ol.append(child.as_etree_element())
         li.append(ol)
 
         return li
@@ -146,13 +181,19 @@ def create_toc(file_list):
     tocelements = [TocElement(t[0], t[1]) for t in toc]
 
     assert(len(toc) == len(set(toc)))
+
+    tocbuilder = TOCBuilder()
+    for tocelement in tocelements:
+        tocbuilder.add_entry(tocelement)
+
+    with open('test.html', 'w') as test:
+        test.write(etree.tostring(tocbuilder.as_etree_element(), pretty_print=True))
     # TODO remember to add this:
     #
     # ---
     # layout: content-page
     # title: Natural Sciences Grade 7
     # ---
-
 
     return toc
 
