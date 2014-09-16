@@ -215,8 +215,39 @@ var filelists = {'natural-sciences-gr7':
                     'gr7-wiskunde-29-afr.html',
                     'gr7-wiskunde-30-afr.html',
                     'gr7-wiskunde-31-afr.html',
-                    'gr7-wiskunde-32-afr.html']
+                    'gr7-wiskunde-32-afr.html'],
                         
+                'mathematics-gr8':
+                    ['tableofcontents.html',
+                    'gr8-mathematics-01.html',
+                    'gr8-mathematics-02.html',
+                    'gr8-mathematics-03.html',
+                    'gr8-mathematics-04.html',
+                    'gr8-mathematics-05.html',
+                    'gr8-mathematics-06.html',
+                    'gr8-mathematics-07.html',
+                    'gr8-mathematics-08.html',
+                    'gr8-mathematics-09.html',
+                    'gr8-mathematics-10.html',
+                    'gr8-mathematics-11.html',
+                    'gr8-mathematics-12.html',
+                    'gr8-mathematics-13.html',
+                    'gr8-mathematics-14.html',
+                    'gr8-mathematics-15.html',
+                    'gr8-mathematics-16.html',
+                    'gr8-mathematics-17.html',
+                    'gr8-mathematics-18.html',
+                    'gr8-mathematics-19.html',
+                    'gr8-mathematics-20.html',
+                    'gr8-mathematics-21.html',
+                    'gr8-mathematics-22.html',
+                    'gr8-mathematics-23.html',
+                    'gr8-mathematics-24.html',
+                    'gr8-mathematics-25.html',
+                    'gr8-mathematics-26.html',
+                    'gr8-mathematics-27.html',
+                    'gr8-mathematics-28.html']
+
 };
 
 
