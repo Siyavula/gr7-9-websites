@@ -4,9 +4,9 @@ import os
 from lxml import etree
 
 #
-# For every xhtml file in the current folder, transform it into the jekyll format
-# i.e. everything in <body> must go into a jekyll template, that is in the current folder
-
+# For every xhtml file in the current folder, transform it into the jekyll
+# format # i.e. everything in <body> must go into a jekyll template, that is in
+# the current folder
 
 
 def addBootstrapClasses(html):
@@ -64,15 +64,21 @@ if __name__ == "__main__":
 
     for xhtml in xhtmlfiles:
         template = open(sys.argv[1], 'r').read()
-        strands = {'eb':'earthandbeyond', 'ec':'energyandchange', 'll':'lifeandliving', 'mm':'matterandmaterials'}
+        strands = {'eb':'earthandbeyond', 'ec':'energyandchange',
+                   'll':'lifeandliving', 'mm':'matterandmaterials'}
+
+        strand = None
         for key in strands.keys():
             if key in xhtml:
                 strand = strands[key]
 
+        if not strand:
+            strand = ''
+
         template += '<div class="container %s">' % strand
         template += '<div id="contents" class="col-md-12 main-content">'
         html = etree.XML(open(xhtml, 'r').read())
-        html = addBootstrapClasses(html)
+        # html = addBootstrapClasses(html)
 
         body = html.find('.//{http://www.w3.org/1999/xhtml}body')
 
@@ -83,4 +89,4 @@ if __name__ == "__main__":
         with open(xhtml.replace('.xhtml', '-test.html') , 'w') as output:
             output.write(template)
 
-    writeTOC() 
+    writeTOC()

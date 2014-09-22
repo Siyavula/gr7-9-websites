@@ -16,6 +16,11 @@ def split_chapters(body):
     '''
     chapters = []
 
+    # strip comments
+    for el in body.iter():
+        if not isinstance(el.tag, basestring):
+            el.getparent().remove(el)
+
     # there are some divs in body. Replace them with their children
     for child in body:
         if 'h1' not in child.tag:
@@ -38,14 +43,14 @@ def split_chapters(body):
             print
             print(title_text)
             words = title_text.split()
-            cleaned = []
-            for word in words:
-                if any([char.isdigit() for char in word]):
-                    continue
+            if any([char.isdigit() for char in words[0]]):
+                words = words[1:]
 
-                cleaned.append(word.strip())
+            cleaned = [word.strip() for word in words]
 
-            title_text = ' '.join(cleaned)
+
+            title_text = ' '.join(cleaned).lower()
+            title_text = title_text[0].upper() + title_text[1:]
             print(title_text)
 
             for child in h1:
@@ -222,8 +227,8 @@ if __name__ == "__main__":
             template = '''---\nlayout: {}\ntitle: {}\n---\n'''.format(template_name, title)
             template += '<div class="container">\n'
             template += '  <div id="contents" class="col-md-12 main-content">'
-            outputfilename = '{:02d}-{}.html'.format(CHAPTER,
-                                                     '-'.join(title.lower().split()))
+            outputfilename = '{}-{:02d}.html'.format('-'.join(title.lower().split()),
+                                                     CHAPTER)
             file_list.append(outputfilename)
             CHAPTER += 1
             with open(outputfilename, 'w') as outputfile:
