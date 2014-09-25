@@ -2,7 +2,7 @@ var toggleAfrEng = function(pathname) {
     // check if pathname contains -afr.html or not.
     // If it does, return the pathname without -afr else add it and return
     var newpathname = '';
-    var transTable = [['natural-sciences', 'natuurwetenskappe'], ['mathematics','wiskunde'], ['technology', 'tegnologie'], ['tableofcontents','inhoudsopgawe']]
+    var transTable = [['natural-sciences', 'natuurwetenskappe'], ['mathematics','wiskunde'], ['technology', 'tegnologie'], ['tableofcontents','inhoudsopgawe'], ['downloads', 'aflaaibares'], ['about' ,'oorons']]
 
     if (pathname.indexOf('-afr.html') == -1) {
         // -afr is not in the path name
