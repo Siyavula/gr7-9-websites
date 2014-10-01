@@ -1,0 +1,1153 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr8 Wiskunde</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Wissel navigasie</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index-afr.html">Gr 7-9 Werkboeke</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/index-afr.html">Tuisblad</a></li>
+                          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wiskunde<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/wiskunde/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/wiskunde/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/wiskunde/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natuurwetenskappe<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/natuurwetenskappe/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/natuurwetenskappe/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/natuurwetenskappe/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tegnologie<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/tegnologie/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/tegnologie/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/tegnologie/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+
+            <li><a href="/aflaaibares-afr.html">Aflaaibares</a></li>
+            <li><a href="/oorons-afr.html">Oor ons</a></li>
+            <li><a href="/oorons-afr.html#contact">Kontak</a></li>
+           
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container">
+        <div class="language-toggle">
+            <button type="button" class="btn btn-default ">English</button>
+            <button type="button" class="btn btn-primary active">Afrikaans</button>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-17">Oppervlakte en omtrek van</h1>
+  
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">In graad 7 het jy geleer
+    om formules te gebruik om die omtrek (d.w.s. die afstand rondom
+    ‘n figuur of voorwerp) van vierkante en reghoeke te bereken. Jy
+    het ook formules gebruik om die oppervlakte
+    (d.w.s. die grootte van ‘n plat vlak) van vierkante, reghoeke
+    en driehoeke te bereken. In hierdie hoofstuk gaan
+    jy daardie formules wat jy geleer het, hersien. Jy gaan ook
+    formules ondersoek en gebruik om die oppervlakte en omtrek van
+    sirkels te bereken. Hierdie hoofstuk behandel ook die
+    herleiding tussen lengte- en oppervlakte-eenhede. Laasgenoemde
+    sluit in vierkante millimeter (mm<sup>2</sup>), vierkante sentimeter
+    (cm<sup>2</sup>), vierkante meter (m<sup>2</sup>) en vierkante kilometer (km<sup>2</sup>).</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-18">Omtrek van vierkante en reghoeke</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die <b>omtrek</b> van ‘n vlak figuur
+    (2D-figuur) is die afstand rondom die figuur. Ons meet dit in
+    eenhede soos millimeter (mm), sentimeter (cm), meter (m) en
+    kilometer  (km).</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Waar die formules vir omtrek vandaan kom</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Die afmetings
+    van een blokkie in die rooster hier onder is 1 cm \times 1 cm.
+    Bereken die omtrek van elke figuur deur die lengtes en breedtes
+    bymekaar te tel.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-241" src="Maths_English_LB_gr8_term3_1-web-resources/image/211483.png" alt="211483.png"/></span> </p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-35" class="No-Table-Style"><tbody><tr class="Row-Column-244"><td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Figuur</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>A</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>B</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>C</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>D</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>E</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>F</b></p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-left">Lengte</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-left">Breedte</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-left">Omtrek</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Verduidelik aan
+    ‘n maat hoekom die volgende formules vir omtrek reg
+    is:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">Omtrek van ‘n
+    vierkant = 
+    \(4s\) of \((4 \times
+    \text{lengte van ‘n sy})\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">Omtrek van ‘n
+    reghoek
+    \(= 2(l + b)\) or \(2l + 2b \text{ (l is die lengte
+    enn b die breedte is)}\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Gebruik die formules in
+    vraag 2 om die omtrek van figure A tot F te bereken.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Bereken omtrek met behulp van formules</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">Gebruik formules om
+    die omtrek van die volgende figure te bereken:</p>
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1.<img class="frame-245" src="Maths_English_LB_gr8_term3_1-web-resources/image/211465.png" alt="211465.png"/></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. <span><img class="frame-246" src="Maths_English_LB_gr8_term3_1-web-resources/image/211456.png" alt="211456.png"/></span> </p>
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3. <span><img class="frame-247" src="Maths_English_LB_gr8_term3_1-web-resources/image/211254.png" alt="211254.png"/></span>
+   </p> <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml">4. <img class="frame-248" src="Maths_English_LB_gr8_term3_1-web-resources/image/211245.png" alt="211245.png"/></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">5. <img class="frame-249" src="Maths_English_LB_gr8_term3_1-web-resources/image/211043.png" alt="211043.png"/></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">6. <img class="frame-250" src="Maths_English_LB_gr8_term3_1-web-resources/image/211035.png" alt="211035.png"/></p>
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-19">Oppervlakte van veelhoeke</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><b>Oppervlakte</b> of area (<i>A</i>), dit wil
+    sê die grootte van die plat vlak van ‘n figuur, word
+    in vierkante eenhede soos  mm<sup>2</sup>, cm<sup>2</sup>, m<sup>2</sup> en km<sup>2</sup> gemeet</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Oppervlakte van vierkante en reghoeke</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Hoeveel
+    vierkantige blokkies is nodig om die oppervlakte van die figure
+    hier onder toe te pak? Skryf die antwoorde onder of langs die
+    figure.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="medium" src="Maths_English_LB_gr8_term3_1-web-resources/image/210832.png" alt="210832.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Elke vierkant in
+    die rooster hier bo se afmetings is \(1 \text{cm} \times 1 \text{cm}\) (of 1 cm<sup>2</sup>). Skryf die oppervlakte van elke figuur in vierkante sentimeter (cm<sup>2</sup>) neer.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Formules vir die berekening van
+    oppervlakte word hier onder gegee:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+    <p>\(\text{Oppervlakte van ‘n
+      vierkant} = s^2\) </p>
+      <p class="Body-content-no-indent">\(\text{Oppervlakte van ‘n
+      reghoek} = l \times b\)</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Gebruik die formules om
+    die oppervlakte van figure C, E en F in vraag 1 uit te
+    werk.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation para-style-override-14">Los nog omtrek- en oppervlakte-probleme op</h3>
+
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Die
+            omtrek van ‘n vierkant is 8 cm. Wat is die
+            lengte van elke sy?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Die
+            oppervlakte van ‘n reghoek is
+            40 cm<sup>2</sup> en en die lengte is
+            8 cm. Wat is die breedte?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Die
+            omtrek van ‘n vierkant is 32 cm. Wat is sy
+            lengte en oppervlakte?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+           
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Die
+            oppervlakte van ‘n reghoek is 60 cm<sup>2</sup> en die lengte is 12 cm. Wat is die breedte en die
+            omtrek?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+          
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. ‘n
+            Reghoekige erf het ‘n oppervlakte van 6 000 m<sup>2</sup>. Die erf is 20
+            m breed. Wat is die erf se lengte en omtrek.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+            
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">6. 'n
+            Vierkant het ‘n oppervlakte van 10 000 m<sup>2</sup>. Wat is die
+            omtrek?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+<h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Oppervlakte van driehoeke</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-7">Jy het
+    verlede jaar reeds die oppervlakte van driehoeke met hierdie
+    formule bereken:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">\(\text{Oppervlakte van
+      driehoek} =\frac{1}{2}(\text{basis} \times \text{loodregte hoogte}) =\frac{1}{2}(b \times h)\)</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Enige van die drie sye kan as
+    die <b>basis</b> beskou word. Die kortste afstand tussen die
+    hoekpunt teenoor die gekose basis word die <b>hoogte</b> van die driehoek
+    met betrekking tot die gekose basis genoem. As ‘n
+    driehoek stomphoekig is, is die lyn wat die hoogte
+    wys buite die driehoek. In \(\triangle JKL\) hier regs, is JM die loodregte hoogte op die basis KL.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-256" src="Maths_English_LB_gr8_term3_1-web-resources/image/210762.png" alt="210762.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Om die oppervlakte van ‘n driehoek met
+    bostaande formule te bereken, moet die hoogte met betrekking
+    tot die gekose basis gebruik word.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Bereken die oppervlakte van driehoeke</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Skryf die naam van elke basis met sy ooreenstemmende hoogte in \( \triangle ABC\) en \(\triangle DEF\) in
+die tabel:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-257" src="Maths_English_LB_gr8_term3_1-web-resources/image/210752.png" alt="210752.png"/></span></p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-39" class="No-Table-Style"><tbody><tr class="Row-Column-92">
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">Basis</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-92">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">Hoogte</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Bereken die oppervlakte van die volgende driehoeke:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(a)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-259" src="Maths_English_LB_gr8_term3_1-web-resources/image/210734.png" alt="210734.png"/></div>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(b)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-260" src="Maths_English_LB_gr8_term3_1-web-resources/image/210726.png" alt="210726.png"/></div>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(c)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-261" src="Maths_English_LB_gr8_term3_1-web-resources/image/210717.png" alt="210717.png"/></div>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Oppervlakte van saamgestelde figure</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-7">‘n 
+ <b>Saamgestelde figuur 
+</b> word gevorm deur ander figure. Ons kan so ‘n figuur dikwels
+weer opbreek in reghoeke, vierkante en driehoeke sodat ons sy oppervlakte kan bereken.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Gebruik ‘n liniaal en ‘n potlood om elkeen van die volgende figure in reghoeke,
+vierkante en/of driehoeke te verdeel. Die eerste figuur is reeds vir jou gedoen.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Werk die lengte van die sye wat jy gaan gebruik uit en bereken dan die oppervlakte
+van die figure. Waar nodig, rond jou antwoorde tot twee desimale plekke af.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-262" src="Maths_English_LB_gr8_term3_1-web-resources/image/210495.png" alt="210495.png"/></div>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-263" src="Maths_English_LB_gr8_term3_1-web-resources/image/210485.png" alt="210485.png"/></div>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) <span><img class="frame-264" src="Maths_English_LB_gr8_term3_1-web-resources/image/210235.png" alt="210235.png"/></span> </p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml"> (d) <span><img class="frame-265" src="Maths_English_LB_gr8_term3_1-web-resources/image/210224.png" alt="210224.png"/></span> </p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>   
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-20">Omtrek van sirkels</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Dele van ’n sirkel</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In graad 7 het jy van die verskillende dele van ‘n sirkel geleer, insluitende die volgende:
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Die <b> middelpunt
+</b> van ‘n sirkel is die punt in die middel
+van die sirkel.
+</p>
+      
+      <p>Die <b>omtrek
+</b> (\(C\)) is die afstand rondom die sirkel.
+Dit is die lengte van die geboë lyn wat die sirkel vorm.
+</p>
+
+<p>Die <b>straal of radius
+</b> (\(r\)) is die lynsegment wat van
+die middelpunt van ‘n sirkel na enige punt op die sirkel
+getrek kan word.
+</p>
+<p>Die <b>middellyn</b> (\(d\)) is die lynsegment wat deur die
+middelpunt van die sirkel loop en enige twee punte op
+die sirkel verbind.
+</p>
+<p>Die lengte van die radius is altyd die helfte van die
+lengte van die middellyn 
+: \(r = \frac{1}{2}d\)</p>
+<p>Die lengte van die middellyn is altyd dubbel die
+lengte van die radius:
+ \(d = 2r\)</p>
+<img class="frame-268" src="Maths_English_LB_gr8_term3_1-web-resources/image/AFR-209764.png" alt="209764.png"/>
+      
+    </div>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Gebruik ‘n liniaal om die radiuslengtes van die sirkels hier onder te meet. Skryf dan
+die lengtes van beide die radius en die middellyn van elke sirkel in die tabel neer.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-269" src="Maths_English_LB_gr8_term3_1-web-resources/image/209754.png" alt="209754.png"/></span></p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-41" class="No-Table-Style"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Sirkel
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>A</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>B</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>C</b></p>
+          </td>
+        </tr><tr class="Row-Column-176"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Radius (mm)</b></p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Middellyn
+ (mm)</b></p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Skryf die middellyne van sirkels met die volgende radiusse neer:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) \(r\) = 8 cm </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) \(r\) = 1 m  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(c) \(r\) = 4,5 cm  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(d) \(r\)  = 6,2 m</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Verband tussen die omtrek en die middellyn van ’n sirkel</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">As jy nie weet waar die middelpunt van ‘n sirkel is nie, kan jy
+dit bepaal deur die middellyn as volg te meet:
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-272" src="Maths_English_LB_gr8_term3_1-web-resources/image/209734.png" alt="209734.png"/></div>
+    
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet"><span class="char-style-override-7"/> Merk ‘n punt op die sirkel vanwaar jy gaan meet.
+</li>
+
+      <li class="Body-bullet"><span class="char-style-override-7"/> Hou die ‘0’ van jou liniaal op die merkplek en beweeg die ander kant van die liniaal totdat jy die langste
+      afstand kry. Dit is die middellyn.
+</li>
+    </ul><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Jy kan rofweg die afmeting van die omtrek van die sirkel so kry:
+</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet"><span class="char-style-override-7"/> Gebruik ‘n toutjie en lê dit so na as moontlik om die rand van die sirkel.
+</li>
+
+      <li class="Body-bullet"><span class="char-style-override-7"/> Merk die toutjie as jy weer by die beginpunt uitkom.
+</li>
+
+      <li class="Body-bullet"><span class="char-style-override-7"/> Meet nou die lengte van die gemerkte toutjie op ‘n liniaal.
+</li>
+    </ul><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-7">
+    <span><img class="frame-273" src="Maths_English_LB_gr8_term3_1-web-resources/image/AFR-209725.png" alt="209725.png"/></span></p>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml">Hier onder is sirkels van verskillende groottes. Hulle omtrekke, afgerond tot twee
+desimale plekke, is in die tabel in vraag 2 op die volgende bladsy gegee.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Meet die middellyn van elke sirkel en skryf dit in die tabel.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="medium" src="Maths_English_LB_gr8_term3_1-web-resources/image/209717.png" alt="209717.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Gebruik ‘n sakrekenaar om die antwoorde in die laaste kolom uit te werk. (Rond af tot
+twee desimale plekke.)
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-42" class="No-Table-Style"><tbody><tr class="Row-Column-278"><td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Sirkel
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Middellyn
+</b></p>
+
+            <p class="Table-header-centred"><b>(cm)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Omtrek
+</b></p>
+
+            <p class="Table-header-centred"><b>(cm)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Omtrek \(\div\) middellyn</b></p>
+          </td>
+        </tr><tr class="Row-Column-176"><td class="cell-style-override-3">
+            <p class="Table-text-centred">A</p>
+          </td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">15,71 cm</p>
+          </td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"><td class="cell-style-override-3">
+            <p class="Table-text-centred">B</p>
+          </td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9,42 cm</p>
+          </td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"><td class="cell-style-override-3">
+            <p class="Table-text-centred">C</p>
+          </td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">7,85 cm</p>
+          </td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"><td class="cell-style-override-3">
+            <p class="Table-text-centred">D</p>
+          </td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12,57 cm</p>
+          </td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"><td class="cell-style-override-3">
+            <p class="Table-text-centred">E</p>
+          </td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">21,99 cm</p>
+          </td>
+
+          <td>
+</td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Wat merk jy op?
+?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Pi (\(\pi\)) en die formule vir die omtrek van ’n sirkel</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In die vorige aktiwiteit het jy agtergekom dat die omtrek van ‘n sirkel gedeel deur die
+middellyn altyd dieselfde antwoord gee. Hierdie antwoord se konstante waarde word
+ <b>pi</b> genoem.
+ <i>Pi</i> is ‘n Griekse letter en die simbool daarvoor is
+ <span>π</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Jy het ook met waardes gewerk wat jy tot twee desimale plekke (honderdstes) afgerond
+het. In werklikheid is   <span>π</span> ‘n irrasionale getal. Dit beteken dat die syfers na die desimale
+komma oneindig aangaan, sonder herhaling. Op ‘n sakrekenaar sal jy vind dat die
+waarde vir  π aangedui word as 3,141592654 (afgerond tot 9 desimale plekke).
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">As ons <span>π</span> in ons berekeninge gebruik, rond ons dit
+gewoonlik af as \(\pi \approx \frac{22}{7}\) of 3,14.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In die vorige aktiwiteit het jy gesien dat, vir enige sirkel,
+ \(\frac{C}{d} = \pi\) (die omtrek gedeel deur
+d
+die middellyn is gelyk aan die konstante, 
+, π). Daarom, as ons ‘n sirkel se middellyn met
+    <span>π</span>, vermenigvuldig, behoort ons die sirkel se omtrek te kry:
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">\(\text{Omtrek van ‘n sirkel
+      (C)} = \pi d \\ =\pi (2r) \\ = 2 \pi r \)</p>
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Gebruik die formule vir die omtrek van ’n sirkel</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Gebruik
+    π = 3,14 in die volgende berekeninge en rond die antwoorde af tot twee desimale
+plekke waar nodig.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Bereken die omtrek van ‘n sirkel met:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) ‘n radius van 2 cm </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) ‘n radius
+    van 10 mm</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(c) ‘n middellyn van 8 cm </p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml"> (d) ‘n
+    middellyn van 25 mm</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(e) ‘n radius/straal van 40 m </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(f) ‘n middellyn 
+    van 100 m</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Bereken die radius en die omtrek van ‘n sirkel met ‘n middellyn van:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) 125 mm </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) 70 cm</p>
+
+   <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Bereken die radius van ‘n sirkel met ‘n omtrek van:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) 110 cm </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) 200 m</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-21">Oppervlakte van sirkels</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Ondersoek die formule vir die oppervlakte van ’n sirkel</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Die grootte van elke vierkant op die rooster hier onder is 
+ \(\text{1 cm} \times \text{1 cm}\) (1 cm<sup>2</sup>).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-282" src="Maths_English_LB_gr8_term3_1-web-resources/image/208745.png" alt="208745.png"/></span></p>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml"> (a) Tel die vierkante binne die sirkel. Skat wat die totaal van die dele van vierkante 		
+(nie volle vierkante nie) sal wees. Wat is die oppervlakte binne die sirkel?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Wat is die straal/radius (\(r\)) van die sirkel?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Hoe akkuraat dink jy is hierdie manier om die oppervlakte van die sirkel te 			
+bepaal?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Hoe kan hierdie metode om die oppervlakte van ‘n sirkel by benadering te bepaal
+verbeter word?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) Gestel ons gebruik 0,5 cm by 0,5 cm vierkante in plaas van 1 cm by 1 cm
+vierkante om die oppervlakte van die sirkel te meet. Watter een van die twee
+mates sal meer akkuraat wees vir die oppervlakte? Verduidelik.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(f) Gestel nou ons gebruik vierkante wat 0,25 cm by 0,25 cm is. Watter een van die 
+drie mates sal die beste skatting wees?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Ons kan oppervlakte skat deur ‘n vierkantrooster
+op die oppervlak waarvan ons die oppervlakte wil
+skat, te plaas. Ons kan dan tel ongeveer hoeveel
+vierkante nodig is om die oppervlak wat ons wil
+meet, te bedek.
+</p>
+      <p>In die geval van ‘n geboë oppervlak, soos ‘n sirkel, kan
+die oppervlakte nie akkuraat op hierdie manier bepaal
+word nie; dit kan net geskat word.</p>
+<p>Die akkuraatheid van die skatting hang af van die
+grootte van die vierkante wat gebruik word.
+</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">In die aktiwiteite wat volg
+gaan ons ‘n formule
+ontwikkel om die oppervlakte
+van ‘n sirkel te bereken.
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Beskou die sirkel langsaan. Dit is in 16 identiese sektore
+verdeel. Ons gaan ‘n tegniek gebruik wat wiskundiges
+soms gebruik om een figuur te omskep in ‘n ander figuur
+waarvan hulle iets weet om sodoende ‘n probleem op te los.
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-284" src="Maths_English_LB_gr8_term3_1-web-resources/image/208703.png" alt="208703.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Die uitdaging hier is dat ons die oppervlakte van ‘n
+sirkel wil bereken. Ons weet hoe om die oppervlakte
+van ‘n reghoek te bepaal. Kan ons ‘n sirkel herteken
+sodat dit soos ‘n reghoek lyk? Een manier om dit te
+doen, is om die sirkel in 16 identiese sektore op te deel.
+Ons sny dan die sirkel op in 16 verskillende stukke soos hier onder gewys.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-34">
+    <span><img class="frame-285" src="Maths_English_LB_gr8_term3_1-web-resources/image/208691.png" alt="208691.png"/></span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Dan herrangskik ons die sektore só.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-286" src="Maths_English_LB_gr8_term3_1-web-resources/image/AFR-208682.png" alt="208682.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2.Ons het nou die sirkel omskep deur dit op te sny in identiese sektore en hulle te herrangskik. Soos watter figuur lyk dit nou?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Waarmee stem die
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) hoogte van nuwe figuur ooreen in die oorspronklike sirkel?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-7">(b) basis van die nuwe figuur ooreen in die oorspronklike sirkel?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Is daar ‘n manier waarop ons die uitdaging vir onsself makliker kan maak?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. Die laaste sektor in die rangskikking hier onder word halveer.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Watter figure word gevorm as die sektor halveer word?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-288" src="Maths_English_LB_gr8_term3_1-web-resources/image/208624.png" alt="208624.png"/></span></p>
+<p xmlns="http://www.w3.org/1999/xhtml"> (b)Watter nuwe figuur word geskep as een helfte van daardie sektor aan elke kant 		
+van die figuur hier bo geplaas word?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">6. Waarmee stem die
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) hoogte van nuwe figuur ooreen in die oorspronklike sirkel?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) basis van die nuwe figuur ooreen in die oorspronklike sirkel?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-7">Jy het waarskynlik opgemerk dat as ons ‘n sirkel in baie klein sektore verdeel en hulle
+herrangskik, hulle ‘n reghoekige figuur vorm. Probeer om die redenasie wat hier onder
+volg, te verstaan.
+</p>
+    
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="medium" src="Maths_English_LB_gr8_term3_1-web-resources/image/Maths-Gr8-afr-Term3-p68-img1.png" alt="208614.png"/></span> </p>
+       
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">7. (a) Gebruik die formule \(A = \pi r^2\) om die oppervlakte (A) van ‘n sirkel met radius 4 cm 
+te bereken. (Gebruik 
+\(\pi = 3,14\)).</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Hoe naby is die antwoord aan die getal vierkante wat jy binnekant die sirkel in
+vraag 1 op bladsy 65 getel het?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Van nou af sal ons die formule \(A = \pi r^2\) gebruik om die
+oppervlakte van ‘n sirkel, met r as die lengte van die
+radius, te bereken. Jy sal die waarde van  π gegee word
+om in berekeninge te gebruik. Die waarde van π word
+gewoonlik korrek tot 2 desimale plekke as 3,14 gegee.
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-14">8.
+   Hoe kan ons
+ \(r^2\) in die formule
+ \(A = \pi r^2\) interpreteer? Gebruik
+die figuur regs om die vrae hier onder te beantwoord:
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-291" src="Maths_English_LB_gr8_term3_1-web-resources/image/208585.png" alt="208585.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) Wat is die radius van die sirkel?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Die lengte van die sy van die blou vierkant is 1,5 cm. Wat is sy oppervlakte?
+
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) Wat is die waarde van
+    \(r^2\)?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) Voltooi: As \(r\) die radius van ‘n sirkel is, dan is 
+ \(r^2\) </p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Gebruik die formule vir die oppervlakte van ’n sirkel</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In die volgende berekeninge, gebruik
+ π = 3,14 en rond jou antwoorde af, korrek tot twee
+desimale plekke. Gebruik ‘n sakrekenaar waar nodig.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Bereken die oppervlakte van ‘n sirkel met radius:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \(r = 8\) cm </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) \(r = 4,5\) cm</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Bereken die radius van sirkels met die volgende oppervlakte:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) 100 m<sup>2</sup> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) 76 m<sup>2</sup></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+   
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Bereken die oppervlakte van die ingekleurde dele van die volgende figure:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-296" src="Maths_English_LB_gr8_term3_1-web-resources/image/208093.png" alt="208093.png"/></div>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-297" src="Maths_English_LB_gr8_term3_1-web-resources/image/208085.png" alt="208085.png"/></div>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-22">Herleiding tussen vierkante eenhede</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Jy weet alreeds hoe om lengte van een eenheid (byvoorbeeld mm, cm, m en km) na ‘n
+ander te herlei:
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-47" class="No-Table-Style"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Om te herlei
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Doen die volgende
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Om te herlei
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Doen die volgende
+</b></p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-left">cm na mm</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">\(\times 10\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">mm na cm</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">\(\div 10\)</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-left">m na cm</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">\(\times 100\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">cm na m</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">\(\div 100\)</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-left">km na m</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">\(\times 1 000\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">m na km</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">\(\div 1 000\)</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Gebruik hierdie kennis om uit te werk hoe om vierkante eenhede
+ (mm<sup>2</sup>, cm<sup>2</sup>, m<sup>2</sup> en km<sup>2</sup>) te herlei.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">1. Herlei
+ cm<sup>2</sup> na mm<sup>2</sup></p>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-7">\( \begin{align}1 \text{ cm}^2 &amp;= 1 \text{ cm} \times 1
+    \text{ cm} \\ &amp;= 10\text{ mm} \times 10\text{ mm} \\ &amp;= ..................  \end{align}\)</p>
+    
+        <p xmlns="http://www.w3.org/1999/xhtml">2. Herlei m<sup>2</sup> na cm<sup>2</sup></p>
+        
+            <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-7">\( \begin{align}1 \text{ m}^2 &amp;= 1 \text{ m} \times 1 \text{ m} \\ &amp;= ......\text{ cm} \times ......\text{ cm} \\ &amp;= ..................  \end{align}\)</p>
+ 
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3. Herlei km<sup>2</sup> na m<sup>2</sup> </p>
+<p xmlns="http://www.w3.org/1999/xhtml"> \( \begin{align}1 \text{ km}^2 &amp;= ...... \text{ km} \times ......
+    \text{ km} \\ \\ &amp;= .................. \\ &amp;= ..................  \end{align}\)</p>
+
+<p xmlns="http://www.w3.org/1999/xhtml">4. Herlei mm<sup>2</sup> na cm<sup>2</sup></p>
+
+       <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-7">\( \begin{align}1 \text{ mm}^2 &amp;= 1 \text{ mm} \times 1 \text{ mm} \\ &amp;= 0.1\text{ cm} \times 0.1\text{ cm} \\ &amp;= ..................  \end{align}\)</p>
+       
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">5. Herlei cm<sup>2</sup> na m<sup>2</sup> </p>
+<p xmlns="http://www.w3.org/1999/xhtml"> \( \begin{align}1 \text{ cm}^2 &amp;= ...... \text{ cm} \times ......
+    \text{ cm} \\ \\ &amp;= .................. \\ &amp;= ..................  \end{align}\)</p>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml">6. Herlei m<sup>2</sup> na km<sup>2</sup></p>
+<p xmlns="http://www.w3.org/1999/xhtml"> \( \begin{align}1 \text{ m}^2 &amp;= ...... \text{ m} \times ......
+    \text{ m} \\ \\ &amp;= .................. \\ &amp;= ..................  \end{align}\)</p>
+    
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">7. Voltooi die tabel:
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-48" class="No-Table-Style"><tbody><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Om te herlei
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Doen die volgende
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Om te herlei
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Doen die volgende
+</b></p>
+          </td>
+        </tr><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">cm<sup>2</sup> na mm<sup>2</sup></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">mm<sup>2</sup> na cm<sup>2</sup></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">m<sup>2</sup> na cm<sup>2</sup></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">cm<sup>2</sup> na m<sup>2</sup></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">km<sup>2</sup> na m<sup>2</sup></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">m<sup>2</sup> na km<sup>2</sup></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr></tbody></table>
+        
+        
+  </div>
+</div>
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

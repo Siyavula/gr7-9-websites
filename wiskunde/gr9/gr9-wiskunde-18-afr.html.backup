@@ -1,0 +1,3550 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr9 Wiskunde</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Wissel navigasie</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index-afr.html">Gr 7-9 Werkboeke</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/index-afr.html">Tuisblad</a></li>
+                          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wiskunde<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/wiskunde/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/wiskunde/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/wiskunde/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natuurwetenskappe<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/natuurwetenskappe/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/natuurwetenskappe/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/natuurwetenskappe/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tegnologie<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/tegnologie/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/tegnologie/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/tegnologie/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+
+            <li><a href="/aflaaibares-afr.html">Aflaaibares</a></li>
+            <li><a href="/oorons-afr.html">Oor ons</a></li>
+            <li><a href="/oorons-afr.html#contact">Kontak</a></li>
+           
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container">
+        <div class="language-toggle">
+            <button type="button" class="btn btn-default ">English</button>
+            <button type="button" class="btn btn-primary active">Afrikaans</button>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-0">Funksies</h1>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">In hierdie hoofstuk gaan jy met verben
+e tussen veren
+erlikes werk. Jy gaan die waardes
+van uitvoerveren
+erlikes bepaal deur bewerkings te doen wat in algebraïese taal geskryf is.
+Jy sal verben
+e tussen veren
+erlikes op verskillende maniere voorstel, deur hulle in woorde
+te beskryf, in vloeidiagramme, in algebraïese taal en deur middel van tabelle en grafieke. Jy
+sal leer om raak te sien hoe dieselfde verben
+ op verskillende maniere voorgestel kan word.
+</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-1">Van formules na woorde, tabelle en grafieke</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Dieselfde opdragte in woorde en in simbole</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Elkeen van die formules hier onder dui ʼn verben
+ tussen twee stelle getalle aan, wat
+die <em>invoergetalle</em> en die <em>uitvoergetalle</em> genoem kan word. Bereken die uitvoergetalle wat
+met die invoergetalle 0; 1; 2 en 10 ooreenkom vir elke formule.
+</p>
+	
+	<p xmlns="http://www.w3.org/1999/xhtml">
+	(a) \( y = 3x + 5 \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(b) \( y = 3(x + 5) \)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(c) \( y = 3x + 5x \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(d) \( y = 3x^2 + 5 \)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(e) \( y = 3x^2 + 5x \)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(f) \( y = 3x(x + 5) \)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+   
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Die inligting in die formule
+ \( y = 5x^2 - 3x \) kan ook in woorde uitgedruk word,
+byvoorbeeld: Om die uitvoergetal te kry, moet jy 3 keer die invoergetal van 5 keer die
+kwadraat van die invoergetal aftrek. Skryf die formules in vraag 1 in woorde:
+</p>
+
+    
+
+   <p xmlns="http://www.w3.org/1999/xhtml">
+	(a) \( y = 3x + 5 \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(b) \( y = 3(x + 5) \)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(c) \( y = 3x + 5x \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(d) \( y = 3x^2 + 5 \)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(e) \( y = 3x^2 + 5x \)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(f) \( y = 3x(x + 5) \)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Skryf ʼn formule wat dieselfde inligting bevat vir elke stel instruksies.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">(a)
+    <i>vermenigvuldig die invoergetal met 10, trek dan 3 af
+	
+om die uitvoergetal te kry
+</i></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">(b)
+    <i> trek	 3 van die kwadraat van die invoergetal af, vermenigvuldig dan met 10 om die
+
+	
+uitvoergetal te kry 
+</i></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">(c)
+    <i>vermenigvuldig die kwadraat van die invoergetal met 10, tel dan 5 keer die invoergetal
+	
+by om die uitvoergetal te kry 
+</i></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">(d)
+    <i>trek	 7 keer die kwadraat van die invoergetal van 100 af, vermenigvuldig dan met 3 om
+
+	
+die uitvoergetal te kry 
+</i></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">(e)
+    <i> tel 4 by die invoergetal, trek dan die antwoord van 50 af om die uitvoergetal te kry
+</i></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">(f)
+    <i>vermenigvuldig die invoergetal met 3, trek dan die antwoord van 15 af om die
+	
+uitvoergetal te kry
+</i></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Om jou antwoorde vir vraag 3 te kontroleer, gebruik die tabel hier onder: Voer eers die
+woordelikse (verbale) instruksies uit vir die invoergetalle 1, 5 en 10 in elke vraag hier
+bo. Kies dan nog ʼn invoergetal van jou keuse by. Gebruik dan die formule wat jy vir
+elke vraag hier bo geskryf het, om die uitvoergetalle te bereken. As hulle verskil, is iets
+verkeerd. Soek die fout en stel dit reg.
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-1" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left">(a)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">verbale beskrywing
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">formule</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-2" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left">(b)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">verbale beskrywing
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">formule</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-3" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left">(c)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">verbale beskrywing
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">formule</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-4" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left">(d)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">verbale beskrywing
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">formule</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-5" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left">(e)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">verbale beskrywing
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">formule</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-6" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left">(f)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">verbale beskrywing
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">formule</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. In sekere gevalle kan vloeidiagramme gebruik word om rekeninstruksies te gee
+om uitvoergetalle te bereken. Skryf die formule vir elke vloeidiagram, en skryf die
+instruksie ook in woorde.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-4">(a)
+    <span><img class="frame-11" src="Maths_English_LB_gr9_term3_1-web-resources/image/123338.png" alt="123338.png"/></span> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-4">(b)
+    <span><img class="frame-12" src="Maths_English_LB_gr9_term3_1-web-resources/image/123346.png" alt="123346.png"/></span> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-4">(c)
+    <span><img class="frame-12" src="Maths_English_LB_gr9_term3_1-web-resources/image/123354.png" alt="123354.png"/></span> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-4">(d)
+    <span><img class="frame-14" src="Maths_English_LB_gr9_term3_1-web-resources/image/123362.png" alt="123362.png"/></span> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-4">(e)
+    <span><img class="frame-14" src="Maths_English_LB_gr9_term3_1-web-resources/image/123371.png" alt="123371.png"/></span> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-4">(f)
+    <span><img class="frame-11" src="Maths_English_LB_gr9_term3_1-web-resources/image/123379.png" alt="123379.png"/></span> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-4">(g)
+    <span><img class="frame-11" src="Maths_English_LB_gr9_term3_1-web-resources/image/123387.png" alt="123387.png"/></span> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+   <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">6. (a) Voltooi die tabel:
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-7" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(y\) volgens jou formule vir 5
+(a)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(y\) volgens jou formule vir 5
+(b)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(y\) volgens jou formule vir 5
+(c)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) As jou uitvoergetalle vir 5(a), 5(b) en 5(c) nie dieselfde is nie, het jy êrens ʼn fout 	
+	
+gemaak. Soek jou fout en maak dit reg.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">7. (a) Voltooi die tabel:
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-8" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(y\) volgens jou formule vir
+ 5(d)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(y\) volgens jou formule vir
+ 5(e)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(y\) volgens jou formule vir
+ 5(f)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(y\) volgens jou formule vir
+ 5(g)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) As jou uitvoergetalle vir 5(d) en 5(f) nie dieselfde is nie, het jy êrens ʼn fout
+gemaak. Soek jou fout en maak dit reg.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) As jou uitvoergetalle vir 5(e) en 5(g) nie dieselfde is nie, het jy êrens ʼn fout
+gemaak. Soek jou fout en maak dit reg.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">8. Verduidelik hoekom die uitvoergetalle in 5(a), 5(b) en 5(c) dieselfde is.
+     </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-2">Tabelle en grafieke</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Voltooi die tabel om sommige van die invoer- en uitvoergetalle van die verben
+, wat
+met die formule 
+ \( y = 2x - 3 \) beskryf word, te wys
+.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-9" class="No-Table-Style"><tbody><tr class="Row-Column-21"><td class="cell-style-override-2">
+            <p class="Table-text-left">beskryf word, te wys
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-21"><td class="cell-style-override-2">
+            <p class="Table-text-left">uitvoergetalle
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die vertikale blou lyn op hierdie grafiek
+stel die invoergetal 6 voor.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Die dik horisontale rooi lyn stel die
+uitvoergetal 9 voor.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Die swart punt waar die blou en die
+rooi lyne kruis dui aan dat die
+invoergetal 6 en die uitvoergetal 9 ʼn
+paar vorm. Ons sê ook dat die swart
+punt die <b>geordende getallepaar</b> (6; 9) voorstel.
+
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/123411.png" alt="123411.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) Watter geordende getallepaar stel
+	
+die rooi punt op die grafiek
+	voor?
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Watter geordende getallepaar
+	
+stel die blou punt op die grafiek
+	voor?
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-24" src="Maths_English_LB_gr9_term3_1-web-resources/image/123468.png" alt="123468.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-4">ʼn Verben
+ tussen twee veren
+erlikes kan voorgestel word met ʼn tabel van waardes van
+die <b>onafhanklike</b> en <b>afhanklike</b> veren
+erlikes (invoer- en uitvoergetalle):
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-10" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-27"><td class="cell-style-override-2">
+            <p class="Table-text-left">waardes van die onafhanklike veren
+erlike
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-27"><td class="cell-style-override-2">
+            <p class="Table-text-left">waardes van die afhanklike veren
+erlike
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">14</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">16</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">18</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">22</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-4">Dieselfde inligting kan ook op ʼn grafiek gewys word:
+</p>
+
+    <span xmlns="http://www.w3.org/1999/xhtml">
+       <img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/123486.png" alt="123486.png"/> 
+
+       <img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/123494.png" alt="123494.png"/> 
+    </span>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-4">3.
+   Wys die twee grafieke verskillende verben
+e tussen die twee veren
+erlikes?
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-4">4. Hoe verskil die grafieke?
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+   <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-5">5.
+   Gebruik een van die grafieke om uit te vind hoeveel geel vierkantjies daar in ʼn
+rangskikking, soos die hier bo, met 12 vierkantjies sal wees.
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-4">6.
+   Wys hierdie tabel dieselfde verben
+ as die tabel bo-aan die bladsy? Verduidelik jou
+antwoord.
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-11" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-27"><td class="cell-style-override-2">
+            <p class="Table-text-left">waardes van die onafhanklike veren
+erlike
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">25</p>
+          </td>
+        </tr><tr class="Row-Column-27"><td class="cell-style-override-2">
+            <p class="Table-text-left">waardes van die afhanklike veren
+erlike
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">18</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">28</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">38</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">48</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">58</p>
+          </td>
+        </tr></tbody></table><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">7. (a) Voltooi die tabel vir die verben
+ beskryf deur
+ \( y = x^2 \).</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-12" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Stel die geordende getalpare in die tabel op die grafiekblad voor.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="M6"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/123507.png" alt="123507.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-4">8.
+    Voltooi die tabel vir
+ \( y = 15 + x \) en stel die geordende getallepare op die grafiekblad
+hier bo voor.
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-13" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-15</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">15</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(15 + x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-4">9.
+    Voltooi die tabel vir
+ \( y = 15 - x \). en stel die geordende getallepare op die grafiekblad
+hier bo voor.
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-14" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+           \( x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-15</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">15</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(15 - x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">10. (a) Daar is patrone in die uitvoerwaardes vir
+ \( y = x^2 \) en \( y = 15 + x \) in die tabelle. 
+Beskryf in woorde (gebruik toeneem en afneem) hoe die patrone verskil.
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+   <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Beskryf in woorde hoe die grafieke vir
+
+    \( y = x^2 \) en \( y = 15 + x \) verskil.
+  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+  
+	<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">11. (a) Beskryf in woorde hoe die patrone in die uitvoerwaardes vir
+ \( y = 15 + x \) en \( y = 15 - x \) verskil. Gebruik die woorde <em>toeneem</em> en <em>afneem</em> in jou beskrywing.
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Beskryf in woorde hoe die grafieke vir
+
+    \( y = 15 + x \) en \( y = 15 - x \) verskil.
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+   
+	<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-4">12.
+    Voltooi elk van die volgende tabelle deur die patroon van die uitvoergetalle verder
+uit te werk. Stel ook die verben
+ op die grafiekblaaie hier onder voor.
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-15" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left">(a)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">invoergetalle 
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">25</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">30</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">uitvoergetalle 
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-16" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left">(b)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">invoergetalle 
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">25</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">30</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">uitvoergetalle 
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><span xmlns="http://www.w3.org/1999/xhtml">
+       <img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/123538.png" alt="123538.png"/> 
+
+     <img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/123546.png" alt="123546.png"/> 
+    </span>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">13. Hoe verskil die patrone in 12(a) en (b), en hoe verskil die grafieke?
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">14. Elke tabel hier onder wys sommige van die waardes van ʼn verben
+ wat deur een van
+hierdie reëls voorgestel word:
+</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">
+	\( y = -2x + 3 \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml">\( y = 3x + 2 \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">\( y = −3x + 6 \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">\( y = 2x − 5 \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">\( y = 5(x − 2) \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">\( y = 5x + 10 \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">\( y = −3x + 5 \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">\( y = 2x + 3 \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">\( y = 5x − 10 \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">\( y = −3(x + 2) \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">\( y = 2x + 5 \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">\( y = −x + 3 \)
+	</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Voltooi die uitvoerwaardes in die tabelle.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Beskryf hoe jy die ontbrekende uitvoerwaardes in elke tabel bereken het. Skryf 		
+	
+ook die reël (formule) vir elke tabel neer.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">A. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">B. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">C. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">D. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">E. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">F. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-4">G.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><table xmlns="http://www.w3.org/1999/xhtml" id="table-17" class="border-plain"><tbody><tr class="Row-Column-27"><td class="none">
+            <p class="Table-text-left">A.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-27"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-40"><td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+        </tr><tr class="Row-Column-27"><td class="none">
+            <p class="Table-text-left">B.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-27"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span>-</span>1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span>-</span>3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-40"><td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+        </tr><tr class="Row-Column-27"><td class="none">
+            <p class="Table-text-left">C.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-27"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span>-</span>10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span>-</span>5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-40"><td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+        </tr><tr class="Row-Column-27"><td class="none">
+            <p class="Table-text-left">D.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-27"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span>-</span>5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span>-</span>3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span>-</span>1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-40"><td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+        </tr><tr class="Row-Column-27"><td class="none">
+            <p class="Table-text-left">E.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-27"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="ANSWERS-Table-text-centred">
+           </p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-40"><td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+        </tr><tr class="Row-Column-27"><td class="none">
+            <p class="Table-text-left">F.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-27"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-40"><td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+
+          <td class="none"/>
+        </tr><tr class="Row-Column-27"><td class="none">
+            <p class="Table-text-left">G.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-27"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-11">\(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">ʼn ondersoek: patrone in verskille</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">1. Voltooi die tabel vir
+
+    \( y = x^2,~ z = x^2 + 1^2,~ w = x^2 + 2^2 \) en
+ \( s = x^2 + 3^2 \) </p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-18" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(z\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(w\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(s\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">2. Voltooi die tabel vir
+
+   \( y = x^2,~ p = (x + 1)^2,~ q = (x + 2)^2 \) en
+ \( r = (x + 3)^2 \).</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-19" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left">(a)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+           \( p\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(p - y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-20" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left"><span class="x2nd-level-bullet">(b)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span class="x2nd-level-bullet char-style-override-3">\(x\)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span class="x2nd-level-bullet">10</span></p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span class="x2nd-level-bullet char-style-override-3">\(q\)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span class="x2nd-level-bullet char-style-override-3">\(y\)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span class="x2nd-level-bullet char-style-override-3">\(q- y\)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-21" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left"><span class="x2nd-level-bullet">(c)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span class="x2nd-level-bullet char-style-override-3">\(x\)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span class="x2nd-level-bullet">10</span></p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span class="x2nd-level-bullet char-style-override-3">\(r\)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span class="x2nd-level-bullet char-style-override-3">\(y\)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred"><span class="x2nd-level-bullet char-style-override-3">\(r - y\)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. In elk van die volgende gevalle behoort jy verskillende uitvoerwaardes vir die twee
+funksies te hê. Soek jou foute as jou uitvoerwaardes dieselfde is, en maak hulle reg.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) \( z = x^2 + 12 \) en
+ \( p = (x + 1)^2 \)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) \( w = x^2 + 2^2 \) en
+ \( q = (x + 2)^2 \)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) \( s = x^2 + 3^2 \) en
+ \( r = (x + 3)^2 \)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced para-style-override-3">4.
+  Voltooi die tabelle op die volgende bladsy
+ \(y = x^2, p = (x + 1)^2, q = (x + 2)^2 \) en
+ \( r = (x + 3)^2 \).Gebruik jou antwoorde van vraag 3
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-22" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left">(a)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(p - y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(q - y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(r - y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-23" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left">(b)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">11</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">13</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">14</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">16</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">17</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(p - y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(q - y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(r - y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">5. (a)
+    Voltooi die tabel.
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-24" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(2x + 1\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(4x + 4\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(6x + 9\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Wat is die konstante verskille in die rye van waardes van
+ \( 2x + 1, 4x + 4 \) en
+ \( 6x + 9 \), vir
+ 
+	\( x = 1; 2; 3; 4\). . . . . . ? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Het jy enige idee of die soortgelyke ry waardes van
+ \(12x + 36 \) ook ʼn konstante
+ 	
+verskil sal hê en wat die verskil kan wees?
+</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Daar is bepaalde patrone in die koëffisiënte en konstante terme van die
+ 	
+uitdrukkings in die tabelle hier bo. Sit die patrone voort om nog soortgelyke
+	
+uitdrukkings te vorm en voltooi die tabel hier onder vir jou uitdrukkings.
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-25" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">6. (a) As jou antwoorde vir die tabelle in 4(a) en 5(a) reg is, sal hulle dieselfde wees. 		
+	
+Probeer om te verduidelik hoekom hulle dieselfde is.
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Watter uitdrukkings, soortgelyk aan die in vraag 5(a), het moontlik dieselfde 
+waardes as
+ \( (x + 4)^2 - x^2 \) en
+ \( (x + 5)^2 - x^2\)
+	 respektiewelik?
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+  </div>
+</div>
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

@@ -1,0 +1,2099 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr8 Mathematics</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+    <!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/index.html">Grade 7-9 Workbooks</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="/index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mathematics<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/mathematics/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/mathematics/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/mathematics/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natural Sciences<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/natural-sciences/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/natural-sciences/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/natural-sciences/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/technology/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/technology/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/technology/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+
+                <li><a href="/downloads.html">Downloads</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/about.html#contact">Contact</a></li>
+
+            </ul>
+
+        </div><!--/.nav-collapse -->
+    </div>
+</div>
+<div class="container">
+    <div class="language-toggle">
+        <button type="button" class="btn btn-primary active ">English</button>
+        <button type="button" class="btn btn-default">Afrikaans</button>
+    </div>
+</div>
+
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-30">Collect, organise and summarise data</h1>
+  
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">The data cycle is the process
+    we follow when we do the following: pose a question, collect
+    data to answer the question, organise and summarise the data
+    sensibly, present the data in useful ways, interpret and
+    analyse the data, and report on the data.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener">The activities in this chapter give you
+    practice in collecting, organising and summarising data. Among
+    other concepts, you will focus on: suggesting appropriate
+    samples for an investigation; designing and using
+    questionnaires with multiple-choice responses; organising data
+    by using tally marks, tables, stem-and-leaf displays and
+    grouped data; and summarising data by describing the mean,
+    median, mode, range and extremes of the data set.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The term <b>data handling</b> is used to
+    describe certain ways of trying to make sense of large
+    collections of observations (data) about things in the real
+    world. Data can be about many different things, for example
+    people's opinions on politics or the success rates of treating
+    people with a certain kind of medicine. We use data to help us
+    make decisions and solve problems about the world around
+    us.</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-31">Collecting data</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">To find out more about any situation,
+    we need to start by asking questions and collecting data. When
+    you collect data, you need to consider:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet"><span class="char-style-override-7"/> what you
+      want to find out or the questions that you want to
+      answer</li>
+
+      <li class="Body-bullet"><span class="char-style-override-7"/> where you
+      will find the data to answer the questions (for example from
+      people such as learners in your school, your family and
+      community; or from published sources such as newspapers,
+      books or magazines)</li>
+
+      <li class="Body-bullet"><span class="char-style-override-7"/> who you
+      will collect the data from (all of the people or a
+      sample)</li>
+
+      <li class="Body-bullet"><span class="char-style-override-7"/> how you
+      will collect the data (such as using questionnaires or
+      interviews).</li>
+    </ul><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Sources of data collection</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In some cases you can use data that
+    has already been collected by another person or
+    organisation.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-2"><b>Example 1</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Your question is:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-28"><i>What is the
+    most common form of transport that learners in South Africa use
+    to travel to school?</i></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">For this question, you will find that
+    this data already exists in a publication called <i>Census @ School 2009</i>, published
+    by Statistics South Africa. You can then present and interpret
+    the existing data.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-2"><b>Example 2</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Your question is:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-28"><i>What is the
+    most common form of transport that learners at my school use to
+    travel to school?</i></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Check with the principal whether such
+    data has already been collected by the school. If the data does
+    not exist, or is very old, you need to decide where to get the
+    data from. You could then decide to collect the data yourself
+    from your peers.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">For each of the following
+    investigation questions, write down what or who would most
+    likely be an appropriate source of information.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-58" class="No-Table-Style"><tbody><tr class="Row-Column-176"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Question</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Appropriate source of data collection</b></p>
+          </td>
+        </tr><tr class="Row-Column-356"><td class="cell-style-override-3">
+            <p class="Table-text-numbers">1. What is the favourite
+            type of music amongst teenagers in my community?</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr><tr class="Row-Column-356"><td class="cell-style-override-3">
+            <p class="Table-text-numbers">2. How much money do
+            workers at Dress Factory earn per week?</p>
+          </td>
+
+          <td class="cell-style-override-3">
+          </td>
+        </tr><tr class="Row-Column-357"><td class="cell-style-override-3">
+            <p class="Table-text-numbers">3. What is the height
+            that baobab trees usually grow to?</p>
+          </td>
+
+          <td class="cell-style-override-3">
+          </td>
+        </tr><tr class="Row-Column-356"><td class="cell-style-override-3">
+            <p class="Table-text-numbers">4. What are the ages of
+            learners in Grades R to 7 in South Africa?</p>
+          </td>
+
+          <td class="cell-style-override-3">
+
+          </td>
+        </tr><tr class="Row-Column-356"><td class="cell-style-override-3">
+            <p class="Table-text-numbers">5. How many people in
+            South Africa have access to electricity?</p>
+          </td>
+
+          <td class="cell-style-override-3">
+
+          </td>
+        </tr><tr class="Row-Column-358"><td class="cell-style-override-3">
+            <p class="Table-text-numbers">6. How many people in
+            different African countries had malaria during the last
+            five years?</p>
+          </td>
+
+          <td class="cell-style-override-3">
+
+          </td>
+        </tr><tr class="Row-Column-358"><td class="cell-style-override-3">
+            <p class="Table-text-numbers">7. Has my school recycled
+            more or fewer glass bottles this year than last
+            year?</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr><tr class="Row-Column-358"><td class="cell-style-override-3">
+            <p class="Table-text-numbers">8. What kind of household
+            chores do 7- to 10-year-olds in my neighbourhood
+            usually do?</p>
+          </td>
+
+          <td class="cell-style-override-3">
+
+          </td>
+        </tr><tr class="Row-Column-359"><td class="cell-style-override-3">
+            <p class="Table-text-numbers">9. How many children in
+            South Africa under the age of 10 have been vaccinated
+            to protect them from childhood diseases?</p>
+          </td>
+
+          <td class="cell-style-override-3">
+                      </td>
+        </tr></tbody></table><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Populations and samples</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The whole group of people (or things)
+    that you want to find out about is normally called the
+    <b>population</b>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">A population is often quite large. The size of
+    the population depends on what you need to find out. The larger
+    your population, the more difficult it becomes to ask each
+    member of that population the questions you want to ask.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">You could choose a smaller group of individuals
+    from the population. Such a group, used to represent the whole
+    population, is called a <b>sample</b>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-2"><b>Examples</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. If you are doing a
+    survey of learners' favourite foods, you will not have time to
+    ask everyone in the school about their favourite foods. What
+    you could do is ask a selection of learners whose answers you
+    will use to make conclusions about the whole school. You would
+    try to ask learners from each grade in the school, with a good
+    spread across the school, to make your sample representative of
+    the whole school population.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Health researchers may
+    collect information about children by doing a survey of
+    households selected randomly in each community.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Random samples</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A sample has to be chosen carefully
+    to make sure that it represents the population. To understand
+    what this means, think about what happens if you choose some
+    beans from a jar in which the different kinds of beans are in
+    separate layers. If you take a sample of the beans at the top,
+    the sample is not representative. If the beans are all mixed
+    up, then each bean has an equal chance of being chosen. The
+    sample will be representative.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-2">
+    <span><img class="frame-360" src="Maths_English_LB_gr8_term3_1-web-resources/image/216398.png" alt="216398.png"/></span></p><p xmlns="http://www.w3.org/1999/xhtml"><b>Example</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Two ways you could select a random
+    sample of learners from your school are:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. You could cut up all
+    of the school class lists so that each name is on a separate
+    strip of paper. Then mix them up thoroughly. Then draw 30 names
+    without looking.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. You could take each class list
+    and select every 10th name on all the lists.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Look at the investigation questions.
+    Which of the samples given do you think will reflect the whole
+    population more appropriately? Tick your choice and give a
+    reason.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-59" class="No-Table-Style"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Sample 1</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Sample 2</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Reason</b></p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3" colspan="3">
+            <p class="Table-text-numbers">1. What is the type of
+            music liked by most teenagers in my community?</p>
+          </td>
+        </tr><tr class="Row-Column-139"><td class="cell-style-override-3">
+            <p class="Table-text-left">50 teenagers at a local
+            school</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">25 teenagers each from the
+            two different local schools</p>
+          </td>
+
+          <td class="cell-style-override-3">
+                      </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3" colspan="3">
+            <p class="Table-text-numbers">2. How much money do the
+            200 workers at Dress Factory earn per week?</p>
+          </td>
+        </tr><tr class="Row-Column-139"><td class="cell-style-override-3">
+            <p class="Table-text-left">The workers at every fourth
+            workstation in the factory</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">The 50 workers that gather
+            outside during lunch break</p>
+          </td>
+
+          <td class="cell-style-override-3">
+                      </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3" colspan="3">
+            <p class="Table-text-numbers">3. What is the height
+            that baobab trees usually grow to?</p>
+          </td>
+        </tr><tr class="Row-Column-364"><td class="cell-style-override-3">
+            <p class="Table-text-left">All baobab trees in a
+            marked-off area</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">Every second baobab tree in
+            a marked-off area</p>
+          </td>
+
+          <td class="cell-style-override-3">
+                      </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3" colspan="3">
+            <p class="Table-text-numbers">4. What are the ages of
+            learners in Grades R to 7 in South Africa?</p>
+          </td>
+        </tr><tr class="Row-Column-139"><td class="cell-style-override-3">
+            <p class="Table-text-left">All the Grade R to 7
+            learners in my school</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">Ten learners in each grade
+            from Grade R to 7 at three different schools</p>
+          </td>
+
+          <td class="cell-style-override-3">
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3" colspan="3">
+            <p class="Table-text-numbers">5. Has my school recycled
+            more or fewer glass bottles this year than last
+            year?</p>
+          </td>
+        </tr><tr class="Row-Column-364"><td class="cell-style-override-3">
+            <p class="Table-text-left">All the glass bottles
+            recycled in one month this year and in the same month
+            last year</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-left">The glass bottles recycled
+            in one month this year and in any other month last
+            year</p>
+          </td>
+
+          <td class="cell-style-override-3">
+                      </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span>There are no strictly correct
+    answers above. Each sample may have advantages or disadvantages
+    over the other. Use this activity as a talking point about
+    samples.</span></p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Questionnaires</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">We can use different methods to
+    collect data, for example questionnaires, face-to-face
+    interviews or telephonic interviews. In this section, you will
+    work with questionnaire questions that have multiple-choice
+    responses.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Here are two questions with
+    multiple-choice responses from which a respondent
+    will choose.</p> <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">A <b>respondent</b> is a person who
+      responds to the questions.</p>
+    </div>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-60" class="No-Table-Style"><tbody><tr class="Row-Column-367"><td class="cell-style-override-3">
+            <p class="ques-a-">How satisfied are you with our level
+            of</p>
+
+            <p class="ques-a-">service?</p>
+
+            <p class="ques-a-">☐ Not satisfied at all</p>
+
+            <p class="ques-a-">☐ Fairly satisfied</p>
+
+            <p class="ques-a-">☐ Very satisfied</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="ques-a-">What is the colour of your eyes?</p>
+
+            <p class="ques-a-">☐ brown</p>
+
+            <p class="ques-a-">☐ green</p>
+
+            <p class="ques-a-">☐ blue</p>
+
+            <p class="ques-a-">☐ other</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Write a suitable
+    question with multiple-choice responses to find out the
+    following information:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) What do teenagers spend their money
+    on?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) How much time do Grade 8s spend on
+    homework every day?</p>
+ 
+      <table xmlns="http://www.w3.org/1999/xhtml"><tbody><tr class="Row-Column-367"><td class="cell-style-override-3"><p>  </p> </td><td class="cell-style-override-3"><p>  </p></td></tr></tbody></table>
+        <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Choose one of the
+    questions above. Write down what you think would be the best
+    sample to use if you had to conduct this investigation.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Choose one of your
+    multiple-choice questions above and collect the data. Keep the
+    results for the next section.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-32">Organising data</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The way we organise and summarise
+    data depends on the kind of data that we have. It also depends
+    on what we want to find out from the data. Work in groups to
+    explore this. Don't worry about getting the answers right at
+    this stage. You will learn about the different ways to organise
+    and summarise data in this chapter.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Look at the following sets of data. For each
+    one, discuss with your group and write down what we want to
+    find out and what you think we need to do to the data.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Data collected to find out
+    which day would be best to have a soccer club practice:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span class="char-style-override-2"><i>Twenty-five learners' preferred day for
+    soccer practice</i></span></p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="data-sample">
+      <p class="Body-no-indent para-style-override-49"><i>Tuesday
+      Tuesday Tuesday Wednesday Monday Thursday Tuesday Friday
+      Friday Friday Tuesday Thursday Wednesday Wednesday Tuesday
+      Tuesday Wednesday Monday Thursday Tuesday Tuesday Wednesday
+      Monday Thursday Tuesday</i></p>
+    </div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Data collected to find
+    out whether 5-year-old children in a certain village have
+    healthy body weights:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-28"><i>Body weights of
+    twenty-five children in kilograms, rounded off to the nearest
+    0,5 kg</i></p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="data-sample">
+      <p class="Body-no-indent para-style-override-50"><span class="char-style-override-42"><i>17 kg 16,5 kg 13,5 kg 14 kg 18 kg 18
+      kg 14 kg 21 kg 13,5 kg 15 kg 15 kg 14,5 kg 15,5 kg 19,5 kg 17 kg
+      17,5 kg 14 kg 14 kg 20 kg 14,5 kg 16 kg 18 kg 12 kg 16 kg 19
+      kg</i></span></p>
+    </div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Data collected to find
+    out how many learners answer a certain type of question in less
+    than 20 seconds:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span class="char-style-override-2">Time
+    taken (in seconds) by a group of learners to answer a
+    question</span></p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="data-sample">
+      <p class="Body-no-indent para-style-override-51">20 25 24 33
+      13 26 10 19 39 31 11 16 21 17 11 34 14 15 21 18 17 38 16 21
+      25</p>
+    </div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Data collected to analyse the
+    monthly salaries of employees of a small business:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-28">The monthly salaries
+    of ten employees</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="data-sample">
+      <p class="Body-no-indent para-style-override-51">R8 000 R2
+      500 R75 000 R6 000 R7 500 R5 200 R4 800 R10 300 R15 000 R9
+      500</p>
+    </div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Tally marks, tables and stem-and-leaf displays</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In Grade 7, you learnt about using
+    tally tables and stem-and-leaf displays. We revise these two
+    ways of organising data here.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">We can use <b>tally tables</b> to record data in
+      different categories. We draw a tally mark ( | ) for each
+      item we count. We group tally marks in groups of five to
+      count them quickly.</p>
+      <p>A <b>stem-and-leaf</b> display is a way of listing
+numerical data. If the numbers in a set of data
+consist of digits for tens and units (such as 23, 25,
+34), the column on the right (the leaf column)
+shows the units digits of the numbers, and the
+column on the left (the stem column) shows the
+tens digits of the numbers.</p>
+
+      
+    </div>
+    
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Examples of tally marks:</p>
+
+      <p class="Body-box-no-indent">A count of three = ||| </p>
+
+      <p class="Body-box-no-indent">A count of five = <span class="char-style-override-43"><del>||||</del></span></p>
+
+      <p class="Body-box-no-indent">A count of seven = <span class="char-style-override-43"><del>||||</del></span> ||</p>
+    </div>
+    
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">If the numbers in a data set
+      consist of three digits (such as 324, 428, 526), both the
+      hundreds and tens digits are written in the stem column and
+      the units digits are written in the leaf column, e.g. 32
+      <span>|</span> 4 would show 324.</p>
+    </div>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Let's see how to display these
+    numbers using the stem-and-leaf method:</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">12, 13, 20, 34, 35, 47, 49, 51, 53, 53, 53, 56,
+    59</p>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The numbers range from 12 to 59, so
+    the first digits represent the numbers 10 to 50.</p>
+
+        <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="medium" src="Maths_English_LB_gr8_term3_1-web-resources/image/Maths-Gr8-Eng-Term3-p95-img1.png" alt="216153.png"/></div>
+       
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Notice that the stem-and-leaf
+      display also shows us what the data set looks like. We can
+      quickly see that most numbers are in the 50s and that there
+      is only one number in the 20s.</p>
+    </div>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Look back at the three
+    sets of data on page 94. Fill in the table to show which form
+    of data organisation you can use for each of these. Write a
+    short explanation.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-64" class="No-Table-Style"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3"/>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Tally table</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Stem-and-leaf display</b></p>
+          </td>
+        </tr><tr class="Row-Column-384"><td class="cell-style-override-3">
+            <p class="Table-text-numbers">A. Preferred day for
+            soccer practice</p>
+          </td>
+
+          <td class="cell-style-override-3">
+                      </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr><tr class="Row-Column-384"><td class="cell-style-override-3">
+            <p class="Table-text-numbers">B. Body weight of
+            children</p>
+          </td>
+
+          <td class="cell-style-override-3">
+                      </td>
+
+          <td class="cell-style-override-3">
+                      </td>
+        </tr><tr class="Row-Column-384"><td class="cell-style-override-3">
+            <p class="Table-text-numbers">C. Time taken to answer a
+            question</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+                      </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Use the data set about
+    preferred days for soccer practice:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span class="char-style-override-2">Twenty-five learners' preferred day for
+    soccer practice</span></p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="data-sample">
+      <p class="ques-a- para-style-override-54"><i>Tuesday Tuesday
+      Tuesday Wednesday Monday Thursday Tuesday Friday Tuesday
+      Friday Tuesday Thursday Wednesday Wednesday Tuesday Tuesday
+      Wednesday Monday Thursday Tuesday Tuesday Wednesday Monday
+      Thursday Tuesday</i></p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Organise the data using a tally
+    table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-65" class="No-Table-Style"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Preferred day</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Tally</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Frequency</b></p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-14"/>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-14"/>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-14"/>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-14"/>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-14"/>
+
+          <td>
+</td>
+        </tr></tbody></table><div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent"><span>The</span> <b>frequency</b> <span>is the number
+      of times that a day of the week appears in the
+      list.</span></p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Which day should they choose to have
+    soccer practice? Why?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Which day would be the worst day for
+    soccer practice? Why?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-14">3.
+    Zandile collected data about the number of garments that each
+    of her workers produced per day. The answers were as
+    follows:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">61, 58, 48, 59, 49, 51,
+    54, 67, 55, 70, 59, 60, 62, 59, 62, 63, 64, 48, 64, 55</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14">(a) Record the data
+    in the form of a stem-and-leaf display.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-9">Key:</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-376" src="Maths_English_LB_gr8_term3_1-web-resources/image/Maths-Gr8-Eng-Term3-97-img1.png" alt="216153.png"/></div>
+        
+       <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Complete: Most values
+    occur in the</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) How many garments do the fastest and
+    slowest workers make?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Use the data you collected in
+    the investigation in question 3 on page 93.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Decide whether a tally table or a
+    stem-and-leaf display will organise the data best, and record
+    the data in the space below.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-376" src="Maths_English_LB_gr8_term3_1-web-resources/image/Maths-Gr8-Eng-Term3-p97-img2.png" alt="216153.png"/></div>
+    
+        <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) What does your tally table or
+    stem-and-leaf display show about your data?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Grouping data in intervals</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">When there are many values in a data
+    set, it is often useful to group the data items into
+    <b>class intervals</b>.</p>
+
+   
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">The class interval does not
+      include the highest number in each case. So, the height of
+      150 cm falls into the interval 150-160 cm,
+      not into the interval 140-150 cm.</p>
+    </div>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-55"><b>Example</b></p>
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-68" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-92"><td class="cell-style-override-16">
+            <p class="Table-header-centred"><b>Height in centimetres</b></p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-header-centred"><b>Frequency</b></p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            130-140</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            140-150</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">13</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            150-160</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">31</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            160-170</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">30</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            170-180</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">10</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">This is a grouped frequency table. It
+    represents 90 data values, but the values themselves are not
+    shown. Instead, we show the frequency or the number of values
+    falling into that interval.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. The table shows the body
+    weights (in kg) of athletes competing in a tournament.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-69" class="No-Table-Style"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">55,2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">56,1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">58,4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">59,3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">60,6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">61,2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">61,7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">63,4</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">63,2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">64,2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">65,9</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">66,5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">66,7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">67,3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">67,8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">68,0</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">70,5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">72,9</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">73,4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">74,1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">74,8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">75,9</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">76,7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">78,7</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Group the weights into 5 kg intervals.
+    List the intervals.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Use a table to show the frequency of
+    each class interval. It is useful to fill in the tallies first
+    and then count up the frequencies, so that you don't leave any
+    data items out.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-70" class="No-Table-Style"><tbody><tr class="Row-Column-176"><td class="cell-style-override-3"/>
+
+          <td class="cell-style-override-3"/>
+
+          <td class="cell-style-override-3"/>
+        </tr><tr class="Row-Column-176"><td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"><td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"><td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"><td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"><td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) In which intervals are the highest
+    numbers of athletes?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-9">2.
+    The following data shows the time taken (in minutes and
+    seconds) by runners to complete a race.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-71" class="No-Table-Style"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">34:30</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">34:59</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">35:36</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">36:58</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">40:08</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">40:55</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">41:33</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">43:18</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">44:26</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">45:40</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">48:13</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">48:49</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">49:15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">50:08</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">52:09</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">53:36</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Group the times into suitable intervals.
+    List the intervals.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Record the grouped data in the form of a
+    table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-72" class="No-Table-Style"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3">
+
+          </td>
+
+          <td class="cell-style-override-3">
+
+          </td>
+        </tr><tr class="Row-Column-92"><td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-92"><td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-92"><td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-92"><td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-92"><td>
+</td>
+
+          <td>
+</td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) How long did the highest number of
+    runners take to finish the race?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-14">3.
+    Take another look at the data about the time (in seconds) that
+    learners took to answer a certain question:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-73" class="No-Table-Style"><tbody><tr class="Row-Column-147"><td class="cell-style-override-17">
+            <p class="Table-text-left">20 25 24 33 13 26 10 19 39
+            31 11 16 21 17 11 34 14 15 21 18 17 38 16 21 25</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14">(a) Group the data
+    into three intervals of 10 seconds. Fill in the table to show
+    the grouped data.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-74" class="No-Table-Style"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+
+          </td>
+
+          <td class="cell-style-override-3">
+
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Do you think that learners will need at
+    least 40 seconds to answer this type of question? Explain.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Were there more learners who took at
+    least 20 seconds or more to answer the question than learners
+    who took less than 20 seconds? Explain.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-33">Summarising data: measures of central tendency and dispersion</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">One number speaks for many: the mode and the median</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. A farmer wants to know
+    whether he used good quality seed when he planted pumpkins. So
+    he counts the number of pumpkins on each of a sample of 20
+    pumpkin plants. The numbers of pumpkins are given below.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-4">6; 7; 3; 7; 4; 7;
+    7; 8; 7; 5; 7; 7; 6; 7; 8; 5; 4; 7; 6; 7</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Arrange the data values from smallest to
+    biggest, to get a clearer picture.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) The farmer says to his wife:
+    <span class="char-style-override-2"><i>Most of the plants have 7
+    pumpkins, so it is not too bad.</i></span> Do you think this is a
+    good summary of the data, or should he say something more?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">In some data sets some
+      values or items are repeated often. The value or item that
+      occurs most often is called the <b>mode</b>. Some data sets have more
+      than one mode, and many data sets have none.</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Instead of "most often"we can
+      also say "most frequently".</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Do you think that if the farmer had said
+    the following, his wife would be somewhat better informed about
+    the pumpkin plants?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-28"><i>The number of
+    pumpkins varies from 3 to 8, but there are 7 pumpkins on most
+    of the plants.</i></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Here are the Mathematics test
+    results, out of 30, of a small class of 21 learners.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">15; 7; 11; 7; 13; 4; 8; 9; 3; 7; 25; 7; 6; 10;
+    8; 9; 23; 19; 7; 5; 7</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Bongile scored 9 out of 30 in the
+    test, which is poor. Can he claim that his mark is in the top
+    half of the class? Explain your answer well.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A set of data can be separated into a
+    top half and a bottom half by arranging the data items from
+    smallest to largest and finding the number between the two
+    halves.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">For example, the data set</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">23; 35; 44; 21; 28; 32; 38; 41; 39; 42; 24;
+    27</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">can be rearranged like this:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml">
+    <tbody>
+    <tr>
+    <td>          <p class="Body-no-indent">21 23 24 27 28 32</p></td>
+        <td colspan="2" rowspan="2">         <div class="frame-29"><img class="frame-404" src="Maths_English_LB_gr8_term3_1-web-resources/image/215629.png" alt="215629.png"/></div> </td>
+            <td>          <p class="Body-no-indent">35 38 39 41 42 44</p></td>
+    </tr>
+        <tr>
+            <td>        <p class="caption">bottom half</p></td>
+                <td>        <p class="caption">top half</p></td>
+    </tr>
+    </tbody>
+    </table>
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The number that sits halfway between
+    the upper item in the bottom half and the lower item in the top
+    half in this case is 33,5.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">The number that separates a
+      set of data into an upper half and a lower half is called the
+      <b>median</b>.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Half of the items are above the
+    median and half of the items are below the median. To find the
+    median, the data items need to be arranged from smallest to
+    largest.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">If a numerical data set has an odd number of
+    items, the median is equal to the number in the middle of the
+    set, when the items are arranged from smallest to largest:</p>
+
+ <img xmlns="http://www.w3.org/1999/xhtml" class="frame-404" src="Maths_English_LB_gr8_term3_1-web-resources/image/Selection_006.png" alt="Selection_005.png"/>  
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Write down any eleven
+    different numbers so that the median is 24.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. The body weights in kg
+    of 25 learners are given below, all rounded off to the nearest
+    0,5 kg. This data was collected to find out whether 5-year-old
+    children in a certain village have healthy body weights.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-59">17; 16,5; 13,5;
+    14; 18; 18; 14; 21; 13,5;</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-59">15; 15; 14,5;
+    15,5; 19,5; 17; 17,5; 14;</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-59">14; 20; 14,5; 16;
+    18; 12; 16; 19</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Rearrange these data items into a bottom
+    half and a top half, and state what the median body weight
+    is.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">5. (a) Does the data set shown above
+    question 3 have a mode, and if it has what is it?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) What is the mode of the data set in
+    question 2 on page 96?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">If they were all equal ... but they are not</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-406" src="Maths_English_LB_gr8_term3_1-web-resources/image/G8_ch_6_page_102_hoend_fmt.jpeg" alt="G8%20ch%206%20page%20102_hoenders.tiff"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Five chickens are put
+    on a scale and the scale shows 6,500 kg which is the same as 6
+    500 g. What can you say if someone asks you:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><i>What does each of the chickens
+    weigh?</i></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. A roadside stall owner
+    has 10 watermelons to sell. They are not all of the same size
+    and he did not pay the farmer the same price for each
+    watermelon. So the stall owner weighs the watermelons and
+    decides to sell them at the following prices:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">R16 R16 R18 R15 R14 R14 R16 R14 R13
+    R14</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Check whether you agree that he will get
+    R150 for all 10 watermelons together.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) The stall owner now decides to make the
+    prices of all the watermelons the same, to simplify advertising
+    and selling. What should he make the price of each watermelon,
+    if he still wants to receive R150 for all of them together?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Susan bought 6
+    pumpkins at the market. Her husband Abraham asks her what she
+    paid for each pumpkin. Susan says:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging"><i>They actually came at different prices,
+    and I have forgotten the prices now. But I know I paid R72 in
+    total so it would have been the same if I paid R12 each. So you
+    can say that on average I paid R12 each.</i></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Check if Susan's answer to her husband
+    is correct. The actual prices she paid for the different
+    pumpkins are given below.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">R7 R15 R10 R16 R9 R15</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) How do you think Susan came to the R12
+    she used when she answered her hus band's question?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Check if Susan's answer would have been
+    correct if the actual prices of the pumpkins were as
+    follows:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">R11 R12 R13 R11 R12 R13</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-7">When she gave
+    an answer to her husband's question, Susan used the number 12
+    as a "summary" to represent the six different numbers 7; 15;
+    10; 16; 9 and 15. The number 12 is a good representation of 7;
+    15; 10; 16; 9 and 15 together because</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" class="no-border" id="table-77"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3"/>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">16</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">15</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">=</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+        </tr></tbody></table><div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">If each value in a data set
+      is replaced by the same number and the total remains the
+      same, the "replacement number" is called the <b>mean</b> or <b>average.</b></p>
+      <p>It can be calculated by dividing the total (sum) of
+the values by the number of values in the data set:
+Mean = sum of values \(\div\) number of values. (In the
+example above the mean is \(72 \div 6 = 12\).)
+</p>
+      <p>Like the median, the mean (average) may not be
+equal to any of the actual values in the data set.
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Look again at question
+    1 on page 102 about the five chickens. If you want to now give
+    a different answer than before, write it below.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. A journalist
+    investigated the price of white bread at different stores in
+    two large cities. The prices in cents at 10 different shops in
+    each city are given below.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-79" class="no-border"><tbody><tr class="Row-Column-92"><td class="cell-style-override-18">
+            <p class="ques-a-">City A:</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">927</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">885</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">937</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">889</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">861</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">904</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">899</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">888</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">839</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">880</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-18">
+            <p class="ques-a-"><span class="char-style-override-19">City B:</span></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-60">
+            890</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-60">
+            872</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-60">
+            908</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-60">
+            910</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-60">
+            942</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-60">
+            924</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-60">
+            900</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-60">
+            872</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-60">
+            933</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-19">948</span></p>
+          </td>
+        </tr></tbody></table>
+        <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) If you just look at the above data, do
+    you think one can say that white bread is cheaper in the one
+    city than in the other? Look carefully, and give reasons for
+    your answer.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Calculate the mean price of white bread
+    for the sample in each of the two cities.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Find the median bread price in the
+    sample for each of the two cities.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">6. Geoffrey is a stock famer. He
+    buys 21 goats at a mean price of R830 each.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) How much do the 21 goats cost, in
+    total?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) One of the goats was a stud goat for
+    which Geoffrey paid R4 800. What was the mean price of the
+    other 20 goats?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">7. (a) Find the mean and the median of this
+    data set.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">
+    <span>1; </span><span>1; </span><span>1; </span><span>1; </span><span>1; </span><span>1; </span><span>1; </span><span>1; </span><span>2; </span><span>2; </span><span>2; </span><span>2; </span><span>2; </span><span>2; </span>
+    130</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Write ten numbers so that the mean is
+    much smaller than the median.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Write ten numbers so that the mean is
+    much bigger than the median.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Write ten different numbers so that the
+    mean is equal to the median.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-7">8.
+    Here are the times taken by the different learners in Grade 8A
+    in a certain school, in seconds, to do question 7(b) above.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-80" class="no-border"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">30</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">36</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">14</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">14</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">29</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">39</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">37</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">35</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">24</p>
+          </td>
+
+          <td class="cell-style-override-3"/>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">29</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">29</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">18</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">16</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">38</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">13</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">24</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">27</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">22</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">38</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">29</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">38</p>
+          </td>
+        </tr></tbody></table>
+        <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Here are the times taken by the different
+    learners in Grade 8B in the same school, in seconds, to do
+    question 7(b).</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-81" class="no-border"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">22</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">39</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">22</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">16</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">37</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">36</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">14</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">13</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">16</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">14</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">26</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">14</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">31</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">17</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">28</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">39</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">35</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">26</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-3"/>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Which class works the fastest, Grade 8A or
+    Grade 8B? Explain your answer very well.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">How wide is the data spread?</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Two samples were taken
+    from the eggs produced on two different egg farms, to
+    investigate the masses of the eggs coming from the two
+    farms.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">The mean mass of the eggs
+    from farm A is 50,6 g and the median mass is 51,5 g.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">The mean mass of the eggs
+    from farm B is 50,3 g and the median mass is 52,0 g.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Do these figures indicate that the eggs
+    from the two farms are similar, or that they differ?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) The actual masses of the eggs in the two
+    samples are given below. Check whether the mean and median
+    masses given above are correct.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Masses of the sample of eggs from farm A, in
+    grams:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-82" class="no-border"><tbody><tr class="Row-Column-244"><td>
+            <p class="ques-a- para-style-override-62">51</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">54</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">45</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">53</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">49</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">54</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">55</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">46</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">54</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-26"><span class="char-style-override-19">45</span></p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Masses of the sample of eggs from farm B, in
+    grams:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-83" class="no-border"><tbody><tr class="Row-Column-244"><td>
+            <p class="ques-a- para-style-override-26">53</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-26">52</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-26">55</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-26">44</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-26">57</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-26">41</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">59</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">43</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">47</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-26"><span class="char-style-override-19">52</span></p>
+          </td>
+        </tr></tbody></table><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) In what way do the egg masses from the
+    two farms differ?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">The <b>range</b> of a set of data is the
+      <b>difference</b> between
+      the <b>maximum</b>
+      (highest or top value) and the <b>minimum</b> (lowest or bottom
+      value).</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">The values in the data set below vary from
+    36 to 60, hence the range is 60 - 36 = 24.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-85" class="no-border"><tbody><tr class="Row-Column-244"><td>
+            <p class="ques-a- para-style-override-62">36</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">36</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">39</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">39</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">43</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">45</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">46</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">47</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">52</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">52</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">53</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">55</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-62">57</p>
+          </td>
+
+          <td>
+            <p class="ques-a- para-style-override-26"><span class="char-style-override-19">60</span></p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. The following data
+    shows the exam marks of two groups of learners.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Group 1: 30   31  35  50  55  58  60  70  78  80  88  88 
+    90  90</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Group 2: 55  55  56  57  59  59  59  67  69  75 80  80 
+    80  81</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Compare the two groups by completing the
+    following statements.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) In group 1 the marks vary
+    from  .............. to.............., a range of.............. .</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) In group 2 the marks vary
+    from..............to.............., a range of.............. .</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. These two sets of data
+    show the prices of houses that have been sold in towns A and B
+    in one month:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Town A: R321 000 R199 000 R181 000 R303
+    000</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">R299 000 R248 000 R283 000 R315 000</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">R405 000 R380 000 R322 000</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span class="M-Body-no-indent-Char">Town
+    B:</span> R88 000 R122 000 R175 000 R166 000 R107 000 R105 000
+    R1 114 000 R100 000</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">R151 000 R1 199 000 R146 000</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Read through the prices in each list and
+    write down anything that comes to your mind when you look at
+    the two sets of figures.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) You have been asked to write a short
+    paragraph on the house prices in the two towns, for the local
+    newspaper. You want to make it quick and easy for the readers
+    to get some sense of the house prices in the two towns. Work in
+    the space below and then write your newspaper paragraph neatly
+    in the frame.</p>
+
+        <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="large" src="Maths_English_LB_gr8_term3_1-web-resources/image/Maths-Gr8-Eng-Term3-107-img1.png" alt="216153.png"/></div>
+        
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The mean price for houses in the list
+    for town A on the previous page is R296 000. This is very close
+    to the median of R303 000. All the prices in town A are within
+    R115 000 of the mean.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The mean price for houses in the list for town
+    B is R315 727, which is more than double the median price of
+    R146 000. Nine of the eleven houses in town B cost far less
+    than the mean, while the prices in town A are evenly spread on
+    both sides of the mean.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Someone asks you about
+    the house prices in towns A and B, and you say: <span class="char-style-override-2">The mean house price in town A is R296
+    000, and the mean house price in town B is R315 727.</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Does this statement provide good
+    information about the difference in the house prices in the two
+    towns? In what way may it actually be misleading?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) What causes the mean to be a misleading
+    way of describing the data for the house prices in town B?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Data items like the house prices of
+    R1 114 000 and R1 199 000 in the list for town B in question 3
+    are called <b>outliers</b>
+    (or extreme values). Outliers are data values that are much
+    lower or much higher than any other values in the data set. The
+    mean is not a good way to summarise a set of data with
+    outliers.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">5. (a) Is there an outlier in this set of
+    monthly salaries of the employees at a small business?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">R8 000 R2 500 R75 000 R6 000 R7 500</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">R5 200 R4 800 R10 300 R15 000 R9 500</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Would the median prices of the two data
+    sets be a good way to indicate the main difference between
+    house prices in towns A and B in question 3? Explain your
+    answer.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    
+  </div>
+</div>
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

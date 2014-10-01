@@ -1,0 +1,1477 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr8 Wiskunde</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Wissel navigasie</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index-afr.html">Gr 7-9 Werkboeke</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/index-afr.html">Tuisblad</a></li>
+                          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wiskunde<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/wiskunde/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/wiskunde/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/wiskunde/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natuurwetenskappe<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/natuurwetenskappe/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/natuurwetenskappe/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/natuurwetenskappe/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tegnologie<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/tegnologie/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/tegnologie/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/tegnologie/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+
+            <li><a href="/aflaaibares-afr.html">Aflaaibares</a></li>
+            <li><a href="/oorons-afr.html">Oor ons</a></li>
+            <li><a href="/oorons-afr.html#contact">Kontak</a></li>
+           
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container">
+        <div class="language-toggle">
+            <button type="button" class="btn btn-default ">English</button>
+            <button type="button" class="btn btn-primary active">Afrikaans</button>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-9">Grafieke</h1>
+    
+ 
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">In hierdie hoofstuk gaan jy met globale grafieke werk.
+	 Hierdie grafieke gee ’n visuele beeld
+	van hoe veranderlikes verander. Die fokus is op tendense, eerder as op presiese aflesings
+	</p>
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-10">Wat ons met grafieke kan sê</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Interpreteer grafieke</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Mev. Malan is ’n melkboer. Sy sien om na haar koeie en weeg elkeen van hulle
+daagliks. Hier is ’n grafiek van een van haar koeie se massa in kilogram oor ’n tydperk
+van 6 maande. Teen die einde van Februarie was die massa van die koei
+450 kg, soos deur die rooi kolletjie aangedui.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-103" src="Maths_English_LB_gr8_term4_1-web-resources/image/afr-p161.png" alt="afr-p161.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Die massa van die koei het ’n paar dae na die helfte van 
+	Februarie ’n hoogtepunt   	
+  	bereik, soos die rooi pyltjie op die grafiek wys. Wanneer, in die tydperk wat deur 	
+	die grafiek aangedui word, het die koei se massa ’n minimum bereik?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Die koei het gedurende die grootste deel van Februarie ’n 
+	bietjie meer as 450 kg 	
+	geweeg. Gedurende watter maand het die koei die hele tyd minder as 430 kg geweeg?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Die massa van die koei het gedurende Junie 
+	stelselmatig toegeneem. Gedurende 		
+	watter ander maand was dit ook die geval?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Gedurende watter maande het die massa van die koei stelselmatig afgeneem?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Die blou en rooi kurwes hier onder is grafieke wat aantoon hoe die massa van twee
+koeie oor dieselfde tydperk gevarieer het.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-103" src="Maths_English_LB_gr8_term4_1-web-resources/image/afr-p162.png" alt="afr-p162.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) Watter koei se massa was die grootste teen die einde van Februarie?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Wanneer was koei B se massa groter as koei A s’n?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Gedurende watter maande het die massa van koei A die hele tyd afgeneem?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Wanneer het koei A opgehou om gewig te verloor en weer begin om gewig op te tel?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) Gedurende watter maand het koei B begin om gewig te verloor, terwyl koei A
+daardie hele maand gewig opgetel het?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(f) Wanneer het koei A se massa weer die van koei B ingehaal?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g) Wanneer het koei A opgehou om gewig op te tel en weer begin gewig verloor?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(h) Wanneer het koei B se massa weer die van koei A ingehaal?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. ’n Verkeersdepartement teken die verkeersdigtheid op verskillende paaie aan. Twee
+	verkeersbeamptes word êrens langs elke hoofpad geplaas. Hulle tel en skryf die getal
+	motors neer wat gedurende elke interval van 15 minute in elke rigting ry. Hulle
+	gebruik telstrepies om dit te doen, soos jy in die voorbeeld hier onder kan sien.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-54" class="No-Table-Style"><tbody><tr class="Ry-Column-104"><td class="cell-style-override-4"/>
+
+          <td class="cell-style-override-11">
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB">////</p>
+
+ <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+          </td>
+
+          <td class="cell-style-override-11">
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB">///</p>
+
+	    <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+	    <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+          </td>
+
+          <td class="cell-style-override-11">
+	    <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> //</p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+          </td>
+
+          <td class="cell-style-override-11">
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> ////</p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+          </td>
+
+          <td class="cell-style-override-11">
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB">/</p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+          </td>
+
+          <td class="cell-style-override-11">
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> ///</p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+
+            <p class="Table-text-centred para-style-override-26" xml:lang="en-GB"><span class="char-style-override-26"><del>////</del></span> <span class="char-style-override-26"><del>////</del></span></p>
+          </td>
+        </tr><tr class="Ry-Column-105"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">Tyd</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">06:00 to
+            06:15</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">06:15 to
+            06:30</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">06:30 to
+            06:45</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">06:45 to
+            07:00</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">07:00 to
+            07:15</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">07:15 to
+            07:30</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">Motors</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">14</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">23</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">37</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">59</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">71</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">48</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">Watter van die grafieke hier 
+	onder dink jy gee die beste voorstelling van die bostaande
+	gegewens oor verkeersvloei?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+   
+    
+       
+     <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p163-img1.png" alt="170640.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Watter van die grafieke op die vorige bladsy is die beste voorstelling van elkeen van
+hierdie verkeersvloeiverslae?</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-55" class="No-Table-Style"><tbody><tr class="Ry-Column-105"><td>
+            <p class="ques-a-">(a)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">Tyd</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">06:00 to
+            06:15</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">06:15 to
+            06:30</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">06:30 to
+            06:45</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">06:45 to
+            07:00</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">07:00 to
+            07:15</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">07:15 to
+            07:30</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td/>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">Motors</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">42</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">53</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">64</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">75</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">86</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">75</p>
+          </td>
+        </tr></tbody></table><table xmlns="http://www.w3.org/1999/xhtml" id="table-56" class="No-Table-Style"><tbody><tr class="Ry-Column-105"><td>
+            <p class="ques-a-">(b)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">Tyd</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">06:00 to
+            06:15</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">06:15 to
+            06:30</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">06:30 to
+            06:45</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">06:45 to
+            07:00</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">07:00 to
+            07:15</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">07:15 to
+            07:30</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td/>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">Motors</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">42</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">123</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">158</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">147</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">136</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">124</p>
+          </td>
+        </tr></tbody></table><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. Bestudeer hierdie grafiek van die massa van ’n ander koei:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-103" src="Maths_English_LB_gr8_term4_1-web-resources/image/afr-p164.png" alt="afr-p164.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Gedurende watter tydperke het die koei gewig verloor?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Gedurende watter van hierdie periodes het die koei stadiger gewig verloor?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Gedurende watter periode het die koei se gewig die 
+	vinnigste afgeneem?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Vergelyk die twee tydperke toe die koei gewig opgetel het.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) Is daar enigiets anders in hierdie grafiek wat kan aandui dat die koei nie gesond
+is nie?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Hoe grafieke toenames en afnames wys</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">’n Grafiek op ’n koördinaatstelsel wys hoe een hoeveelheid (die afhanklike veranderlike
+	genoem) verander as ’n ander hoeveelheid (die onafhanklike veranderlike) toeneem. ’n
+	Hoeveelheid kan op verskillende maniere verander:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet"><span class="char-style-override-8"/> dit kan toeneem of dit kan afneem;</li>
+
+      <li class="Body-bullet"><span class="char-style-override-8"/> dit kan teen ’n konstante koers (tempo) toeneem, byvoorbeeld die totale bedrag
+	gespaar as dieselfde bedrag elke week of maand gespaar word;</li>
+
+      <li class="Body-bullet"><span class="char-style-override-8"/> dit kan teen ’n konstante koers afneem, byvoorbeeld die lengte van ’n brandende kers;</li>
+
+      <li class="Body-bullet"><span class="char-style-override-8"/> dit kan teen ’n veranderende koers toeneem of afneem, byvoorbeeld die toename van
+die oppervlakte van ’n vierkant as die sylengtes toeneem.</li>
+    </ul><div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">As ’n hoeveelheid teen ’n
+ <b>konstante koers</b>, it is called
+      <b>linear</b> toeneem of afneem, word dit
+ <b>lineêre</b> verandering of
+variasie genoem, en is die grafiek ’n
+	 <b>reguit lyn</b>.</p> <p>As die koers van die verandering
+ <b>nie konstant</b> is
+nie, word dit
+	 <b>nie-lineêre</b> verandering genoem en is
+die grafiek ’n <b>kurwe</b>.</p>
+
+      <p>As die uitvoerveranderlike onveranderd bly, is die
+grafiek ’n horisontale reguit lyn.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Teken ’n grafiek om elkeen van die volgende beskrywings voor 
+	te stel.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Die hoeveelheid neem toe, en neem dan teen ’n vinniger koers toe.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Die hoeveelheid neem eers stadig teen ’n konstante koers toe en neem dan 
+	teen ’n vinniger konstante koers toe.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Die hoeveelheid neem vinniger en vinniger af.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Die hoeveelheid neem toe en die koers van toename neem geleidelik af.</p>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Bewerings en grafieke oor die patroon van verandering in die prys van petrol per liter
+	oor ’n bepaalde tydperk word hier onder gegee. Koppel elke bewering aan die gepaste
+	grafiek hier onder. Tyd word op die horisontale en die petrolprys op die vertikale as
+	voorgestel in al die grafieke.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) Die prys het nie verander nie.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Die prys het teen konstante koers gestyg.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) Die prys het teen ’n konstante koers gedaal.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) Die prys het eers baie vinnig gedaal en toe 
+	teen ’n stadiger koers.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-8">(e) Die prys het tot op ’n sekere 
+	vlak teen ’n afnemende koers gestyg en daarna   	
+  	toenemend begin daal.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+         <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-103" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p166-img1.png" alt="170640.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Voltooi die volgende tabel met betrekking tot die grafieke in vraag 2.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-58" class="No-Table-Style"><tbody><tr class="Ry-Column-117"><td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Grafiek</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Stel ’n lineêre of nie-lineêre
+verband voor</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Rede</b></p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">A</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">B</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">C</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">D</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">E</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">4. (a) Watter grafiek stel ’n hoeveelheid voor wat teen ’n konstante koers daal?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Watter grafiek stel ’n hoeveelheid voor wat teen ’n toenemende koers daal?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-24">(c)
+    Watter grafiek stel ’n hoeveelheid voor wat teen ’n afnemende koers daal?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+     <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-103" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p166-img2.png" alt="170640.png"/></span> </p>
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-11">Nog eienskappe van grafieke</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Lokale maksimum- en minimumwaardes</h3>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">’n Grafiek het ’n maksimumwaarde as dit van stygend
+na dalend verander. </p><p>
+’n Grafiek het ’n minimumwaarde as dit van dalend
+na stygend verander.</p><p>
+’n Grafiek kan veelvuldige minimum- of maksi-
+mumwaardes hê.
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Bestudeer die grafieke hier onder. 
+	Beskryf hoe die afhanklike veranderlike in elke
+	vraag varieer deur aan te dui watter grafiek by watter beskrywing pas.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) Die veranderlike het ’n maksimumwaarde,
+want dit verander van stygend na dalend.</p>
+
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Die veranderlike het ’n minimumwaarde, want
+dit verander van dalend na stygend.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) Die veranderlike het ’n maksimum- so wel as ’n
+  minimumwaarde, want dit verander van stygend
+ 	na dalend en dan weer van dalend na stygend.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-103" src="Maths_English_LB_gr8_term4_1-web-resources/image/pg1677.png" alt="170640.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Teken grafieke op die volgende bladsy wat ooreenstem met die beskrywings wat hier onder gegee word.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) ’n Hoeveelheid verander op ’n nie-lineêre manier deurdat dit van dalend 
+	na stygend en dan weer van stygend na dalend verander.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) ’n Hoeveelheid verander van toename teen ’n konstante koers na afname 	teen ’n konstante koers en bly dan konstant.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-103" src="Maths_English_LB_gr8_term4_1-web-resources/image/afr-p168.png" alt="afr-p168.png"/></span> </p>
+ 
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Diskreet of "aaneenlopend"</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Watter van die items in die gegewe lys kan jy tel en
+watter moet gemeet word?</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Hoeveelhede kan getel,
+gemeet of bereken word.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) Getal sakke sement verkoop</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Lengtes van leerders in graad 8</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) Tye geneem vir atlete om die 400 m hekkies te voltooi by die Olimpiese Spele</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) Die getal lekkers in verskeie sakkies van 500 g</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e) Die afstand wat leerders skool toe moet aflê</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(f) Die getal motors wat verby ’n skolierpatrolliekruising ry</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(g) Die koste van ’n oefeningboek in rand en sent</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(h) Temperatuur</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Skryf jou antwoorde in die tabel.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-60" class="No-Table-Style"><tbody><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Kan slegs getel word</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Kan slegs gemeet word</b></p>
+          </td>
+        </tr><tr class="Ry-Column-126"><td class="cell-style-override-4">
+            <p class="AntwoordS-Table-text-left" xml:lang="en-GB"/>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="AntwoordS-Table-text-left" xml:lang="en-GB"/>
+          </td>
+        </tr><tr class="Ry-Column-126"><td class="cell-style-override-4">
+            <p class="AntwoordS-Table-text-left" xml:lang="en-GB"/>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-126"><td class="cell-style-override-4">
+            <p class="AntwoordS-Table-text-left" xml:lang="en-GB"/>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="AntwoordS-Table-text-left" xml:lang="en-GB"/>
+          </td>
+        </tr><tr class="Ry-Column-126"><td class="cell-style-override-4">
+            <p class="AntwoordS-Table-text-left" xml:lang="en-GB"/>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="AntwoordS-Table-text-left" xml:lang="en-GB"/>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Maak die volgende sin? Verduidelik.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) 501,3 leerders woon die eerstespan se wedstryd by.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Die afstand vanaf die skool na die naaste winkelkompleks is 10,75 
+	km.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) 2 004,75 blikkies koeldrank is gedurende ’n fondsinsameling 
+	verkoop.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><b>Kwantitatiewe data</b> is numeriese data soos jou
+	punte vir ’n wiskundetoets. Hoeveelhede wat getel
+	kan word, word soms as diskreet beskryf: daar kan
+	geen waardes tussen twee opeenvolgende waardes
+	voorkom nie. Jy kan byvoorbeeld nie 2,6 mense kry nie.
+	Hoeveelhede wat altyd nog waardes tussen enige twee
+	waardes toelaat, word soms as aaneenlopend beskryf.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Die terme "diskreet" en
+	"aaneenlopend" word in ander
+	betekenisse as hierdie in formele
+	wiskunde gebruik.</p>
+    </div>
+
+
+
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-12">Teken grafieke</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Teken globale grafieke</h3>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">’n Ononderbroke lyn of kurwe word gewoonlik gebruik
+	om ’n grafiek van aaneenlopende data te teken.
+	</p> <p> Vir ’n grafiek van diskrete data word gewoonlik ’n stel
+	afsonderlike punte gestip.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-13">Kyk na die volgende situasies.</p>
+
+ <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-20"><b>Situasie
+   1</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Getal pasteie wat leerders gedurende ’n skoolweek koop.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-129" src="Maths_English_LB_gr8_term4_1-web-resources/image/afr-p169.png" alt="afr-p169.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-20"><b>Situasie
+   2</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Grafiek van die lengte van ’n leerder oor ’n tydperk</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-129" src="Maths_English_LB_gr8_term4_1-web-resources/image/afr-p170.png" alt="afr-p170.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. (a) Watter soort data stel die grafiek in situasie 1 voor?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Watter soort data stel die grafiek in situasie 2 voor?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Hoekom dink jy is die grafiek in situasie 2 ’n ononderbroke lyn?</p>
+    
+	<hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) WHoekom is die punte in situasie 1 nie verbind nie?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Maak ’n ruwe skets van die grafiek vir elkeen van 
+	die situasies. Gebruik die spasies hier
+	onder en op die volgende bladsy.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) die hoogte van ’n jong boom en sy ouderdom
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) die vlak van water in ’n dam oor ’n tydperk sonder enige 
+	reën</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) die temperatuur onder ’n boom oor 24 uur</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-1">(a) </p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)</p>
+
+ <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Grafieke van geordende pare</h3>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Invoer- en uitvoergetalle kan as pare geskryf word. Die
+	eerste getal in ’n paar stel die invoergetal voor en die
+	tweede getal stel die uitvoergetal voor. Ons sê dus dat
+	die getallepaar georden is.</p> 
+	
+	<p>Om ’n grafiek van <b>geordende getallepare</b> te maak
+	is nog ’n manier om die verband tussen die invoer- en
+	uitvoerwaardes aan te dui.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Wanneer jy ’n grafiek van geordende pare teken, werk soos volg:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet"> Herken eers die invoerwaardes (\(x\)) en die uitvoerwaardes 
+	(\(y\)). In 
+	die meeste gevalle
+	sal die invoerwaardes gegee word en die uitvoerwaardes volgens die gegewe formule
+	bereken word.
+	</li>
+
+      <li class="Body-bullet"> Die uitvoerwaardes word op die \(y\)-as (die vertikale as) en die 
+	invoerwaardes op die
+	\(x\)-as (die horisontale as) geskryf.</li>
+
+      <li class="Body-bullet"> Stip die geordende paar. Veronderstel die geordende paar is (3; 6). 
+	Om dit te doen
+	sit jy jou vinger op die getal 3 op die \(x\)-as en nog ’n vinger op die getal 6 op die \(y\)-as.
+	Beweeg die vinger op getal 3 reguit opwaarts en beweeg die vinger op getal 6 dwars
+	na regs. Maak ’n punt waar jou twee vingers bymekaarkom. Jy kan hierdie punt as die
+	geordende paar (3; 6) beskryf.</li>
+
+    </ul><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1.  Stip die geordende getallepare:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) A(0; 3)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) B(3; 0)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) C(-2; 1)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) D(4; -4)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e) E(-3; -2)</p>
+    
+<div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="medium" src="Maths_English_LB_gr8_term4_1-web-resources/image/170170.png" alt="170170.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) Voltooi die tabel vir
+   \(y=x+3\)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-63" class="No-Table-Style"><tbody><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred para-style-override-9" xml:lang="en-GB">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">
+            \((x;y\))</p>
+          </td>
+        </tr><tr class="Ry-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-3</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-2</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">1</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">(-2;
+            1)</p>
+          </td>
+        </tr><tr class="Ry-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-1</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">0</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">1</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">(1;
+            4)</p>
+          </td>
+        </tr><tr class="Ry-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">2</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">3</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr></tbody></table><div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="medium" src="Maths_English_LB_gr8_term4_1-web-resources/image/170146.png" alt="170146.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Stip die geordende pare op die gegewe koördinaatstelsel.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Verbind die punte om ’n grafiek te vorm.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Die geordende paar (1; 6) is nie op die grafiek nie, 
+	want as ons die waarde van \(x(x=1)\) in die formule
+    \(y = x + 3\) vervang, kry ons 4 in plaas van 6.
+    [\(y = 1 + 3 = 4\)]</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Is die geordende paar (100; 103) op die grafiek? Verduidelik.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3. (a) Voltooi die tabel vir die
+    formule \(y = x^2 + 3.\)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-64" class="No-Table-Style"><tbody><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred para-style-override-9" xml:lang="en-GB">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred para-style-override-9" xml:lang="en-GB">\(y\)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">
+            (\(x;y\))</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-3</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-2</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">7</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">(-2;
+            7)</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-1</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">0</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">1</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">(1;
+            4)</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">2</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">3</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr></tbody></table><div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="medium" src="Maths_English_LB_gr8_term4_1-web-resources/image/170121.png" alt="170121.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Stip die koördinate op die
+	assestelsel op regterhand.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-31">Verbind die punte om ’n
+	grafiek te vorm.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Is die punt (10; 103) op die grafiek?
+	Verduidelik.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">4. (a) Voltooi die tabel vir die
+    formule \(y = -x + 3.\)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="medium" src="Maths_English_LB_gr8_term4_1-web-resources/image/171074.png" alt="171074.png"/></div>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-65" class="No-Table-Style"><tbody><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred para-style-override-9" xml:lang="en-GB">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred para-style-override-9" xml:lang="en-GB">\(y\)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">
+            (\(x;y\))</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-3</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-2</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">5</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">(-2;
+            5)</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-1</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">0</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">1</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">2</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">(1;
+            2)</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">2</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">3</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)Stip die geordende pare op die assestelsel.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Verbind die punte om ’n grafiek te vorm.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Wat is die waardes van die geordende paar A op die grafiek?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">5. (a) Voltooi die tabel vir die
+    formule \(y = -x^2 + 3.\)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-66" class="No-Table-Style"><tbody><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred para-style-override-9" xml:lang="en-GB">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred para-style-override-9" xml:lang="en-GB">\(y\)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">
+            (\(x;y\))</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-3</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-2</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-1</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">(-2;
+            -1)</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-1</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">0</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">1</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">2</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">(1;
+            2)</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">2</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">3</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr></tbody></table><div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="medium" src="Maths_English_LB_gr8_term4_1-web-resources/image/170046.png" alt="170046.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Stip die geordende pare op die
+    gegewe assestelsel.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Verbind die punte om ’n grafiek te vorm.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">6. (a) Voltooi die tabel vir die
+    formule \(y=x\).</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="medium" src="Maths_English_LB_gr8_term4_1-web-resources/image/171089.png" alt="171089.png"/></div>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-67" class="No-Table-Style"><tbody><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred para-style-override-9" xml:lang="en-GB">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred para-style-override-9" xml:lang="en-GB">\(y\)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">
+            (\(x;y\))</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-3</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-2</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-2</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">(-2;
+            -2)</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">-1</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">0</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">1</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">1</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">(1;
+            1)</p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">2</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">3</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Stip die geordende pare op die
+    assestelsel.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Verbind die punte om ’n grafiek te vorm.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Skryf die waardes van die geordende pare A en B op die grafiek.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+  </div>
+</div>
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

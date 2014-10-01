@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr8 Wiskunde</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Wissel navigasie</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index-afr.html">Gr 7-9 Werkboeke</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/index-afr.html">Tuisblad</a></li>
+                          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wiskunde<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/wiskunde/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/wiskunde/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/wiskunde/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natuurwetenskappe<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/natuurwetenskappe/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/natuurwetenskappe/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/natuurwetenskappe/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tegnologie<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/tegnologie/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/tegnologie/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/tegnologie/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+
+            <li><a href="/aflaaibares-afr.html">Aflaaibares</a></li>
+            <li><a href="/oorons-afr.html">Oor ons</a></li>
+            <li><a href="/oorons-afr.html#contact">Kontak</a></li>
+           
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container">
+        <div class="language-toggle">
+            <button type="button" class="btn btn-default ">English</button>
+            <button type="button" class="btn btn-primary active">Afrikaans</button>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-23">Buite-oppervlakte en volume van</h1>
+  
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">Die buite-oppervlakte van ‘n voorwerp is die grootte van die plat vlakke reg rondom die
+voorwerp. Die volume van die voorwerp is die hoeveelheid ruimte wat ‘n voorwerp beslaan.
+In hierdie hoofstuk gaan jy formules gebruik om die volume en die buite-oppervlakte van
+kubusse, reghoekige prismas en driehoekige prismas te bereken. Jy sal ook die verband
+tussen buite-oppervlakte en volume ondersoek, en hersien hoe om tussen verskillende
+volume-eenhede te herlei.
+</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-24">Van na</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">2D-voorwerpe het slegs lengte en breedte, terwyl 3D-voorwepe lengte, breedte en
+hoogte het.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-305" src="Maths_English_LB_gr8_term3_1-web-resources/image/AFR-213374.png" alt="213374.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">‘n 2D-figuur het slegs een oppervlak. Ons noem die grootte van hierdie plat vlak die
+<b>oppervlakte
+</b> van die figuur.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">‘n 3D-voorwerp het meer as een oppervlak. Byvoorbeeld, ‘n kubus het ses vlakke. Die
+groottes van hierdie vlakke aan die buitekant van ‘n 3D-voorwerp word die
+<b>buite-oppervlakte
+</b> genoem.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">‘n 2D-figuur is plat, dus neem dit slegs ruimte in twee rigtings op. Maar ‘n
+3D-voorwerp het hoogte ook, dus neem dit ook ruimte op in ‘n derde rigting. Die ruimte
+wat ‘n 3D-voorwerp beslaan, word sy
+ <b>volume</b> genoem.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Ondersoek die buite-oppervlakte en volume van ’n boek</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Werk met ‘n maat. Kies elkeen ‘n boek. Die boeke moet van verskillende groottes wees.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Voel oor al die buite-oppervlakke van jou boek.
+Hoeveel vlakke het jou boek?
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-306" src="Maths_English_LB_gr8_term3_1-web-resources/image/213365.png" alt="213365.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Skat of die buite-oppervlakte van jou boek groter of
+kleiner as dié van jou maat se boek is.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Verduidelik hoe jy sou bereken wat die minimum papier is wat jy nodig sou hê om jou
+boek oor te trek.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Skat wie se boek die meeste ruimte beslaan. Hoe sou julle kon bereken wie se boek
+werklik die meeste ruimte beslaan?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-25">Buite-oppervlakte van</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Gebruik nette om buite-oppervlakte te ondersoek</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die buite-oppervlakte van ‘n voorwerp is gelyk
+aan die som van die oppervlaktes van al sy vlakke.
+Dus kan ons die net van ‘n voorwerp gebruik om sy
+buite-oppervlakte te ondersoek.
+</p>
+<div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">‘n Net of ontvouing is ‘n plat
+figuur wat gevou kan word om
+‘n 3D-voorwerp te maak.
+</p>
+    </div>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die diagramme hier onder wys 3D-voorwerpe met hulle nette.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Gebruik die gegewe afmetings om die oppervlakte van elke vlak van die net te bereken.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Tel al die vlakke se oppervlaktes bymekaar om die buite-oppervlakte van die
+voorwerp te bepaal.
+</p>
+
+ 
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-37">
+    <span><img class="medium" src="Maths_English_LB_gr8_term3_1-web-resources/image/Maths-Gr8-afr-Term3-p74-img1.png" alt="213325.png"/></span> </p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+ 
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body"><span><img class="medium" src="Maths_English_LB_gr8_term3_1-web-resources/image/Maths-Gr8-afr-Term3-p75-img1.png" alt="214717.png"/></span></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+ 
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-38">
+    <span><img class="frame-310" src="Maths_English_LB_gr8_term3_1-web-resources/image/Maths-Gr8-afr-Term3-p75-img2.png" alt="213307.png"/></span> </p>
+    
+<hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Lei formules vir buite-oppervlakte af</h3>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Die buite-oppervlakte van ‘n prisma = die som
+van die oppervlaktes van al sy vlakke gedoen het om te bepaal watter van die volgende formules korrek is. Merk die wat jy dink korrek is deur ‘n ✓ in die blokkie te maak.
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. (a) Gebruik die algemene formule hier bo en die werk wat jy op die vorige bladsy
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">☐ \(\text{Buite-oppervlakte van ‘n kubus } = 4 \times s\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">☐ \(\text{Buite-oppervlakte van ‘n kubus } = s \times s \times s \times s\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">☐ \(\text{Buite-oppervlakte van ‘n kubus } = 6 \times s^2\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">☐ \(\text{Buite-oppervlakte van ‘n kubus } = s^6\)</p>
+    
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-312" src="Maths_English_LB_gr8_term3_1-web-resources/image/213267.png" alt="213267.png"/></div>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Verduidelik jou keuse.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) Skryf ‘n formule vir die buite-oppervlakte van enige
+reghoekige prisma.
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-313" src="Maths_English_LB_gr8_term3_1-web-resources/image/213229.png" alt="213229.png"/></div>
+<hr xmlns="http://www.w3.org/1999/xhtml"/> 
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Verduidelik jou formule.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3. (a) Skryf ‘n formule vir die buite-oppervlakte van enige
+driehoekige prisma.
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-314" src="Maths_English_LB_gr8_term3_1-web-resources/image/214746.png" alt="214746.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Verduidelik jou formule.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Gebruik die formules in vrae 1 tot 3 om die buite-oppervlaktes van die kubus, diereghoekige prisma en die driehoekige prisma in vrae 1 tot 3 te bereken.
+
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">Buite-oppervlakte van kubus:</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Buite-oppervlakte van reghoekige prisma:
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Buite-oppervlakte van driehoekige prisma:
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Berekeninge oor buite-oppervlakte</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Werk die buite-oppervlakte van die
+volgende vier voorwerpe uit.
+Gee al die antwoorde in
+ cm<sup>2</sup>.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Onthou:</p>
+
+      <p class="Body-box-no-indent">1 cm<sup>2</sup> = 100 mm<sup>2</sup> 1 mm<sup>2</sup> = 0,01 cm<sup>2</sup></p>
+
+      <p class="Body-box-no-indent">1 m<sup>2</sup> = 10 000 cm<sup>2</sup> 1 cm<sup>2</sup> = 0,0001 m<sup>2</sup></p>
+
+      <p class="Body-box-no-indent">1 km<sup>2</sup> = 1 000 000 m<sup>2</sup> 1 m<sup>2</sup> = 0,000001 km<sup>2</sup></p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span class="char-style-override-2"><i>Dit mag ‘n goeie idee wees om eers ‘n skets van die net te maak voordat jy die berekening doen.
+</i></span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-316" src="Maths_English_LB_gr8_term3_1-web-resources/image/214767.png" alt="214767.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-320" src="Maths_English_LB_gr8_term3_1-web-resources/image/AFR-213163.png" alt="213163.png"/></div>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3.</p>
+        
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-321" src="Maths_English_LB_gr8_term3_1-web-resources/image/213152.png" alt="213152.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>   
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4.</p>
+        
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-322" src="Maths_English_LB_gr8_term3_1-web-resources/image/213138.png" alt="213138.png"/></div>
+    
+            <hr xmlns="http://www.w3.org/1999/xhtml"/>
+            
+            <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-26">Volume van</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Lei formules af om volume te bereken</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Dink aan ‘n prisma as met ‘n basis. As jy die basis
+tussen die syvlakke van die prisma opwaarts beweeg,
+sal die oppervlakte van die basis oral presies dieselfde
+bly.
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Syvlakke is die vlakke wat nie
+basisse is nie.</p>
+    </div>
+
+   
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-325" src="Maths_English_LB_gr8_term3_1-web-resources/image/AFR-213088.png" alt="213088.png"/></span> </p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Volume van ‘n prisma = Oppervlakte van basis  \(\times\)  hoogte
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Gebruik die algemene formule hier bo om ‘n formule
+vir die volume van ‘n kubus, reghoekige prisma en
+driehoekige prisma te skryf.
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent"><b>Volume</b> is die hoeveelheid
+ruimte wat ‘n voorwerp
+beslaan.
+</p>
+    </div>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">A. Kubus </p>
+<div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-328" src="Maths_English_LB_gr8_term3_1-web-resources/image/213037.png" alt="213037.png"/></div>
+    
+        <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">B. 	
+Reghoekige prisma
+</p>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-327" src="Maths_English_LB_gr8_term3_1-web-resources/image/213046.png" alt="213046.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent para-style-override-2"><b>Nota oor reghoekige
+prisma
+</b></p>
+
+      <p class="Body-box-no-indent"><span>Moenie deurmekaar raak nie met:
+</span></p>
+
+      <ul><li class="Body-box-no-indent para-style-override-40">
+        <span class="Word-Imported-List-Style3 char-style-override-37"/>die basis van die prisma en
+die basis van die driehoekige
+vlak van die prisma
+</li>
+
+        <li class="Body-box-no-indent para-style-override-40">
+        <span class="Word-Imported-List-Style3 char-style-override-37"/>die hoogte van die prisma
+en die hoogte van die drie-
+hoekige vlak van die prisma.
+</li>
+      </ul></div>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">C. Driehoekige prisma
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-332" src="Maths_English_LB_gr8_term3_1-web-resources/image/AFR-212956.png" alt="212956.png"/></div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-333" src="Maths_English_LB_gr8_term3_1-web-resources/image/AFR-212947.png" alt="212947.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Jy behoort die volgende formules vir volume gevind het:
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">\(\text{Volume van ‘n kubus} =
+      s^3 \text{ or } s \times s \times s\)</p>
+
+      <p class="Body-content-no-indent">\(\text{Volume van ‘n reghoekige prisma} = l \times b \times h\)</p>
+
+      <p class="Body-content-no-indent">\(\text{Volume van ‘n driehoekige prisma
+} = \frac{1}{2}( basis \times h) \times \text{hoogte van prisma}\)</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Omdat ons met drie
+dimensies vermenigvuldig,
+is die eenhede wat gebruik
+word kubieke eenhede, bv.
+ mm<sup>3</sup>, cm<sup>3</sup> or m<sup>3</sup>.</p>
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Bereken die volume</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-4">Bereken die volume van die volgende voorwerpe met behulp van die formules hier bo.
+</p>
+
+ 
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-338" src="Maths_English_LB_gr8_term3_1-web-resources/image/AFR-212869.png" alt="212869.png"/></div>
+ 
+            <hr xmlns="http://www.w3.org/1999/xhtml"/> 
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-340" src="Maths_English_LB_gr8_term3_1-web-resources/image/212860.png" alt="212860.png"/></div>
+ 
+            <hr xmlns="http://www.w3.org/1999/xhtml"/> 
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-341" src="Maths_English_LB_gr8_term3_1-web-resources/image/212844.png" alt="212844.png"/></div>
+                    <hr xmlns="http://www.w3.org/1999/xhtml"/> 
+                    
+        <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-27">Verband tussen buite-oppervlakte en volume</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Het voorwerpe met dieselfde volume altyd dieselfde buite-oppervlakte? Ondersoek dit en
+vind uit!
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. (a) Bereken die buite-oppervlakte en volume van die reghoekige prismas deur die
+tabel hier onder te voltooi.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-343" src="Maths_English_LB_gr8_term3_1-web-resources/image/212818.png" alt="212818.png"/></span> </p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-54" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-175"> 
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Lengte (m)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Breedte (m)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Hoogte (m)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Buite-oppervlakte (m<sup>2</sup>)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Volume (m<sup>3</sup>)</b></p>
+          </td>
+        </tr><tr class="Row-Column-176"> 
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"> 
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"> 
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"> 
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"> 
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"> 
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) 	
+Skryf ‘n ander stel afmetings
+ (\(l\), \(b\) en \(h\)) in die laaste ry van die tabel wat dieselfde 	
+volume, maar ‘n ander buite-oppervlakte sal gee as die wat reeds opgeteken is.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Bestudeer die voltooide tabel. Wat kan jy van die buite-oppervlakte en die volume 	
+ van voorwerpe aflei?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. ‘n Reghoekige prisma het ‘n volume van 8 m<sup>3</sup>. Skryf twee moontlike stelle afmetings
+daarvoor neer. Teken die prismas hier onder en skryf die afmetings op jou skets.
+.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Die tabel wys berekeninge van die buite-oppervlakte en volume vir kubusse met verskillende sylengtes.
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-55" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Sylengte van kubus 
+ (m)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Surface area (m<sup>2</sup>)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Buite-oppervlakte  
+ (m<sup>3</sup>)</b></p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">24</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">54</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">27</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">150</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">125</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">384</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">512</p>
+          </td>
+        </tr><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">600</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 000</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Kyk na die tweede kolom. Vermeerder of verminder die buite-oppervlakte as die sylengte van die kubus vermeerder?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Kyk na die derde kolom. Vermeerder of verminder die volume as die sylengte van 
+die kubus vermeerder?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Wat vermeerder vinniger as die sylengte van die kubus vermeerder, die volume of die buite-oppervlakte?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Skets ‘n grafiek wat die geheelbeeld van volume teenoor buite-oppervlakte gee.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body"><span><img class="frame-345" src="Maths_English_LB_gr8_term3_1-web-resources/image/219507.png" alt="219507.png"/></span> </p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-28">Herleiding tussen kubieke eenhede</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Hoeveel kubusse?</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Die kleiner kubus hier onder se afmetings is
+ 1 cm \(\times\) 1 cm \(\times\) 1 cm en sy volume is 1 cm<sup>3</sup>. Hoeveel  1
+    cm<sup>3</sup> kubusse is nodig om ‘n kubus met afmetings van 
+ 10 cm \(\times\) 10 cm
+    \(\times\) 10 cm (soos hier onder gewys) te vorm
+?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="M-Center"><span><img class="frame-346" src="Maths_English_LB_gr8_term3_1-web-resources/image/212777.png" alt="212777.png"/></span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Hoeveel 10 cm \(\times\) 10 cm \(\times\) 10 cm kubusse is nodig om ‘n
+ 100 cm \(\times\) 100 cm \(\times\) 100 cm kubus te vorm?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3. (a) Om ‘n 
+ 1 000 cm<sup>3</sup> -kubus te vorm, het jy dus 1 000 kubusse met ‘n volume van
+ 1 cm<sup>3</sup> nodig. Hoeveel kubusse van 1 000 cm<sup>3</sup> (10 cm \(\times\) 10 cm \(\times\) 10 cm) 
+ is nodig om ‘n kubus van 100 cm \(\times\) 100 cm \(\times\) 100 cm,te vorm?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Wat is die nuwe kubus se volume?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Hoeveel 1 cm<sup>3</sup>-kubusse sal ‘n kubus met ‘n volume van
+1 000 000 cm<sup>3</sup> vorm?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Watter van die kubusse hier onder het die grootste volume? Verduidelik.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">A. ‘n Kubus met ‘n volume van
+ 1 m<sup>3</sup></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">B. ‘n Kubus met ‘n volume van
+ 1 000 000
+    cm<sup>3</sup></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">5. (a) Hoeveel 1 mm \(\times\) 1 mm \(\times\) 1 mm
+    kubusse 
+ (1 mm<sup>3</sup>) is nodig om ‘n
+ 1 cm \(\times\) 1 cm \(\times\) 1 cm kubus te bou?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Wat is die totale volume van die 
+ 1 mm<sup>3</sup>- kubusse binne in die
+1 cm<sup>3</sup>-kubus?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Oefen om tussen eenhede te herlei</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Wanneer jy met volume werk, moet jy dikwels tussen verskillende kubieke eenhede
+herlei. Hier is twee voorbeelde hoe jy ekwivalente eenhede kan uitwerk.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><b>Herlei
+cm<sup>3</sup></b> <b>na mm<sup>3</sup></b></p>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">\(\begin{align} 1 \text{cm}^3 &amp;= 1 \text{cm} \times 1 \text{cm} \times 1 \text{cm} \\ &amp;= 10 \text{mm}  \times 10 \text{mm} \times  10 \text{mm} \\  &amp;= 1 000 \text{mm}^3 \end{align}\) </p>     <p xmlns="http://www.w3.org/1999/xhtml">∴ vermenigvuldig me 1 000</p>
+    
+    
+    <p xmlns="http://www.w3.org/1999/xhtml"><b>: Herlei
+ cm<sup>3</sup></b> <b>na m<sup>3</sup></b><b>:</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">\(\begin{align} 1 \text{cm}^3 &amp;= 1 \text{cm} \times 1 \text{cm} \times 1 \text{cm} \\ &amp;= 0.01 \text{m}  \times 0.01 \text{m} \times  0.01 \text{m} \\  &amp;= 0.000001 \text{m}^3 \end{align}\) </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span class="char-style-override-29"/> <span class="char-style-override-29">∴</span> vermenigvuldig met
+    0,000001 of deel met 1 000 000</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Skryf die volgende volumes in    cm<sup>3</sup>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) 3 mm<sup>3</sup> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) 45 mm<sup>3</sup></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(c) 0,6 m<sup>3</sup> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml"> (d) 1,22 m<sup>3</sup></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/> 
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Skryf die volgende volumes in    mm<sup>3</sup>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) 20 cm<sup>3</sup> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) 151 cm<sup>3</sup></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(c) 4,7 cm<sup>3</sup> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml"> (d) 89,5 cm<sup>3</sup></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Skryf die volgende volumes in
+    m<sup>3</sup>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) 9 cm<sup>3</sup> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) 50 cm<sup>3</sup></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(c) 643 cm<sup>3</sup> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml"> (d) 1 967 cm<sup>3</sup></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+  <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Skryf die volgende antwoorde in 
+    cm<sup>3</sup>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) 4 m<sup>3</sup> + 68 cm<sup>3</sup> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) 12 m<sup>3</sup> + 143 cm<sup>3</sup></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-29">Kapasiteit van</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Verskil tussen kapasiteit en volume</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><b>Kapasiteit
+</b> is die hoeveelheid ruimte
+beskikbaar
+ <i>binne-in 
+</i> ‘n voorwerp of houer.
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Volume is die hoeveelheid
+ruimte wat die voorwerp self
+opneem.
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Die afmetings van ‘n soliede blok hout is
+    30 cm \(\times\) 20 cm \(\times\) 10 cm.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Wat is sy volume?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Dieselfde blok hout word uitgekerf om ‘n houer
+wat hol is te maak. Die afmetings binne die houer
+is 25 cm \(\times\) 15 cm \(\times\) 8 cm.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-349" src="Maths_English_LB_gr8_term3_1-web-resources/image/212329.png" alt="212329.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Hoe dik is die rante van die houer?
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-350" src="Maths_English_LB_gr8_term3_1-web-resources/image/212320.png" alt="212320.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Wat is die kapasiteit van die houer?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Watter volume water sal die houer bevat as
+jy dit met water vul?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Meer hout word uit die houer gekerf om die sykante en die bodem 1 cm dik te maak. Bereken die kapasiteit van die houer in liter.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Verplasing en meer berekeninge oor kapasiteit</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">'n Glashouer is halfvol water. As jy albasters
+in die water sit, styg die vlak van die water.
+Dit is nie omdat die hoeveelheid water
+vermeerder het nie, maar omdat die
+albasters die plek van die water ingeneem
+het en die water dus hoër op in die houer
+gestoot het. Ons sê dit het die water verplaas.
+</p>
+<div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-351" src="Maths_English_LB_gr8_term3_1-web-resources/image/212310.png" alt="212310.png"/></div>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">As een albaster ‘n volume van
+ 1    cm<sup>3</sup>,het
+sal dit 1 ml water verplaas.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-14"><span class="char-style-override-29" xml:lang="en-GB">∴</span> Ons weet dus dat:
+</p>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">1 cm<sup>3</sup> = 1 ml</p>
+
+      <p class="Body-content-no-indent">1 m<sup>3</sup> = 1 kl</p>
+    </div>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Verplaas beteken om iets uit
+sy plek te stoot.
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Bereken die kapasiteit van die houers. Die binnemate is gegee. Skryf al die antwoorde in ml of kl.
+ </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-352" src="Maths_English_LB_gr8_term3_1-web-resources/image/212266.png" alt="212266.png"/></div>
+<p xmlns="http://www.w3.org/1999/xhtml"> (b)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-353" src="Maths_English_LB_gr8_term3_1-web-resources/image/212258.png" alt="212258.png"/></div>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+     <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Werk ‘n moontlike stel binnemate uit vir ‘n houer met ‘n kapasiteit van 12 kl. Maak ‘n netjiese skets en skryf die afmetings langs die skets.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+  </div>
+</div>
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

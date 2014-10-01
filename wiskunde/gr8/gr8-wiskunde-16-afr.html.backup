@@ -1,0 +1,1494 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr8 Wiskunde</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Wissel navigasie</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index-afr.html">Gr 7-9 Werkboeke</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/index-afr.html">Tuisblad</a></li>
+                          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wiskunde<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/wiskunde/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/wiskunde/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/wiskunde/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natuurwetenskappe<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/natuurwetenskappe/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/natuurwetenskappe/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/natuurwetenskappe/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tegnologie<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/tegnologie/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/tegnologie/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/tegnologie/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+
+            <li><a href="/aflaaibares-afr.html">Aflaaibares</a></li>
+            <li><a href="/oorons-afr.html">Oor ons</a></li>
+            <li><a href="/oorons-afr.html#contact">Kontak</a></li>
+           
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container">
+        <div class="language-toggle">
+            <button type="button" class="btn btn-default ">English</button>
+            <button type="button" class="btn btn-primary active">Afrikaans</button>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-0">Breuke</h1>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">In hierdie hoofstuk gaan
+    jy meer oor breuke leer en waarvoor hierdie getalle gebruik
+    word. Hoeveelhede kan nie altyd presies met telgetalle beskryf
+    word nie. Breuke is ontwikkel sodat enige hoeveelheid akkuraat
+    beskryf kan word</p>
+    
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-1">Ekwivalente breuke</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Deel sjokolade op verskillende maniere</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-2">
+    <span><img class="frame-2" src="Maths_English_LB_gr8_term3_1-web-resources/image/174320.png" alt="174320.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. (a) Johan eet drie kwarte van ‘n
+    plak sjokolade soos hierdie een hier bo.
+    Hoeveel klein blokkies eet hy dan?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Hoeveel klein blokkies is daar in
+    ‘n hele plak sjokolade?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Rita eet 6 agtstes van‘n
+    sjokoladeplak soos die een hier bo. Wie eet die
+    meeste,Rita of Johan, of eet hulle ewe veel?
+    Verduidelik jou antwoord.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-4">2.
+    ‘n Plak sjokolade soos die een hier bo moet gelykop
+    tussen 16 mense verdeel word. Dit beteken dat elkeen
+    <b>een sestiende</b> van die plak moet kry. Hoeveel klein blokkies
+    sjokolade moet elkeen kry?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-4">3. .
+    <span>Watter breuk is een klein blokkie van die hele
+    plak</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">4. (a) <span>Is dit waar dat elke persoon in
+    vraag 2 een sestiende van die plak moet kry</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) <span>Is dit waar dat elke
+    persoon</span> drie agt-en-veertigstes van die plak moet
+    kry?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) <span>Is 1 sestiende van die plak
+    sjokolade presies soveel as 3 agt-en-veertigstes van 
+    die plak</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. <span>Hoeveel
+    agt-en-veertigstes van ‘n plak sal elke persoon in die volgende
+    gevalle kry, as die plak sjokolade gelykop tussen die getal
+    mense soos aangedui verdeel word</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(a) <span>tussen</span> 2 <span>mense</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(b) <span>tussen</span> 3 <span>mense</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(c) <span>tussen</span> 4 <span>mense</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(d) <span>tussen</span> 6 <span>mense</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(e) <span>tussen</span> 8 <span>mense</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(f) <span>tussen</span> 12 <span>mense</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(g) <span>tussen</span> 16 <span>mense</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(h) <span>tussen</span> 24 <span>mense</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">6. <span>Wat word die deeltjies
+    waarin die grys strook in elk van die vrae verdeel is,
+    genoem</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(a)
+    <span><img class="frame-6" src="Maths_English_LB_gr8_term3_1-web-resources/image/174371.png" alt="174371.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(b)
+    <span><img class="frame-6" src="Maths_English_LB_gr8_term3_1-web-resources/image/174382.png" alt="174382.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(c)
+    <span><img class="frame-6" src="Maths_English_LB_gr8_term3_1-web-resources/image/174392.png" alt="174392.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(d)
+    <span><img class="frame-8" src="Maths_English_LB_gr8_term3_1-web-resources/image/174400.png" alt="174400.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(e)
+    <span><img class="frame-6" src="Maths_English_LB_gr8_term3_1-web-resources/image/174411.png" alt="174411.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(f)
+    <span><img class="frame-8" src="Maths_English_LB_gr8_term3_1-web-resources/image/174419.png" alt="174419.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(g)
+    <span><img class="frame-8" src="Maths_English_LB_gr8_term3_1-web-resources/image/174428.png" alt="174428.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(h)
+    <span><img class="frame-8" src="Maths_English_LB_gr8_term3_1-web-resources/image/174436.png" alt="174436.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(i)
+    <span><img class="frame-8" src="Maths_English_LB_gr8_term3_1-web-resources/image/174445.png" alt="174445.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(j)
+    <span><img class="frame-8" src="Maths_English_LB_gr8_term3_1-web-resources/image/174458.png" alt="174458.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(k)
+    <span><img class="frame-8" src="Maths_English_LB_gr8_term3_1-web-resources/image/174467.png" alt="174467.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(l)
+    <span><img class="frame-8" src="Maths_English_LB_gr8_term3_1-web-resources/image/174478.png" alt="174478.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(m) <span><img class="frame-8" src="Maths_English_LB_gr8_term3_1-web-resources/image/174489.png" alt="174489.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">7. (a) <span>‘n Hele plak sjokolade word
+    gelykop tussen ‘n aantal mense verdeel, en elkeen
+    kry 1 agtste van die plak. Hoeveel mense is
+    daar</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) <span>Hoeveel mense is daar as elkeen 1
+    twaalfde van die plak kry</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) <span>Hoeveel mense is daar as elkeen 1
+    sestiende van die plak kry</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">8. <span>Hoeveel klein
+    blokkies, elk 1 agt-en-veertigste van ‘n plak, is elk van die
+    volgende</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) <span>1 twaalfde van ‘n plak</span></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) 1 <span>agtste van ‘n plak</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) 1 <span>derde van ‘n plak</span></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(d) 1
+    <span>vier-en-twintigste van ‘n plak</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) 1 <span>sesde van ‘n plak</span></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(f)  1
+    <span>sestiende van ‘n plak</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">9. <span>Hoeveel klein
+    blokkies, elk 1 agt-en-veertigste van ‘n plak, is daar in die
+    volgende</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) 5 <span>twaalfdes van ‘n plak</span></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) 3 <span>agtstes van ‘n plak</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)2 <span>derdes van ‘n plak</span> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(d) 17
+    <span>vier-en-twintigstes van ‘n plak</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) 5 <span>sesdes van ‘n plak</span></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(f) 13
+    <span>sestiendes van ‘n plak</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">10. <span>Wat is die
+    meeste sjokolade, of is die twee hoeveelhede dieselfde?
+    Gee</span> redes vir jou antwoord by elke vraag.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) <span>5 sesdes van ‘n plak of 13
+    sestiendes van ‘n plak</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) <span>5 twaalfdes van ‘n plak of 3
+    agtstes van ‘n plak</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) <span>2 derdes van ‘n plak of 17
+    vier-en-twintigstes van ‘n plak</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">11. (a) <span>Hoeveel agt-en-veertigstes van
+    ‘n plak is 1 derde van ‘n plak en 1 agtste van
+    ‘n plak saam</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) <span>Hoeveel is 1 sesde van ‘n plak en
+    3 agtstes van ‘n plak saam</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) <span>Hoeveel sjokolade is 5 sesdes van
+    ‘n plak en 7 agtstes van ‘n plak saam</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">12. (a) <span>Hoeveel agtstes van ‘n plak is
+    18 agt-en-veertigstes van ‘n plak? Hoekom sê jy
+    so</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) <span>Hoeveel sesdes van ‘n plak is 32
+    agt-en-veertigstes van ‘n plak? Hoekom sê jy
+    so</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span>Hier is ‘n ander plak
+    sjokolade</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging"><span><img class="frame-9" src="Maths_English_LB_gr8_term3_1-web-resources/image/174511.png" alt="174511.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-7">13.
+    <span>Watter deel van die hele plak is elkeen van die klein
+    blokkies</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">14. <span>Hoeveel sestigstes van
+    die geel 60-stuk sjokoladeplak is elk van die
+    volgende</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) <span>1 vyfde van die plak</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) <span>1 twaalfde van die plak</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">15. <span>Om vraag 14 te
+    beantwoord, kon jy net die klein blokkies op die diagram getel
+    het. Watter berekeninge kon jy gemaak het om die antwoord te
+    kry?</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">16. <span>Hoeveel sestigstes van
+    die geel 60-stukkies plak is elk van die volgende</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) <span>1 twintigste van die
+    plak</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) <span>1 sesde van die plak</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) <span>9 twintigstes van die
+    plak</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">17. <span>Werk uit watter
+    van die twee breuke die meeste sjokolade is. Of is die twee
+    breuke van die plak dalk ewe veel sjokolade? Gee redes vir jou
+    antwoorde</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) <span>14 twintigstes of 7
+    tiendes</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)  <span>13 twintigstes of 9
+    vyftiendes</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) <span>3 vyfdes of 7 twaalfdes</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">18. <span>Werk uit hoeveel van ‘n
+    plak vorm die twee dele saam</span>.</p>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) <span>14 twintigstes en 7 tiendes. Gee
+    jou finale antwoord as ‘n getal tiendes</span>.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) <span>13 twintigstes en 9 vyftiendes.
+    Gee jou finale antwoord as heles en kwarte</span>.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) <span>3 vyfdes en 7 twaalfdes</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Gebruik breuknotasie</h3>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent"><span><span>In plaas daarvan om 5
+      agt-en-veertigstes te skryf, kan ons</span> \(\frac{5}{48}\) skryf. Dit
+      word</span> <b>gewone
+      breuknotasie</b> <span>genoem .</span>
+      </p>
+      
+      <p>Die getal 48 onder die lyn word die <b>noemer</b>
+genoem en dit wys dat die hele in 48 ewe groot stuk-
+kies verdeel is. Dus is elke stukkie 1 agt-en-veertigste
+van die hele. Die noemer dui die <b>eenheid</b> aan
+waarin die getal uitgedruk word.
+</p>
+      <p>Die getal 5 bokant die lyn word die <b>teller</b> genoem
+en dit dui die <b>getal</b> stukkies aan.
+</p>
+      <p>‘n Getal groter as 1 met nog ‘n breukgedeelte
+daarby, soos 2 en 3 vyfdes, kan as ‘n <b>gemengde
+getal</b> geskryf word: \(2\frac{3}{5}\)
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. <span>Skryf elkeen van die
+    volgende getalle in breuknotasie</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-5">(a) 7
+    <span>twintigstes</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-5">(b) 3
+    en 5 <span>agtstes</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(c) 2 en 7
+    <span>negendes</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(d) 1 en 7
+    <span>tiendes</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. <span>Skryf elkeen van die
+    volgende getalle in woorde</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(a) \(\frac{23}{100}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(b) \(3\frac{5}{30}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(c) \(2\frac{5}{18}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(d) \(\frac{17}{25}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">3. (a) <span>Hierdie strook is
+    in vyf gelyke dele verdeel</span>. <span>Watter deel is elkeen
+    van die 5 dele van die hele strook</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below"><span><img class="frame-22" src="Maths_English_LB_gr8_term3_1-web-resources/image/174644.png" alt="174644.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) <span>Hoeveel kleiner
+    deeltjies sal daar altesaam wees as elkeen van die vyfdes in
+    ses</span> ewe groot deeltjies verdeel word?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-9">(c)
+    <span>Watter breukdeel van die hele strook is elk
+    van die klei ner dele dan</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-9">4. (a)
+    <span>Hierdie strook is in 10 gelyke dele verdeel</span>.
+    <span>Watter deel van die hele strook is elk van die 10
+    dele</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below"><span><img class="frame-22" src="Maths_English_LB_gr8_term3_1-web-resources/image/174658.png" alt="174658.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) <span>Hoeveel kleiner
+    deeltjies sal daar altesaam wees as elkeen van die tiendes in
+    vier gelyke klein deeltjies verdeel
+    word</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) <span>Watter breukdeel van die hele
+    strook vorm elkeen van die kleiner deeltjies</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) <span>Hoeveel kleiner
+    deeltjies sal daar altesaam wees as elkeen van die tiendes in
+    vyf eenderse kleiner deeltjies verdeel
+    word</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) <span>Watter breukdeel van die hele
+    strook is elkeen van die kleiner deeltjies</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(f) <span>Hoeveel kleiner
+    deeltjies sal daar altesaam wees as elkeen van die tiendes in
+    tien gelyke kleiner deeltjies verdeel
+    word</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g) <span>Watter breukdeel van die hele
+    strook vorm elkeen van hierdie kleiner deeltjies</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">5. (a) <span>Hoeveel tiendes is daar in een
+    vyfde</span>?</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-28" src="Maths_English_LB_gr8_term3_1-web-resources/image/174669.png" alt="174669.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Jy mag die diagram regs gebruik om
+    dit uit te werk.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-28" src="Maths_English_LB_gr8_term3_1-web-resources/image/174678.png" alt="174678.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) <span>Hoeveel vyftiendes is daar in een vyfde</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">c) <span>Hoeveel vyftiendes
+    is daar in 3 vyfdes</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) <span>Hoeveel twintigstes is daar in een
+    vyfde?</span> Jy mag ‘n diagram soos in vraag 5(a) en<span>(b)
+    teken om jou te help. Die diagram</span> hoef<span>nie volgens
+    skaal te wees nie</span>.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e) <span>Hoeveel twintigstes
+    is daar in een kwart</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(f) <span>Hoeveel twintigstes
+    is daar in 3 kwarte</span>?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g) <span>Hoeveel twintigstes dink jy is
+    daar in een tiende? Om jou te help, kan jy
+    merkies op die diagram in vraag 5(a)
+    maak</span>.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Jou antwoorde vir vraag 5 kan
+    in breuknotasie uitgedruk word. Byvoorbeeld, jou antwoord vir
+    5(c) kan geskryf word as \(\frac{3}{5} = \frac{9}{15}\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">6. <span>Skryf elk van jou ander
+    antwoorde vir vraag 5 in breuknotasie</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">7. <span>In hierdie vraag
+    moet jy die breuke</span> <i>in woorde</i> <span>skryf.
+    Sê of die stellings waar of onwaar is en staaf jou
+    antwoorde</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) "\(\frac{15}{20}\) van die rooi strook hier onder
+    is langer as \(\frac{3}{4}\) van die strook"</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging"><span><img class="frame-33" src="Maths_English_LB_gr8_term3_1-web-resources/image/174687.png" alt="174687.png"/></span> </p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) "\(\frac{9}{15}\) is ‘n groter getal as
+    \(\frac{3}{5}\)"</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) "\(\frac{2}{3}\) is ‘n kleiner getal as
+    \(\frac{7}{12}\)"</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p>Dieselfde getal kan in verskillende eenhede uitgedruk word
+</p>
+      <p>Byvoorbeeld, die getal \(\frac{3}{4}\) kan uitgedruk word in agtstes as \(\frac{6}{8}\), in twintigstes as \(\frac{15}{20}\), in sestigstes as \(\frac{45}{60}\) en in baie ander eenhede.  \(\frac{3}{4},~\frac{6}{8},~\frac{15}{20},~\frac{45}{60}\) is almal verskillende maniere om dieslfe getal uit te druk. Hulle word dus <b>ekwivalente breuke</b> genoem.</p>
+      </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent"><b>Ekwivalente breuke</b> stel
+      ons in staat om dieselfde getal op verskillende maniere te
+      skryf.</p>
+
+      <p class="Body-box-no-indent">\(\frac{3}{4}=\frac{6}{8}=\frac{15}{20}=\frac{45}{60}\) </p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">8. <span>Skryf jou antwoorde in
+    woorde en in breuknotasie. Verduidelik jou
+    antwoorde.</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Druk \(\frac{3}{8}\) in sestiendes en in
+    veertigstes uit</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Druk \(\frac{3}{5}\) in tiendes, twintigstes,
+    veertigstes en honderdstes uit.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Druk \(\frac{7}{10}\) in veertigstes, vyftigstes en
+    honderdstes uit.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">9. Beskou die breuk 3
+    kwarte. Dit kan as \(\frac{3}{4}\) geskryf word.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Vermenigvuldig beide die teller en
+    die noemer met 2 om ‘n "nuwe" breuk te vorm. Is die
+    "nuwe" breuk ekwivalent aan \(\frac{3}{4}\)? Jy kan seker maak op
+    hierdie diagram.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-13"><span><img class="frame-38" src="Maths_English_LB_gr8_term3_1-web-resources/image/174697.png" alt="174697.png"/></span> </p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Vermenigvuldig beide
+    die teller en die noemer met 3 om ‘n "nuwe" breuk
+    te vorm. Is die nuwe breuk ekwivalent aan \(\frac{3}{4}\)?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(c)
+    Vermenigvuldig die teller en die noemer met 4 om ‘n
+    "nuwe" breuk te vorm. Is die nuwe breuk ekwivalent
+    aan    \(\frac{3}{4}\)?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) Vermenigvuldig die
+    teller en die noemer met 6 om ‘n "nuwe" breuk te
+    vorm . Is die nuwe breuk ekwivalent
+    aan \(\frac{3}{4}\)?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">\(\frac{15}{20}\) is ekwivalent aan \(\frac{3}{4}\) want daar is 5
+    twintigstes in 1 kwart, dus is daar 15 twintigstes in 3
+    kwarte.    \(\frac{9}{16}\) is nie ekwivalent    aan
+    \(\frac{3}{4}\) nie, want 4 sestiendes
+    is 1 kwart, dus is 3 kwarte 12 sestiendes, nie 9 sestiendes
+    nie..</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">10. Besluit of die
+    twee gegewe getalle gelyk is, of nie. Verduidelik jou antwoord.
+    As hulle nie gelyk is nie, sê watter een die
+    grootste is en verduidelik waarom jy so sê. As dit
+    jou sal help, mag jy eers die breuke in woorde
+    skryf.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14">(a) \(\frac{5}{8}\) en \(\frac{3}{5}\) Wenk: druk albei getalle as
+    veertigstes uit</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-4">(b) \(\frac{7}{10}\) en \(\frac{5}{8}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-4">(c) \(\frac{4}{5}\) en \(\frac{7}{8}\)</p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-2">Optel en aftrek van breuke</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Om breuke op te tel of af te
+    trek, moet al die breuke in dieselfde eenheid uitgedruk
+    wees.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Bereken die
+    volgende. Die werk wat jy in vraag 10 op die vorige bladsy
+    gedoen het, mag jou dalk help.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-15">(a)
+   \(\frac{5}{8} + \frac{3}{5} =\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-15">(b)
+     \(\frac{7}{10} + \frac{5}{8} = \)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-15">(c)
+    \(\frac{7}{10} + \frac{3}{8} = \)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-15">(d)
+    \(\frac{5}{8} - \frac{3}{5} =\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-15">(e)
+    \(\frac{7}{10} - \frac{3}{8} = \)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-9">(f)  \(6 \times \frac{5}{8} = \) (dit is \(\frac{5}{8} + \frac{5}{8} + \frac{5}{8}+\frac{5}{8}+\frac{5}{8}+\frac{5}{8}\))</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-7">(g) \(8
+    \times \frac{7}{10}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Om byvoorbeeld \(\frac{5}{8}\) en \(\frac{3}{5}\), te vergelyk, op te tel of
+    af te trek, moet ‘n mens ‘n breukeenheid kry waarin albei
+    breuke uitgedruk kan word. Ons noem dit ‘n gemeenskaplike
+    noemer. Die "produk" van die twee noemers is nuttig om so ‘n
+    eenheid te vind; in hierdie geval \(5 \times 8 = 40\). Aangesien 1
+    agtste 5 veertigstes is, is   \(\frac{5}{8}\) 25 veertigstes
+    of \(\frac{25}{40}\). Aangesien 1 vyfde 8 veertigstes is, is  \(\frac{3}{5}\) 24 veertigstes of  \(\frac{24}{40}\). Dus is \(\frac{5}{8}\)  groter as \(\frac{3}{5}\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Verduidelik in
+    elke vraag hoekom die twee gegewe getalle gelyk is of nie. Dui
+    aan watter een die grootste is indien hulle nie gelyk is
+    nie. Gee ook die rede vir jou keuse. Jy mag eers die breuke in
+    woorde skryf as dit jou sal help.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-9">(a) \(\frac{5}{8}\) en \(\frac{2}{3}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-9">(b) \(\frac{5}{6}\) en \(\frac{7}{8}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-9">(c)  \(\frac{3}{4}\) en \(\frac{4}{5}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) \(\frac{5}{12}\) en \(\frac{2}{3}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) \(\frac{7}{12}\) en \(\frac{3}{8}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(f) \(\frac{9}{20}\) en \(\frac{4}{15}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g) \(\frac{3}{10}\) en \(\frac{1}{4}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(h) \(\frac{7}{10}\) en \(\frac{5}{8}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(i) \(\frac{9}{13}\) en \(\frac{11}{17}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">3. Tel nou die
+    breuke in vraag 2 bymekaar en wys hoe jy dit uitgewerk
+    het.</p>
+
+        <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-9">(a) \(\frac{5}{8} + \frac{2}{3}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-9">(b) \(\frac{5}{6} + \frac{7}{8}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-9">(c)  \(\frac{3}{4} + \frac{4}{5}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) \(\frac{5}{12} + \frac{2}{3}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) \(\frac{7}{12} + \frac{3}{8}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(f) \(\frac{9}{20} + \frac{4}{15}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g) \(\frac{3}{10} + \frac{1}{4}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(h) \(\frac{7}{10} + \frac{5}{8}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(i) \(\frac{9}{13} + \frac{11}{17}\)</p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Trek nou die kleinste
+    getal van die grootste getal af in elk van die dele van vraag
+    2.</p>
+
+      <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-9">(a) \(\frac{2}{3} - \frac{5}{8}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-9">(b) \(\frac{7}{8} - \frac{5}{6} \)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-9">(c)  \( \frac{4}{5} - \frac{3}{4}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) \(\frac{2}{3} - \frac{5}{12}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) \(\frac{7}{12} - \frac{3}{8}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(f) \(\frac{9}{20} - \frac{4}{15}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g) \(\frac{3}{10} - \frac{1}{4}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(h) \(\frac{7}{10} - \frac{5}{8}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(i) \(\frac{9}{13} - \frac{11}{17}\)</p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. Bereken die
+    volgende.</p>
+
+      <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-9">(a) \(3\frac{2}{3} - 1\frac{5}{6}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-9">(b) 5\(\frac{6}{7} + \frac{3}{8} \)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-9">(c)  \( 12\frac{5}{8} + 7\frac{4}{9}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) \(4\frac{5}{12} - 2\frac{3}{10}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) \(1\frac{3}{10} - \frac{2}{3}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(f) \(2\frac{7}{15} - 1\frac{3}{8}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g) \(\frac{7}{8} + \frac{7}{8} + \frac{7}{8}+ \frac{7}{8}+ \frac{7}{8}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(h) \(\frac{7}{8}+ \frac{7}{8}+ \frac{7}{8}+ \frac{7}{8}+ \frac{7}{8}+ \frac{7}{8}+ \frac{7}{8}+ \frac{7}{8}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(i)\(  \frac{7}{8}+ \frac{7}{8}+ \frac{7}{8}+ \frac{7}{8}+ \frac{7}{8}+ \frac{7}{8}+ \frac{7}{8}+ \frac{7}{8} + \frac{7}{8} + \frac{7}{8} + \frac{7}{8}+ \frac{7}{8}+ \frac{7}{8}\)</p>
+        <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(j) \(2\frac{4}{12} + 2\frac{4}{12}  + 2\frac{4}{12} + 2\frac{4}{12} + 2\frac{4}{12} + 2\frac{4}{12} + 2\frac{4}{12} + 2\frac{4}{12}\)</p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-3">Tiendes en honderdstes en duisendstes</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">'n bruikbare familie van breukeenhede</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. (a) Kleur drie tiendes van die
+    strook in.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-65" src="Maths_English_LB_gr8_term3_1-web-resources/image/174726.png" alt="174726.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) In hoeveel kleiner
+    dele is elke tiende van die strook hier bo verdeel?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) Hoeveel van hierdie
+    kleiner deeltjies is daar in die hele strook?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) Wat word elkeen van
+    hierdie kleiner deeltjies genoem?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e) Hoeveel honderdstes
+    is daar in 2 vyfdes van die strook?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(f) Hoeveel honderdstes
+    is daar in 1 kwart van die strook?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g) Kleur 37 honderdstes van die
+    strook hier onder in.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-65" src="Maths_English_LB_gr8_term3_1-web-resources/image/183616.png" alt="183616.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. Druk elkeen van die volgende
+    getalle as ‘n getal honderdstes uit, en skryf jou antwoord in breuknotasie.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-3">(a) 4
+    vyfdes</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-3">(b) 1
+    twintigstes</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-3">(c) 7
+    twintigstes	</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-3">(d) 1
+    vyf-en-twintigstes</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-3">(e) 17
+    vyf-en-twintigstes</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-3">(f) 7
+    vyftigstes</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-7">Omdat 1 twintigste 5 honderdstes is, is 7
+    twintigstes gelyk aan 35 honderdstes.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-9">Dit kan
+    ook in breuknotasie uitgedruk word: \(\frac{35}{100} = \frac{7}{20}\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">\(\frac{7}{20}\) word die <b>eenvoudigste vorm</b> va \(\frac{35}{100}\) genoem, omdat \(\frac{35}{100}\) nie deur ‘n kleiner teller as
+    7 uitgedruk kan word nie.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Druk elk van die
+    volgende breuke in hulle eenvoudigste vorm uit.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-3">(a)
+   \(\frac{75}{100}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-3">(b)
+    \(\frac{60}{100}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-3">(c)
+   \(\frac{65}{100}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-3">(d)
+    \(\frac{90}{100}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Bereken die volgende en
+    skryf jou antwoord in sy eenvoudigste vorm.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">(a)
+    \(\frac{3}{25}+ \frac{4}{20}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">(b)
+     \(\frac{6}{25}+ \frac{6}{20}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">(c)
+     \(\frac{7}{100}+ \frac{9}{200}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">5. (a) Hoeveel is  \(\frac{1}{100}\) van R400?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(b) Hoeveel is \(\frac{7}{100}\) van R250?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(c) Hoeveel is \(\frac{25}{100}\) van R600?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(d) Hoeveel is \(\frac{1}{4}\) van R600?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(e) Hoeveel is \(\frac{40}{100}\) van R700?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(f) Hoeveel is \(\frac{2}{5}\) van R700?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">In plaas daarvan
+      om      \(\frac{40}{100}\) an R700 te skryf, kan
+      ons \(\frac{40}{100} \times \text{R}700\) skryf</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">6. Verduidelik hoekom jou
+    antwoorde vir vrae 5(e) en 5(f) dieselfde is.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">‘n Ander woord
+      vir
+      <i>honderdste</i> is
+      <i>persent</i>.</p>
+
+      <p class="Body-content-no-indent">In plaas daarvan om
+      te sê</p>
+
+      <p class="Body-content-no-indent"><i>Miriam het</i> <b>32 honderdstes</b> <i>van die prysgeld gekry</i>,</p>
+
+      <p class="Body-content-no-indent">kan ons sê</p>
+
+      <p class="Body-content-no-indent"><i>Miriam het</i> <b>32 persent</b> <i>van die prysgeld gekry.</i></p>
+
+      <p class="Body-content-no-indent">Die simbool vir
+      persent is %.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">7. Hoeveel is 80% van elk
+    van die volgende?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) R900 </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) R650</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) R250 </p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml"> (d) R3 400</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-7">8. Hoeveel is 8% van elkeen van die bedrae in 7(a), (b), (c)
+    en (d)?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">9. Hoeveel is 15% van elk
+    van die bedrae in 7(a), (b), (c) en (d)?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-65" src="Maths_English_LB_gr8_term3_1-web-resources/image/174753.png" alt="174753.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die strook hier bo is in
+    honderdstes verdeel.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Veronderstel dat elkeen van die
+    honderdstes in 10 gelyke deeltjies verdeel is (dit sal amper
+    onmoontlik wees om hulle te sien).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">10. (a) Hoeveel van
+    hierdie baie klein deeltjies is daar in die hele
+    strook?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Wat kan elkeen van
+    hierdie baie klein deeltjies genoem word?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">11. Hoeveel is elk van die
+    volgende?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) een tiende van R6 000</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) een honderdste van R6 000</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) een duisendste van R6 000 </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml"> (d) tien honderdstes van R6 000 </p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) tien honderdstes van R6 000 </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(f) 7 honderdstes van R6 000</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g) 70 duisendstes van R6 000</p> 
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml">(h) een tienduisendste van R6 000</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">12. Bereken.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) \(\frac{3}{10} + \frac{5}{8}\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) \(3\frac{3}{10} + 2\frac{4}{5}\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) \(\frac{3}{10} + \frac{7}{100}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml"> (d)  \(\frac{3}{10} + \frac{70}{100}\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e)  \(\frac{3}{10} + \frac{7}{1000}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(f)  \(\frac{3}{10} + \frac{70}{1000}\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">13. Bereken.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14">(a) \(\frac{3}{10} + \frac{7}{100} + \frac{4}{1000}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b)  \(\frac{3}{10} + \frac{70}{100} + \frac{400}{1000}\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14">(c)  \(\frac{6}{10} + \frac{20}{100} + \frac{700}{1000}\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml"> (d) \(\frac{2}{10} + \frac{5}{100} + \frac{4}{1000}\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">14. Ondersoek of
+    die stellings waar is of nie, en gee redes vir jou
+    besluit.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14">(a) \(\frac{1}{10} + \frac{23}{100} + \frac{346}{1000} = \frac{6}{10} + \frac{3}{100} + \frac{46}{1000} \)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14">(b) \(\frac{1}{10} + \frac{23}{100} + \frac{346}{1000} = \frac{7}{10} + \frac{2}{100} + \frac{46}{1000} \)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14">(c) \(\frac{1}{10} + \frac{23}{100} + \frac{346}{1000} = \frac{6}{10} + \frac{7}{100} + \frac{6}{1000} \)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14">(d)\(\frac{676}{1000} = \frac{6}{10} + \frac{7}{100} + \frac{6}{1000} \)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-4">Breuk van ‘n breuk</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Bereken dele van heles en dele van dele</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Om \(\frac{7}{20} \) (7 twintigstes) an R500 te
+    bereken, moet jy eers 1 twintigste bereken, dan met 7 vermenigvuldig:</p>
+
+      <p xmlns="http://www.w3.org/1999/xhtml" class="Body">1 twintigste van R500 is \(\text{R}500 \div 20 = \text{R}25\), dus
+    \(\frac{7}{20} \) van R500 is \(7 \times \text{R}25 = \text{R175}.\)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <div><p>\(\frac{7}{20} \) van \(500\) is dieselfde
+      as</p></div>
+
+      <p>\(\frac{7}{20} \times 500\) .</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Dit beteken, om \(\frac{7}{20} \) van R500 te bereken, bereken jy
+ \((500 \div 20) \times 7\).
+      Jy deel deur die noemer en
+vermenigvuldig met die teller.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Bereken.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(a)
+    \(\frac{9}{25}\) van R500</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(b)
+    \(\frac{9}{20}\) van R500</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-9">(c)
+   \(\frac{9}{125}\) van R500</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. ‘n Klein koor
+    van 8 lede het die tweede prys in ‘n kompetisie verower en
+    hulle het 2 vyfdes van die totale prysgeld
+    ontvang. Hulle het die geld gelykop tussen hulle verdeel. Die
+    totale prysgeld was R1 000. Hoeveel prysgeld het elke koorlid
+    gekry?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">3. (a)
+    Hoeveel is \(\frac{7}{8}\) van 400?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(b) Hoeveel is \(\frac{2}{5}\) van jou antwoord (a)?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-4">(c) Hoeveel is \(\frac{7}{20}\) van 400?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Hier is Nathi se
+    antwoord op vraag 2:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1 vyfde van R1 000
+    is R200, dus 2 vyfdes is R400. Die koor het dus altesaam R400
+    ontvang. Elke lid het 1 agtste van die R400 gekry, wat \(\text{R}400
+    \div 8 = \text{R}50\) is.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)Vergelyk jou eie antwoorde met
+    Nathi se antwoorde. Werk hulle weer uit as
+    hulle verskil en vind uit wie se antwoord
+    reg is.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Kyk of jy saamstem dat
+    \(\frac{1}{20}\) van R1 000 = R50.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Probeer om te verduidelik hoekom
+    die antwoord op vraag 2 dieselfde as \(\frac{1}{20}\) van R1 000 is.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. Gebruik die
+    getalle 80, 180, 260, 360 en 2 400 in die volgende vrae. Doen
+    jou werk in die tabel hier onder.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-5">(a) Hoeveel is
+     \(\frac{3}{4}\) van elk van die
+    getalle?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-5">(b) Hoeveel is
+     \(\frac{2}{5}\) van elkeen van jou antwoorde
+    van (a)?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14">(c) Hoeveel is
+     \(\frac{6}{20}\) van elk van die
+    getalle?</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-6" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-92"><td class="cell-style-override-3">
+            <p class="Table-text-centred">Getal</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">80</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">180</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">260</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">360</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 400</p>
+          </td>
+        </tr><tr class="Row-Column-93"><td class="cell-style-override-3">
+            <p class="Table-text-left"> \(\frac{3}{4}\) van die getal</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr><tr class="Row-Column-93"><td class="cell-style-override-3">
+            <p class="Table-text-left">\(\frac{2}{5}\) van die antwoord</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr><tr class="Row-Column-93"><td class="cell-style-override-3">
+            <p class="Table-text-left">\(\frac{6}{20}\) van die getal</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">6. Gebruik jou antwoorde
+    vir vraag 5 om die volgende vrae te beantwoord.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(a) Hoeveel is \(\frac{3}{4}\) van \(\frac{2}{5}\) van R80?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(b) Hoeveel is \(\frac{3}{4}\) van \(\frac{2}{5}\) van R180?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(c) Hoeveel is \(\frac{3}{4}\) van \(\frac{2}{5}\) van R260?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5">(d) Hoeveel is \(\frac{3}{4}\) van \(\frac{2}{5}\) van R360?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-4">(e) Hoeveel is \(\frac{3}{4}\) van \(\frac{2}{5}\) van R2 400?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">7. Om \(\frac{3}{4}\) <i> van \(\frac{2}{5}\) van ‘n getal</i> te bereken,
+    het jy die volgende gedoen:
+    <i>getal</i> \(\div 4 \times 3
+    \div 5 \times 2\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Stel ondersoek in daarna of <i>die getal</i> \(\times 3 \times 2
+    \div 5 \div 4\) dieselfde antwoord sal gee as <i>die getal</i> \(\div 4 \times 3 \div 5 \times 2\), vir die getalle in vraag 5 of vir enige ander getalle wat
+    jy mag kies.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Ondersoek of die getal \(\times 6 \div
+    20\) dieselfde antwoord sal
+    gee as <i>die getal
+    \(\times 3 \times 2 \div 5 \div 4\)</i>.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Ondersoek of die <i>getal</i> \(\times 3 \div 10\) dieselfde antwoord sal
+    gee as
+    <i>die getal</i> \(\times
+    6 \div 20\).</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">In plaas van
+      \(\frac{3}{4}\) van \(\frac{2}{5}\) kan ons skryf \(\frac{3}{4} \times \frac{2}{5}\).</p>
+
+      <p class="Body-content-no-indent">\(\frac{3}{4} \times \frac{2}{5} = \frac{3\times 2}{4\times 5}\)</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-7">Om met ‘n
+    gemengde getal soos byvoorbeeld \(2\frac{7}{8}\), te vermenigvuldig, is dit goed
+    om die telgetal in dieselfde breukeenheid as
+    die breukdeel uit te druk, byvoorbeeld:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">2 heles is 16 agtstes, dus 
+    \(2\frac{7}{8}\) is \(\frac{16}{8} + \frac{7}{8} = \frac{23}{8}\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">8. Bereken elk van die
+    volgende.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) \(\frac{3}{10} \times \frac{12}{25}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) \(\frac{5}{18} \times \frac{4}{35}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) \((\frac{1}{3}+\frac{1}{2}) \times \frac{6}{7}\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml"> (d) \(\frac{2}{3} \times \frac{1}{2} \times \frac{3}{4}\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) \(2\frac{3}{5} \times \frac{5}{6}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(f) \(2\frac{3}{4} \times 3\frac{2}{5}\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g) \(2\frac{2}{3} \times 2\frac{2}{3}\) </p>
+
+   <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(h) \(8\frac{2}{5} \times 3\frac{1}{3}\) </p>
+       <hr xmlns="http://www.w3.org/1999/xhtml"/>
+       
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(i) \(\frac{6}{7} \times (\frac{1}{3}+\frac{1}{2})\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml">(j) \(\frac{6}{7} \times \frac{1}{3}+ \frac{6}{7} \times \frac{1}{2}\)</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(k) \(\frac{6}{7} \times (\frac{1}{2}-\frac{1}{3})\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml">(l) \(\frac{6}{7} \times \frac{1}{2} - \frac{6}{7} \times \frac{1}{3}\)</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(m) \((\frac{5}{6}+\frac{2}{3}) \times \frac{1}{5}\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml"> (n) \(\frac{5}{6} \times \frac{1}{5} + \frac{2}{3} \times \frac{1}{5}\)</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(o) \(\frac{3}{4} - \frac{2}{5} \times \frac{5}{6}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml">(p) \(\frac{7}{8} \times (\frac{4}{7}+\frac{2}{5})\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Vierkante en kubusse en wortels van breuke</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">1. Bereken.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) \(\frac{3}{10} \times \frac{3}{10}\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+<p xmlns="http://www.w3.org/1999/xhtml">(b) \(\frac{3}{10} \times \frac{3}{10} \times \frac{3}{10}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) \((\frac{3}{5})^2\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) \((\frac{5}{9})^2\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e)  \((\frac{3}{5})^3\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+<p xmlns="http://www.w3.org/1999/xhtml"> (f)  \((\frac{1}{4})^2\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g)  \((\frac{1}{4})^3\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+<p xmlns="http://www.w3.org/1999/xhtml">(h) \((\frac{4}{7})^2\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(i)  \((\frac{5}{8})^3\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+<p xmlns="http://www.w3.org/1999/xhtml"> (j) \((\frac{5}{8})^2\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(k) \((\frac{5}{12})^3\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+<p xmlns="http://www.w3.org/1999/xhtml">  (l) \((\frac{5}{12})^2\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Watter getal, met
+    homself vermenigvuldig, is \(\frac{9}{16}\)?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Hierdie getal word die <b>vierkantswortel</b> van
+    \(\frac{9}{16}\) genoem. Dit kan as
+    \(\sqrt{\frac{9}{16}}\) geskryf word.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Bereken die
+    volgende. Hier en daar sal jou antwoorde van vraag 1 jou
+    help.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-4">(a)
+    \(\sqrt{\frac{4}{9}}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-4">(b)
+    \(\sqrt[3]{\frac{27}{64}}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-4">(c)
+    \(\sqrt{\frac{25}{81}}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-4">(d)
+     \(\sqrt[3]{\frac{125}{343}}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-4">(e)
+   \(\sqrt{\frac{25}{36}}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column- para-style-override-4">(f)
+    \(\sqrt[3]{\frac{125}{216}}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(g)
+    \(\sqrt{\frac{9}{100}}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below--2-column-">(h)
+    \(\sqrt[3]{\frac{27}{1000}}\)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-5">Deel deur ‘n breuk</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Bedien sap</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Jannie gooi sap uit bottels in
+    glase.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body"><span><img class="frame-120" src="Maths_English_LB_gr8_term3_1-web-resources/image/174764.png" alt="174764.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Hy gebruik drie kwarte van ‘n
+    bottel sap om een glas vol te maak.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body"><span><img class="frame-121" src="Maths_English_LB_gr8_term3_1-web-resources/image/174776.png" alt="174776.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Hoeveel bottels sal
+    Jannie nodig hê om 10 glase vol te maak?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Hoeveel bottels sal
+    Jannie nodig hê om 30 glase vol te maak?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Hoeveel bottels sal
+    Jannie nodig hê om 100 glase vol te maak?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Hoeveel bottels sal hy
+    nodig hê om 180 glase vol te maak?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. Hoeveel bottels sal hy
+    nodig hê om 37 glase vol te maak?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">6. Hoeveel glase kan Jannie
+    volmaak met 20 bottels sap?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-122" src="Maths_English_LB_gr8_term3_1-web-resources/image/174784.png" alt="174784.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">7. Hoeveel glase kan Jannie
+    volmaak met 36 vol bottels sap?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-7">Op ‘n
+    ander dag gebruik Jannie glase van ‘n ander grootte. Hy het 5
+    agtstes van ‘n bottel sap nodig om een van hierdie glase vol te
+    maak.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">8. Hoeveel bottels sap het
+    Jannie nodig om 50 van hierdie glase vol te maak?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">9. Hoeveel van hierdie
+    glase kan Jannie uit 25 vol bottels sap volmaak?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-7">Jannie
+    gebruik weer ander glase. Vir hierdie glase het hy \(\frac{7}{10}\) van ‘n vol bottel sap nodig om
+    een glas te vul.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">10. Hoeveel bottels sap het
+    Jannie nodig om 44 van hierdie glase vol te maak?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">11. Hoeveel van hierdie
+    glase kan Jannie volmaak uit 25 vol bottels sap?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">12. Hoeveel glase
+    kan Jannie uit 36 vol bottels volmaak as hy ‘n driekwart bottel
+    nodig het om een glas te vul?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Doen die sap-berekeninge vinniger</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Ria het R850 en
+    hoenders kos R67 elk. Watter bewerking het sy nodig om uit te
+    werk hoeveel hoenders sy kan koop?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Jannie het 16 bottels en
+    het 3 kwarte  \((\frac{3}{4})\) van ‘n bottel nodig om een
+    glas vol te maak.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Hoeveel kwarte is daar in 16 vol
+    bottels sap?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Hoeveel glase kan hy met hierdie
+    kwarte volmaak?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-9">By vraag
+    2 het jy uitgewerk hoeveel glase, wat elk
+   \(\frac{3}{4}\) van ‘n bottel bevat, uit 16
+    bottels. volgemaak kan word. Jy het dit
+    gedoen deur eers die totale hoeveelheid kwarte in 16 bottels
+    uit te werk, en dit dan deur 3 te deel om uit te vind hoeveel
+    glase volgemaak kan word. Doen vrae 3 en 4 op dieselfde
+    manier.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Jannie het 20 bottels sap en het 5 agtstes 
+  (\(\frac{5}{8}\))     van ‘n bottel nodig om een
+    glas te vul. Om uit te vind hoeveel glase hy kan
+    volmaak, moet hy uitvind hoeveel 20 gedeel \(\frac{5}{8}\) is. Doen jou bewerkings
+    soos in vraag 2 om dit uit te vind.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Jannie het 25
+    bottels sap en het  \(\frac{3}{5}\) van ‘n bottel nodig om een
+    glas vol te maak. Hoeveel glase kan hy volmaak?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">In vrae 2, 3 en 4 het jy
+    in werklikheid hierdie berekeninge gedoen:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">In vraag 2 het jy
+     \(16 \div  \frac{3}{4}\), uitgewerk, deur die berekening \(16 \times 4 \div 3\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">In vraag 3 het jy
+     \(20 \div  \frac{5}{8}\), uitgewerk, deur die berekening \(20 \times 8 \div 5\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-1">In
+    vraag 4 het jy \(25 \div  \frac{3}{5}\), uitgewerk, deur die berekening \(25 \times 5 \div 3\).</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Om deur ‘n breuk te
+      deel, vermenigvuldig jy met die noemer en deel deur die
+      teller.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. Bereken:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) \(9 \div  \frac{2}{3}\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) \(12 \div \frac{3}{8}\)</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) \(15 \div \frac{7}{10}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml"> (d) \(2 \div \frac{3}{20}\)</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) \(20 \div \frac{7}{12}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(f) \(120 \div 3\frac{3}{5}\)</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">6. Bereken:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) \(9 \times \frac{3}{2}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) \(12 \times \frac{8}{3}\)</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) \(15 \times \frac{10}{7}\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+<p xmlns="http://www.w3.org/1999/xhtml"> (d) \(2 \times \frac{20}{3}\)</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) \(20 \times \frac{12}{7}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(f) \(120 \times \frac{5}{18}\)</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">7. Wat merk jy op uit jou
+    antwoorde op vrae 5 en 6?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Om met ‘n breuk te deel, draai
+    ons die breuk om en vermenigvuldig!</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Byvoorbeeld, \(15 \div \frac{7}{10} = 15 \times \frac{10}{7}\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">\(\frac{10}{7}\) is die <b>resiprook</b> (ook die
+    multiplikatiewe inverse genoem) van \(\frac{7}{10}\).</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Deel is die inverse
+      van vermenigvuldiging.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die metode van deel deur te
+    vermenigvuldig met die inverse werk ook as ‘n breuk deur ‘n
+    breuk gedeel word. Byvoorbeeld
+   \(\frac{5}{18} \div \frac{7}{10}\) can be calculated by doing
+    \(\frac{5}{18} \times  \frac{10}{7}\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">8. Bereken:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) \(\frac{7}{10} \div \frac{3}{20}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) \(\frac{9}{10} \div \frac{3}{18}\)</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)  \(\frac{17}{20} \div \frac{2}{7}\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml"> (d) \(2\frac{7}{20} \div \frac{3}{5}\)</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) \(4\frac{7}{8} \div \frac{2}{3}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(f) \(5\frac{7}{8} \div 2 \frac{3}{5}\)</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+  
+  </div>
+</div>
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

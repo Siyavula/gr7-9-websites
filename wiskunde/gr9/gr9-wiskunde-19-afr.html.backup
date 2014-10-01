@@ -1,0 +1,1653 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr9 Wiskunde</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Wissel navigasie</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index-afr.html">Gr 7-9 Werkboeke</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/index-afr.html">Tuisblad</a></li>
+                          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wiskunde<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/wiskunde/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/wiskunde/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/wiskunde/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natuurwetenskappe<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/natuurwetenskappe/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/natuurwetenskappe/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/natuurwetenskappe/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tegnologie<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/tegnologie/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/tegnologie/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/tegnologie/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+
+            <li><a href="/aflaaibares-afr.html">Aflaaibares</a></li>
+            <li><a href="/oorons-afr.html">Oor ons</a></li>
+            <li><a href="/oorons-afr.html#contact">Kontak</a></li>
+           
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container">
+        <div class="language-toggle">
+            <button type="button" class="btn btn-default ">English</button>
+            <button type="button" class="btn btn-primary active">Afrikaans</button>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-3">Algebraïese uitdrukkings</h1>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-4">Inleiding</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Manipuleer uitdrukkings</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Wanneer jy ʼn veelterm as ʼn produk skryf, word die
+proses <b>faktorisering</b> genoem. Dit is die inverse van
+<b>uitbreiding</b>.
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">ʼn Numeriese of algebraïese uit-
+drukking waarvan die laaste stap
+vermenigvuldiging is, word 'n
+ <b>produk
+</b> genoem. Byvoorbeeld,
+ \(12(37 + 63), 2x(x - 5) \) en
+ \( xyz \) word produkte genoem. ʼn
+Produk is ʼn <b>eenterm</b>.
+</p>
+    </div>
+
+<p xmlns="http://www.w3.org/1999/xhtml"><img class="frame-49" src="Maths_English_LB_gr9_term3_1-web-resources/image/pg15.png" alt="pg15.png"/></p>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body">Elke gedeelte van ʼn produk word ʼn faktor van die uitdrukking genoem. As
+ \( c= ab \), dan
+ \(a \) en
+ \( b \) faktore van
+
+	\(c \). \( x + 2 \) en
+ \(x + 3 \) is die faktore van
+ \( (x + 2)(x + 3) \). Omdat
+
+	\( x^2 + 5x + 6 = (x + 2)(x + 3)\),is \( x + 2 \) en
+ \( x + 3 \) faktore van
+
+	\(x^2 + 5x + 6 \).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">1. Bereken die waarde van die volgende uitdrukkings vir
+ x = 12.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \(\dfrac{(x+2)(x+5)}{x+2}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml">(b) \(\dfrac{(x-3)(x-4)}{x-4}\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-5">(c)
+   \(\dfrac{x(2x+1)}{2x+1}\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml">(d) \(\dfrac{(x+5)(x-5)}{x-5}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Kyk of die volgende uitdrukkings identiteite is
+deur die regterhandse uitdrukkings uit te brei
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">  \( 2(x + 3) = 2x + 6\),
+      is waar vir alle
+waardes van
+ \(x\) So ʼn stelling word
+ʼn <b>identiteit</b> genoem.
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \( x^2 - 9 = (x + 3)(x - 3) \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+		
+	 <p xmlns="http://www.w3.org/1999/xhtml"> (b) \( x^2 + x - 6 = (x + 3)(x - 2) \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	 <p xmlns="http://www.w3.org/1999/xhtml"> (c) \( x^2 + 4x + 3 = (x + 3)(x + 1) \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	 <p xmlns="http://www.w3.org/1999/xhtml"> (d) \(x^2 + 3x = x(x + 3) \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+  
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Skryf die faktore van die volgende uitdrukkings neer:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-5">(a)
+	  \( x^2 + x - 6 \)</p> <hr xmlns="http://www.w3.org/1999/xhtml"/>
+	 <p xmlns="http://www.w3.org/1999/xhtml"> (b) \( x^2 + 3x \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	 <p xmlns="http://www.w3.org/1999/xhtml"> (c) \( x^2 + 4x + 3 \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	 <p xmlns="http://www.w3.org/1999/xhtml"> (d) \( x^2 - 9 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+   
+	<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">4. Vereenvoudig die volgende kwosiënte (algebraïese breuke).
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \(\dfrac{x^2-9}{x+3}\)</p> <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml">(b)  \(\dfrac{x^2+x-6}{x+3}\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+  
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(c)  \(\dfrac{x^2+x-6}{x-2}\)</p> <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml">(d)  \(\dfrac{x^2+4x+3}{(x+3)(x+1)}\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">5. (a) Sê nou jy moet die waarde van die uitdrukking in (a) kry vir x = 15. Watter
+uitdrukking vereis die minste werk?
+ \( \frac{x^2 - 9}{x + 3} \) of \( x - 3 \)? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Is jy seker dat jy dieselfde antwoorde vir die twee uitdrukkings in (a) sal kry?
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-4"> In die volgende afdelings gaan jy leer hoe om bepaalde tipes uitdrukkings te faktoriseer.
+Die volgende identieite is nuttig wanneer jy moet faktoriseer:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml">\( a(b + c) = ab + ac \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \( (x + a)(x + b) = x^2 + (a + b)x + ab \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \( (a + b)(a - b) = a^2 - b^2 \) </p>
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-5">Faktore van uitdrukkings van die vorm \(ab + ac\)</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Die grootste gemene faktor</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">1. (a) Is 5 ʼn faktor van 20?	 
+  </p> <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml">  (b) Is 5 ʼn faktor van 30?
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(c) Is 5 ʼn faktor van 
+
+ 30 + 20?  </p> <hr xmlns="http://www.w3.org/1999/xhtml"/>
+	 <p xmlns="http://www.w3.org/1999/xhtml"> (d)
+   Is 5 ʼn faktor van 
+ 30 <span>-</span> 20? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">2. (a) Is \( a \) ʼn faktor van 
+ \( ab \)? </p>  <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml">  (b) Is \( a\)
+	 ʼn faktor van 
+ \( ac\)? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(c) Is \( a \) ʼn faktor van 
+  \( ab + ac\)?  </p> <hr xmlns="http://www.w3.org/1999/xhtml"/>  <p xmlns="http://www.w3.org/1999/xhtml"> (d) Gee nog ʼn faktor van
+
+    \( ab + ac\).</p>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-5">(e) Probeer
+ \( \frac{ab + ac}{a} \) vereenvoudig 
+</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Veronderstel jy moet
+
+    	\( 4x^3 + 2x^2 - 6x\) faktoriseer. Dit is duidelik dat
+ \(2x \) ʼn faktor van elke
+term is, dus is dit ʼn faktor van
+\( 4x^3 + 2x^2 - 6x\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-3">Deur te deel kry ons
+
+    \( \frac{4x^3 + 2x^2 -6x}{2x} = 2x^2 + x -3\).Dus
+ \(4x^3 + 2x^2 - 6x = 2x(2x^2 + x -3)\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Jy kan jou faktorisering altyd kontroleer deur die antwoord uit te brei en seker te maak
+dat die resultaat dieselfde is as die oorspronklike uitdrukking.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced para-style-override-3">3.
+    Voltooi die tabel.
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-26" class="No-Table-Style"><tbody><tr class="Row-Column-69"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Vir elke uitdrukking,
+
+            vind:
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(3x + 6y \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\( 4a^3 + 2a \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(5x - 2x^2 \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(ax^2 - bx^3 \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\( 12a^2b + 18ab^2 \)</p>
+          </td>
+        </tr><tr class="Row-Column-69"><td class="cell-style-override-2">
+            <p class="Table-text-centred">die faktore van die
+
+           eerste term
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\( 3; x \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-69"><td class="cell-style-override-2">
+            <p class="Table-text-centred">die faktore van die
+
+         tweede term
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(2; 3; y \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-5">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-69"><td class="cell-style-override-2">
+            <p class="Table-text-centred">die grootste gemene faktor van die twee terme
+
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\( 3 \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="ANSWERS-Table-text-centred para-style-override-7">
+            </p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-69"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Skryf die uitdrukking in
+
+          faktorvorm
+</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\( 3(x + 2y) \)</p>
+          </td>
+
+          <td class="none">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Bestudeer die voorbeeld en faktoriseer dan die uitdrukkings wat volg.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">\(\begin{align} (a - b)x + (b - a)y &amp;= (a - b)x - (a - b)y \\ &amp;= (a - b)(x - y) \end{align}\)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent"><b>Let op dat:
+:</b>  \( b - a = -a + b = -(a - b) \)</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \( (a - b)x + a - b \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(b) \( (a - b)x - a + b \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(c) \( (a + b)^2 - (a + b) \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(d) \( (a + b)x - a - b \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(e) \( 3x(2x - 3) - (3 - 2x) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(f) \( (y^2 - 4y) + (3y -12) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Iets tussenin</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-4">1.
+   Deur die tabelle hier onder te voltooi sal jy iets leer wat jou sal help om die faktore te
+kry van uitdrukkings van die vorm 
+
+    \(x^2 + (b + c)x + bc \), byvoorbeeld
+ \(x^2 + 17x + 30 \).</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-27" class="No-Table-Style"><tbody><tr class="Row-Column-71"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(b\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-5</p>
+          </td>
+        </tr><tr class="Row-Column-71"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(c\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">30</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-30</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-15</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-6</p>
+          </td>
+        </tr><tr class="Row-Column-71"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(b + c\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-71"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(bc\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table>
+        <table xmlns="http://www.w3.org/1999/xhtml" id="table-28" class="No-Table-Style"><tbody><tr class="Row-Column-71"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(b\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-71"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(c\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">30</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-30</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-15</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-6</p>
+          </td>
+        </tr><tr class="Row-Column-71"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(b + c\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-71"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(bc\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Skryf twee getalle
+ \( x \)
+    en
+ \( y \) sodat hulle produk
+ \( xy \) 30 is, en hulle som
+ \( x +
+    y \) die gegewe
+getal is.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \( xy = 30 \) en
+ \( x + y = 13 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \(xy = 30 \) en
+ \(x + y = -17 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (c) \(xy = 30 \) en
+ \( x + y = -11 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (d) \(xy = 30 \) en
+ \( x + y = 11 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+   
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Bepaal
+ \( x \) en
+ \( y \)  .</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Jy mag die tabelle gebruik
+wat jy in vraag 1 voltooi het
+om die antwoorde van som-
+mige van die vrae te vind.
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) \( xy =- 30 \) en
+ \( x + y = -13 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \( xy = 30 \) en
+ \( x + y = -13 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (c) \( xy = -30 \) en
+ \( x + y = 13 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (d) \( xy = -30 \) en
+ \( x + y = -1 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (e) \( xy = -30 \) en
+ \( x + y = 1 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Bepaal
+ \( x \) en
+ \( y \)  .</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \( xy = 36 \) en
+ \( x + y = 15 \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \( xy = 40 \) en
+ \( x + y = 22 \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (c) \( xy = 36 \) en
+ \( x + y = 20 \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (d) \( xy = -40 \) en
+ \( x + y = 18 \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (e) \( xy = 36 \) en
+ \( x + y = -20 \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (f) \( xy = -40 \) en
+ \( x + y = -18 \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. Bereken elke uitdrukking vir
+
+    \( x = 2 \). Brei ook elke uitdrukking uit.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \( (x + 5)(x - 2) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(b) \(  (x + 5)(x + 2) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(c) \(  (x − 5)(x − 2)  \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(d) \( (x − 5)(x + 2) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">6. Bereken elke veelterm wat jy in vraag 5 gevorm het vir
+ \( x = 2 \). Vergelyk die antwoorde
+met die waardes van die ooreenstemmende produkuitdrukkings in vraag 1. In gevalle
+waar die waardes verskil, het jy dalk êrens ʼn fout gemaak het. Stel die foute reg
+voordat jy met vraag 7 aangaan.
+</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">7. Brei elke produk uit.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml">(a) \( (x + 3)(x + 8) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml">(b) \( (x + 2)(x + 12) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml">(c) \( (x + 4)(x + 6) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml">(d) \( (x + 1)(x + 24) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml">(e) \( (x + 3)(x − 8) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml">(f) \( (x + 2)(x − 12) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml">(g) \( (x + 4)(x − 6) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml">(h) \( (x + 1)(x − 24) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-6">Faktore van uitdrukkings van die vorm \( x^2 + (b + c)x + bc \)</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die uitgebreide vorm van ʼn produk
+ <b>van twee lineêre tweeterme
+</b> soos
+\( (x + 3)(x + 8) \) of \( (x + 3)(x - 8) \) is ʼn  
+
+    <b>is ʼn kwadratiese drieterm soos
+</b>  soos
+\( x^2 + 11x + 24 \) or \( x^2 - 5x - 24 \) met
+</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet"> ‘n term in
+
+      \(x^2\),</li>
+
+      <li class="Body-bullet">‘n term in
+
+      \( x \) wat die middelterm genoem word, wat 
+ \( +11x \) in \( x^2 + 11x + 24 \) is
+en
+ \(-5x\) in \(x^2 - 5x -24 \), en
+</li>
+
+      <li class="Body-bullet"> ʼn konstante term wat ook die laaste term genoem word, wat
+ \(+24\)
+      in \( x^2 + 11x + 24, \)is , en
+ \(-24\) in \(x^2 - 5x -24 \).</li>
+    </ul>
+
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"> Om ʼn uitdrukking soos
+
+    \( x2 + 5x + 6\)te faktoriseer, beteken om die proses van uitbreiding
+om te keer. Dit beteken dat ons moet uitvind watter tweeterme die drieterm sal gee as die
+produk van die tweeterme uitgebrei word, byvoorbeeld:
+</p>
+
+   
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-78" src="Maths_English_LB_gr9_term3_1-web-resources/image/pg19.png" alt="pg19.png"/></div>
+
+
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Probeer om die faktore te kry</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">1. Vul die ontbrekende dele van die faktore in elk van die volgende in:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-5">(a) \( (x + 3)(x...) = x^2 + 9x + 18 \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">(b) \( (x + 2)(x...) = x^2 + 11x + 18 \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml">(c) \( (x + 3)(x − ) = x^2 + 9x − 18 \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml">(d) \( (...+...)(x + 2) = x^2 + 5x + 6 \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml">(e) \( x^2 − x − 6 \) </p>
+	<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Brei elke produk uit:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) \((x + p)(x + q) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(b) \( (x + p)(x − q) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(c) \( (x − p)(x + q) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(d) \( (x − p)(x − q) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die produk van die eerste terme van die faktore moet gelyk wees aan die
+ \( x^2 \) term van die
+drieterm.
+</p>
+
+
+      <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-83" src="Maths_English_LB_gr9_term3_1-web-resources/image/pg20.png" alt="pg20.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die produk van die laaste terme van die faktore moet gelyk wees aan die laaste term (die
+konstante term) van die drieterm. Die som van die binneste en buitenste produkte moet
+gelyk wees aan die term in
+ \( x \) (die middelste term) van die drieterm.
+</p>
+
+
+      <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-86" src="Maths_English_LB_gr9_term3_1-web-resources/image/pg20.1.png" alt="pg20.1.png"/></div>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Probeer om hierdie drieterme te faktoriseer.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \( x^2 + 8x + 12 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \( x^2 − 8x + 12 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Oefen maak die meester</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Faktoriseer die volgende drieterme: (Onthou om jou antwoord te kontroleer deur die
+faktore uit te brei om te toets of jy die oorspronklike uitdrukking kry.)
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \( a^2 + 9a + 14 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(b) \(  x^2 + 3x − 18 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>	 
+	<p xmlns="http://www.w3.org/1999/xhtml">(c) \(  x^2 − 18x + 17 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>	 
+	<p xmlns="http://www.w3.org/1999/xhtml">(d) \(  y^2 + 17y + 30\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>	 
+	<p xmlns="http://www.w3.org/1999/xhtml">(e) \(  y^2  − 13y − 30 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(f) \(  y^2 + 7y − 30\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>	 
+	<p xmlns="http://www.w3.org/1999/xhtml">(g) \(  x^2  + 2x − 15 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>	 
+	<p xmlns="http://www.w3.org/1999/xhtml">(h) \(  m^2 + 4m − 21\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>	 
+	<p xmlns="http://www.w3.org/1999/xhtml">(i) \(  x^2 − 6x + 9	 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(j) \(  b^2 + 15b + 56\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>	 
+	<p xmlns="http://www.w3.org/1999/xhtml">(k) \(  a^2  − 2a − 63 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>	 
+	<p xmlns="http://www.w3.org/1999/xhtml">(l) \(  a^2 − ab − 30b^2\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>	 
+	<p xmlns="http://www.w3.org/1999/xhtml">(m) \(  x^2 − 5xy − 24y^2\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(n) \(  x^2 -13x + 40 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h4 xmlns="http://www.w3.org/1999/xhtml">ʼn Alternatiewe metode:
+</h4>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">2. Bestudeer die voorbeeld en faktoriseer dan die uitdrukkings wat volg.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><b>Voorbeeld</b>: Faktoriseer
+ \( ac + bc + bd + ad \) 
+ </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \( \begin{align} ac + bc + bd + ad &amp;= (ac + bc) + (bd + ad) &amp;&amp;\textit{ Orden en groepeer terme met gemene faktore
+}\\  &amp;= c(a + b) + d(b + a) &amp;&amp;\textit{ Haal die gemene faktor uit
+}\\  &amp;= (a + b)(c + d) &amp;&amp;\textit{Skryf uitdrukking as ʼn produk
+} \end{align}\)
+ </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \( px +  + py + qx + qy \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \( 9x^3 − 27x^2 + x − 3 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+   <p xmlns="http://www.w3.org/1999/xhtml"> (c) \( 4a + 4b + 3ap + 3bp \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (d) \( a^4 + a^3 + 3a + 3 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (e) \( xy + x + y + 1 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (f) \( ac − ad − bc + bd \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	 
+<h4 xmlns="http://www.w3.org/1999/xhtml">Nog 'n metode
+:</h4>
+
+<table xmlns="http://www.w3.org/1999/xhtml" class="no-border-plain">
+<tbody>
+<tr>
+<td>
+    <p class="ques-a-"> \(\begin{align} &amp;\textbf{Voorbeeld
+ 1:} &amp;&amp;\textbf{Voorbeeld
+ 2:} \\&amp;x^2 + 4x + 3 &amp;&amp;x^2 + 3x - 4  \\
+	   &amp;= x^2 + x + 3x + 3 &amp;&amp;= x^2 − x + 4x − 4  \\
+	  &amp;= (x^2 + x) + (3x + 3) &amp;&amp;= (x2 − x) + (4x − 4) \\ 
+	 &amp;= x(x + 1) + 3(x + 1)   &amp;&amp;= x(x − 1) + 4(x − 1)\\
+	  &amp;= (x + 1)(x + 3)  &amp;&amp;= (x − 1)(x + 4) \end{align}\)</p>
+</td>
+<td>\(\textbf{Bewerking
+:} \\ \text{ } \\
+\textit{Herskryf middelterme as som van 2 terme.
+} \\
+\textit{Groepeer.
+} \\
+\textit{Haal die GGF uit elke groep uit.
+} \\
+\textit{Skryf as ʼn produk.
+}\)
+</td>
+</tr>
+</tbody>
+</table>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Faktoriseer:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \( x^2 + 7x + 12\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \( x^2 − 7x + 12 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die uitdaging is om die middelterm op so ʼn manier as die som van twee terme te skryf,
+dat jy die gemene faktor kan uithaal.
+</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-7">Faktore van uitdrukkings in die vorm \( a^2 - b^2 \)</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Voorafwerk</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Voltooi die tabel en kyk of jy ʼn patroon (reël) kan raaksien waarvolgens jy die
+antwoorde van die berekeninge in die eerste kolom kan voorspel sonder om te
+kwadreer:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-29" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left"><span class="x2nd-level-bullet">(a)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(3^2-
+            2^2\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(3 + 2\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(3 - 2\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\((3 + 2)(3 - 2)\)</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left"><span class="x2nd-level-bullet">(b)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(4^2-
+            3^2\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(4 + 3\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(4 - 3\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\((4 + 3)(4 - 3)\)</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left"><span class="x2nd-level-bullet">(c)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(6^2-
+            4^2\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(6 + 4\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(6 - 4\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\((6 + 4)(6 - 4)\)</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-left"><span class="x2nd-level-bullet">(d)</span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(9^2-
+            3^2\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(9 + 3\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(9 - 3\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\((9 + 3)(9 - 3)\)</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Merk jy ʼn patroon (reël) waarvolgens jy die antwoorde op sulke berekeninge kan
+voorspel?
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Voorspel nou die antwoorde op die volgende sonder om kwadrate uit te werk.
+Kontroleer jou antwoorde waar nodig. Sal die reël wat jy in vraag 2 ontdek het ook
+werk vir die volgende gevalle?
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(a) \( 17^2 − 13^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \(54^2 - 46^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (c) \(28^2 - 22^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced para-style-override-3">4.
+    Formuleer jou reël in simbole:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">\( a^2 - b^2 = \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. Kan jy verduidelik hoekom die faktore van
+
+    \(a^2 - b^2 \) hierdie vorm het?
+</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Anders gestel: 
+
+      \( p \) en
+ \(q \) volkome vierkante is, ook
+
+      "algebraïese vierkante", dan is:
+</p>
+
+      <p class="Body-content-no-indent"><img class="frame-96" src="Maths_English_LB_gr9_term3_1-web-resources/image/Selection_008.png" alt="Selection_008.png"/></p>
+
+     
+
+      <p class="Body-content-no-indent">((Let op dat die bewerkings binne die hakies verskil.
+)</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">ʼn Uitdrukking van die vorm
+
+     \( a^2 - b^2 \) word die
+<b>verskil tussen
+twee vierkante
+</b>.</p>
+
+      <p class="Body-box">genoem. Om
+die verskil tussen vierkante te
+faktoriseer, gebruik ons die
+identiteit: 
+ \( a^2 - b^2 = (a + b)(a - b) \) waar
+\(a\) en
+ \(b\) getalle of algebraïese
+uitdrukkings voorstel.
+</p>
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Faktoriseer die verskil tussen twee vierkante-uitdrukkings</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">1. Gebruik die vaardighede wat jy in die vorige oefeninge aangeleer het om die volgende 	
+	 te faktoriseer:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \( 4a^2 - b^2 \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \( m^2 - 9n^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (c) \( 25x^2 − 36y^2  \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (d) \( 121x^2 − 144y^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (e) \( 16p^2 − 49q^2  \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (f) \( 64a^2 − 25b^2c^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (g) \( x^2 - 4 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (h) \( 16x^2 − 36y^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+ 
+   
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Faktoriseer altyd alles volledig.
+</p>
+
+      <p class="Body-content-no-indent">Haal altyd die grootste gemene faktor uit as daar een
+is
+</p>
+
+      <p class="Body-content-no-indent">Een (getal 1) is ʼn volkome vierkant:
+ \(1 = 1^2 \) en
+ \(1^m = 1\)
+      </p>
+
+      <p class="Body-content-no-indent">Die eksponensiële wet:
+
+      \(a^m.a^n = a^{m + n} \)</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Faktoriseer:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \( x^4 - 1 \)   </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \(16a^4 − 81 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (c) \(1 − a^2b^2c^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (d) \(25x^{10} − 49y^8 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (e) \(2x^2 − 18  \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (f) \(200 − 2b^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (g) \(3xy^2 − 48xa^2  \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (h) \(5a^4 − 20b^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+            <h3 xmlns="http://www.w3.org/1999/xhtml">Bereken die oppervlakte van die ingekleurde deel.</h3>
+
+ <div xmlns="http://www.w3.org/1999/xhtml" class="extension">
+            <p class="Body-box-no-indent">Gebruik die kortste moontlike metode.
+</p>
+
+            
+              <p>(a)</p><p><img class="frame-110" src="Maths_English_LB_gr9_term3_1-web-resources/image/129460.png" alt="Selection_009.png"/></p>
+                  <p>(b)</p><p><img class="frame-110" src="Maths_English_LB_gr9_term3_1-web-resources/image/129467.png" alt="Selection_009.png"/></p>
+              </div>
+	<h3 xmlns="http://www.w3.org/1999/xhtml">Dit is hoe faktorisering die berekeninge maklik kan maak</h3>
+
+	<h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-8">Vereenvoudiging van algebraïese breuke</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Werk met algebraïese breuke</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-4">Liza en Magriet moet die waarde bereken van
+ \( \dfrac{x^2 - 2x - 3}{x -3} \) vir
+ \( x = 4,6\).</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-33" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Liza se oplossing
+</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Magriet se oplossing:
+</b></p>
+          </td>
+        </tr><tr class="Row-Column-120"><td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-6">
+            \( \dfrac{x^2 - 2x - 3}{x -3} \)</p>
+	<p> \( = \dfrac{4,6^2 - 2(4,6) - 3}{4,6 - 3} \) ...Vervang
+ \(x = 4,6 \) </p>
+	<p> \( = \dfrac{21,16 - 9,2 - 3}{4,6 - 3} \) </p>
+	<p> \( = \dfrac{8,96}{1,6} \) </p>
+	<p> \( = 5,6 \) </p>
+
+
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left para-style-override-6">
+           \( \dfrac{x^2 - 2x - 3}{x -3} \)</p>
+		<p> \( = \dfrac{(x - 3)(x + 1)}{x - 3} \) ...Faktoriseer die noemer
+ </p>
+		<p> \( = x + 1 \) ...Vereenvoudig
+ </p>	
+		<p> \( = 4,6 + 1 \) ...Vervang
+ x = 4,6 </p>
+		<p> \( = 5,6 \) </p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1.Wie se oplossing verkies jy? Hoekom?
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Dit is nuttig om kwosiëntuitdrukkings soos
+
+
+      \( \dfrac{x^2 + 5x + 6}{x + 2} \)bewerk tot eenvoudiger, maar ekwivalente
+
+   somuitdrukkings, soos in hierdie geval:
+  \(x + 3 \) Dit maak
+substitusie en die oplos van vergelykings makliker.
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced para-style-override-5">2.
+    Los die probleme op:
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-3">(a) Evalueer
+
+    \( \dfrac{x^2 + 5x + 6}{x + 2} \) as \( x = 23 \).  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) Los op vir
+ \(x : \dfrac{x^2 + 5x + 6}{x + 2} = 19 \).   </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-5">3.
+   Werk die waarde van elk van die volgende uitdrukkings uit as
+
+    \( x = 36 \). Probeer om die kortste moontlike metode te gebruik.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-5">(a)
+    \( \dfrac{x^2 - 9}{ x + 3} \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(b) \( \dfrac{x^2 + x - 6}{x + 3} \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+   
+
+
+            <h3 xmlns="http://www.w3.org/1999/xhtml">Hoe is dit moontlik dat 2 = 1?</h3>
+	<div xmlns="http://www.w3.org/1999/xhtml" class="extension"><p>Wat het verkeerd geloop in die volgende beredenering?
+ </p>
+	
+	<table class="no-border-plain">
+	<tbody>
+	<tr>
+	<td>	<p>\(\begin{align} Laat&amp;: \\ \times a&amp;: \\ -b^2&amp;: \\Faktoriseer
+&amp;: \\ \div (a-b)&amp;: \\ \text{Maar
+ } a = b&amp;: \\ \text{Voeg terme by
+}&amp;:\\ \div b&amp;:\end{align}\)</p></td>
+
+	<td>\( \text{ } \\ ⇔ \\ ⇔ \\ ⇔\\ ⇔\\ ⇔ \\ ⇔\\ ⇔\)</td>
+	<td>\(\begin{align} a &amp;= b &amp;&amp;&amp; (\text{As: } b \neq 0) \\ a^2 &amp;= ab \\ a^2 - b^2 &amp;= ab - b^2 \\ (a+b)(a-b) &amp;= b(a-b) \\ a+b &amp;= b \\ b + b &amp;= b \\ 2b &amp;= b \\ 2&amp;=1 \end{align}\)</td>
+	</tr>
+	</tbody>
+	</table>
+	<p>Verduidelik wat verkeerd geloop het en hoekom dit verkeerd is.
+ </p></div>
+	
+	<h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Deel deur nul kan nie gebeur nie</h3>
+
+		
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Voltooi die tabel deur die waarde van die uitdrukking te bereken vir die
+
+
+    \( \frac{x + 2} {x - 2}  x-waardes\) wat in die boonste ry gegee is:
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-36" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+        </tr><tr class="Row-Column-131"><td class="cell-style-override-11">
+            <p class="Table-text-left"> \( \dfrac{x + 2} {x - 2} \)</p>
+          </td>
+
+          <td class="cell-style-override-12">
+            <p class="ANSWERS-Table-text-left para-style-override-6"/>
+
+            <p class="ANSWERS-Table-text-left"/>
+          </td>
+
+          <td class="cell-style-override-12">
+            <p class="ANSWERS-Table-text-left para-style-override-6">
+           </p>
+
+            <p class="ANSWERS-Table-text-left"/>
+          </td>
+
+          <td class="cell-style-override-12">
+            <p class="ANSWERS-Table-text-left para-style-override-6"/>
+
+            <p class="ANSWERS-Table-text-left"/>
+          </td>
+
+          <td class="cell-style-override-12">
+            <p class="ANSWERS-Table-text-left para-style-override-6"/>
+
+            <p class="ANSWERS-Table-text-left"/>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. As
+ \(x = 2\) dan sal
+  \( \dfrac{x + 2} {x - 2} \) die waarde
+ \( \dfrac{4}{0} \)hê. Wat is die waarde van
+
+    \( \dfrac{4}{0} \)? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Probeer die waarde van
+ \( \frac{4}{0} \)bepaal deur dit te stel as
+ \( \frac{4}{0} = a \). Dan is
+ \( 4 = 0 \times
+    a\). Watter waardes van \(a\) sal die stelling waar maak?
+ </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Wat is die resultaat as jy
+ \( 4 \div 0 \) met jou sakrekenaar wil bereken? Kan jy die boodskap
+op jou sakrekenaar verduidelik?
+</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Deel deur 0 is nie moontlik nie. Die algebraïese breuk
+ \( \dfrac{x + 2}{x - 2} \) kan nie ʼn waarde hê as die noemer
+
+
+      \(x - 2 \) gelyk is
+ 
+     aan 0 nie. Ons sê die uitdrukking
+  \( \dfrac{x + 2}{x - 2} \) is 
+
+      <b>ongedefinieerd
+</b> vir
+
+     \(x - 2 = 0 \) dit is, vir
+
+      \( x = 2\). Ons sê ook
+
+
+      \( x = 2\) is
+
+      is ʼn <b>uitgeslote waarde</b> van  
+
+      \(x\) vir
+      \( \frac{x + 2}{x - 2} \).</p>
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Definieer die ongedefinieerde</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Is die volgende stellings waar? Indien nie, verbeter die stelling.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) \( \dfrac{x}{x} = 1 \) vir alle waardes van
+ \(x\). </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) \( \dfrac{x^3}{x^2} = x \) vir alle waardes van
+ \(x\). </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+   <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) \( \dfrac{x - 3}{x - 3} = 1 \) vir alle waardes van
+ \(x\). </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) \( d\frac{x^2 + x}{x(x + 1)} = 1 \) vir alle waardes van
+ \(x\). </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">2. Vir watter waardes van die veranderlikes sal elke uitdrukking ongedefinieerd wees?
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-6">(a) \( \dfrac{7(y + 5)}{y + 2} \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-6">(b) \( \dfrac{3x + 2}{x + 4} \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-6">(c) \( \dfrac{2x + 1}{x^2 - 1}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) \( \dfrac{2x^2 - 1}{(x - 2)(x + 3)}\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Vereenvoudig algebraïese breuke</h3>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Om ʼn algebraïese breuk, wat ʼn veelterm as teller
+of noemer het te vereenvoudig, moet jy eers die
+veelterm faktoriseer. Jy moet die uitgeslote waardes noem om te
+voorkom dat deur 0 gedeel word.
+
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Vereenvoudig die volgende algebraïese breuke deur die teller te faktoriseer en dan die
+
+
+   eienskap
+ \( \dfrac{ax}{a} = x \) te gebruik as
+  \( a \) ≠ 0.Noem uitgeslote waardes.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-5">(a)
+   \( \dfrac{3xy + y^2}{3x + y} \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \( \dfrac{a^2b + ab^2}{a + b} \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (c) \( \dfrac{3x^2y - 6x^2y^2}{3xy} \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (d) \( \dfrac{10x^4 + 15x^3}{5x^2} \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Vereenvoudig die volgende algebraïese breuke deur die teller te faktoriseer en dan die
+
+
+    eienskap
+ \( \dfrac{ax}{a} = x \) te gebruik as
+ \( a \) ≠ 0.(Kyk of jy die drieterme kan faktoriseer.)
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-5">(a)
+    \( \dfrac{x^2 + 5x + 6}{x + 2} \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \( \dfrac{x^2 + 2x - 8}{x - 2} \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml"> (c) \( \dfrac{x^2 - 5x - 50}{x + 5} \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (d) \( \dfrac{x^2 - 16x + 15}{x - 15} \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Vereenvoudig die volgende algebraïese breuke deur die teller te faktoriseer en dan die
+ eienskap
+ \( \dfrac{ax}{a} = x \) te gebruik as
+  \( a \) ≠ 0.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-5">(a)
+    \( \dfrac{x^2 - 4}{x - 2} \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \( \dfrac{4x^2 - 1}{2x + 1} \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+ 
+            <h3 xmlns="http://www.w3.org/1999/xhtml">Faktorisering kan jou berekeninge verkort</h3><div xmlns="http://www.w3.org/1999/xhtml" class="extension">
+	<p class="Body-box-no-indent">Gebruik die kortste moontlike metode om jou antwoord te bereken.
+</p>
+
+    <table id="table-39" class="Basic-Table"><tbody>
+	<tr class="Row-Column-164"><td class="cell-style-override-10">
+            
+
+           
+                    <p class="Body-box-numbers">(a) Bereken die ingekleurde oppervlakte.
+</p>
+
+                    <p class="Body-box-numbers">\(( \text{Oppervlakte 
+} =  \pi r^2 \text{  en gebruik
+ } \pi = 3.142)\)</p>
+
+                    <p class="Body-box-numbers"><span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/131825.png" alt="131825.png"/></span></p>
+                  </td>
+
+                  <td class="cell-style-override-2">
+                    <p class="Body-box-numbers">(b) Bereken die lengte van sy  
+\(a\)</p>
+
+                    <p class="Body-box-numbers">\( \text{(Pythagora
+s: }
+                    c^2 = a^2 + b^2 \))</p>
+
+                    <p class="Body-box-numbers"><span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/131835.png" alt="131835.png"/></span> </p>
+                  </td>
+
+                
+        </tr></tbody></table>
+        </div>
+        <h3 xmlns="http://www.w3.org/1999/xhtml">Dit is hoe faktorisering die berekeninge maklik kan maak!</h3>
+
+
+<h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Nog oefening</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced para-style-override-4">1.
+    Faktoriseer die volgende uitdrukkings volledig.
+</p>
+	
+	<p xmlns="http://www.w3.org/1999/xhtml">(a) \(  4a + 6b \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(b) \(  x^2 + 8x + 7\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(c) \(  c^2 - 9 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(d) \(  y^2 − 8y + 15 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(e) \(  −3ab + b  \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(f) \(  −3a(b − 1) + (b − 1) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(g) \(   dfg^2 + d^2g − df^2g\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(h) \(  x^2 + 6x + 8\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(i) \(  a^2 + 5a + 6\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(j) \(  x^2 − 8x − 20\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(k) \(  x^5y^3 − x^3y^5 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(l) \(  x^3y - xy^3 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(m) \(  4 − 4y − y^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(n) \(  3a^2 + 18a − 21 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(o) \(  6a^2 − 54 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(p) \(  −a^2 − 11a − 30 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(q) \(  2a^2 + 10a − 72 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(r) \(  5x^3 − 15x + 200 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(s) \(  (x + 2)^2 − y^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(t) \(  (x + y)^2 − a^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(u) \(  (a^2 − 2a + 1) − b^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(v) \(  1 − (a^2 − 2ab + b^2) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(w) \(  (a – b)x + (b − a)y \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(x) \(  a(2x - y) + (y -2x) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(y) \(  2x^2y^{10} − 8x^{10}y^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(z) \(  (a + b)^3 – 4(a + b) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(aa) \( (a + b)^2 − a − b \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    	<p xmlns="http://www.w3.org/1999/xhtml">(ab) \( (x + y)(a − b) + (−x − y)(b − a)  \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced para-style-override-5">2.
+    Vereenvoudig die volgende algebraïese breuke so ver as moontlik.
+</p>
+	<p xmlns="http://www.w3.org/1999/xhtml">(a) \( \dfrac{16 - 9x^2}{4 + 3x} \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(b) \( \dfrac{25x^2 - 36}{5x^2 + 6x} \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(c) \( \dfrac{x^3 + x^2 - 30x}{x + 6} \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(d) \( \dfrac{2x^2 + 5x + 3}{2x + 3} \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(e) \( \dfrac{ab + bc}{abc} \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(f) \( \dfrac{pa + pb}{a + b} \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+  
+
+  </div>
+</div>
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

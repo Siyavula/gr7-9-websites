@@ -1,0 +1,1918 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr7 Wiskunde</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Wissel navigasie</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index-afr.html">Gr 7-9 Werkboeke</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/index-afr.html">Tuisblad</a></li>
+                          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wiskunde<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/wiskunde/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/wiskunde/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/wiskunde/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natuurwetenskappe<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/natuurwetenskappe/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/natuurwetenskappe/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/natuurwetenskappe/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tegnologie<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/tegnologie/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/tegnologie/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/tegnologie/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+
+            <li><a href="/aflaaibares-afr.html">Aflaaibares</a></li>
+            <li><a href="/oorons-afr.html">Oor ons</a></li>
+            <li><a href="/oorons-afr.html#contact">Kontak</a></li>
+           
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container">
+        <div class="language-toggle">
+            <button type="button" class="btn btn-default ">English</button>
+            <button type="button" class="btn btn-primary active">Afrikaans</button>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-0">Heelgetalle</h1>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent" lang="en-US">
+    <span>In hierdie hoofstuk gaan jy met getalle kleiner as 0 werk. Hierdie getalle word negatiewe getalle genoem.
+    Wiskundiges het ooreengekom dat negatiewe getalle sekere eienskappe behoort te hê wat hulle op verskillende maniere bruikbaar maak. Jy gaan van hierdie</span> <span>eienskappe leer en hoe hulle dit moontlik maak om bewerkings met negatiewe getalle</span> <span>te doen</span>.</p>
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-1">Die behoefte aan getalle genaamd heelgetalle</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Getalle word vir baie verskillende doeleindes gebruik.
+    Ons gebruik getalle om te sê hoeveel voorwerpe daar in ’n versameling is, byvoorbeeld die getal tafels of banke in ’n klaskamer. Vir hierdie doel gebruik ons die</span>  <b>telgetalle</b> <span>1, 2, 3, 4 . .
+    . Getalle word ook gebruik om grootte te beskryf, byvoorbeeld die lengte van voorwerpe. Vir hierdie doel het ons meer as telgetalle nodig, ons het ook</span>  <b>breuke</b> <span>nodig. Nog ’n gebruik van getalle</span> <span>is om posisie aan te dui, byvoorbeeld die posisie van die regtereindpunt van die rooi lyn in die prente hier onder</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Getalle kom ook voor as oplossings van vergelykings. Die natuurlike getalle en breuke bied egter nie oplossings vir alle vergelykings nie.
+    Byvoorbeeld, daar is geen natuurlike getal of breuk wat die vergelyking kan oplos nie. Die getal wat hierdie</span><span>vergelyking oplos, moet die volgende eienskap hê: as jy die getal aftrek, het dit dieselfde effek as om 10 by te tel!</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Met die doel om getalle te hê wat meer kan doen as bloot tel en meet,
+    het wiskundiges besluit om ook aan ’n ander soort getal,
+    wat</span>  <b>heelgetalle</b> <span>genoem word,
+    te dink. Die</span><span>heelgetalle sluit natuurlike getalle in, maar vir elke natuurlike getal,
+    byvoorbeeld 24,</span> <span>is daar nog ’n getal wat die</span>  <b>optellingsinverse</b>
+    <span>of</span>  <b>additiewe inverse</b> <span>genoem word.</span> <span>So is -24 die</span>
+    <span>optellings</span><span>inverse van 24. As jy ’n getal by sy</span> <span>optellings</span><span>inverse tel, is die</span> <span>antwoord 0. Dus</span>
+    <span>24 + (-24) = 0</span>.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-" lang="en-US">Sê hoe koud dit is</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Een van die gebruike van heelgetalle is die meting van temperature. As ons sê dat die temperatuur 0 is wanneer water begin vries en ys word, het ons getalle kleiner as 0</span>
+    <span>nodig om die temperatuur te beskryf as dit nog kouer sou word. As water begin kook, is die temperatuur 100 grade op ’n skaal wat die Celsiusskaal genoem word</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Vloeistowwe sit uit wanneer hulle verhit word en krimp in as hulle afkoel.
+    Wanneer</span> <span>dit dus warm is, kan ’n vloeistof in ’n dun buisie amper die hele buisie vol maak</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139036.png" alt="139036.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Wanneer dit koud is, sal die kolom vloeistof baie kort wees</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139053.png" alt="139053.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Hierdie eienskap van vloeistof word gebruik om temperatuur te meet. ’n Instrument</span> <span>soos die een hier bo word ’n</span>  <b>termometer</b>
+    <span>genoem</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Dit is wat ’n termometer sal wys as dit in kokende water gesit word. Dit wys ’n temperatuur van 100 grade Celsius, wat ons skryf as 100 °C</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139412.png" alt="139412.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Op die skets hier onder kan jy sien wat ’n termometer sal wys as dit in water is wat begin vries. Dit wys ’n temperatuur van 0 °C</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139437.png" alt="139437.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Op die volgende</span> <span>skets</span> <span>kan jy sien wat ’n termometer sal wys as die temperatuur</span>
+    <span>-40 °C is, wat kouer is as enige wintersnag wat jy nog ooit beleef het!</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139446.png" alt="139446.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    1.	<span>Skryf die temperatuur wat die termometers hier onder wys neer</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139488.png" alt="139488.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below" lang="en-US">
+    <span class="char-style-override-8"><span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139528.png" alt="139528.png"/></span></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5" lang="en-US"><span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139669.png" alt="139669.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5" lang="en-US"><span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139677.png" alt="139677.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-5" lang="en-US"><span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139704.png" alt="139704.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139714.png" alt="139714.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(f)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2.	(a)	<span>Die temperatuur van water in ’n pot is 20 °C. Dit word verhit totdat dit 30
+    °C</span><span>warmer is. Wat is die temperatuur van die water nou</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)	<span>Die temperatuur van water in ’n bottel is 80 °C. Gedurende die nag koel dit tot</span><span>30 °C af. Met hoeveel grade het dit afgekoel?</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)	<span>In die middel van ’n baie koue wintersnag is die temperatuur buite -20 °C.
+    Teen</span><span>nege-uur die volgende oggend het dit 30 grade warmer geword. Wat is die</span><span>temperatuur om nege-uur?</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3.	(a)	<span>Die temperatuur is 8 °C . Wat sal die temperatuur wees as dit 10 grade kouer</span><span>word</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)	<span>Die temperatuur is 8 °C. Wat sal die temperatuur wees as dit 20 grade kouer</span><span>word</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)	<span>Die temperatuur is -8 °C. Wat sal die temperatuur wees as dit 10 grade warmer</span><span>word</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d)	<span>Die temperatuur is -24 °C. Wat sal die temperatuur wees as dit 10 grade warmer</span><span>word</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    4.	<span>Vul die ontbrekende getalle op die getallelyne in</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139946.png" alt="139946.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139955.png" alt="139955.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/139965.png" alt="139965.png"/></span> </p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Sê hoeveel geld dit is</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Simon is in</span> <span>g</span><span>raad 5. Hy het geld in ’n spaarblikkie gespaar. Toe hy 10 geword het, het sy ouma vir hom R100 gegee. Daardie dag het hy ook sy blikkie oopgemaak en daar was R260 in die blikkie. Simon was baie bly.
+    Hy het vir homself gesê: “Ek is baie ryk!”</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Hy besluit om ’n paar goed, wat hy altyd wou hê, met die geld te koop. Dit is wat hy</span> <span>wil koop</span>:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet" lang="en-US">
+      <span class="char-style-override-9">	</span><span>’n sokkerbal teen R160</span></li>
+
+      <li class="Body-bullet" lang="en-US">
+      <span class="char-style-override-9">	</span><span>’n sonbril teen R180</span></li>
+
+      <li class="Body-bullet" lang="en-US">
+      <span class="char-style-override-9">	</span><span>’n boek oor diere teen R90</span></li>
+    </ul><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">1.	<span>Hoeveel geld het Simon altesaam op die dag gehad toe hy gedink het dat hy baie</span> <span>ryk was</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    2.	<span>Hoeveel kos die drie items wat hy wil hê
+    altesaam</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">3.	<span>Simon besluit om eers net die sokkerbal te koop. Hoeveel geld sal hy dan oorhê</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    4.	<span>Hoeveel geld sal hy hê as hy die sokkerbal en die sonbril koop</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">5.	<span>Hoeveel geld sal hy hê as hy die sokkerbal,
+    die sonbril en die diereboek koop</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Toe Simon daaraan gedink het om die items te koop</span><span>,</span> <span>het hy soos volg gereken</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US"><i>R360 - R160 = R200</i></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-7" lang="en-US">R200 - R180 = R20</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US"><i>R20 - R90 = (-) R70 ?</i></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">6.	<span>Fatima besit ’n klein winkeltjie. Een aand met sluitingstyd het sy R120 kontant</span> <span>gehad, haar klante het haar R90 geskuld en sy het haar verskaffers R310 geskuld. Volgens Fatima was haar finansiële posisie soos volg: R120 + R90 - R310 =
+    -R100</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(a)	<span>Aan die einde van ’n ander dag het Fatima afgesluit met R210 kontant, klante</span> <span>het</span>
+    <span>haar R180 geskuld en sy het haar verskaffers R160 geskuld. Wat was haar</span><span>finansiële posisie daardie dag</span><span>?</span></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Op nog ’n dag het Fatima afgesluit met R150 kontant, klante het haar R130</span><span>geskuld en sy het R460 geskuld. Wat was haar finansiële posisie daardie dag</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span>Omtrent 500 jaar gelede het ’n klompie wiskundiges</span><span>voorgestel dat ’n “negatiewe getal” gebruik kan word</span><span>om die resultaat in ’n situasie soos die een hier bo,</span><span>te beskryf. Dit is wanneer
+    ’n getal van ’n kleiner getal</span><span>afgetrek moet word</span>.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      <span>Wiskundiges is mense wat wiskunde vir ’n lewe doen.
+      Wiskunde is hulle werk, soos gesondheidsorg die werk of professie van dokters en verpleegsters is</span>.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Ons kan byvoorbeeld sê 10 - 20 = (-10)</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-1" lang="en-US"><span>Hierdie voorstel is spoedig deur ander wiskundiges aanvaar en dit word nou oor die</span>
+    <span>hele wêreld gebruik</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced para-style-override-10" lang="en-US">7.	<span>Voltooi die lyste van getalle in die tabel</span>.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-2" class="No-Table-Style table-style-override-1"><colgroup><col class="Row-Column-15"/><col class="Row-Column-15"/><col class="Row-Column-15"/><col class="Row-Column-15"/><col class="Row-Column-15"/><col class="Row-Column-15"/><col class="Row-Column-15"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">(a)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(b)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(c)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(d)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(e)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(f)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(g)</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">100</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-20</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">150</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">90</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-18</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">125</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-5</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">80</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-9</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-16</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">100</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-10</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">70</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-12</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-14</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">75</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-15</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">60</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-15</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">50</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-20</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">50</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-25</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">40</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">30</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">-1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-12" lang="en-US">8.	<span>Bereken die volgende</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-12">(a)	16
+    <span>-</span> 20 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-12">(b)	16
+    <span>-</span> 30 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-12">(c)	16
+    <span>-</span> 40 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(d)	16 <span>-</span> 60 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(e)	16 <span>-</span> 200 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(f)	5 - 1 000 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">9.	<span>Jeminah het R200 in ’n spaarrekening en R40 in haar beursie. Haar broer skuld haar R50. Hoe ryk is sy</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">10. <span>Oeps! Jeminah het vergeet dat sy R60 by haar ma geleen het en dat sy nog R150 op ’n rok skuld wat sy die vorige maand gekoop het. Hoeveel geld het sy in werklikheid</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">11. <span>Jeminah se finansiële posisie is egter nog swakker. Sy het ook ’n uitstaande rekening by haar dokter van R250. Hoeveel geld het sy in werklikheid</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Rangskik en vergelyk heelgetalle</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">1.	<span>Op ’n dag het die weerburo die volgende minimum temperature vir die volgende plekke voorspel</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">Bethlehem		-4
+    °C 					Bloemfontein		-6 °C</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    <span>Kaapstad</span>		7 °C					Dordrecht			-9 ☐C</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">Durban			12 °C Johannesburg		 0 °C</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">Pretoria			4
+    °C					Queenstown		-1 °C</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    <span>Rangskik die temperature van die koudste tot die warmste</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">2.	<span>Posisioneer die volgende getalle so akkuraat as moontlik op die getallelyn</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">50; -2; -23; 5; -36</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/140490.png" alt="140490.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced" lang="en-US">3.	<span>Plaas die getalle in die korrekte boksies</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(a)	125 000;
+    -178 000; -100 900; 180 500</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/140502.png" alt="140502.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	-1 055 500; -1 010 100; -1 100 100; -1 032 800; -1 077 500</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/140511.png" alt="140511.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced" lang="en-US">4.	<span>Vul die simbool &gt; of &lt; in elke blokkie in om aan te dui watter getal die kleiner een</span>
+    <span>van die twee is</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">(a) 978 543 ☐ 978 534 </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">        (b) -1 043 724 ☐ -1 034 724</p>
+
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">(c) -864 026 ☐ -864 169</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">        (d) -103 232 ☐ -104 326</p>
+
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">(e) -710 742 ☐ 710 741  </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">        (f) -904 700 ☐ -904 704</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-2">Soek getalle wat stellings waar maak</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Die getalle 1, 2, 3, 4 en so aan wat ons gebruik om te tel, word</span>  <b>natuurlike getalle</b> <span>genoem. Natuurlike getalle is</span>
+     <b>heelgetalle</b> <span>-
+    hulle bevat geen breuke nie</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">1.	<span>Is daar ’n natuurlike getal wat in die hakies geskryf kan word om die stelling waar</span> <span>te maak</span>?</p>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"> \(12 +  ( .......... )  = 17 \)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">2.	<span>Skryf ’n natuurlike getal in die spasie tussen die hakies om die getalsinne waar te maak</span>.</p>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below"> (a) \(15 +  ( .......... )  = 21 \)</p>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below"> (b) \(15 -  ( .......... )  = 10 \)</p>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below"> (c)  \(( .......... )  + 10 = 34 \)</p>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below"> (d)  \(( .......... )  - 10 = 34 \)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      <span>Hierdie is ’n ander manier om dieselfde vrae te vra</span>:</p>
+
+      <p class="Body-box-numbers" lang="en-US">
+      (a)	 Wat is \(x\) as \(15
+      + x = 21\)?</p>
+
+      <p class="Body-box-numbers" lang="en-US">
+      (b)	<span>Wat</span> is \(x\) as \(15
+      - x = 10\)?</p>
+
+      <p class="Body-box-numbers" lang="en-US">
+      (c)	<span>Wat</span> is \(x\) as \(x + 10 = 34\)?</p>
+
+      <p class="Body-box-numbers" lang="en-US">
+      (d)	<span>Wat</span> is \(x\) as \(x - 10 = 34\)?</p>
+
+      <p class="Body-box-numbers" lang="en-US">
+      (e)	<span>Wat</span> is \(x\) as 3 \times \(x = 18\)?</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    3.	(a)	<span>Kan jy aan ’n natuurlike getal dink wat hierdie stelling waar sal maak</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">2 \times ( .... ) = 5</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Kan jy aan ’n ander getal dink wat die stelling waar sal maak</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    4.	(a)	<span>Kan jy aan ’n</span> <span>natuurlike</span>
+    <span>getal dink wat die</span><span>stelling</span> <span>waar sal maak</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">8 + ( .... ) = 5</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)	<span>Kan jy aan ’n ander getal dink wat die</span><span>stelling waar sal maak</span>?</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      <span>Ons dink normaalweg aan optel of bytel as iets wat groter maak. Vraag 4(a) dwing ons om anders te dink, om die moontlikheid te oorweeg dat om op te tel of by te tel ook iets kleiner kan maak.</span></p>
+    </div>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Ons soek ’n getal om die volgende stelling waar te maak</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-3" lang="en-US">8 + ( .... ) = 5</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Wat van hierdie plan</span><span>?</span><span>Laat ons ooreenkom om hierdie getal</span> <i>negatief 3</i> <span>te noem, en ons skryf dit (-3). As ons</span> <span>saamstem, kan ons sê dat</span> 8 + (-3) = 5.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Dit mag vir jou snaaks lyk. Jy hoef ook nie saam te stem nie. Maar kom ons kyk</span> <span>nogtans hoe die plan by ander getalle mag werk, al stem jy nie nou saam nie.
+    Watter</span> <span>antwoorde sal iemand wat wel met die plan saamgaan op die volgende vrae hê</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced para-style-override-12">
+    5.	<span>Bereken</span>:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      <span>Wat kan die antwoorde van die volgende wees</span>?</p>
+
+      <p class="Body-box" lang="en-US">5 + (-8)
+      </p>
+
+      <p class="Body-box" lang="en-US">(-5) + (-8)
+      </p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a)	10 + (-3)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	12 + (-3)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)	12 + (-5)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d)	10 + (-9)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e)	8 + (-8)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below"><span class="char-style-override-8"/>(f)	1 + (-1)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Jy stem waarskynlik saam dat</span></p>
+        <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">\(5 + (-5) = 0 \\
+    10 + (-10) = 0  \text{ en } \\ 20 + (-20) = 0\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Ons kan sê
+    dat daar vir elke “positiewe” getal ’n</span>  <b>ooreenkomstige</b> <span>of</span>
+     <b>teenoorgestelde</b><span>negatiewe getal bestaan. Twee positiewe en negatiewe getalle wat ooreenkom, soos byvoorbeeld 3 en (-3), word</span>  <b>optellingsinverses</b>
+    <span>of</span>  <b>additiewe inverses</b> <span>genoem. As</span> <span>jy hulle optel, kanselleer hulle mekaar</span>.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      <span>Die getal nul word ook as ’n heelgetal beskou</span>.</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US"><span>Wanneer jy enige getal by sy optellingsinverse tel,</span> <span/><span>is</span> <span>d</span><span>ie antwoord 0, byvoorbeeld 120 + (-120) = 0.</span></p>
+      <p>Die  <b>versameling heelgetalle</b> sluit dus al die
+natuurlike getalle en hul optellingsinverses sowel
+as nul in.</p>
+            </div><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-12" lang="en-US">6.	<span>Skryf die optellingsinverse van die volgende getalle neer</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column para-style-override-10">(a)	24</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column para-style-override-10">(b)	-24</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">(c)	-103</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">(d)	2 348</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-8" lang="en-US"><span>Ons kan met behulp van optellingsinverses verklaar hoekom 8 + (-5) gelyk is aan 3</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Table-text-centred">8 + (-5) = 3 + <span class="box">5 + (-5)</span> = 3 + 0 = 3</p>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    7.	<span>Gebruik optellingsinverses om te verduidelik hoekom die volgende waar is</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml">(a) 43 + (-30) = 13   </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml">         (b) 150 + (-80) = 70</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+     <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-12">
+    8.	<span>Bereken</span>:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      <span>Natuurlike getalle kan in enige volgorde gerangskik word as ons optel of aftrek. Dit sal dinge vergemaklik as ons saamstem dat dit ook vir negatiewe getalle die geval behoort te wees</span>.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column para-style-override-10">(a)	10 + 4 +
+    (-4)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column para-style-override-10">(b)	10 +
+    (-4) + 4</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">(c)	3 + 8 + (-8)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">(d)	3 + (-8) + 8</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-12" lang="en-US">9.	<span>Bereken</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-10">(a)	18 + 12
+    =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-10">(b)	12 + 18
+    =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-10">(c)	2 + 4 +
+    6 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-10">
+    <span class="char-style-override-8"/>(d)	6 + 4 + 2 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-10">(e)	2 + 6 +
+    4 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-10">(f)	4 + 2 +
+    6 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-10">(g)	4 + 6 +
+    2 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-10">(h)	6 + 2 +
+    4 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-10">(i)	6 +
+    (-2) + 4 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-10">(j)	4 + 6 +
+    (-2) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-10">(k)	4 +
+    (-2) + 6 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(l)	(-2) + 4 + 6 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(m)	6 + 4 + (-2) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(n)	(-2) + 6 + 4 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">10.
+    <span>Bereken</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(a)	(-5) +
+    10</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(b)	10 +
+    (-5)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(c)	(-8) +
+    20</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(d)	20
+    <span>-</span> 8</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(e)	30 +
+    (-10)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10"><span class="char-style-override-8"/>(f)	30 + (-20)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(g)	30 +
+    (-30)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(h)	30 +
+    (-40)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(i)	10 +
+    (-5) + (-3)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10"><span class="char-style-override-8"/>(j)	(-5) + 7 + (-3) + 5</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(k)	(-5) + 2
+    + (-7) + 4</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">11.	<span>Watter getal maak die stelling waar? Gee jou antwoord as ’n geslote getalsin</span>.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      Stellings soos hierdie word ook getalsinne genoem.</p>
+
+      <p class="Body-box" lang="en-US"><span>’n Onvoltooide getalsin, waar sommige getalle aanvanklik nie bekend is nie, word soms ’n</span>  <b>oop getalsin</b>
+      <span>genoem:</span></p>
+
+      <p class="Body-box" lang="en-US">8 - (’n getal) = 10</p>
+
+      <p class="Body-box" lang="en-US">
+      <span>’n</span>  <b>Geslote getalsin</b> <span>is waar al die getalle bekend is</span>:</p>
+
+      <p class="Body-box" lang="en-US">8 + 2 =
+      10</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(a)	20 +
+    (<span>’n onbekende getal</span>) = 50</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	50 +
+    (<span>’n onbekende getal</span>) = 20</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	20 +
+    (<span>’n onbekende getal</span>) = 10</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)	(<span>’n onbekende getal</span>) + (-25) = 50</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(e)	(<span>’n onbekende getal</span>) + (-25) = (-50)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">12.	<span>Gebruik die idee van optellingsinverses om te verduidelik hoekom elkeen van die</span>
+    <span>volgende stellings waar is</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column" lang="en-US">
+    (a)	43 + (-50) = -7	(b)	60 + (-85) = -25</p>
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    
+            <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-extension--no-rule-" lang="en-US">Stellings wat waar is vir baie verskillende getalle</h3>
+<div xmlns="http://www.w3.org/1999/xhtml" class="extension">
+            <p class="Body-box-no-indent" lang="en-US"><span>Vir hoeveel verskillende pare getalle kan die volgende stelling waar wees, as slegs natuurlike</span> <span>(positiewe)
+            getalle toegelaat word</span>? <span>vyf paar</span></p>
+
+            <p class="Body-box-no-indent" lang="en-US"><span>’n getal + ’n ander getal = 10</span></p>
+
+            <p class="Body-box-no-indent" lang="en-US"><span>Vir hoeveel verskillende pare getalle kan die stelling waar wees as negatiewe getalle ook</span>
+            <span>toegelaat word</span>?
+            <span>’n oneindige getal pare</span></p>
+         </div>
+
+         <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-3">Optel en aftrek van heelgetalle</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-" lang="en-US">Eienskappe van heelgetalle</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    1.	<span>Bereken</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-12">(a)	80 +
+    (-60) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-12">(b)	500 +
+    (-200) + (-200) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">2.	(a)	<span>Stem jy saam dat</span> 20 + (-5) = 15?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Wat dink jy behoort die antwoord van</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span>20 - (-5) te wees</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      <span>Ons dink gewoonlik aan optel en aftrek as bewerkings wat</span> <span>die teenoorgestelde uitwerking het: wat die een doen, is die</span>  <b>teenoorgestelde</b> <span>of</span>
+       <b>inverse</b> <span>van wat die ander doen</span>.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3.	(a)	<span>Is 100 + (-20) + (-20) = 60, of is dit gelyk aan</span><span>iets anders</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	<span>Wat dink jy is die antwoord van</span> <span>(-20) +
+    (-20)?</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    4.	<span>Voltooi so ver as jy kan</span>:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-5" class="No-Table-Style table-style-override-1"><colgroup><col class="Row-Column-48"/><col class="Row-Column-48"/><col class="Row-Column-48"/></colgroup><tbody><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">(a)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(b)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(c)</p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 9 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + 9 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">9 - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 8 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + 8 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8 - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 7 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + 7 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7 - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 6 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + 6 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6 - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 5 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + 5 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 4 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + 4 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4 - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 3 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + 3 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3 - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 2 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + 2 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2 - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 1 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + 1 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1 - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 0 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + 0 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0 - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - (-1) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + (-1) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-1) - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - (-2) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + (-2) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-2) - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - (-3) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + (-3) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-3) - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - (-4) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + (-4) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-4) - 3 =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-49"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - (-5) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 + (-5) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) - 3 =
+            </p>
+          </td>
+        </tr></tbody></table>
+
+   <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    5.	<span>Bereken</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(a)	20
+    <span>-</span> 20 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(b)	50
+    <span>-</span> 20 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(c)	(-20) -
+    (-20) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(d)	(-50) -
+    (-20) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">6.	<span>Stel by elke vraag ’n getal voor wat die stelling waar sal maak. Gee ook ’n rede vir</span> <span>jou voorstel</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(a)	20 +
+    (<span>’n getal</span>) = 8</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	20 +
+    (<span>’n getal</span>) = 28</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	20 -
+    (<span>’n getal</span>) = 28</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)	20 -
+    (<span>’n getal</span>) = 12</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+            <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-extension--no-rule-" lang="en-US">’n bietjie geskiedenis</h3>
+
+          <div xmlns="http://www.w3.org/1999/xhtml" class="extension">
+      
+            <p class="Body-box-no-indent" lang="en-US"><span>Die volgende stelling is waar as die getal 5 is</span>:</p>
+
+            <p class="Body-box-no-indent para-style-override-12" lang="en-US"><i>\[15 - (’n~ sekere~ getal) =             10\]</i></p>
+
+            <p class="Body-box-no-indent" lang="en-US"><span>’n Paar eeue gelede het ’n klompie wiskundiges besluit dat hulle getalle wou hê om sinne soos</span> <span>die volgende waar te maak</span>:</p>
+
+            <p class="Body-box-no-indent para-style-override-12" lang="en-US"><i>\[15 + (’n~ sekere~ getal) =             10\]</i></p>
+
+            <p class="Body-box-no-indent" lang="en-US"><span>Maar om van 15 by 10 uit te kom, moet jy</span>  <b>5</b>
+             <b>aftrek</b>.</p>
+
+            <p class="Body-box" lang="en-US">
+            <span>Die getal wat ’n mens nodig het om die sin \(15 + (’n~ sekere~ getal) =
+            10\) waar te maak,
+            moet die volgende vreemde eienskap hê</span>:</p>
+
+            <p class="Body-box-no-indent" lang="en-US"><span>As jy hierdie getal</span>  <b>bytel</b><span>, moet dit</span>  <b>dieselfde effek</b> <span>hê
+            as wanneer jy</span>  <b>5</b>  <b>aftrek</b>.</p>
+
+            <p class="Body-box-no-indent" lang="en-US"><span>Die wiskundiges het toe so gedink</span>:</p>
+
+            <p class="Body-box-no-indent" lang="en-US"><span>“Kom ons besluit tussen onsself dat die getal wat ons</span> <i>negatief 5</i>
+            <span>noem,</span></p>
+
+            <p class="Body-box-no-indent" lang="en-US">die volgende eienskap sal hê as jy dit by ’n ander getal tel: die effek sal</p>
+
+            <p class="Body-box-no-indent" lang="en-US"><span>dieselfde wees as wanneer jy die natuurlike getal 5 aftrek.”</span></p>
+
+            <p class="Body-box" lang="en-US">
+            <span>Dit beteken dat die wiskundiges ooreengekom het dat 15 + (-5) gelyk is aan 15 - 5</span>. <span>Met ander woorde: in plaas daarvan om</span> <i>negatief 5</i> <span>by ’n getal te tel, mag jy 5 aftrek</span><span>.</span></p>
+</div>
+
+<div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US"><span>Ons kan saamstem dat wanneer ons ’n negatiewe getal aftrek, ons dieselfde antwoord kry as wanneer ons die negatiewe getal se optellingsinverse bytel. As ons by hierdie ooreenkoms hou, behoort die volgende twee berekeninge dieselfde antwoord te hê</span>:</p>
+
+            <p class="Body-content-no-indent" lang="en-US">10 - (-7) en 10 + 7</p>
+          </div><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    7.	<span>Bereken</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(a)	20 -
+    (-10) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(b)	100 -
+    (-100) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(c)	20 +
+    (-10) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(d)	100 +
+    (-100) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(e)	(-20) -
+    (-10) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(f)	(-100) -
+    (-100) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(g)	(-20) +
+    (-10) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(h)	(-100) +
+    (-100) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    8.	<span>Voltooi so ver as jy kan</span>:</p>
+ <table xmlns="http://www.w3.org/1999/xhtml" id="table-8" class="No-Table-Style table-style-override-1"><colgroup><col class="Row-Column-53"/><col class="Row-Column-53"/><col class="Row-Column-53"/></colgroup><tbody><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">(a)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(b)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(c)</p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 -
+            (-9) = </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + 9 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">9 - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 -
+            (-8) = </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + 8 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8 - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 -
+            (-7) = </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + 7 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7 - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - (-6) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + 6 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6 - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - (-5) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + 5 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - (-4) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + 4 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4 - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - (-3) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + 3 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3 - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - (-2) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + 2 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2 - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - (-1) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + 1 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1 - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 0 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + 0 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0 - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 1 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + (-1) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-1) - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 2 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + (-2) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-2) - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 3 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + (-3) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-3) - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 4 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + (-4) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-4) - (-3) =
+            </p>
+          </td>
+        </tr><tr class="Row-Column-54"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5 - 5 =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) + (-5) =
+            </p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">(-5) - (-3) =
+            </p>
+          </td>
+        </tr></tbody></table>
+   
+   <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">9.	<span>Is die volgende stellings waar of vals? Gee ’n numeriese voorbeeld om jou antwoord</span> <span>te demonstreer</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(a)	<span>Om
+    ’n positiewe getal van ’n negatiewe getal af te trek, het dieselfde effek as om</span><span>die optellingsinverse van die positiewe getal by te tel</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Om
+    ’n negatiewe getal by ’n positiewe getal te tel, het dieselfde effek as om die</span><span>optellingsinverse van die negatiewe getal by te tel</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	<span>Om
+    ’n negatiewe getal van ’n positiewe getal af te trek, het dieselfde effek as om</span><span>die optellingsinverse van die negatiewe getal af te trek</span>.</p>
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)	<span>Om
+    ’n negatiewe getal by ’n positiewe getal te tel, het dieselfde effek as om die</span><span>optellingsinverse van die negatiewe getal af te trek</span>.</p>
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(e)	<span>Om
+    ’n positiewe getal by ’n negatiewe getal te tel, het dieselfde effek as om die</span><span>optellingsinverse van die positiewe getal by te tel</span>.</p>
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(f)	<span>Om
+    ’n positiewe getal by ’n negatiewe getal te tel, het dieselfde effek as om die</span><span>optellingsinverse van die positiewe getal af te trek</span>.</p>
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(g)	<span>Om
+    ’n positiewe getal van ’n negatiewe getal af te trek, het dieselfde effek as om</span><span>die optellingsinverse van die positiewe getal af te trek</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(h)	<span>Om
+    ’n negatiewe getal van ’n positiewe getal af te trek, het dieselfde effek as om</span><span>die optellingsinverse van die negatiewe getal by te tel</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Eienskappe van bewerkings</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    1.	<span>Bereken</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(a)	(-3) +
+    (-5) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(b)	(-5) +
+    (-3) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(c)	5 + (-7)
+    =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(d)	(-7) + 5
+    =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(e)	(-13) +
+    17 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(f)	17 +
+    (-13) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(g)	15 + 19
+    =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(h)	19 + 15
+    =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(i)	(-21) + (-15) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(j)	(-15) + (-21) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>In Hoofstuk 1 van Boek</span> <span>1</span> <span>(wat oor telgetalle gaan) het ons gesê</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+     <b>Optel is kommutatief:</b> <span>die getalle kan omgeruil word</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Of, met simbole:</span> \(a + b = b + a\), <span>waar</span>
+    <i>a</i> en <i>b</i> <span>telgetalle is</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    2.	(a)	<span>Sou jy sê dat optel ook kommutatief is wanneer die getalle heelgetalle is</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Verduidelik jou antwoord</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    3.	<span>Bereken</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(a)	9
+    <span>-</span> 5 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(b)	5
+    <span>-</span> 9 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">
+    (c)	(<span>-</span>7) <span>-</span> 3 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(d)	3
+    <span>-</span> (<span>-</span>7) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">(e)	15
+    <span>-</span> (<span>-</span>12) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">
+    (f)	(<span>-</span>12) <span>-</span> 15 =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">
+    (g)	(<span>-</span>40) <span>-</span> (<span>-</span>23) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">
+    (h)	(<span>-</span>23) <span>-</span> (<span>-</span>40) =</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    4.	(a)	<span>Dink jy aftrek is kommutatief</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Verduidelik jou antwoord</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>In Hoofstuk 1 van Boek</span> <span>1</span> <span>het ons ook gesê</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Wanneer drie of meer telgetalle bymekaargetel word, maak die manier waarop jy die getalle groepeer geen verskil nie. Ons sê:</span>  <b>Optel is assosiatief</b>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    5.	<span>Dink jy optel is ook assosiatief wanneer ons met heelgetalle werk? Stel ondersoek in</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+  </div>
+</div>
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

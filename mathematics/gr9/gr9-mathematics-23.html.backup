@@ -1,0 +1,1367 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr9 Maths</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+    <!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/index.html">Grade 7-9 Workbooks</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="/index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mathematics<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/mathematics/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/mathematics/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/mathematics/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natural Sciences<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/natural-sciences/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/natural-sciences/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/natural-sciences/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/technology/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/technology/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/technology/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+
+                <li><a href="/downloads.html">Downloads</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/about.html#contact">Contact</a></li>
+
+            </ul>
+
+        </div><!--/.nav-collapse -->
+    </div>
+</div>
+<div class="container">
+    <div class="language-toggle">
+        <button type="button" class="btn btn-primary active ">English</button>
+        <button type="button" class="btn btn-default">Afrikaans</button>
+    </div>
+</div>
+
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-34">Geometry of 3d objects</h1>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">In this chapter, you will
+    revise the properties of prisms and pyramids, which you
+    investigated in previous grades. This includes using nets to
+    construct models of these objects as a further means of
+    consolidating your understanding of polyhedra. You will also
+    revise the properties and definitions of the five Platonic
+    solids, which you first learnt about in Grade 8, as well as how
+    Euler's formula describes a relation between the number of
+    vertices, faces and edges of any polyhedron.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener">New to this grade are investigations of
+    the properties of cylinders and spheres. Although you should be
+    able to recognise these 3D objects by now, you will examine
+    some of their properties in more detail, and learn how to
+    construct a net and model of a cylinder.</p>
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-35">Classifying 3d objects</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">3D objects with flat faces which are
+    called <b>polyhedra</b>. Prisms and pyramids
+    are two types of polyhedra.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">A polyhedron is a 3D object
+      with only flat faces.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span class="x2nd-level-bullet"><span><img class="frame-442" src="Maths_English_LB_gr9_term3_1-web-resources/image/157272.png" alt="157272.png"/></span> </span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Examples of 3D objects that have at
+    least one curved surface are <b>cylinders, spheres</b> and
+    <b>cones.</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span class="x2nd-level-bullet"><span><img class="frame-443" src="Maths_English_LB_gr9_term3_1-web-resources/image/157264.png" alt="157264.png"/></span> </span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">When we study the properties of a 3D
+    object, we investigate the shapes of its faces, its number of
+    faces, its number of vertices and its number of edges. For
+    example, the pyramid alongside has 1 square face and 4
+    triangular faces, 5 vertices and 8 edges.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Normal"><span><img class="frame-444" src="Maths_English_LB_gr9_term3_1-web-resources/image/157833.png" alt="157833.png"/></span> </p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Classifying and describing 3d objects</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Label parts (a) to (c) on the
+    prism correctly.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-445" src="Maths_English_LB_gr9_term3_1-web-resources/image/157246.png" alt="157246.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Complete the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-109" class="border-plain"><tbody><tr class="Row-Column-69"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>3D object</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Name of the object</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Number of faces and shape of faces</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Number of vertices</b></p>
+          </td>
+        </tr><tr class="Row-Column-449"><td class="none">
+            <p class="ques-a-">(a)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/157162.png" alt="157162.png"/></span> </p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Triangular prism</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2 triangles and 3
+            rectangles</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+        </tr><tr class="Row-Column-451"><td class="none">
+            <p class="ques-a-">(b)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/157153.png" alt="157153.png"/></span> </p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-453"><td class="none">
+            <p class="ques-a-">(c)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/157145.png" alt="157145.png"/></span> </p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6 squares</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-451"><td class="none">
+            <p class="ques-a-">(d)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/157134.png" alt="157134.png"/></span> </p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1 rectangle and 4
+            triangles</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-456"><td class="none">
+            <p class="ques-a-">(e)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/157123.png" alt="157123.png"/></span> </p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-458"><td class="none">
+            <p class="ques-a-">(f)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/157112.png" alt="157112.png"/></span> </p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-460"><td class="none">
+            <p class="ques-a-">(g)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/157102.png" alt="157102.png"/></span> </p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Say whether each statement
+    below is true or false.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) A cylinder is a
+    polyhedron. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) A triangular-based pyramid
+    has 4 triangular faces. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) A cube is also known as a
+    hexahedron. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) A triangular-based pyramid
+    has 6 vertices. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e) A pyramid is a 3D
+    object. </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-36">Nets and models of prisms and pyramids</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A <b>net</b> is a flat pattern that can
+    be used to represent a 3D</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-462" src="Maths_English_LB_gr9_term3_1-web-resources/image/156964.png" alt="156964.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">object. The net can be folded up to
+    create a model of the 3D object.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Name each object below and
+    draw an arrow to match it with its net.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-110" class="no-border-plain"><tbody><tr class="Row-Column-134"><td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-51">
+            (a)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/163170.png" alt="163170.png"/></span> </p>
+          </td>
+
+          <td class="cell-style-override-2">
+           <p>........................................</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="No-Paragraph-Style para-style-override-53">
+            <span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/156922.png" alt="156922.png"/></span> </p>
+          </td>
+        </tr><tr class="Row-Column-472"><td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-51">
+            (b)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/156913.png" alt="156913.png"/></span> </p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p>........................................</p></td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/156881.png" alt="156881.png"/></span> </p>
+          </td>
+        </tr><tr class="Row-Column-475"><td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-51">
+            (c)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/156871.png" alt="156871.png"/></span> </p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p>........................................</p></td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/156839.png" alt="156839.png"/></span> </p>
+          </td>
+        </tr><tr class="Row-Column-475"><td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-51">
+            (d)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/156828.png" alt="156828.png"/></span> </p>
+          </td>
+
+          <td class="cell-style-override-2"><p>........................................</p>
+            </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/156793.png" alt="156793.png"/></span> </p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Construct an accurate net for
+    each of the following 3D objects.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-479" src="Maths_English_LB_gr9_term3_1-web-resources/image/156763.png" alt="156763.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-480" src="Maths_English_LB_gr9_term3_1-web-resources/image/156753.png" alt="156753.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-482" src="Maths_English_LB_gr9_term3_1-web-resources/image/156737.png" alt="156737.png"/></span></p>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Construct models of
+    the objects in question 2 but double all the measurements.</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-37">Platonic solids</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A <b>Platonic solid</b> is a 3D object
+    which has identical faces, and all of the faces are regular
+    polygons. This means that all its faces are the same shape and
+    size and all the vertices are identical.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Which of the following objects
+    are Platonic solids?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span class="x2nd-level-bullet"><span><img class="frame-484" src="Maths_English_LB_gr9_term3_1-web-resources/image/Maths-Gr9-Eng-Term3-p115-img1.png" alt="156719.png"/></span> </span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. How many Platonic solids are
+    there in question 1? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Only five platonic solids?</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">You can use your knowledge about
+    angles to prove that the five Platonic solids are the only 3D
+    objects that can be made from regular polygons. Keep the
+    following facts in mind:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet-Left-indent">
+         A 3D object has at <i>least</i> three faces that meet at each vertex.
+
+        <div class="frame-23"><img class="frame-487" src="Maths_English_LB_gr9_term3_1-web-resources/image/156678.png" alt="156678.png"/></div>
+      </li>
+
+      <li class="Body-bullet-Left-indent"> The sum
+      of the angles that meet at a vertex must be less than
+      360°. If it is equal to 360°, it will
+      form a flat surface. If it is greater than 360°,
+      the faces will overlap.</li>
+
+      <li class="Body-bullet-Left-indent"> Each
+      Platonic solid is made up of one type of regular
+      polygon.</li>
+    </ul><h4 xmlns="http://www.w3.org/1999/xhtml" class="Head-C">What 3D objects can you make from equilateral triangles?</h4>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">We use the following reasoning:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-5">\(\begin{align} \text{size of each
+    interior angle } &amp;= 180^{\circ} \div 3 = 60^{\circ} \\ ∴ 3 \text{ triangles }
+    &amp;= 3 \times 60^{\circ} = 180^{\circ} &amp;&amp;[&lt;
+    360^{\circ}] \\ 4 \text{ triangles } &amp;=
+    4 \times 60^{\circ} = 240^{\circ} &amp;&amp;[&lt;
+    360^{\circ}] \\ 5 \text{ triangles }&amp;=
+    5 \times 60^{\circ} = 300^{\circ} &amp;&amp;[&lt;
+    360^{\circ}] \\ 6 \text{ triangles } &amp;= 6 \times
+    60^{\circ}; = 360^{\circ}
+    
+    \end{align}\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-7"><i>Any more than 5
+    triangles will be equal to or more than 360° and
+    will therefore form a flat surface or overlap.</i></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-5">This means
+    that we can make three 3D objects from equilateral
+    triangles:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-5">If 3
+    triangles are at each vertex, it will form a <b>tetrahedron</b>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-5">If 4
+    triangles are at each vertex, it will form an <b>octahedron</b>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">If 5 triangles are at each
+    vertex, it will form an <b>icosahedron</b>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-488" src="Maths_English_LB_gr9_term3_1-web-resources/image/156666.png" alt="156666.png"/></span> </p>
+
+    <h4 xmlns="http://www.w3.org/1999/xhtml" class="Head-C">What 3D objects can you make from squares?</h4>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">Complete the statements: size
+    of each interior angle </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">∴ 3 squares =
+    3 \(\times\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">4 squares = 4 \(\times\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Therefore we can make only one 3D
+    object using squares. This 3D object is called a <b>hexahedron (or cube).</b></p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-491" src="Maths_English_LB_gr9_term3_1-web-resources/image/156584.png" alt="156584.png"/></div>
+
+    <h4 xmlns="http://www.w3.org/1999/xhtml" class="Head-C">What 3D objects can you make from regular pentagons?</h4>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Complete the statements:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">Size of each interior
+    angle </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">∴ 3 pentagons = </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">4 pentagons = </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-493" src="Maths_English_LB_gr9_term3_1-web-resources/image/156549.png" alt="156549.png"/></div>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span class="char-style-override-30" xml:lang="en-GB">Therefore we can make
+    only one 3D object using regular pentagons. This 3D object is
+    called a</span> <b>dodecahedron.</b></p>
+
+    <h4 xmlns="http://www.w3.org/1999/xhtml" class="Head-C">What 3D objects can you make from regular hexagons?</h4>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Complete the statements:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">Size of each interior
+    angle </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">∴ 3 hexagons
+    = </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Three hexagons will already form a
+    flat surface. Therefore it is impossible to make a 3D object
+    from regular hexagons.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Also, the interior angles of polygons with more
+    than 6 sides are bigger than those of a hexagon, so it is not
+    possible to make 3D objects from any other regular
+    polygons.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Therefore the five Platonic
+      solids already mentioned (tetrahedron, octahedron,
+      icosahedron, hexahedron and dodecahedron) are the only ones
+      that can be made of regular polygons. Each of these solids is
+      named after the number of faces it has.</p>
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Properties of the platonic solids</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Complete the information about
+    each of the following Platonic solids.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-112" class="no-border-plain"><tbody><tr class="Row-Column-505"><td class="none">
+            <p class="Body-investigation">1.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/156419.png" alt="156419.png"/></span> </span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Name:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Shape of the
+            faces:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            faces:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            edges:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            vertices:</span>...............................</p>
+            </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/156264.png" alt="156264.png"/></span> </span></p>
+          </td>
+        </tr><tr class="Row-Column-508"><td class="none">
+            <p class="Body-investigation">2.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/156256.png" alt="156256.png"/></span> </span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Name:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Shape of the
+            faces:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            faces:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            edges:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            vertices:</span>...............................</p>
+            </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/156102.png" alt="156102.png"/></span> </span></p>
+          </td>
+        </tr><tr class="Row-Column-511"><td class="none">
+            <p class="Body-investigation">3.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/156094.png" alt="156094.png"/></span> </span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Name:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Shape of the
+            faces:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            faces:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            edges:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            vertices:</span>...............................</p>
+            </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/155940.png" alt="155940.png"/></span> </span></p>
+          </td>
+        </tr><tr class="Row-Column-516"><td class="none">
+            <p class="Body-investigation">4.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/155932.png" alt="155932.png"/></span> </span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Name:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Shape of the
+            faces:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            faces:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            edges:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            vertices:</span>...............................</p>
+            </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/155776.png" alt="155776.png"/></span> </span></p>
+          </td>
+        </tr><tr class="Row-Column-520"><td class="none">
+            <p class="Body-investigation">5.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/155765.png" alt="155765.png"/></span> </span></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Name:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Shape of the
+            faces:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            faces:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            edges:</span>...............................</p>
+            <p class="ques-a--2-space-below para-style-override-20">
+            <span class="x2nd-level-bullet">Number of
+            vertices:</span>...............................</p>
+            </td>
+
+          <td class="cell-style-override-2">
+            <p class="Body-investigation para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/155608.png" alt="155608.png"/></span> </span></p>
+          </td>
+        </tr></tbody></table><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-38">Euler's formula</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation-after-B-head">Euler's formula and platonic solids</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. You learnt about
+    Euler's formula in Grade 8. Complete the following table to
+    investigate whether or not Euler's formula holds true for
+    Platonic solids.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-113" class="No-Table-Style"><tbody><tr class="Row-Column-523"><td/>
+
+          <td>
+            <p class="Table-header-centred"><b><span class="x2nd-level-bullet">Name</span></b></p>
+          </td>
+
+          <td>
+            <p class="Table-header-centred"><b><span class="x2nd-level-bullet">Shape of faces</span></b></p>
+          </td>
+
+          <td>
+            <p class="Table-header-centred"><b><span class="x2nd-level-bullet">No. of faces (F)</span></b></p>
+          </td>
+
+          <td>
+            <p class="Table-header-centred"><b><span class="x2nd-level-bullet">No. of vertices (V)</span></b></p>
+          </td>
+
+          <td>
+            <p class="Table-header-centred"><b><span class="x2nd-level-bullet">No. of edges (E)</span></b></p>
+          </td>
+
+          <td>
+            <p class="Table-header-centred"><b><span class="x2nd-level-bullet">F + V - E</span></b></p>
+          </td>
+        </tr><tr class="Row-Column-525"><td>
+            <p class="Table-text-left para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/155584.png" alt="155584.png"/></span> </span></p>
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+        </tr><tr class="Row-Column-525"><td>
+            <p class="Table-text-left para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/155576.png" alt="155576.png"/></span> </span></p>
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+        </tr><tr class="Row-Column-525"><td>
+            <p class="Table-text-left para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/155568.png" alt="155568.png"/></span> </span></p>
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+        </tr><tr class="Row-Column-525"><td>
+            <p class="Table-text-left para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/155559.png" alt="155559.png"/></span> </span></p>
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+        </tr><tr class="Row-Column-525"><td>
+            <p class="Table-text-left para-style-override-14">
+            <span class="x2nd-level-bullet"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/155549.png" alt="155549.png"/></span> </span></p>
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Complete Euler's formula for
+    polyhedra:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">F + ...............................</p><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Apply Euler's formula to each
+    of the following:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) A polyhedron has 25 faces and 13
+    vertices. How many edges will it have? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) A polyhedron has 11 vertices and 23
+    edges. How many faces does it have? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) A polyhedron has 8 faces and 12 edges.
+    How many vertices does it have? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Euler's formula and other polyhedra</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Is each of the following
+    statements true or false?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) A polyhedron with 10
+    vertices and 15 edges must have 7 faces. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) A polyhedron will always
+    have more edges than either faces or vertices. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) A polyhedron with 5 faces
+    must have 6 edges. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e) A pyramid will always have
+    the same number of faces and vertices. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Complete the following
+    table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-114" class="border-plain"><tbody><tr class="Row-Column-69"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>No. of faces (F)</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>No. of vertices (V)</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>No. of edges (E)</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Name of polyhedron</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Shapes of faces</b></p>
+          </td>
+        </tr><tr class="Row-Column-535"><td class="none">
+            <p class="Table-text-left">(a)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Rectangles</p>
+          </td>
+        </tr><tr class="Row-Column-535"><td class="none">
+            <p class="Table-text-left">(b)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Hexagonal pyramid</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-535"><td class="none">
+            <p class="Table-text-left">(c)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-535"><td class="none">
+            <p class="Table-text-left">(d)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Triangles and
+            rectangles</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. A soccer ball consists of
+    pentagons and hexagons.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) How many pentagons does it
+    consist of? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) How many hexagons does it
+    consist of? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) How many edges does it
+    have? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) How many vertices does it
+    have? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e) Does Euler's formula apply
+    to soccer balls too? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-542" src="Maths_English_LB_gr9_term3_1-web-resources/image/155278.png" alt="155278.png"/></div>
+<p xmlns="http://www.w3.org/1999/xhtml">Net of a soccer ball</p>
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-39">Cylinders</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation-after-B-head">Properties of cylinders</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Which of the following 3D
+    objects are cylinders? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-543" src="Maths_English_LB_gr9_term3_1-web-resources/image/155245.png" alt="155245.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. Tick the statements below that are true
+    only for cylinders and not for the other objects shown in
+    question 1:</p>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-545" src="Maths_English_LB_gr9_term3_1-web-resources/image/155235.png" alt="155235.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">☐ It is a 3D object.</p>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">☐ It has a curved surface.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">☐ It has two circular bases that are
+    parallel to each other.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">☐ It has two flat circular bases and a
+    curved surface.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">☐ The radius of its curved surface is
+    equal from the top to the bottom between the bases.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">☐ It has two circular bases opposite
+    each other, joined by a curved surface whose radius is equal
+    from the top to the bottom between the bases.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Look at the cylinder alongside
+    and complete the following:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-546" src="Maths_English_LB_gr9_term3_1-web-resources/image/155186.png" alt="155186.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) Number and shape of
+    faces: </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Number of vertices: </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) Number of edges: </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Nets of cylinders</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In Chapter 5, you learnt about the
+    net of a cylinder. If you cut the curved surface of a cylinder
+    vertically and flatten it, it will be the shape of a
+    rectangle.</p>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-550" src="Maths_English_LB_gr9_term3_1-web-resources/image/Maths3_TG_gr9_ch7_fig5_opt.jpeg" alt="Maths3_TG_gr9_ch7_fig58.tif"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Explain why the length
+    of the rectangular face is equal to the circumference of the
+    base.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-551" src="Maths_English_LB_gr9_term3_1-web-resources/image/155092.png" alt="155092.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Will each of the following
+    nets form a cylinder?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-552" src="Maths_English_LB_gr9_term3_1-web-resources/image/Maths-Gr9-Eng-Term3-p122-img2.png" alt="155082.png"/></span> </p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-553" src="Maths_English_LB_gr9_term3_1-web-resources/image/Maths-Gr9-Eng-Term3-p122-img2.png" alt="154977.png"/></span> </p>
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. In each of the
+    following questions, use \(\pi = \frac{22}{7}\) and round off your answer to two
+    decimal places to do the calculations.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) If the radius of a cylinder is 3 cm,
+    what is the length of the rectangular surface of the
+    cylinder? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) If the radius of a cylinder is 5 cm,
+    what is the length of the rectangular surface of the
+    cylinder? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) If the diameter of a cylinder is 8 cm,
+    what is the length of the rectangular surface of the
+    cylinder? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) If the diameter of a cylinder is 9 cm,
+    what is the length of the rectangular surface of the
+    cylinder? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Use a ruler and a set
+    of compasses to construct the following nets as accurately as
+    possible. Show the measurements on each net.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Net of a cylinder with a radius of 1 cm
+    and a height of 4 cm.</p>
+
+     <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img src="Maths_English_LB_gr9_term3_1-web-resources/image/141528.jpg" alt="126261.jpg"/></span>  </p> 
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Net of a cylinder with a radius of 1,5
+    cm and a height of 3 cm</p>
+
+     <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img src="Maths_English_LB_gr9_term3_1-web-resources/image/141528.jpg" alt="126261.jpg"/></span>  </p> 
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-1">5.
+    Construct models of the cylinders in question 5 but double the
+    measurements.</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-40">Spheres</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Which of the following 3D
+    objects are spheres?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-556" src="Maths_English_LB_gr9_term3_1-web-resources/image/154858.png" alt="154858.png"/></span>  </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Tick the property or
+    properties below that are true for spheres only and not for the
+    other objects shown in question 1.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">☐  It is a 3D object.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">☐  It has one curved surface.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">☐  It has no bases.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">☐  It has no vertices.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">☐  It has no edges.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">☐ The distance from its centre to any
+    point on its surface is always equal.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Complete the following
+    information for a sphere:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) Number and shape of
+    faces: </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Number of vertices: </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) Number of edges: </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">From your study of spheres in the
+    above activity, you should have found the following:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">A <b>sphere</b> is a round 3D object
+      with only one curved surface and the distance from its centre
+      to any point on its surface is always equal. It has no
+      vertices or edges.</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-560" src="Maths_English_LB_gr9_term3_1-web-resources/image/154729.png" alt="154729.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. In the sphere alongside, write
+    down the length of:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-561" src="Maths_English_LB_gr9_term3_1-web-resources/image/154719.png" alt="154719.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) the radius: </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) the diameter: </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) MD: </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) CD: </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. The drawing alongside
+    shows part of a sphere with a diameter of 100 km. Imagine that
+    you are at point M, at the centre inside the sphere. People A,
+    B and C are all at different places on the surface of the
+    sphere.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-562" src="Maths_English_LB_gr9_term3_1-web-resources/image/157971.png" alt="157971.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-59">(a) Which of the
+    people- A, B or C- is
+    closest to you? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) How far away is person C from you? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+
+            <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-extension--no-rule-">Net of a sphere</h3>
+<div xmlns="http://www.w3.org/1999/xhtml" class="extension">
+            <p class="x--Body-box-no-indent">It is impossible to
+            make a perfect sphere (ball or globe) from a flat sheet
+            of paper. Paper can curve in one direction, but cannot
+            curve in two directions at the same time. So all
+            spheres made from paper or card will be approximations.
+            This is the best net we can make of a sphere.</p>
+
+            <p class="x--Body-box-no-indent">Can you make your
+            ownpaper model of a sphere?</p>
+
+            <div class="frame-23"><img class="frame-563" src="Maths_English_LB_gr9_term3_1-web-resources/image/154601.png" alt="154601.png"/></div>
+</div>
+
+<div xmlns="http://www.w3.org/1999/xhtml" class="worksheet">
+            <p class="worksheet-text para-style-override-16">1. Grade 9
+    learners were asked to represent a 3D object and give the class
+    clues as to which polyhedron they represent. Name their
+    objects:</p>
+
+    <p class="worksheet-text">(a) Amy: I have 6 faces and they are
+    all the same size.</p>
+
+    <hr/>
+
+    <p class="worksheet-text">(b) John: I have 6 faces and 12
+    edges. I am not a cube.</p>
+
+    <hr/>
+
+    <p class="worksheet-text">(c) Onke: I have 3 faces. I also have
+    two edges.</p>
+
+    <hr/>
+
+    <p class="worksheet-text">(d) Tessa: I have 8 edges and I have
+    5 vertices.</p>
+
+<hr/>
+
+    <p class="worksheet-text">(e) Mandlakazi: I have 6 edges and 4
+    vertices.</p>
+
+    <hr/>
+
+    <p class="worksheet-text">(f) Chiquita: I have 8 faces and am a
+    Platonic solid.</p>
+
+    <hr/>
+
+    <p class="worksheet-text">(g) Seni: I do not have any
+    edges.</p>
+
+    <hr/>
+
+    <p class="worksheet-text para-style-override-3">(h) Mpu: My
+    faces are made only of regular pentagons.</p>
+
+    <hr/>
+
+    <p class="worksheet-text para-style-override-16">2. Write down
+    the required information about each object below.</p>
+
+    <p class="worksheet-text-2-column">A <span><img class="frame-566" src="Maths_English_LB_gr9_term3_1-web-resources/image/154389.png" alt="154389.png"/></span> B <span><img class="frame-509" src="Maths_English_LB_gr9_term3_1-web-resources/image/154381.png" alt="154381.png"/></span></p>
+
+    <table id="table-117" class="No-Table-Style"><tbody><tr class="Row-Column-21"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2">
+            <p class="Worksheet-Table-Head"><b>Object A</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Worksheet-Table-Head"><b>Object B</b></p>
+          </td>
+        </tr><tr class="Row-Column-21"><td class="cell-style-override-2">
+            <p class="Worksheet-Table-Head para-style-override-23">
+            <b>Name</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-21"><td class="cell-style-override-2">
+            <p class="Worksheet-Table-Head para-style-override-23"><b>Number of faces</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+          </td>
+
+          <td class="cell-style-override-2">
+
+          </td>
+        </tr><tr class="Row-Column-535"><td class="cell-style-override-2">
+            <p class="Worksheet-Table-Head para-style-override-23"><b>Shape/s of faces</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+
+          </td>
+
+          <td class="cell-style-override-2">
+
+          </td>
+        </tr><tr class="Row-Column-21"><td class="cell-style-override-2">
+<p class="Worksheet-Table-Head para-style-override-23"><b>Number of edges </b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-21"><td class="cell-style-override-2">
+<p class="Worksheet-Table-Head para-style-override-23"><b>Number of vertices </b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+
+          </td>
+
+          <td class="cell-style-override-2">
+
+          </td>
+        </tr><tr class="Row-Column-21"><td class="cell-style-override-2">
+        <p class="Worksheet-Table-Head para-style-override-23"><b>Does Euler’s formula work?</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-21"><td class="cell-style-override-2">
+              <p class="Worksheet-Table-Head para-style-override-23"><b>Is it a Platonic solid? </b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p class="worksheet-text">3. (a) On a separate sheet of paper,
+    construct a net of a cylinder with a diameter of 7 cm and a
+    height of 10 cm.</p>
+
+    <p class="worksheet-text">(b) Fold your net to make a model of
+    the cylinder.</p>
+    </div>
+    
+  </div>
+</div>
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

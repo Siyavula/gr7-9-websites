@@ -1,0 +1,1160 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr7 Wiskunde</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Wissel navigasie</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index-afr.html">Gr 7-9 Werkboeke</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/index-afr.html">Tuisblad</a></li>
+                          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wiskunde<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/wiskunde/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/wiskunde/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/wiskunde/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natuurwetenskappe<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/natuurwetenskappe/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/natuurwetenskappe/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/natuurwetenskappe/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tegnologie<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/tegnologie/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/tegnologie/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/tegnologie/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+
+            <li><a href="/aflaaibares-afr.html">Aflaaibares</a></li>
+            <li><a href="/oorons-afr.html">Oor ons</a></li>
+            <li><a href="/oorons-afr.html#contact">Kontak</a></li>
+           
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container">
+        <div class="language-toggle">
+            <button type="button" class="btn btn-default ">English</button>
+            <button type="button" class="btn btn-primary active">Afrikaans</button>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-4">Numeriese patrone</h1>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent" lang="en-US">
+    <span>In hierdie hoofstuk gaan jy getalpatrone met heelgetalle
+    - wat negatiewe getalle insluit - ontleed en uitbrei. Jy gaan ook jou eie getalpatrone maak</span>.</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-5">Ondersoek en brei getalpatrone uit</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-" lang="en-US">Patrone in twee rigtings</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">1.	<span>Die getalle in elke ry van die tabel vorm ’n getalry, maar nie al die getalle is gegee nie</span>.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-10" class="No-Table-Style"><colgroup><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">A</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">B</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">C</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">11</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">14</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">D</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">17</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">13</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12" lang="en-US">(a)	<span>Vul die ontbrekende getalle in die tabel in</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	<span>Wat is die konstante verskil in getalry A</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)	<span>Wat is die konstante verskil in getalry C</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    2.	<span>Die eerste term van ’n getalry is 100 en die konstante verskil is 20</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(a)	<span>Wat is die tweede, die derde en die vierde term</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Wat is die 10de term in die getalry</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US"><span>’n Getalry met ’n konstante verskil word gevorm deur elke keer dieselfde getal by te voeg om die volgende term te kry</span>.</p>
+          </div><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    3.	<span>Die eerste term van ’n getalry is 100 en die konstante verskil is -20</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(a)	<span>Wat is die tweede, die derde en die vierde term</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Wat is die 10de term in die getalry</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    4.	(a)	<span>Wat die die konstante verskil in getalry B in vraag 1</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Wat is die konstante verskil in getalry D in vraag 1</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced" lang="en-US">5.	<span>Die sesde term van getalrye E, F en G word in die tabel hier onder gegee. Vul die ander</span><span>terme in</span>.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-12" class="No-Table-Style"><colgroup><col class="Row-Column-61"/><col class="Row-Column-62"/><col class="Row-Column-62"/><col class="Row-Column-62"/><col class="Row-Column-62"/><col class="Row-Column-62"/><col class="Row-Column-62"/><col class="Row-Column-62"/><col class="Row-Column-62"/><col class="Row-Column-62"/></colgroup><tbody><tr class="Row-Column-63"><td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Termnommer</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">9</p>
+          </td>
+        </tr><tr class="Row-Column-63"><td class="cell-style-override-1">
+            <p class="Table-text-left"><span>E met konstante verskil 10</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">30</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-63"><td class="cell-style-override-1">
+            <p class="Table-text-left"><span>F met konstante verskil -5</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">30</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-63"><td class="cell-style-override-1">
+            <p class="Table-text-left"><span>G met konstante verskil -10</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">30</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-10" lang="en-US">6.	<span>Vind die patroon in elke getalry en skryf die volgende vier terme in die ry neer</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)		1		4		9		16		25</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)		3		6		11		18		27</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)		20		19		17		14		10</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d)		20		25		29		32		34</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    7.	<span>Skryf jou eie getalrye</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(a)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(e)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(f)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(g)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(h)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-6">Gebruik reëls om getalpatrone te maak</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    1.	(a)	<span>Begin by 30. Tel -5 by en skryf die antwoord neer.
+    Tel weer -5 by en skryf die</span><span>antwoord neer. Hou so aan totdat jy ’n getalry met 10 terme het</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Begin by -30. Tel -5 by en skryf die antwoord neer.
+    Tel weer -5 by en skryf die</span><span>antwoord neer. Hou so aan totdat jy ’n getalry met 10 terme het</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (c)	<span>Begin by -30. Tel 5 by en skryf die antwoord neer.
+    Tel weer 5 by en skryf die</span><span>antwoord neer. Hou so aan totdat jy ’n getalry met 10 terme het</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    2.	(a)	<span>Die eerste term van ’n getalry is -10 en daar is
+    ’n konstante verskil van 5 tussen</span><span>die terme. Skryf die eerste 10 terme van die getalry neer</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Die eerste term van ’n getalry is -10 en daar is ’n konstante verskil van -5 tussen</span><span>die terme.
+    Skryf die eerste 10 terme van die getalry neer</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">3.	<span>Kies ’n getal vir jou eerste term en ’n ander getal om die konstante verskil te wees. Skryf die eerste 10 terme van jou getalry neer</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">4.	<span>Kies ’n getal kleiner as -10 vir jou eerste term en ’n ander getal vir die konstante verskil. Skryf die eerste 10 terme van jou getalry neer</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">5.	<span>Kies ’n getal vir jou eerste term en ’n negatiewe getal vir die konstante verskil. Skryf die eerste 10 terme van jou getalry neer</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">6.	<span>Kies ’n negatiewe getal vir jou eerste term en
+    ’n ander negatiewe getal vir die konstante verskil. Skryf die eerste 10 terme van jou getalry neer</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">7.	<span>Kies ’n getal om jou tiende term te wees en ’n ander getal vir die konstante verskil. Skryf die eerste 10 terme van jou getalry neer</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">8.	<span>Kies ’n negatiewe getal om jou tiende term te wees en ’n ander negatiewe getal vir die konstante verskil.
+    Skryf die eerste 10 terme van jou getalry neer</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-7">Gebruik uitdrukkings om getalpatrone te maak</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    1.	(a)	<span>Voltooi die tabel</span>.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-13" class="No-Table-Style"><colgroup><col class="Row-Column-65"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(2x -10\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Vorm die uitvoerwaardes van</span> \(2x - 10\) <span>in die tabel hier bo ’n patroon met ’n</span><span>konstante verskil? Indien wel, wat is die konstante verskil</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (c)	<span>Voltooi die tabel</span>.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-14" class="No-Table-Style"><colgroup><col class="Row-Column-65"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(3x - 20\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)	<span>Wat is die konstante verskil in (c)?</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (e)	<span>Voltooi die tabel.</span></p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-15" class="No-Table-Style"><colgroup><col class="Row-Column-65"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(2 - 3x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(f)	<span>Wat is die konstante verskil in (e)?</span></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (g)	<span>Voltooi die tabel.</span></p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-16" class="No-Table-Style"><colgroup><col class="Row-Column-65"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/><col class="Row-Column-66"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\((-2x) + 1\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(h)	<span>Wat is die konstante verskil in (g)?</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    2.	<span>In die patroon</span> <span>-15; -19; -23; -27; -31; ...
+    word -19 gevolg deur -23 en</span> <span>-23 word</span><span>gevolg deur -27</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a)	<span>Watter getal in die patroon word deur -19 gevolg</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	<span>Watter getal in die patroon word deur -31 gevolg?</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	<span>In die patroon volg -19 op -15 en -23 volg op -19</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below"><span>Watter getal volg op
+    -31?</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced para-style-override-12" lang="en-US">3.	<span>’n Getalry met ’n konstante verskil van 6 word gevorm</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a)	<span>Watter getal volg op 23 in hierdie patroon</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	<span>Watter getal word deur 23 in hierdie patroon gevolg</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)	<span>Watter getal volg op 47 in die patroon?</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d)	<span>Watter getal word deur 47 in hierdie patroon gevolg?</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Die volgende getalry word gegee</span>: 10 6 2
+    <span>-</span>2 <span>-</span>6 . . . . . . . . .	<span>In hierdie getalry volg 2 op 6. Hulle word opeenvolgende terme genoem</span>.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US"><span>Wanneer een getal op ’n ander getal in ’n getalry volg, praat ons van</span>  <b>opeenvolgende terme</b><span>.</span></p>
+          </div><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">4.	<span>Skryf enige twee opeenvolgende terme van die patroon wat gevorm word deur</span><span>2</span>x <span>+ 3, as die invoergetalle opeenvolgende telgetalle is</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">5.	<span>Elkeen van die patrone hier onder is gevorm deur die gebruik van een van die volgende uitdrukkings. Bepaal watter uitdrukking by watter patroon hoort</span>.</p>
+
+       <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) \(2x + 5\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)  \(3x + 2\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)  \(4x + 1\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d)  \(5x + 6\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e)  \(6x - 5\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(f)  \(7x - 2\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">
+    (g) \((-4x) + 1\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">
+    (h) \((-5x) + 5\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">
+    (i) \((-6x) - 5\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    A.	6		11		16		21		26				<span>Uitdrukking</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    B.	13		17		21		25		29				<span>Uitdrukking</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    C.	20		23		26		29		32				<span>Uitdrukking</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    D.	29		25		21		17		13				<span>Uitdrukking</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    E.	31		33		35		37		39				<span>Uitdrukking</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    F.	25		20		15		10		5				<span>Uitdrukking</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    G.	25		31		37		43		49				<span>Uitdrukking</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    H.	26		33		40		47		54				<span>Uitdrukking</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">
+    I.	19		13		7		1		-5				<span>Uitdrukking</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Getalry I in vraag 5 is ’n</span>  <b>afnemende</b> <span>ry; die getalle word kleiner soos wat die ry aangaan</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-8" lang="en-US">19	13	7	1	-5</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Getalry H is ’n</span>  <b>toenemende</b> <span>ry; elke term is groter as die vorige term</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-8" lang="en-US">26	33	40	47	54</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">6.	(a)	<span>Watter rye in vraag 5 is toenemende rye</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    (b)	<span>Watter rye in vraag 5 is afnemende rye</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">7.	(a)	<span>Met hoeveel neem ry A toe van een term tot die volgende</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	<span>Met hoeveel neem ry B toe van een term tot die volgende</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	<span>In watter ry in vraag 5 is die toename van term tot term die grootste, en hoeveel</span><span>is dit</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Getalry G neem van term tot term met 6 toe, terwyl getalry E slegs met 2 toeneem</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Ons kan dus sê dat getalry G</span>  <b>vinniger toeneem</b> <span>as getalry E</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">8.	(a)	<span>Watter getalry in vraag 5 neem die vinnigste af</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    (b)	<span>Watter getalry in vraag 5 neem die stadigste af</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    9.	(a)	<span>Skryf 5 opeenvolgende terme in ’n getalry van jou eie wat vinniger afneem as</span><span>getalry D in vraag 5</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Skryf 5 opeenvolgende terme in ’n getalry van jou eie wat vinniger toeneem as</span><span>getalry B in vraag 5</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    10.	(a)	<span>Elkeen van hierdie uitdrukkings kan gebruik word om ’n getalry te vorm.</span> <span>Watter</span> <span>uitdrukking sal die getalry vorm wat die vinnigste toeneem</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">3<i>x +</i> 5 2<i>x +</i> 10 6x <span>-</span> 1 20 +
+    3x 4x - 9</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Dink aan ’n manier om jou antwoord te toets, en toets dit dan</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    11.	<span>Skryf onder elke uitdrukking of dit ’n toenemende of afnemende getalry sal vorm</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">\(3x + 5 \)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml"> \(2x + 10 \)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml"> \(6x - 1 \)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml"> \(20 + 3x \)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml"> \(4x - 9\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+  </div>
+</div>
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

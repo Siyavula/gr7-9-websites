@@ -1,0 +1,1344 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr8 Wiskunde</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Wissel navigasie</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index-afr.html">Gr 7-9 Werkboeke</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/index-afr.html">Tuisblad</a></li>
+                          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wiskunde<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/wiskunde/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/wiskunde/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/wiskunde/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natuurwetenskappe<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/natuurwetenskappe/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/natuurwetenskappe/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/natuurwetenskappe/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tegnologie<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/tegnologie/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/tegnologie/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/tegnologie/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+
+            <li><a href="/aflaaibares-afr.html">Aflaaibares</a></li>
+            <li><a href="/oorons-afr.html">Oor ons</a></li>
+            <li><a href="/oorons-afr.html#contact">Kontak</a></li>
+           
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container">
+        <div class="language-toggle">
+            <button type="button" class="btn btn-default ">English</button>
+            <button type="button" class="btn btn-primary active">Afrikaans</button>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-19">Meetkunde van</h1>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">In hierdie hoofstuk gaan jy hersiening doen van dit wat jy alreeds weet oor verskillende
+soorte 3D-voorwerpe en hoe hulle beskryf kan word in terme van hulle getal vlakke, die
+vorm van die vlakke en die getal rande.Jy sal akkurate nette teken en modelle bou van
+prismas en piramides. Jy sal ook die sogenaamde "Platoniese veelvlakke" ondersoek en leer
+van ’n verrassende verband tussen die getal hoekpunte, rande en vlakke van verskillende
+veelvlakke.</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-20">Hersiening:</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Dink aan ruimte wanneer jy na prente en tekeninge kyk</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die meeste voorwerpe wat ons rondom ons sien, soos vrugte,
+diere, bome, mense en motors, het geboë of ronde vlakke. Party
+voorwerpe soos ’n pan of ’n pot om in te kook, het ronde en plat
+vlakke. Die ronde boom van ’n pot of pan moet plat wees sodat
+dit goeie kontak met die stoofplaat kan maak</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-220" src="Maths_English_LB_gr8_term4_1-web-resources/image/164658.png" alt="164658.png"/></div>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">1. (a) Behoort die blad van ’n tafel of ’n lessenaar plat of gerond te wees?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Ons eet met messe, vurke en lepels. Watter van hierdie voorwerpe het
+    gewoonlik geboë vlakke?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Hierdie hoofstuk gaan oor voorwerpe wat slegs plat 
+	vlakke het, soos die hier onder.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-4"><img class="frame-222" src="Maths_English_LB_gr8_term4_1-web-resources/image/164626.png" alt="164626.png"/></div>
+
+      <div class="frame-4"><img class="frame-223" src="Maths_English_LB_gr8_term4_1-web-resources/image/164619.png" alt="164619.png"/></div>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die voorste, regterkantse en boonste vlakke
+	in die tekening hier bo is deursigtig sodat jy
+	die vlakke agter hulle ook kan sien.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-224" src="Maths_English_LB_gr8_term4_1-web-resources/image/164609.png" alt="164609.png"/></div>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Let op na hierdie vreemde boks met verskillende
+	kleure op sy verskillende vlakke.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-13">2.
+    Dink jy daar is genoeg spasie vir al
+	die voëls in die tent hier regs?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-225" src="Maths_English_LB_gr8_term4_1-web-resources/image/164599.png" alt="164599.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Die vreemde boks van die vorige blady, 
+	met slegs plat vlakke word hier onder gewys.
+	In die tekening van dieselfde boks hier onder regs is stippellyne gebruik om rande en
+	vlakke aan te dui wat nie op die gekleurde tekening te sien is nie.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-226" src="Maths_English_LB_gr8_term4_1-web-resources/image/164591.png" alt="164591.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) Hoeveel vlakke het hierdie voorwerp altesaam?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Hoeveel vlakke kan nie op die gekleurde tekening gesien word nie?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) Hoeveel van die vlakke is reghoeke?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) Hoeveel van hierdie vlakke is vyfhoeke (pentagone)?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">’n 3D-voorwerp met <b>slegs plat vlakke</b> word ’n
+      <b>veelvlak (poliëder)</b> genoem.</p><p>
+      ’n Reguit <b>rand</b> word gevorm waar twee plat vlakke
+     ontmoet. Die punt waar twee of meer vlakke ontmoet
+	word ’n <b>hoekpunt</b> genoem).</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Die woord <b>poliëder</b> (uit
+	Grieks) beteken ‘baie
+	sitplekke’ (vlakke) en beskryf
+	die vorm van so ’n voorwerp
+	met baie plat vlakke.
+	</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">4. (a) Hoeveel rande het die veelkleurige veelvlak in vraag 3?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Hoeveel hoekpunte het dit?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. Watter van die voorwerpe hier onder is veelvlakke?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-233" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p198-img1.png" alt="164381.png"/></div>
+
+    
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Twee spesiale soorte veelvlakke</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Veelvlakke soos C en E aan die onderkant van die vorige bladsy word 
+	<b>prismas</b> genoem.
+	Veelvlakke soos B en G word <b>piramides</b> genoem.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Polyhedra like B and G are called
+    <b>pyramids.</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Beskryf die verskille tussen prismas en piramides.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Hier is nog ’n klompie prente van <b>prismas</b>.</p>
+
+    
+      <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-241" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p199-img1.png" alt="166328.png"/></div>
+    
+      <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-241" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p199-img2.png" alt="166328.png"/></div>
+      
+      <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-13">Die vier voorwerpe hier onder is 
+	veelvlakke, maar hulle is <i>nie</i> prismas of piramides nie.</p>
+      
+      <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-241" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p199-img3.png" alt="166328.png"/></div>
+
+    
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Hier onder is ’n paar sketse van piramides, met nog wat later volg.</p>
+
+   
+     <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-241" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p200-img1.png" alt="166328.png"/></div>
+
+     
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">’n <b>Prisma</b> het twee identiese, ewewydige vlakke
+	(basisse genoem), wat deur <b>syvlakke</b> (of <b>laterale
+	vlakke</b>) verbind word. In die geval van ’n regte
+	prisma, is die syvlakke loodreg op die basisse en is die
+	syvlakke reghoeke.</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-249" src="Maths_English_LB_gr8_term4_1-web-resources/image/163743.png" alt="163743.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">’n Prisma met vyfhoekige basisvlakke
+soos hierdie, word ’n <b>vyfhoekige prisma</b> genoem.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">2. (a) Watter sketse op die vorige bladsy toon 
+	<b>vyfhoekige</b> prismas?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Watter skets op die vorige bladsy toon ’n 
+	<b>seshoekige</b> prisma?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) Watter skets op die vorige bladsy toon ’n 
+	<b>agthoekige</b> prisma?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">’n <b>Piramide</b> het slegs een basis. Die syvlakke van
+’n piramide bestaan uit driehoeke wat mekaar by die
+	<b>toppunt</b> ontmoet.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die piramide hier regs is ’n <b>seshoekige piramide</b>.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-254" src="Maths_English_LB_gr8_term4_1-web-resources/image/163654.png" alt="163654.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Die twee piramides hier onder het vierhoeke as basisse en kan
+dus <b>vierhoekige piramides</b> genoem word.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-255" src="Maths_English_LB_gr8_term4_1-web-resources/image/163646.png" alt="163646.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Watter skets boaan hierdie bladsy toon ’n 
+	 seshoekige piramide?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Hier onder is tekeninge van verskillende piramides
+	 met <b>vierkante</b> as basisse.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-257" src="Maths_English_LB_gr8_term4_1-web-resources/image/171682.png" alt="171682.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Jy kan ’n piramide met ’n vierkantige basis maak deur ’n diagram 
+	soos die een links
+	onder te teken en uit te sny. Daarna vou jy die driehoeke op die stippellyne soos in die
+	tekening op regterhand gewys word.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-258" src="Maths_English_LB_gr8_term4_1-web-resources/image/163601.png" alt="163601.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Hierdie mans bou ’n <b>driehoekige piramide</b> (met ’n 
+	driehoek as basis).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-259" src="Maths_English_LB_gr8_term4_1-web-resources/image/163593.png" alt="163593.png"/></span> </p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">’n Driehoekige piramide word ook ’n <b>tetraëder</b>
+genoem, wat letterlik <b>viervlak</b> beteken.</p><p>
+      ’n Viervlak met vier identiese vlakke bestaande uit
+gelyksydige driehoeke word ’n <b>reëlmatige</b>
+<b>viervlak</b> (reëlmatige tetraëder) genoem.
+</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-260" src="Maths_English_LB_gr8_term4_1-web-resources/image/163576.png" alt="163576.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">As jy ’n figuur soos die een hier regs teken en uitknip
+en die driehoeke op die stippellyne na bo vou, kan jy
+’n reëlmatige viervlak maak. So ’n diagram wat
+uitgeknip en gevou kan word om ’n model van ’n
+veelvlak te maak, word ’n <b>net</b> of ’n <b>ontvouing</b> genoem.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">’n <b>Reëlmatige veelvlak</b> se
+	vlakke is almal identies en is
+	reëlmatige veelhoeke, met
+	gelyke hoeke en sye.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">’n Reghoekige prisma word ook ’n <b>kuboïed</b> genoem.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-262" src="Maths_English_LB_gr8_term4_1-web-resources/image/163544.png" alt="163544.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">’n Kuboïed met vierkantige
+vlakke word ’n <b>kubus</b> genoem.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-263" src="Maths_English_LB_gr8_term4_1-web-resources/image/163535.png" alt="163535.png"/></div>
+
+ 
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">’n Voorwerp met twee identiese sirkelvormige
+	basisse en een geboë vlak word ’n <b>silinder</b>
+	genoem.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-264" src="Maths_English_LB_gr8_term4_1-web-resources/image/163525.png" alt="163525.png"/></div>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">’n "Piramide" met ’n ronde basis word ’n <b>keël</b> genoem.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-265" src="Maths_English_LB_gr8_term4_1-web-resources/image/163515.png" alt="163515.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">’n Voorwerp met die vorm van ’n bal, met ander
+	woorde een geboë vlak met elke punt op sy oppervlak
+	dieselfde afstand vanaf sy middelpunt, word ’n <b>sfeer</b>
+	genoem.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-266" src="Maths_English_LB_gr8_term4_1-web-resources/image/163503.png" alt="163503.png"/></div>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Silinders, keëls en sfere is nie veelvlakke nie, want hulle het geboë vlakke. Onthou,
+’n veelvlak het vlakke, rande en hoekpunte. Die vlakke is die plat vlakke. ’n Rand is die
+lyn waarlangs twee vlakke van ’n 3D-voorwerp ontmoet; dit verbind twee hoekpunte. ’n
+Hoekpunt is die punt waar die rande ontmoet.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Benoem (a) tot (f) op die figuur hier onder.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-267" src="Maths_English_LB_gr8_term4_1-web-resources/image/Selection_01900.png" alt="Selection_01900.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(f)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. Leerders in ’n graad 8-klas het 3D-voorwerpe 
+	van karton gemaak. Kan jy sê watter
+	soort figuur die volgende drie leerders gemaak het?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) Adam se voorwerp het 8 hoekpunte en 12 rande.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Lea se voorwerp het 4 hoekpunte en 4 vlakke.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) Marie se voorwerp het 12 rande en 6 kongruente 
+	vlakke.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">6. Voltooi die tabel vir prismas. Tel die 
+	basisse ook as vlakke. As jy dit moeilik vind, kan
+	dit jou help om vinnige ruwe sketse van nette vir sommige prismas te maak, soos die
+	sketse onder die tabel.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-79" class="No-Table-Style"><tbody><tr class="Ry-Column-270"><td class="cell-style-override-4">
+            <p class="Table-header-centred para-style-override-38">
+            <b>Getal sye in elke  basis </b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred para-style-override-38">
+           <b> Getal  vlakke </b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred para-style-override-38">
+         <b>   Getal  hoekpunte </b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred para-style-override-38">
+          <b>  Getal rande</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred para-style-override-38">
+           <b> Vlakke + 
+hoekpunte </b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><span class="char-style-override-32"><b>Rande + 2</b></span></p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">3</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">5</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">6</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">9</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">6</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">12</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">5</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">6</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">8</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">10</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr></tbody></table>
+	
+	<div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-4"><img class="frame-271" src="Maths_English_LB_gr8_term4_1-web-resources/image/163245.png" alt="163245.png"/></div>
+
+      <div class="frame-4"><img class="frame-272" src="Maths_English_LB_gr8_term4_1-web-resources/image/163255.png" alt="163255.png"/></div>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">7. Voltooi die tabel vir piramides. Tel die basisse ook as vlakke.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-80" class="No-Table-Style"><tbody><tr class="Ry-Column-117"><td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Getal sye in elke 
+basis </b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Getal 
+vlakke </b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Getal 
+hoekpunte </b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Getal
+rande</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred para-style-override-38">
+           <b> Vlakke + 
+hoekpunte </b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><span class="char-style-override-32"><b>Rande + 2</b></span></p>
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">3</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">6</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">4</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">5</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">6</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">7</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Ry-Column-12"><td class="cell-style-override-4">
+            <p class="Table-text-centred" xml:lang="en-GB">9</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr></tbody></table>
+	<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">8. Kyk weer na jou antwoorde vir vrae 6 en 7. 
+	Is die stelling hier onder waar vir beide prismas
+	en piramides?</p>    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">Is the statement below
+    true both f ofprisms and pyramids?</p>
+    
+   
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">die getal vlakke + die getal hoekpunte = 2 + die 
+	getal rande</p>
+    
+     <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Die stelling staan bekend
+	as <b>Euler se formule</b> vir
+	veelvlakke.</p>
+    </div>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">9. Is Euler se formule waar vir veelvlakke G, H, 
+	I en J op bladsy 199?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-21">Nette en modelle van prismas en piramides</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">’n vinnige manier om prismas en piramides te</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Vou ’n A4-papier in stroke omtrent twee vingers
+breed, soos gewys op die skets hier regs.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-275" src="Maths_English_LB_gr8_term4_1-web-resources/image/166719.png" alt="166719.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Vou nou ’n buis met 5 of 6 vlakke op sy lengte,
+soos hier onder aangedui.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-276" src="Maths_English_LB_gr8_term4_1-web-resources/image/163167.png" alt="163167.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Met ’n bietjie ekstra werk kan jy nou ’n prisma 	
+   van papier maak. Jy moet twee basisse uitsny 	
+  sodat hulle presies sal pas.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Jy kan ook prismas met driehoekige,
+vierkantige, reghoekige, seshoekige en ander
+basisvorms op hierdie manier maak.</p>
+
+   <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Jy kan ’n piramide op dieselfde manier maak, maar
+dis ’n bietjie moeiliker. Die papier moet, soos
+volgens die stippellyne op die skets aangedui,
+gevou word. Die moeilike deel is om dit so uit
+te sny dat jy ’n plat basis kry.</p> 
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-275" src="Maths_English_LB_gr8_term4_1-web-resources/image/163159.png" alt="163159.png"/></div>
+    
+ <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Behalwe dat dit moeilik is om die basis van die 	
+piramide plat te kry, het hierdie metode die 	
+dat jy aparte stukkies papier of materiaal moet 	
+gebruik om een voorwerp te maak. Dit sou beter 	
+werk as jy die hele voorwerp uit een stuk papier 	
+kon vou. Die vyfhoekige prisma hier links is op 	
+een vel papier geteken en dit kan uitgesny en op 	
+die stippellyne gevou word. Hierdie diagram 	
+word ’n <b>ontvouing</b> (<b>net</b>) van ’n prisma met ’n 	
+reëlmatige vyfhoek as basis genoem.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-277" src="Maths_English_LB_gr8_term4_1-web-resources/image/163150.png" alt="163150.png"/></div>
+
+   
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Nette vir verskillende veelvlakke</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Benoem die veelvlak wat van elk van die volgende nette gemaak kan word:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p> 
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-278" src="Maths_English_LB_gr8_term4_1-web-resources/image/163141.png" alt="163141.png"/></div>
+        
+       
+ <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml"> (b)</p>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-279" src="Maths_English_LB_gr8_term4_1-web-resources/image/163130.png" alt="163130.png"/></div>
+
+    
+  <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)</p> 
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-280" src="Maths_English_LB_gr8_term4_1-web-resources/image/163071.png" alt="163071.png"/></div>
+
+      	
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml"> (d)</p>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-281" src="Maths_English_LB_gr8_term4_1-web-resources/image/163060.png" alt="163060.png"/></div>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) Benoem die veelvlak wat gevorm word as hierdie diagram uitgesny en op die
+    stippellyne gevou word.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) As hierdie net in ’n veelvlak gevou word,
+    sal die rooi lyn en AB saamkom om ’n rand
+   te vorm.</p>
+
+     <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-103" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p207-img1.png" alt="170640.png"/></span> </p>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-42">Op watter lynstukke sal
+die blou, groen en oranje
+stukke pas?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3. (a) Benoem die veelvlak wat gevorm word as die diagram hier onder op 
+	die soliede 		
+	lyne uitgesny en op die stippellyne gevou word.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Op watter lynstukke sal die rooi, blou en groen
+    lynstukke pas om die rande van hierdie veelvlak te vorm?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+   
+       <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-103" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p207-img2.png" alt="170640.png"/></span> </p>
+
+
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Die diagramme hier onder en op die volgende 
+	bladsy vorm nette van die volgende
+	voorwerpe:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"> vierkantige piramide</p>
+      
+     <p xmlns="http://www.w3.org/1999/xhtml">'n agthoekige piramide </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">'n kuboïed</p>
+      
+      <p xmlns="http://www.w3.org/1999/xhtml">’n driehoekige prisma</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"> ’n seshoekige prisma </p>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml">’n kubus</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Skryf onder elke diagram die naam van die
+	voorwerp waarvan dit ’n net is. Daar mag
+	meer as een net vir party voorwerpe wees
+	Skryf "geen" as die diagram nie ’n net vir
+	enige prisma of piramide is nie.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">’n Diagram word slegs ’n <b>net</b>
+	van ’n voorwerp genoem
+	as die uitgesnyde diagram
+	gevou kan word om <b>al</b> die
+	vlakke van die voorwerp daar
+	te stel.</p>
+    </div>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-288" src="Maths_English_LB_gr8_term4_1-web-resources/image/162489.png" alt="162489.png"/></div><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-289" src="Maths_English_LB_gr8_term4_1-web-resources/image/162480.png" alt="162480.png"/></div>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-291" src="Maths_English_LB_gr8_term4_1-web-resources/image/162423.png" alt="162423.png"/></div>
+
+      <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d)</p>  
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-292" src="Maths_English_LB_gr8_term4_1-web-resources/image/162415.png" alt="162415.png"/></div>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-293" src="Maths_English_LB_gr8_term4_1-web-resources/image/162383.png" alt="162383.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-8">(f)</p> 
+      
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-296" src="Maths_English_LB_gr8_term4_1-web-resources/image/162315.png" alt="162315.png"/></div>  
+      
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml">(g)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-295" src="Maths_English_LB_gr8_term4_1-web-resources/image/162326.png" alt="162326.png"/></div>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>  <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span>(h)</span></p>
+
+   <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-298" src="Maths_English_LB_gr8_term4_1-web-resources/image/162244.png" alt="162244.png"/></div>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(i)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-297" src="Maths_English_LB_gr8_term4_1-web-resources/image/162256.png" alt="162256.png"/></div>
+
+   
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(j) </p>
+
+      <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-278" src="Maths_English_LB_gr8_term4_1-web-resources/image/171783.png" alt="171783.png"/></div>
+      <hr xmlns="http://www.w3.org/1999/xhtml"/>
+      
+      <p xmlns="http://www.w3.org/1999/xhtml">(k)</p>
+         <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-299" src="Maths_English_LB_gr8_term4_1-web-resources/image/162186.png" alt="162186.png"/></div>
+      
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. Teken ’n net vir elk van die volgende voorwerpe. Meet noukeurig.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Kubus</p>
+
+     <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-103" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p210-img1.png" alt="170640.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Reghoekige prisma</p>
+
+      <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-103" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p210-img2.png" alt="170640.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Driehoekige prisma</p>
+
+       <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-103" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p210-img3.png" alt="170640.png"/></span> </p>
+       
+       
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">6. (a) Teken jou nette uit vraag 5 oor op ’n stewige papier of karton, maar
+   vermenigvuldig die lengte van elke sy met 2. Doen die tekeninge noukeurig.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Sny uit, vou en gebruik kleeflint om die nette te plak om 3D-modelle 
+	te vorm.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">7. Die eerste diagram hier onder is die net van ’n 
+	prisma met reghoekige basisse.
+	Watter van die diagramme (a), (b), (c) en (d) hier onder is nette vir dieselfde prisma
+	en watter is nie?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-303" src="Maths_English_LB_gr8_term4_1-web-resources/image/161966.png" alt="161966.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-304" src="Maths_English_LB_gr8_term4_1-web-resources/image/166747.png" alt="166747.png"/></span> </p>
+    
+ <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)</p>
+ <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-307" src="Maths_English_LB_gr8_term4_1-web-resources/image/171915.png" alt="171915.png"/></div>
+ 
+  <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)</p>   
+  
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-4"><img class="frame-305" src="Maths_English_LB_gr8_term4_1-web-resources/image/171925.png" alt="171925.png"/></div>
+      
+  <p class="ques-a-">(d)</p>
+  
+      <div class="frame-4"><img class="frame-306" src="Maths_English_LB_gr8_term4_1-web-resources/image/171908.png" alt="171908.png"/></div>
+</div>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">8. Watter van hierdie diagramme is nette vir ’n kubus?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p> 
+       <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-308" src="Maths_English_LB_gr8_term4_1-web-resources/image/161944.png" alt="161944.png"/></div><hr xmlns="http://www.w3.org/1999/xhtml"/>
+      
+    <p xmlns="http://www.w3.org/1999/xhtml">(b) </p>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-309" src="Maths_English_LB_gr8_term4_1-web-resources/image/161937.png" alt="161937.png"/></div><hr xmlns="http://www.w3.org/1999/xhtml"/>
+      
+     <p xmlns="http://www.w3.org/1999/xhtml">(c) </p>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-310" src="Maths_English_LB_gr8_term4_1-web-resources/image/161931.png" alt="161931.png"/></div><hr xmlns="http://www.w3.org/1999/xhtml"/>
+      
+      <p xmlns="http://www.w3.org/1999/xhtml">(d)</p>
+
+   <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-310" src="Maths_English_LB_gr8_term4_1-web-resources/image/161923.png" alt="161923.png"/></div>
+
+  
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e)</p>      
+          <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-314" src="Maths_English_LB_gr8_term4_1-web-resources/image/161815.png" alt="161815.png"/></div><hr xmlns="http://www.w3.org/1999/xhtml"/>
+      
+      <p xmlns="http://www.w3.org/1999/xhtml">(f)</p>
+  <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-316" src="Maths_English_LB_gr8_term4_1-web-resources/image/161805.png" alt="161805.png"/></div><hr xmlns="http://www.w3.org/1999/xhtml"/>
+      
+      <p xmlns="http://www.w3.org/1999/xhtml">(g)</p>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-315" src="Maths_English_LB_gr8_term4_1-web-resources/image/161810.png" alt="161810.png"/></div><hr xmlns="http://www.w3.org/1999/xhtml"/>
+      
+     <p xmlns="http://www.w3.org/1999/xhtml">(h)</p> 
+
+     <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-313" src="Maths_English_LB_gr8_term4_1-web-resources/image/161821.png" alt="161821.png"/></div>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(i) </p>
+       <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-317" src="Maths_English_LB_gr8_term4_1-web-resources/image/161702.png" alt="161702.png"/></div><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+      
+      <p xmlns="http://www.w3.org/1999/xhtml">(j)</p>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-320" src="Maths_English_LB_gr8_term4_1-web-resources/image/161685.png" alt="161685.png"/></div><hr xmlns="http://www.w3.org/1999/xhtml"/>
+      
+      <p xmlns="http://www.w3.org/1999/xhtml">(k) </p>
+      
+        <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-318" src="Maths_English_LB_gr8_term4_1-web-resources/image/161697.png" alt="161697.png"/></div><hr xmlns="http://www.w3.org/1999/xhtml"/>
+      
+      <p xmlns="http://www.w3.org/1999/xhtml">(l)</p>
+      
+      <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-319" src="Maths_English_LB_gr8_term4_1-web-resources/image/161691.png" alt="161691.png"/></div>
+      
+
+   
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">(m) </p>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-321" src="Maths_English_LB_gr8_term4_1-web-resources/image/161582.png" alt="161582.png"/></div><hr xmlns="http://www.w3.org/1999/xhtml"/>
+      
+     <p xmlns="http://www.w3.org/1999/xhtml">(n)</p>
+     <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-322" src="Maths_English_LB_gr8_term4_1-web-resources/image/161558.png" alt="161558.png"/></div><hr xmlns="http://www.w3.org/1999/xhtml"/>
+      
+      <p xmlns="http://www.w3.org/1999/xhtml">(o) </p>
+      
+ <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-322" src="Maths_English_LB_gr8_term4_1-web-resources/image/161576.png" alt="161576.png"/></div><hr xmlns="http://www.w3.org/1999/xhtml"/>
+      
+      <p xmlns="http://www.w3.org/1999/xhtml">(p)</p>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-323" src="Maths_English_LB_gr8_term4_1-web-resources/image/161567.png" alt="161567.png"/></div>
+     
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">9. Sê in elke geval hier onder of die diagram 
+	sal werk as ’n net vir ’n vyfhoekige prisma
+	of nie. Die basis hoef nie ’n reëlmatige vyfhoek te wees nie. In die gevalle waar die
+	diagram nie sal werk nie, moet jy verduidelik waarom dit nie werk nie.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-324" src="Maths_English_LB_gr8_term4_1-web-resources/image/161454.png" alt="161454.png"/></span></p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml">(b)</p>
+    <p xmlns="http://www.w3.org/1999/xhtml"><span><img class="frame-324" src="Maths_English_LB_gr8_term4_1-web-resources/image/161446.png" alt="161446.png"/></span> </p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+  
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)</p>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-325" src="Maths_English_LB_gr8_term4_1-web-resources/image/161385.png" alt="161385.png"/></span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml">(d)</p>
+    <p xmlns="http://www.w3.org/1999/xhtml">  <span><img class="frame-325" src="Maths_English_LB_gr8_term4_1-web-resources/image/161376.png" alt="161376.png"/></span> </p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+   
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e)</p> 
+       <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-325" src="Maths_English_LB_gr8_term4_1-web-resources/image/161320.png" alt="161320.png"/></span></p>
+      <hr xmlns="http://www.w3.org/1999/xhtml"/>
+      
+       <p xmlns="http://www.w3.org/1999/xhtml"> (f)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml"><span><img class="frame-326" src="Maths_English_LB_gr8_term4_1-web-resources/image/161312.png" alt="161312.png"/></span> </p>
+        <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Teken nette en konstrueer van piramides</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Skryf die afmetings op die sye van die net wat gegee is.</p>
+
+   
+      <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-327" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p215-img1.png" alt="161182.png"/></div>
+
+      
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-4"><img class="frame-328" src="Maths_English_LB_gr8_term4_1-web-resources/image/160917.png" alt="160917.png"/></div>
+
+
+    <p class="Body-investigation">2. Teken akkurate nette van die volgende piramides.</p>
+
+    <p class="ques-a-">(a) Vierkantige piramide</p>
+
+    <div class="frame-4"><img class="frame-327" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p215-img2.png" alt="161182.png"/></div>
+
+    <p class="ques-a-">(b) Driehoekige piramide</p>
+
+
+     <div class="frame-4"><img class="frame-327" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p215-img3.png" alt="161182.png"/></div>
+     
+    <p class="ques-a-">3. (a) Teken die nette wat jy in vraag 2 geteken het op karton of papier 
+	oor, maar verdubbel die afmetings.</p>
+
+    <p class="ques-a-">(b) Sny dan die net uit, vou en plak om ’n model van elke 3D-voorwerp 
+	te maak.</p>
+
+    <h3 class="Head-investigation">Wat laat ’n net werk? ?</h3>
+
+    <p class="Body-no-indent">Watter van die nette hier onder sal nie ’n reghoekige piramide 
+	vorm nie? Hier en daar
+	sal jy moet meet om seker te maak, of jy sal die diagram moet afteken, uitsny en vou.
+	Verduidelik hoekom jy in sommige gevalle dink dat dit nie sal werk nie.</p>
+
+     <p class="ques-a-">1.</p>
+     <div class="frame-4"><img class="frame-333" src="Maths_English_LB_gr8_term4_1-web-resources/image/160776.png" alt="160776.png"/></div>
+
+       <p class="ques-a-">2.</p>
+    <div class="frame-4"><img class="frame-334" src="Maths_English_LB_gr8_term4_1-web-resources/image/160765.png" alt="160765.png"/></div>
+
+
+    <p class="ques-a-">3.</p>
+
+    <div class="frame-4"><img class="frame-335" src="Maths_English_LB_gr8_term4_1-web-resources/image/160756.png" alt="160756.png"/></div>
+
+    <p class="ques-a-">4.</p>
+    
+    <div class="frame-4"><img class="frame-336" src="Maths_English_LB_gr8_term4_1-web-resources/image/160748.png" alt="160748.png"/></div>
+
+    <h3 class="Head-investigation">Sirkels en piramides</h3>
+
+    <p class="Body-no-indent">Om in die toppunt te kan ontmoet, moet een sy van elke
+	driehoekige vlak van ’n piramide dieselfde lengte hê as die sy
+	van die vlak naaste aan hom.</p>
+    
+    <p class="Body">Dit beteken dat sekere lynstukke in die net van ’n piramide gelyk moet wees.</p>
+
+    <div class="frame-4"><img class="frame-337" src="Maths_English_LB_gr8_term4_1-web-resources/image/160740.png" alt="160740.png"/></div>
+
+
+
+
+    <p class="Body-investigation-hanging">1. Merk die lynstukke wat gelyk moet wees in die 
+	diagram hier onder, sodat ’n mens ’n
+	piramide kan maak deur die uitgesnyde diagram op die stippellyne te vou.</p>
+
+    <div class="frame-4"><img class="frame-338" src="Maths_English_LB_gr8_term4_1-web-resources/image/160730.png" alt="160730.png"/></div>
+
+    <p class="Body-investigation-hanging">2. Teken die diagram hier bo noukeurig op 
+stewige papier of karton na. Sny dit uit en
+vou op die stippellyne. Kyk of jy ’n piramide hiervan kan maak.</p>
+
+    <p class="Body-no-indent">Enige veelhoek kan die basis van ’n piramide vorm.</p>
+
+    <p class="Body-no-indent">As jy ’n net vir ’n piramide wil teken, kan jy dus
+begin deur ’n veelhoek te teken.</p>
+
+    <div class="frame-4"><img class="frame-339" src="Maths_English_LB_gr8_term4_1-web-resources/image/160718.png" alt="160718.png"/></div>
+
+ 
+
+    <p class="Body">Teken dan enige driehoek op een
+sy van die veelhoek.</p>
+
+    <div class="frame-4"><img class="frame-340" src="Maths_English_LB_gr8_term4_1-web-resources/image/160710.png" alt="160710.png"/></div>
+
+    <p class="Body-no-indent">Die driehoeke wat aangrensend aan die eerste een sal wees
+moet elkeen een sy hê wat gelyk is aan die sy van die eerste
+driehoek waarop hy moet pas, soos aangedui deur die
+blou en rooi volstreep- en stippellyn-lynstukke hier regs.</p>
+
+    <div class="frame-4"><img class="frame-341" src="Maths_English_LB_gr8_term4_1-web-resources/image/160698.png" alt="160698.png"/></div>
+
+
+    
+<p class="Body-no-indent">Die stippellynsegmente kan ook in ander posisies wees,
+so lank as hulle dieselfde lengtes as die gekleurde sye
+van die eerste driehoek het.</p>
+   
+    <p class="Body">Dit beteken dat, sodra die eerste driehoekige vlak
+geteken is, daar baie verskillende moontlikhede is vir
+elkeen van die twee driehoeke wat aangrensend tot hom
+in die piramide sal wees.</p>
+
+    <p class="Body">Die sirkel met die rooi kol as middelpunt op die skets
+hier regs, wys die moontlikhede vir een
+driehoekige vlak.</p>
+    
+    <div class="frame-4"><img class="frame-342" src="Maths_English_LB_gr8_term4_1-web-resources/image/160689.png" alt="160689.png"/></div>
+
+
+    <p class="Body-no-indent">Sodra ’n driehoek op die boonste rand van
+	die basis gekies is, kan ’n sirkel om die groen
+	hoekpunt getrek word om die moontlikhede
+	vir die derde driehoekige vlak aan te dui. Die
+	straal van hierdie sirkel is die lengte van die
+	tweede been van die tweede driehoek, soos
+	gewys deur die groen volstreep op die skets.</p>
+ 
+    <div class="frame-4"><img class="frame-343" src="Maths_English_LB_gr8_term4_1-web-resources/image/160681.png" alt="160681.png"/></div>
+
+    <p class="Body-no-indent">Enige lynstuk wat vanaf die groen sirkel na
+die groen hoekpunt getrek word, kan ’n sy
+van die derde driehoekige vlak wees.</p>
+    <p class="Body">Nou moet daar nog een driehoekige vlak
+	geteken word. Ons sal dit die blou
+	driehoek noem.</p>
+<p>Die swart en blou kolletjies op die skets
+wys waar twee van die hoekpunte van die
+blou driehoek moet wees. </p>
+    <div class="frame-4"><img class="frame-343" src="Maths_English_LB_gr8_term4_1-web-resources/image/160671.png" alt="160671.png"/></div>
+
+
+
+    <p class="Body-investigation-hanging">3. Skets die vierde driehoekige vlak van die 
+	piramide rofweg op die tekening hier bo.
+	Probeer dink hoe lank die sye moet wees sodat die diagram as ’n net vir ’n piramide
+	kan dien.</p>
+
+    <p class="ques-a-">4. (a) Hoe kan die swart kolletjie en die groen driehoek jou help om ’n idee 
+	te kry van waar die derde hoekpunt van die blou driehoek moet wees?</p>
+
+    <hr/><p class="ques-a-">(b) Hoe kan die blou kolletjie en die geel driehoek jou help om ’n idee 
+	te kry van waar die derde hoekpunt van die blou driehoek moet wees?</p>
+
+    <hr/><p class="Body-investigation-hanging">5. Boaan die volgende bladsy is ’n vergrote 
+tekening van die skets wat net voor vraag
+3 hier bo gegee is. Gebruik jou passer om die derde hoekpunt te bepaal van die vlak
+wat nog nie geteken is nie, en voltooi die net van die piramide. Jy kan die diagram op
+stewige papier oorteken, uitsny en vou om te sien of dit ’n piramide sal vorm.</p>
+
+    <p class="Body-investigation"><span><img class="frame-344" src="Maths_English_LB_gr8_term4_1-web-resources/image/172044.png" alt="172044.png"/></span> </p>
+
+    <p class="Body-investigation">6. Verbind die kolletjies op die
+    skets om ’n net vir ’n piramide te teken.</p>
+
+    <div class="frame-4"><img class="frame-345" src="Maths_English_LB_gr8_term4_1-web-resources/image/160653.png" alt="160653.png"/></div>
+
+    <h2 id="toc-id-22">Platoniese liggame</h2>
+
+    <h3 class="Head-investigation--after-b-head-">Maak veelvlakke met identiese vlakke en gelyke rande</h3>
+
+    <p class="Body-no-indent">’n Kubus is ’n spesiale soort veelvlak. Dit het 6 identiese
+vlakke en sy 12 rande is almal ewe lank.</p>
+
+    <div class="frame-4"><img class="frame-346" src="Maths_English_LB_gr8_term4_1-web-resources/image/160645.png" alt="160645.png"/></div>
+
+    <p class="ques-a--2-space-below">1. Hoeveel hoekpunte het ’n kubus?</p>
+    <hr/><p class="Body-investigation-hanging">2. Kan jy aan ’n voorwerp dink waarvan die vlakke identiese
+driehoeke is en al die rande gelyk is? Probeer om ’n ruwe
+skets of ’n net vir so ’n voorwerp te teken</p>
+    <hr/><p class="ques-a-">3. (a) Teken die diagram hier onder af. Knip dit uit en vou dit op die 
+stippellyne. Heg 
+die vlakke aan mekaar vas met kleeflint om ’n oop houer met vyfhoekige vlakke 	
+te vorm.</p>
+
+    <div class="frame-4"><img class="frame-348" src="Maths_English_LB_gr8_term4_1-web-resources/image/160613.png" alt="160613.png"/></div>
+
+    <div class="frame-4"><img class="frame-349" src="Maths_English_LB_gr8_term4_1-web-resources/image/160603.png" alt="160603.png"/></div>
+
+    <p class="ques-a-">(b) Maak nog ’n kopie van die vyfhoekdiagram en maak ’n tweede houer.</p>
+
+    <p class="Body-no-indent"><span><img class="frame-350" src="Maths_English_LB_gr8_term4_1-web-resources/image/160592.png" alt="160592.png"/></span> </p>
+
+    <p class="ques-a-">(c) Draai die een houer om. Sit die twee opmekaar om ’n veelvlak te vorm.</p>
+
+    <p class="Body-no-indent"><span><img class="frame-351" src="Maths_English_LB_gr8_term4_1-web-resources/image/160583.png" alt="160583.png"/></span></p>
+
+    <div class="frame-4"><img class="frame-352" src="Maths_English_LB_gr8_term4_1-web-resources/image/160571.png" alt="160571.png"/></div>
+
+    <p class="ques-a--2-space-below">(d) Hoeveel vlakke het jou veelvlak?</p>
+    <hr/><p class="ques-a-">(e) Is die vlakke identies, en watter vorm het hulle?</p>
+    <hr/><p class="ques-a-">(f) Hoeveel rande is daar en is hulle ewe lank?</p>
+    <hr/><div class="note">
+      <p class="Body-content-no-indent">’n Veelvlak waarvan al die vlakke identies en
+reëlmatig is, word ’n <b>Platoniese liggaam</b>
+genoem, omdat die Griekse filosoof Plato deur sulke
+voorwerpe geboei was.</p><p>
+	’n <b>Reëlmatige veelhoek</b> is ’n veelhoek met gelyke sye en ewe groot hoeke.</p>
+    </div>
+
+    <div class="frame-4"><img class="frame-355" src="Maths_English_LB_gr8_term4_1-web-resources/image/160527.png" alt="160527.png"/></div>
+
+    <p class="Body-investigation-hanging">4. Dink jy die diagram hier onder kan as ’n net gebruik word om ’n Platoniese liggaam
+te vorm? Indien dit moontlik is, hoeveel vlakke, hoeveel rande en hoeveel hoekpunte
+sal so ’n veelvlak hê?</p>
+
+    <hr/><p class="ques-a-"><span><img class="frame-356" src="Maths_English_LB_gr8_term4_1-web-resources/image/160519.png" alt="160519.png"/></span> </p>
+
+    <p class="ques-a-">5. (a) Maak twee identiese kopieë van die diagram. Sny dit op die 
+	soliede lyne uit en 		
+	vou dit op die stippellyne om twee identiese veelvlakke te vorm. Sulke
+	veelvlakke word <b>reëlmatige tetraëders</b> genoem.</p>
+
+    <p class="ques-a-">(b) Probeer om jou twee reëlmatige tetraëders saam te voeg om ’n 
+	ander viervlak
+	met 6 vlakke, 6 rande en 5 hoekpunte te vorm.</p>
+
+    <h3 class="Head-investigation">Die platoniese liggame</h3>
+
+    <p class="Body-no-indent">Die Platoniese liggame het spesiale name, soos hier onder aangedui. 
+	Daar is slegs vyf Platoniese liggame:</p>
+
+    <div>
+      <div class="frame-4"><img class="frame-357" src="Maths_English_LB_gr8_term4_1-web-resources/image/160501.png" alt="160501.png"/></div>
+      
+      <p class="Body-no-indent">’n <b>Tetraëder</b> het 4 gelyksydige driehoeke.
+	Dit het 6 rande en 4 hoekpunte.</p>
+
+      <div class="frame-4"><img class="frame-358" src="Maths_English_LB_gr8_term4_1-web-resources/image/160510.png" alt="160510.png"/></div>
+    </div>
+ <p class="Body-no-indent">’n <b>Oktaëder</b> bestaan uit 8 gelyksydige
+	driehoeke. Dit het 12 rande en
+	6 hoekpunte.</p>
+		    
+
+      <div class="frame-4"><img class="frame-361" src="Maths_English_LB_gr8_term4_1-web-resources/image/160475.png" alt="160475.png"/></div>
+      
+       <p class="Body-no-indent">’n <b>Heksaëder</b> (ook bekend as ’n <b>kubus</b>)
+bestaan uit 6 vierkante. Dit het 12 rande en 8 hoekpunte.</p>
+	    
+      <div class="frame-4"><img class="frame-352" src="Maths_English_LB_gr8_term4_1-web-resources/image/160483.png" alt="160483.png"/></div>
+    </div>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">’n <b>Dodekaëder</b> bestaan uit 12
+	reëlmatige vyfhoeke. Dit het 30 rande en
+	20 hoekpunte.</p>
+	    
+       <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-363" src="Maths_English_LB_gr8_term4_1-web-resources/image/160457.png" alt="160457.png"/></div> 
+       
+      <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">’n <b>Ikosaëder</b> bestaan uit 20 gelyksydige driehoeke.
+Dit het 30 rande en 12 hoekpunte.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-13">1.
+    Nette vir ’n paar Platoniese liggame word op die
+	volgende bladsye gegee. Skryf die name van die voorwerpe langs die nette wat
+	gebruik kan word om hulle te maak.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Kyk of Euler se formule ook waar is vir die Platoniese liggame
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-365" src="Maths_English_LB_gr8_term4_1-web-resources/image/166900.png" alt="166900.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-366" src="Maths_English_LB_gr8_term4_1-web-resources/image/166919.png" alt="166919.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-367" src="Maths_English_LB_gr8_term4_1-web-resources/image/166941.png" alt="166941.png"/></span> </p>
+  
+  </div>
+</div>
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

@@ -1,0 +1,1598 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr7 Wiskunde</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Wissel navigasie</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index-afr.html">Gr 7-9 Werkboeke</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/index-afr.html">Tuisblad</a></li>
+                          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wiskunde<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/wiskunde/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/wiskunde/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/wiskunde/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natuurwetenskappe<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/natuurwetenskappe/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/natuurwetenskappe/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/natuurwetenskappe/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tegnologie<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/tegnologie/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/tegnologie/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/tegnologie/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+
+            <li><a href="/aflaaibares-afr.html">Aflaaibares</a></li>
+            <li><a href="/oorons-afr.html">Oor ons</a></li>
+            <li><a href="/oorons-afr.html#contact">Kontak</a></li>
+           
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container">
+        <div class="language-toggle">
+            <button type="button" class="btn btn-default ">English</button>
+            <button type="button" class="btn btn-primary active">Afrikaans</button>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-3">Funksies en verbande</h1>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent" lang="en-US">
+    In hierdie hoofstuk gaan jy met formules werk. ’n Formule is ’n beskrywing van hoe ’n <span>mens die waarde van een veranderlike hoeveelheid
+    kan bereken, as die waarde of waardes van sekere ander
+    veranderlike hoeveelhede gegee is</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener" lang="en-US"><span>Jy
+    gaan die simboliese taal aanleer om formules met twee
+    veranderlikes te skryf</span>.</p>
+
+               
+ <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-4">Van tel tot bereken</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    1.	(a)	<span>Hoeveel rooi vierkantjies en hoeveel swart
+    vierkantjies is daar in elkeen van
+    die</span> rangskikkings 1, 2, 3 en 4 hier onder? Skryf jou antwoorde in die tabel.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    <img class="large" src="Maths2_Gr7_TG_ch6-web-resources/image/136675.png" alt="136675.png"/> </p>
+
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-16" class="No-Table-Style table-style-override-1"><colgroup><col class="Row-Column-73"/><col class="Row-Column-35"/><col class="Row-Column-35"/><col class="Row-Column-35"/><col class="Row-Column-35"/><col class="Row-Column-35"/><col class="Row-Column-35"/><col class="Row-Column-35"/></colgroup><tbody><tr class="Row-Column-31"><td class="cell-style-override-3">
+            <p class="Table-text-left">
+            Rangskikkingnommer</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr><tr class="Row-Column-31"><td class="cell-style-override-3">
+            <p class="Table-text-left">Getal rooi         vierkantjies</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr><tr class="Row-Column-31"><td class="cell-style-override-3">
+            <p class="Table-text-left">Getal swart         vierkantjies</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Stel
+    jou voor dat rangskikkings 5, 6 en 7 op dieselfde patroon
+    gemaak word.</span> <span>Hoeveel rooi en
+    hoeveel swart vierkantjies dink jy sal daar in elkeen van
+    die</span> rangskikkings wees? Skryf jou antwoorde in die tabel hier bo.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (c)	Teken rangskikkings 5 en 6 op die rooster as jy dit nog nie gedoen het nie.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (d)	Probeer om uit te werk hoeveel rooi vierkantjies en hoeveel swart vierkantjiesdaar in rangskikkings 20, 21 en 22 sal wees.</p>
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">2.	<span>Dit sal nuttig wees om formules te hê om die
+    getal rooi en swart vierkantjies in ander rangskikkings soos
+    diè hier bo te bereken</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (a)	Watter van die formules hier onder kan gebruik word om die getal rooi<span>vierkantjies
+    in die rangskikkings hier bo te bereken? Daar is meer as een
+    formule</span> wat werk.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">\(y = 2 \times x + 4 \\ y = 2 \times (2 \times x + 1) \\ y = x^2 + 2 \\ y = 4 \times x + 2\)</p>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	Natasha het besluit om die formule
+    \(y = 4 \times x + 2\) te
+    gebruik om die getal rooi vierkantjies te bereken. Wat beteken die lettersimbole \(x\)  en \(y\)  in hierdie geval?</p>
+
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (c)	Gebruik die formule \(y  = 4  \times x  + 2\) <span>om die getal rooi
+    vierkantjies in
+    rangskikkings</span> 20, 21 en 22 te bereken.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)	<span>As
+    jou antwoorde verskil van diè wat jy in vraag 1(d) gegee het,
+    het jy êrens foute</span> <span>gemaak. As
+    dit die geval is, moet jy die foute soek en dit
+    regmaak</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14" lang="en-US">(e)	Voltooi die tabel.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-17" class="No-Table-Style"><colgroup><col class="Row-Column-59"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/></colgroup><tbody><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            x</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9</p>
+          </td>
+        </tr><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-text-centred">\(2 \times (2 \times x + 1)\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-text-centred">\(2 \times x + 4\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-text-centred">\(4 \times x + 2\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    3.	(a)	<span>Watter van die formules hier onder kan gebruik
+    word om die getal
+    swart</span> vierkantjies in die rangskikkings in vraag 1 te bereken?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">\(z = (x + 2)^2 \\ z =  x^2 + 2 \\ p = n^2 + 2\)</p>
+
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14" lang="en-US">(b)	Voltooi die tabel.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-18" class="No-Table-Style"><colgroup><col class="Row-Column-59"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/><col class="Row-Column-74"/></colgroup><tbody><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9</p>
+          </td>
+        </tr><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-text-centred">\(x^2 + 2\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-text-centred">\((x + 2)^2\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">4.	Hilary gebruik \(x\)  om die
+    <i>getal vierkantjies op elke     kant</i>  van die rangskikkings voor te stel.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (a)	Watter van die volgende formules kan Hilary gebruik om die getal rooivierkantjies in die rangskikking in vraag 1 te bereken?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-2">\(y = x^2 - 4 \times x + 6 \\ y = (x - 2)^2 + 2\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Met
+    watter van die volgende formules kan sy die getal rooi
+    vierkantjies bereken</span> ?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-2">\(y = 3 \times x - 3 \\ y = 4 \times x - 6 \\ y =4 \times (x - 2) + 2\)</p>
+
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (c)	Voltooi hierdie tabel om jou antwoorde te kontroleer.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-19" class="No-Table-Style"><colgroup><col class="Row-Column-78"/><col class="Row-Column-79"/><col class="Row-Column-79"/><col class="Row-Column-79"/><col class="Row-Column-79"/><col class="Row-Column-79"/><col class="Row-Column-79"/><col class="Row-Column-79"/></colgroup><tbody><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9</p>
+          </td>
+        </tr><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-text-centred">\(x^2 - 4 \times x + 6\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-text-centred">\((x - 2)^2 + 2\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-text-centred">\(3 \times x - 3\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-text-centred">\(4 \times x - 6\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-text-centred">\(4 \times (x - 2) + 2\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr></tbody></table><h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-5">Wat om te bereken en hoe</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-" lang="en-US">Stel situasies wiskundig voor</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">1.	(a)	Hoeveel minute is daar in ’n uur?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	Hoeveel minute is daar in 2 uur?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)	Hoeveel minute is daar in 3 uur?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (d)	Verduidelik hoe jy die antwoorde op vrae 1(b) en (c) uitgewerk het.</p>
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-16" lang="en-US">Die formule \(m  = 60 \times
+    u\)  <span>kan gebruik
+    word om die getal minute te bereken as die getal ure bekend is.
+    Die simbool</span>  \(u\)
+    stel die getal ure voor en \(m\)  stel die getal minute voor.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (e)	Skryf die formule \(m  = 60 \times
+    u\)  in woorde.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (f)	Voltooi die tabel.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-20" class="No-Table-Style table-style-override-1"><colgroup><col class="Row-Column-82"/><col class="Row-Column-70"/><col class="Row-Column-70"/><col class="Row-Column-70"/><col class="Row-Column-70"/><col class="Row-Column-70"/></colgroup><tbody><tr class="Row-Column-67"><td class="cell-style-override-3">
+            <p class="Table-text-left">Getal ure</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">24</p>
+          </td>
+        </tr><tr class="Row-Column-67"><td class="cell-style-override-3">
+            <p class="Table-text-left">Getal         minute</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">60</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">120</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr><tr class="Row-Column-67"><td class="cell-style-override-3">
+            <p class="Table-text-left">Hoe om te         bereken</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">\(60 \times 1\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    2.	Drie busmaatskappye het die volgende advertensies in ’n koerant geplaas:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)	Watter van die formules boaan die volgendebladsy kan gebruik word om die reisgeldvir ’n toer met Hamba Kahle Tours uitte werk?</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+       <b>Saamgaan Toere</b></p>
+
+      <p class="Body-box-no-indent" lang="en-US">
+      <i>Ons deurkruis elke
+      provinsie en stop in elke stad en dorpie. Betaal slegs R450
+      per toer plus 60c per km.</i> </p>
+
+      <p class="Body-box-no-indent" lang="en-US">
+      <b><b>Hamba Kahle       Tours</b></b> </p>
+
+      <p class="Body-box-no-indent para-style-override-15" lang="en-US"><i>Langafstandreise is ons
+      besigheid:</i></p>
+
+      <p class="Body-box-no-indent" lang="en-US">
+      <i>R500 per reis plus 50c       per km!</i> </p>
+
+      <p class="Body-box-no-indent" lang="en-US">
+       <b>Comfort Tours</b></p>
+
+      <p class="Body-box-no-indent para-style-override-15" lang="en-US"><i>Vind uit wat dit beteken om in
+      styl te reis: slegs R480 per toer
+      plus 55c per km.</i></p>
+
+      </div>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	Watter van die formules kan gebruik wordom die reisgeld vir ’n toer met SaamgaanToere uit te werk?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US"><b>’n Paar formules om reisgeld uit te     werk</b>  <b>:</b></p>
+
+        <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">A.  \(\text{Reisgeld} = 0,50
+    \times \text{afstand} + 500      \)</p>
+    <p xmlns="http://www.w3.org/1999/xhtml">B. \(\text{Reisgeld} = 50 \times \text{afstand} + 500\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">C.  \(\text{Reisgeld} = 0,60
+    \times \text{afstand} + 450    \)</p>
+    <p xmlns="http://www.w3.org/1999/xhtml"> D.  \(\text{Reisgeld} = 60 \times \text{afstand} + 450\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">E.  \(\text{Reisgeld} = 55 \times
+    \text{afstand} + 480   \)</p>
+    <p xmlns="http://www.w3.org/1999/xhtml">   F.  \(\text{Reisgeld} = 0,55 \times \text{afstand} + 480\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)	Watter van die formules hier bo kan gebruikword om die reisgeld vir ’n toer met ComfortTours uit te werk?</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      Ons skryf 50c as R0,50 of 0,50 wanneer ons berekeninge   doen.</p>
+    </div>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (d)	<span>Voltooi die tabel deur die formules hier onder te
+    gebruik. Jy mag ’n
+    sakrekenaar</span> vir hierdie vraag gebruik.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">\(\text{Reisgeld vir Hamba Kahle Tours} = 0,50 \times \text{afstand} + 500\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">\(\text{Reisgeld vir Saamgaan Toere} = 0,60 \times \text{afstand} + 450\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">\(\text{Reisgeld vir Comfort Tours} = 0,55 \times \text{afstand} + 480\)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-21" class="No-Table-Style table-style-override-1"><colgroup><col class="Row-Column-85"/><col class="Row-Column-86"/><col class="Row-Column-86"/><col class="Row-Column-86"/><col class="Row-Column-86"/></colgroup><tbody><tr class="Row-Column-67"><td class="cell-style-override-3">
+            <p class="Table-text-left">Afstand in         km</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">150</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">200</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">250</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">300</p>
+          </td>
+        </tr><tr class="Row-Column-67"><td class="cell-style-override-3">
+            <p class="Table-text-left">Hamba Kahle         Tours</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr><tr class="Row-Column-67"><td class="cell-style-override-3">
+            <p class="Table-text-left">Saamgaan         Toere</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr><tr class="Row-Column-67"><td class="cell-style-override-3">
+            <p class="Table-text-left">Comfort Tours</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (e)	Watter busmaatskappy se toere is die goedkoopste? Verduidelik.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (f)	Voltooi ’n vloeidiagram vir die busmaatskappy wat jy in vraag (e) gekies het:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span class="char-style-override-4">  <img class="small" src="Maths2_Gr7_TG_ch6-web-resources/image/137018.png" alt="137018.png"/>  </span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (g)	Wandile het die formules vir die berekening van die reisgeld van die verskillende busmaatskappye geskryf deur die lettersimbole \(x\)  en \(y\)  te gebruik. Sê
+    waarvoor elke lettersimbool in die volgende formules staan:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(i)  \(y = 0,50 \times x + 500\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(ii) \(y = 0,60 \times x + 450\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(iii)  \(y = 0,55 \times x + 480\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (h)	<span>Watter van die drie busmaatskappye sal die
+    goedkoopste wees om te gebruik
+    vir</span> ’n reis van 1 000 km?</p>
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-6">Invoer- en uitvoergetalle</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-" lang="en-US">Van formules na tabelle</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">1.	<span>Bepaal vir elkeen van die tabelle watter van
+    die volgende formules gebruik kon word om dit te
+    voltooi</span> :</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns" lang="en-US">\(
+    \text{A. }  y = 5 \times x + 3 \\
+    \text{B. }  y = 3 \times x\\
+    \text{C. }  y = 3 \times x + 2 \\
+    \text{D. }  y = 4 \times x \\
+    \text{E. }  y = 3 \times x + 1\\  
+    \text{F. }  y = 2 \times x \\
+    \text{G. }  y = 3 \times x + 10\\
+    \text{H. }  y = 2 \times x - 1\\
+    \text{I. }  y = 5 \times x\)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-22" class="border-plain"><colgroup><col class="Row-Column-87"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-89"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/></colgroup><tbody><tr class="Row-Column-74"><td class="none">
+            <p class="Table-text-centred para-style-override-17">
+            (a)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-74">
+<td class="none"/>
+        <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">13</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">16</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">19</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">22</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">25</p>
+            </td>
+
+        </tr></tbody></table>
+
+        <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">Formule gebruik:</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-22a" class="border-plain"><colgroup><col class="Row-Column-87"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-89"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/></colgroup><tbody><tr class="Row-Column-74">
+          <td class="none">
+            <p class="Table-text-centred para-style-override-17">
+            (b)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-74">
+        <td class="none"/>
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">13</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">18</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">23</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">28</p>
+          </td>
+        </tr></tbody></table>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">Formule gebruik:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-23" class="border-plain"><colgroup><col class="Row-Column-87"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-89"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/></colgroup><tbody><tr class="Row-Column-74"><td class="none">
+            <p class="Table-text-centred para-style-override-17">
+            (c)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-74">
+<td class="none"/>
+        <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">16</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+        </tr></tbody></table>
+
+
+        <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">Formule gebruik:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-23a" class="border-plain"><colgroup><col class="Row-Column-87"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-89"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/></colgroup><tbody><tr class="Row-Column-74">
+
+          <td class="none">
+            <p class="Table-text-centred para-style-override-17">
+            (d)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-74">
+
+          <td class="none">
+            </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">14</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">17</p>
+          </td>
+        </tr></tbody></table>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">Formule gebruik:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-24" class="border-plain"><colgroup><col class="Row-Column-87"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-89"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/></colgroup><tbody><tr class="Row-Column-74"><td class="none">
+            <p class="Table-text-centred para-style-override-17">
+            (e)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-74">
+        <td class="none"/>
+        <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">25</p>
+          </td>
+
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">Formule gebruik:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-24a" class="border-plain"><colgroup><col class="Row-Column-87"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-89"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/></colgroup><tbody><tr class="Row-Column-74"><td class="none">
+            <p class="Table-text-centred para-style-override-17">
+            (e)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-74">
+
+          <td class="none">
+            </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9</p>
+          </td>
+        </tr></tbody></table>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">Formule gebruik:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Ons kan ’n tabel met waardes voltooi as ons die formule
+    daarvoor het. Byvoorbeeld, ons kan die tabel hier onder met die
+    formule</span>  \(y
+    = 7 \times x
+    - 3\) voltooi:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    \( \begin{align} \text{For } x = 1, y &amp;= 7 \times 1 - 3\\
+    &amp;= 7 - 3\\
+    &amp;= 4\end{align}\)</p> 
+    <p xmlns="http://www.w3.org/1999/xhtml">\( \begin{align} \text{For } x = 2, y &amp;= 7 \times 2 - 3  \\
+    &amp;= 14 - 3  \\
+    &amp;=    11\end{align}\)</p> 
+    <p xmlns="http://www.w3.org/1999/xhtml">\( \begin{align} \text{For } x = 3, y &amp;= 7 \times 3 - 3\\
+   &amp; = 21 - 3\\
+    &amp;= 18\end{align}\)</p>
+
+   <table xmlns="http://www.w3.org/1999/xhtml" id="table-25" class="No-Table-Style table-style-override-1"><colgroup><col class="Row-Column-91"/><col class="Row-Column-91"/><col class="Row-Column-91"/><col class="Row-Column-91"/><col class="Row-Column-91"/><col class="Row-Column-91"/><col class="Row-Column-91"/><col class="Row-Column-91"/></colgroup><tbody><tr class="Row-Column-74"><td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-74"><td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            y</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">18</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">25</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">32</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">39</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">46</p>
+          </td>
+        </tr></tbody></table>
+        <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    2.	Gebruik die gegewe formules om die tabelle te voltooi.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (a) \(y = 6 \times x - 5\frac{1}{2}\)</p>
+
+     <table xmlns="http://www.w3.org/1999/xhtml" id="table-26" class="No-Table-Style table-style-override-1"><colgroup><col class="Row-Column-93"/><col class="Row-Column-68"/><col class="Row-Column-68"/><col class="Row-Column-68"/><col class="Row-Column-68"/><col class="Row-Column-68"/><col class="Row-Column-68"/><col class="Row-Column-68"/></colgroup><tbody><tr class="Row-Column-74"><td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-94"><td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            y</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr></tbody></table>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b) \(y = 30 \times x + 1\)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-27" class="No-Table-Style table-style-override-1"><colgroup><col class="Row-Column-97"/><col class="Row-Column-97"/><col class="Row-Column-97"/><col class="Row-Column-97"/><col class="Row-Column-97"/><col class="Row-Column-97"/><col class="Row-Column-97"/><col class="Row-Column-97"/></colgroup><tbody><tr class="Row-Column-31"><td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            x</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">0,1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">0,2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">0,3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">0,4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">0,5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">0,6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">0,7</p>
+          </td>
+        </tr><tr class="Row-Column-31"><td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-15">
+            y</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+
+          <td class="cell-style-override-3">
+            </td>
+        </tr></tbody></table><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Van patrone na formules</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    1.	’n Paar rangskikkings met swart en rooi vierkantjies en ’n paar formules word hier onder gegee.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-19" lang="en-US"><img class="frame-96" src="Maths2_Gr7_TG_ch6-web-resources/image/137396.png" alt="137396.png"/> </p>
+
+       <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+   \( \text{Formule A: }z = 2n + 1\\
+            \text{Formule B: }z = 2x - 3 \\
+    \text{Formule C: }y = (n + 1)^2 + 2 \\
+        \text{Formule D: }y = x^2 - (2x - 3)\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (a)	Hoeveel swart vierkantjies sal daar in die volgende twee rangskikkings wees?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Susan gebruik formules B en D om die getal rooi en
+    swart vierkantjies te
+    bereken.</span> Wat beteken die lettersimbole \(z\) , \(x\)  en \(y\)  in Susan se werk?</p>
+
+    
+
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	<span>Zain
+    gebruik formules A en C om die getal rooi en swart vierkantjies
+    te bereken.</span> Wat beteken die lettersimbole \(z\) , \(n\)  en \(y\)  in Zain se werk?</p>
+
+    
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">2.	<span>Skryf ’n formule wat gebruik kan word om die
+    getal rooi en swart vierkantjies in rangskikkings soos die hier
+    onder te bereken. Gebruik lettersimbole van jou eie keuse en sê
+    duidelik wat elkeen van jou simbole voorstel</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-20" lang="en-US"><img class="frame-96" src="Maths2_Gr7_TG_ch6-web-resources/image/137406.png" alt="137406.png"/> </p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+  
+  </div>
+</div>
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

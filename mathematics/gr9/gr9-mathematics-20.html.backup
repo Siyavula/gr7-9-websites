@@ -1,0 +1,2942 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr9 Maths</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+    <!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/index.html">Grade 7-9 Workbooks</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="/index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mathematics<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/mathematics/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/mathematics/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/mathematics/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natural Sciences<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/natural-sciences/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/natural-sciences/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/natural-sciences/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/technology/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/technology/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/technology/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+
+                <li><a href="/downloads.html">Downloads</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/about.html#contact">Contact</a></li>
+
+            </ul>
+
+        </div><!--/.nav-collapse -->
+    </div>
+</div>
+<div class="container">
+    <div class="language-toggle">
+        <button type="button" class="btn btn-primary active ">English</button>
+        <button type="button" class="btn btn-default">Afrikaans</button>
+    </div>
+</div>
+
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-16">Graphs</h1>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">In this chapter you will learn
+    more about making graphs to show how quantities change, and
+    about interpreting graphs. Graphs can show how quantities
+    increase and decrease, how rapidly they increase and decrease,
+    and where they have maximum and minimum values. You will pay
+    special attention to graphs of quantities which change at a
+    constant rates. These graphs are straight lines.</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-17">Global graphs</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Discrete and continuous variables</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Sibongile collects honey on his farm
+    and puts it in large jars to sell. His business is doing so
+    well that he can no longer do all the work himself. He needs to
+    get some help. Sibongile knows that one person can normally
+    fill 2 jars in 3 days. He sets up this table to help him
+    determine how many full-time workers he should employ to fill
+    different numbers of jars in a five-day week.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-61" class="No-Table-Style"><tbody><tr class="Row-Column-253"><td class="cell-style-override-14">
+            <p class="Table-text-centred">Jars per week</p>
+          </td>
+
+          <td class="cell-style-override-14">
+            <p class="Table-text-centred">
+            \( 3\frac{1}{3} \)</p>
+          </td>
+
+          <td class="cell-style-override-14">
+            <p class="Table-text-centred">
+           \( 6 \frac{2}{3} \)</p>
+          </td>
+
+          <td class="cell-style-override-14">
+            <p class="Table-text-centred">\(10\)</p>
+          </td>
+
+          <td class="cell-style-override-14">
+            <p class="Table-text-centred">
+           \( 13 \frac{1}{3} \)</p>
+          </td>
+
+          <td class="cell-style-override-14">
+            <p class="Table-text-centred">
+            \( 16\frac{2}{3} \)</p>
+          </td>
+
+          <td class="cell-style-override-14">
+            <p class="Table-text-centred">\(20 \)</p>
+          </td>
+
+          <td class="cell-style-override-14">
+            <p class="Table-text-centred">
+            \( 23\frac{1}{3} \)</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Workers</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. (a) If Sibongile needs to produce 40 jars
+    a week, how many workers does he need? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) How many jars can 9
+    workers fill in a week? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+   <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) How many workers does Sibongile need to
+    produce 15 jars per week? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) What are the two variables in the above
+    situation? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+   <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In a situation like the above, one
+    can have any number of jars, as well as fractions of a jar. One
+    can have a whole number of jars (for example 4 jars) or a
+    fractional quantity of jars (for example \( 6 \frac{2}{3} \) or 4,45 jars). The other
+    variable in the above situation, the number of full-time
+    employees, is different. Only whole numbers of people are
+    possible.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Quantities like the quantity of jars of honey,
+    which can include any fraction, are sometimes called
+    "continuous quantities" or "continuous variables". Quantities
+    that can be counted, like a number of people or a number of
+    motor cars or rivers or towns, are sometimes called "discrete
+    quantities" or "discrete variables".</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">When a graph of a discrete variable is drawn,
+    it does not normally make sense to join the dots with a line,
+    but for some purposes it may be useful.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Can you use the second
+    graph on the next page to find out how many workers are needed
+    to fill 30 jars in a week, and how many to fill 40 jars? Check
+    your answers by doing calculations. </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Here is a graph of the information in
+    Sibongile's table.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/165439.png" alt="165439.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Here is another graph of the same
+    information.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/165455.png" alt="165455.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. In what way are these
+    two graphs different? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. In each case say whether the
+    variables are "discrete" or "continuous".</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) You order pizzas for a class party and
+    you need 1 pizza for every 3 learners. </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+   <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Your height measured at different stages
+    as you grew up. </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) The speed the car is travelling as you
+    drive to town. </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. The line graph shows
+    the number of cars that a company sold between July and
+    December of 2014. </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-256" src="Maths_English_LB_gr9_term3_1-web-resources/image/168646.png" alt="168646.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Is the data shown in the graph discrete
+    or continuous? Explain your answer </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) How many cars were sold in
+    August? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) During which months were the maximum and
+    minimum number of cars sold? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) How many more cars were
+    sold in November than in July? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) Between which months did the car sales
+    decrease? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(f) Would you say that the car sales
+    generally improved over the 6 months? Explain your answer. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">6. The graph below shows
+    the population of elephants at a game reserve in South Africa
+    between 1960 and 2010. Study the graph and answer the questions
+    that follow.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging"><span><img class="frame-259" src="Maths_English_LB_gr9_term3_1-web-resources/image/168662.png" alt="168662.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Did the elephant population increase or
+    decrease between 1970 and 1990? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Between which years did the elephant
+    population increase? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) In which year were there the most
+    elephants on the game farm? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Is the data in this graph discrete or
+    continuous? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) How many elephants do you think there
+    were on the game reserve in 1995? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(f) The following data shows the number of
+    elephants at a different game reserve. Plot this information on
+    the grid above.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-62" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-header-left"><b>Year</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1960</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1970</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1980</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1990</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2000</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2010</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-header-left"><b>Elephants</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">30</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">25</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">35</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g) Would you say that the second game
+    reserve had more elephants than the first game reserve between
+    1960 and 2010? Explain your answer. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Showing increase and decrease on graphs</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span>The graph below shows the
+    temperature over a 24-hour period in a town in the Free
+    State.</span> The graph was drawn by connecting the points that
+    show actual temperature readings.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-262" src="Maths_English_LB_gr9_term3_1-web-resources/image/165533.png" alt="165533.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. (a) Do you think the above temperatures
+    were recorded on a summer day or a winter day? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) At what time of the day was the highest
+    temperature recorded, and what was this temperature? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) During what part of the day did the
+    temperature rise, and during what part did the temperature
+    drop? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) During what part of the period when the
+    temperature was rising did it rise most rapidly? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) During what part of the day did the
+    temperature drop most rapidly? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Here are descriptions of the
+    temperature changes on five different days.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-22">Day A: It is already
+    warm early in the morning. The temperature does not change much
+    during the day but late in the afternoon a breeze causes the
+    temperature to drop quite sharply.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-22">Day B: It is very
+    cold early in the morning but it gets quite hot soon after the
+    sun gets up. By midday a cold wind comes up and the temperature
+    drops till late in the afternoon. The wind then stops and it
+    gets warmer again into the evening.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-22">Day C: It is warm in
+    the early morning and the temperature remains about the same
+    till midday. then the temperature drops slowly during the
+    afternoon.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-22">Day D: It is cold in
+    the early morning and it remains cold for the whole day, except
+    for a short time after lunch when the sun comes out for a
+    while.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-22">Day E: It is warm
+    early in the morning, but the temperature drops sharply soon
+    after sunrise and remains low until mid-afternoon, when it
+    slowly warms up a little.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The shapes of some temperature graphs
+    for 24 hour periods, starting early in the morning, are given
+    below. Below each graph, write which of the above days is
+    possibly represented by the graph.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-263" src="Maths_English_LB_gr9_term3_1-web-resources/image/165554.png" alt="165554.png"/></div>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Water is supplied to a township from
+    three reservoirs. The amount of water in each reservoir is
+    measured each day at 08:00 am. The water level in reservoir A
+    is represented in red on the graph below, and the water levels
+    in reservoirs B and C are represented in blue and green
+    respectively.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/165588.png" alt="165588.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">The daily water levels in the three
+    reservoirs, in millions of litres, are also given in the table
+    below.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-63" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Mon.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Tue.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Wed.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Thu.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Fri.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Sat.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Sun.</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Reservoir A</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2,2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,2</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Reservoir B</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2,1</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Reservoir C</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0,9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1,9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2,1</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. <span>You may use the
+    graph or the table, or both, to find the answers to the
+    questions below.</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) <span>On which days does the water level
+    in reservoir B increase from one day to the next?</span> </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) On which of these days does the water
+    level in reservoir B increase most, and by how much does it
+    increase from that day to the next? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) By how much does the water level in
+    reservoir B change each day? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) By how much does the water level in
+    reservoir C change each day? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) Describe the water level situation from
+    Friday to Sunday, in reservoir A. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. During a certain day, these
+    changes occur in the temperature at a certain place.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">Between
+    00:00 and 03:00, the temperature drops by 2°C.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">Between
+    03:00 and 06:00, the temperature drops by 3°C.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">Between
+    06:00 and 10:00, the temperature remains constant.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">Between
+    10:00 and 12:00, the temperature rises by 3°C.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">Between
+    12:00 and 16:00, the temperature remains constant.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">Between
+    16:00 and 18:00, the temperature drops by 4°C.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">Between
+    18:00 and 22:00, the temperature drops by 5°C.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">Between
+    22:00 and 24:00, the temperature remains constant.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Which of the graphs below show the above
+    temperature changes? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-267" src="Maths_English_LB_gr9_term3_1-web-resources/image/165831.png" alt="165831.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><b>Graph A</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-267" src="Maths_English_LB_gr9_term3_1-web-resources/image/165849.png" alt="165849.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><b>Graph B</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-267" src="Maths_English_LB_gr9_term3_1-web-resources/image/165867.png" alt="165867.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><b>Graph C</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. Write a verbal
+    description, like in question 4, of the temperature changes
+    shown in graph A in question 4.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">
+    Between...........and..........., the
+    temperature........... </p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature...........</p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature...........</p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature...........</p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature...........</p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature...........</p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature...........</p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature...........</p>
+
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">6. Write a verbal
+    description, like in question 4, of the temperature changes
+    shown in graph C in question 4.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">
+    Between...........and..........., the
+    temperature...........</p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature...........</p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature...........</p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature...........</p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature...........</p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature...........</p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature........... </p><p xmlns="http://www.w3.org/1999/xhtml">
+    Between...........and..........., the
+    temperature...........</p><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">7. Look at graph A in question
+    4.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">(a) By
+    how much does the temperature drop from 13:00 to 19:00? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) By
+    how much does the temperature drop from 19:00 to 21:00? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) When does the temperature drop most
+    rapidly, from 13:00 to 19:00 or from 19:00 to 21:00? Explain
+    your answer. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">8. Look at graph C in question
+    4.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">(a) By
+    how much does the temperature increase from 07:00 to 09:00? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) By
+    how much does the temperature increase from 09:00 to 13:00? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) When does the temperature increase more
+    rapidly, from 07:00 to 09:00 or from 09:00 to 13:00? Explain
+    your answer. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">9. Look at graph B in question
+    4.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">(a) By
+    how much does the temperature drop from 16:00 to 18:00? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) By
+    how much does the temperature drop from 18:00 to 22:00? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) When does the temperature drop more
+    rapidly, from 16:00 to 18:00 or from 18:00 to 22:00? Explain
+    your answer. </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-18">Change at different rates</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The water levels in kilolitres (kl)
+    in different water storage tanks over a period of 30 hours are
+    represented on the graphs below and on the next page.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">1 kiloliter = 1 000 liters</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">1. (a) In which tanks does the
+    water level rise during the 30 hour period? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-4">(b) In
+    which tanks does the water level drop during the 30 hour
+    period? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. How much water is there at the
+    start of the 30 hour period, in each of the tanks? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3. (a) Which tank is losing water most
+    rapidly? Explain your answer. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Which tank is gaining water most slowly?
+    Explain your answer. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml">
+      <span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/168696.png" alt="168696.png"/> 
+
+      <img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/168703.png" alt="168703.png"/></span>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/168755.png" alt="168755.png"/> 
+
+       <img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/168772.png" alt="168772.png"/></span>
+
+      <span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/168784.png" alt="168784.png"/> 
+
+       <img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/168765.png" alt="168765.png"/></span>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">3. Complete the table. Use
+    negative numbers for decreases.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-64" class="No-Table-Style"><tbody><tr class="Row-Column-21"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Change over each hour</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Change over any period of
+            5 hours</p>
+          </td>
+        </tr><tr class="Row-Column-21"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Tank A</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-21"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Tank B</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-21"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Tank C</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-21"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Tank D</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-21"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Tank E</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-21"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Tank F</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">If a constant stream of
+      water is pumped into a tank so that the water level is
+      increased by 3 kiloliter in each hour, we say:</p>
+	<p>Water is pumped into the tank at a <b>constant rate</b> of <b>3 kilolitres per hour</b>.</p>
+
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">4. (a) Tank G contains 12 kilolitres at the
+    beginning of a 30 hour period. Water is then pumped into it at
+    a constant rate of 3 kilolitres per hour. Draw a dotted line
+    graph to show the water level in Tank G on the graph sheet
+    below.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Tank H also contains 12 kilolitres at
+    the beginning of a 30 hour period. Water is then pumped into at
+    a constant rate of 1,5 kilolitres per hour. Draw a solid line
+    graph to show the water level in Tank H on the graph sheet
+    below.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/168811.png" alt="168811.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">5. Complete the table for
+    tanks G and H over the 30 hour period.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-66" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Hours</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">25</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">30</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Kilolitres in tank G</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Kilolitres in tank H</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table>
+        <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-19">Draw graphs from tables of ordered pairs</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A "coordinate" graph shows the
+    relationships between two variables, the dependent and
+    independent variable in a function. The value of the dependent
+    variable depends on the value given to the independent
+    variable, hence its name. Sometimes there is no pattern to the
+    relationship between the two variables and sometimes there is.
+    In Grade 9 we will focus on graphs where there is a pattern to
+    the relationship. Specifically, we will focus on graphs of
+    linear functions. The graph of a linear function is a straight
+    line.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Graphs of functions with constant differences</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">1. Complete the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-67" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">9</p>
+          </td>
+        </tr><tr class="Row-Column-282"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Function A</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">
+           \(8\frac{1}{2} \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">
+            \(9\frac{1}{2}\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-282"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Function B</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">11</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">13</p>
+          </td>
+        </tr><tr class="Row-Column-282"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Function C</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">
+            \(1\frac{1}{2} \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">
+            \(4\frac{1}{2}\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-282"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Function D</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-4">2.
+    Represent each of the functions in question 1 with a graph by
+    plotting the points on the grids below. You may join the points
+    in each case. In each case write down the constant difference
+    between the function values.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-3">Function A </p> 
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">Constant difference = </p><hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-23"><img class="frame-284" src="Maths_English_LB_gr9_term3_1-web-resources/image/167532.png" alt="167532.png"/></div>
+<p>
+    Function B</p><p class="ques-a--2-column">Constant difference = </p><hr/>
+      <div class="frame-23"><img class="frame-284" src="Maths_English_LB_gr9_term3_1-web-resources/image/167540.png" alt="167540.png"/></div>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-3">Function C </p>
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">Constant difference = </p><hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-23"><img class="frame-284" src="Maths_English_LB_gr9_term3_1-web-resources/image/167796.png" alt="167796.png"/></div>
+	<p>Function D</p><p class="ques-a--2-column">Constant difference = </p><hr/>
+      <div class="frame-23"><img class="frame-284" src="Maths_English_LB_gr9_term3_1-web-resources/image/167803.png" alt="167803.png"/></div>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Some of the graphs you
+    have drawn "go upwards" (or downwards) quickly, like a steep
+    hill or mountain; others "go up" (or down) slowly.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Is there a link between the constant
+    difference and the "steepness" of the graph? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Try to explain why this is the case. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">4. (a) Complete the following
+    tables.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-68" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+           <p> \(2x + 3\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(5x + 4\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(3x + 3\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Determine the difference between
+    consecutive terms in each of the above three number sequences.
+    What do you notice about this difference? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) What difference between consecutive
+    terms would you expect in the output numbers for \(4x + 5 \), if the input numbers are
+    the natural numbers 1; 2; 3; . . . . . ? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-20">Gradient</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The "steepness" or <b>slope</b> of a line can be indicated
+    by a number, as described below. This number is called the
+    <b>gradient</b> of the
+    line.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">The gradient is the
+      vertical change divided by the horizontal change as you move
+      from left to right on the line.</p>
+
+      <p class="Body-content-no-indent">Gradient = \( \dfrac{\text{vertical change}}{\text{horizontal change}} \)</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/167880.png" alt="167880.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The gradient of the blue line above
+    is \( \frac{9}{10} = 0.9 \)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The gradient of the green line is
+   \( \frac{-13}{10} = -1,3 \)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Note that the horizontal change is
+    always taken to be positive (moving to the right), but the
+    vertical change can be positive (if it is upwards) or negative
+    (if it is downwards).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. A certain line passes
+    through the points (2; 3) and (8; 15). A straight line is drawn
+    through the two points.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Try to think of a way in which you can
+    work out the gradient of the line that passes through the two
+    points.</p>
+
+
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/168894.png" alt="168894.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Plot the two points on the graph sheet
+    on the right.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) What horizontal change and vertical
+    change is needed to move from the point (2; 3) to the point (8;
+    15)? You may draw arrows on your graph to help you to think
+    clearly about this. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Work out the gradient of the line that
+    passes through the two points. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Complete the table and
+    plot graphs of \(y = 2x + 3\) and
+    \(y = -2x + 5\) on the given graph
+    sheet.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/168920.png" alt="168920.png"/></div>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-70" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(2x + 3\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(-2x + 5\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Work out the gradients
+    of the graphs of \(y = 2x + 3\) and
+    \(y -2x + 5\). You may use the
+    coordinates of any of the points you have plotted. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Suppose the coordinates of point A
+    are (\(x_A; y_A \)) and the coordinates of B are
+    (\(x_B; y_B \)).</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-293" src="Maths_English_LB_gr9_term3_1-web-resources/image/168858.png" alt="168858.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The gradient of line AB is:
+   \(m_{AB} = \dfrac{\text{Vertical change}}{\text{Horizontal change}} = \frac{y_A - y_B}{x_A - x_B} \)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">In summary:</p>
+
+      <p class="Body-content-no-indent">If you have two points A
+      (\(x_A; y_A \)) and B (\(x_B; y_B \)) then the</p>
+
+      <p class="Body-content-no-indent">formula for the gradient
+      is: \( m = \frac{y_A - y_B}{x_A - x_B} \)</p>
+    </div>
+
+    <h4 xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Examples of finding the gradient
+    between two points:</h4>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Calculate the gradient of the line
+    that goes through the points:</p>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">(a) A(2; 5)
+            and B(4 ; 1)</p>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-2">\(\begin{align} m &amp;= \frac{y_A - y_B}{x_A - x_B} \\&amp;= \frac{5 - 1}{2 - 4} \\&amp;= \frac{4}{-2} \\&amp; = -2 \end{align}\)</p>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">(b) C(2; 2)
+            and D(-6; 0)</p>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-2">\(\begin{align} m &amp;= \frac{y_C - y_D}{x_C - x_D} \\&amp;= \frac{2 - 0}{2 -(-6)} \\&amp;= \frac{2}{8} \\&amp; = \frac{1}{4} \end{align}\)</p>
+         
+            <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">(c)
+            <span>Points: A(0; -1) and B(1; 1)</span></p>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-2">\(\begin{align} m &amp;= \frac{y_A - y_B}{x_A - x_B} \\&amp;= \frac{-1 - 1}{0 - 1} \\&amp; = \frac{-2}{-1} \\ &amp;= 2\end{align}\)</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">The gradient of a straight
+      line is the same everywhere, so it doesn't matter which 2
+      points you use to determine the gradient.</p>
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Determine the gradient</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Do the following task in your
+    exercise book.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Determine the gradient of the
+    lines that goes through the following points:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(a) A(2; 10) and B(6; 12)</p> 
+    <p xmlns="http://www.w3.org/1999/xhtml">(b) C(1; 3) and D(-2; -3) </p>
+     <p xmlns="http://www.w3.org/1999/xhtml"> (c) E(0; 3) and F(4; -1)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(d) G(5; 2), H(4; 4) and I(2;
+    8) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Determine the gradient of the
+    following lines:</p>
+
+<p xmlns="http://www.w3.org/1999/xhtml">(a)</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/Maths-Gr9-Eng-Term3-p66-img1.png" alt="Selection_015.png"/></span></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+ <p xmlns="http://www.w3.org/1999/xhtml">(b)</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/Maths-Gr9-Eng-Term3-p66-img2.png" alt="Selection_015.png"/></span></p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(c)</p>
+        <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/Maths-Gr9-Eng-Term3-p66-img3.png" alt="Selection_015.png"/></span></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-21">Finding the formula for a graph</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Tables and formulas</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Each table on the next
+    page shows values for a relationship represented by one of
+    these rules:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">\(y = −2x + 3 \)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">\( y = 3x + 2 \)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">\(y = −3x + 6 \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \(y = 2x − 5
+ \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \(y = 5(x − 2)
+ \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \(y = 5x + 10
+ \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \( y = −3x + 5
+\) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \( y = 2x + 3
+\) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \( y = 5x − 10
+\) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \(y = −3(x + 2)
+ \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \(y = 2x + 5
+ \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \(y = −x + 3
+ \) </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Complete the tables below by extending
+    the patterns in the output values.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-74" class="border-plain"><tbody><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-centred para-style-override-23">
+            A.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-308"><td class="none"/>
+
+          <td class="none" colspan="9"/>
+        </tr><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-centred para-style-override-23">
+            B.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-308"><td class="none"/>
+
+          <td class="none" colspan="9"/>
+        </tr><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-centred para-style-override-23">
+            C.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-308"><td class="none"/>
+
+          <td class="none" colspan="9"/>
+        </tr><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-centred para-style-override-23">
+            D.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-308"><td class="none"/>
+
+          <td class="none" colspan="9"/>
+        </tr><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-centred para-style-override-23">
+            E.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-308"><td class="none"/>
+
+          <td class="none" colspan="9"/>
+        </tr><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-centred para-style-override-23">
+            F.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-308"><td class="none"/>
+
+          <td class="none" colspan="9"/>
+        </tr><tr class="Row-Column-10"><td class="none">
+            <p class="Table-text-centred para-style-override-23">
+            G.</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">          \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) For each table, describe what you did to
+    produce more output values. Also write down the rule (formula)
+    that corresponds to the table. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">You may have noticed that the
+    equations of straight lines look similar.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent"><b>Gradient</b></p>
+
+      <p class="Body-box-no-indent">Gradient means the steepness or
+      slope of the line.</p>
+
+      <p class="Body-box-no-indent"><b>Intercept</b></p>
+
+      <p class="Body-box-no-indent">The point where a line crosses
+      one of the axes.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The equation of a straight line is:
+    \( y = mx + c \) \( m\) tells us the <b>gradient</b> of the
+    line. \(c\) tells us
+    where the line crosses the \(y\)-axis. This is called the
+   \(y\)<b>-intercept</b> and it has the
+    coordinates (0, \(c\)).</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet-Left-indent"> the line
+     \( y = 3x + 4 \) has a <b>gradient of 3</b> and the
+      \(y\)-intercept is
+      <b>(0 ; 4)</b>.</li>
+
+      <li class="Body-bullet-Left-indent">the
+      equation of a line with a <b>gradient of -2</b> and
+      \(y\)-intercept of
+      <b>(0 ;10)</b> is
+      \( y = -2x + 10\).</li>
+
+      <li class="Body-bullet-Left-indent"> the line
+      \(y = 2x \) has a <b>gradient of 2</b> and the
+      \(y\)-intercept is
+      \((0; 0)\).</li>
+
+      <li class="Body-bullet-Left-indent"> the line
+      \( y = 5 \) has a
+      <b>gradient of 0</b> and
+      the \(y\)-intercept is
+      <b>(0; 5)</b>.</li>
+
+      <li class="Body-bullet-Left-indent"> What is
+      the gradient and \(y\)-intercept of the line
+      \(2y = 6x + 10 \)?</li>
+    </ul><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">If you said \(m = 6 \) and \(c = 10\) you would be wrong. The
+    equation is not in standard form. The equation must be written
+    in standard form before you can read off the values of the
+    gradient and the \(y\)-intercept.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">\(2y = 6x + 10 \)  →Divide both sides
+    by 2</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">\(y = 3x + 5 \)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent"><b>Standard form</b></p>
+
+      <p class="Body-box-no-indent">The standard form of a straight
+      line graph is \( y = mx + c\) </p>
+
+      <p class="Body-box-no-indent">On one side there should only
+      be a "\(y\)"
+      (with a coefficient of 1)</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Therefore the <b>gradient is 3</b> and the
+    \(y\)-intercept is
+    <b>(0; 5)</b>.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">If \(m\) &gt; 0 the line will be
+      increasing.</p>
+
+      <p class="Body-content-no-indent">If \(m\) &lt; 0 the line will be
+      decreasing.</p>
+
+      <p class="Body-content-no-indent">If the line is horizontal
+      \(m\) = 0.</p>
+
+      <p class="Body-content-no-indent">If the line is vertical
+      \(m\) is
+      undefined.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Complete the following
+    table:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-76" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Equation</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Gradient</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>y-intercept</b></p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\( y = 3x + 5 \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-15">
+            <p class="Table-text-centred">\( y = \frac{x}{2} - 7 \)</p>
+          </td>
+
+          <td class="cell-style-override-15">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\( y = 2 - 3x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\( -y = 5x - 10 \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(y = 3\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">(0; 0)</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">(0; -7)</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Write each of the
+    following equations in standard form and then determine the
+    gradient and \(y\)-intercept.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(a) \(2y + 4x = 10 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(b) \(-3x = y + 4\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(c) \(3x - 4 = y\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(d) \(3y + 6 = x \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(e) \( y = -3x + 4y - 12\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(f) \( y = 3x − 2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(g) \( y = \frac{1}{4}x + 6 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(h) \( y = −12\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(i) \( x = 15\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Determine the equation of a straight line</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The equation of a straight line is
+   \( y = mx + c \). If you need to determine the
+    equation of a straight line then all you need to know are the
+    values of \(m\) and
+    \(c\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-5">If you know the values of
+    two points on the graph then you can determine the gradient
+    using the formula: \(m
+    = \dfrac{y_A - y_B}{x_A - x_B} \)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Once you know the gradient you can calculate
+    the value of the \(y\)-intercept using
+    substitution.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-4"><b>Example 1:</b> <span>Determine the
+    equation of the straight line that goes through (1; 1) and (5;
+    13).</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-5"><b>Step 1</b>: Calculate the
+    gradient</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-10">\(m = \dfrac{y_A - y_b}{x_A - x_B} = \dfrac{1 - 13}{1 - 5} = \dfrac{-12}{-4} = 3 \)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml"><b>Step
+    2:</b> Since you now know \(m = 3 \) you can substitute it into
+    the equation \(y = mx + c \).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-5">Therefore \(y = 3x + c \).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-5"><b>Step 3:</b> To determine
+    \(c\) you need to
+    substitute the coordinates of a point on the line into the
+    equation. (It can be either of the points that were given, so
+    choose the easier one.)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">\(\begin{align} \text{Substitute } (5; 13) \text{ into } y &amp;= 3x + c  \\ (13)  &amp;= 3(5) +  c \\ 13  &amp;= 15 + c \\ 13 - 15  &amp;= c \\ -2  &amp;= c \end{align}\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><b>Step
+    4:</b> Write down the equation: \(y = 3x - 2 \)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><b>Example 2:</b>
+    Determine the equation of the line that passes through (4; -1)
+    and (7; 5).</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-77" class="no-border-plain"><tbody><tr class="Row-Column-196"><td class="none">
+            <p class="Body-no-indent para-style-override-14">
+            Information</p>
+          </td>
+
+          <td class="none">
+            <p class="Body-no-indent para-style-override-14">
+            \(m\)
+            (Gradient)</p>
+          </td>
+
+          <td class="none">
+            <p class="Body-no-indent para-style-override-14">
+            \(c\)
+            (\(y\)-intercept)</p>
+          </td>
+
+          <td class="none">
+            <p class="Body-no-indent para-style-override-14">
+            \( y = mx + c \) (Equation)</p>
+          </td>
+        </tr><tr class="Row-Column-321"><td class="text-top">
+            <p class="Body-no-indent para-style-override-24"><b>(4;
+            -1)</b></p>
+
+            <p class="Body-no-indent para-style-override-24"><b>(7;
+            5)</b></p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Body-no-indent para-style-override-25">
+            \(\begin{align}m &amp;= \frac{y_A - y_b}{x_A - x_B} \\ &amp;= \frac{-1 - 5}{5 - 7} \\ &amp;= \frac{-6}{-3} \\ &amp;= 2\end{align}\)</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Body-no-indent para-style-override-14">
+            \(\begin{align}\text{Substitute } m &amp;= 2 \text{ and }(7; 5) \\ y &amp;= mx + c \\ y &amp;= 2x + c  \\ (5) &amp;= 2(7) + c \\ 5 &amp;= 14 + c \\ -9 &amp;= c\end{align}\)</p>
+          </td>
+
+          <td class="text-top">
+            <p class="Body-no-indent para-style-override-14">
+            \(y = 4x - 2 \)</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="no-border"><b>Example 3:</b> <span>Determine the
+    equation of the line with a gradient of 4 passing through (2 ;
+    6</span><span>).</span></p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-78" class="no-border-plain"><tbody><tr class="Row-Column-324"><td class="none">
+            <p class="Body-no-indent para-style-override-14">
+            Information</p>
+          </td>
+
+          <td class="none">
+            <p class="Body-no-indent para-style-override-14">
+            \(m\)
+            (Gradient)</p>
+          </td>
+
+          <td class="none">
+            <p class="Body-no-indent para-style-override-14">
+            \(c\)
+            (\(y\)-intercept)</p>
+          </td>
+
+          <td class="none">
+            <p class="Body-no-indent para-style-override-14">
+            \(y = mx + c \)</p>
+
+            <p class="Body-no-indent para-style-override-14">
+            (Equation)</p>
+          </td>
+        </tr><tr class="Row-Column-325"><td class="text-top">
+            <p class="Body-no-indent para-style-override-14">
+            \( m = 4\)</p>
+
+            <p class="Body-no-indent para-style-override-24"><b>(2;
+            6)</b></p>
+          </td>
+
+          <td class="text-top">
+            <p class="Body-no-indent para-style-override-14">
+            \(m = 4\)</p>
+          </td>
+
+          <td class="none">
+            <p class="Body-no-indent para-style-override-14">
+            \(\begin{align} \text{ Substitute }m &amp;= 4  \text{ and }(2; 6) \\ y &amp;= mx + c \\ y &amp;= 4x + c \\ 6 &amp;= 4(2) + c \\ -2 &amp;= c \end{align}\)</p> </td>
+
+          <td class="text-top">
+            <p class="Body-no-indent para-style-override-14">
+            \(y = 4x - 2 \)</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">You may want to set your work out as
+    shown in Examples 2 and 3 above.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Determine the equation
+    of the each of the straight lines passing through the points
+    given.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(a) \((3; 10)\) and \((2; 5)\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml"> (b) \((-4; 5)\)
+    and \((2; 5)\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml">(c) \((0; 0)\) and \((4; -8)\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+ 
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(d) (1\(\frac{1}{2}; 4)\) and (-\(\frac{1}{2}; 12)\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml">(e) \((3; 4)\) and\((-7; -1)\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml">(f) \((0;
+    3)\) and \((-14; -4)\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Determine the equation of the
+    straight line with:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) a gradient of 5 and passing through the
+    point \((1; -3)\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) a gradient of -2 passing through the
+    point \((0; 0)\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) a \(y\)-intercept of 7 passing through
+    the point \((1; -3)\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Determine the equations of the
+    following straight lines.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-23"><img class="frame-326" src="Maths_English_LB_gr9_term3_1-web-resources/image/171038.png" alt="171038.png"/></div>
+      <hr/><div class="frame-23"><img class="frame-326" src="Maths_English_LB_gr9_term3_1-web-resources/image/171055.png" alt="171055.png"/></div>
+      <hr/><div class="frame-23"><img class="frame-327" src="Maths_English_LB_gr9_term3_1-web-resources/image/171047.png" alt="171047.png"/></div>
+      <hr/><div class="frame-23"><img class="frame-326" src="Maths_English_LB_gr9_term3_1-web-resources/image/171065.png" alt="171065.png"/></div>
+      <hr/></div>
+
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-22">\(x\)- and \(y\)-intercepts</h2>
+
+
+      <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-328" src="Maths_English_LB_gr9_term3_1-web-resources/image/171177.png" alt="171177.png"/></div>
+
+
+        <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-4">1. Write
+        down the coordinates of the points where each line cuts the
+        2 axes:</p>
+
+        <table xmlns="http://www.w3.org/1999/xhtml" id="table-79" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+              <td class="cell-style-override-2">
+                <p class="Table-text-centred">\(x\)-intercept</p>
+              </td>
+
+              <td class="cell-style-override-2">
+                <p class="Table-text-centred">\(y\)-intercept</p>
+              </td>
+            </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+                <p class="Table-text-centred para-style-override-19"><b>A</b></p>
+              </td>
+
+              <td class="cell-style-override-2">
+                
+              </td>
+
+              <td class="cell-style-override-2">
+                
+              </td>
+            </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+                <p class="Table-text-centred para-style-override-19"><b>B</b></p>
+              </td>
+
+              <td class="cell-style-override-2">
+                
+              </td>
+
+              <td class="cell-style-override-2">
+                
+              </td>
+            </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+                <p class="Table-text-centred para-style-override-19"><b>C</b></p>
+              </td>
+
+              <td class="cell-style-override-2">
+                
+              </td>
+
+              <td class="cell-style-override-2">
+                
+              </td>
+            </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+                <p class="Table-text-centred para-style-override-19"><b>D</b></p>
+              </td>
+
+              <td class="cell-style-override-2">
+                
+              </td>
+
+              <td class="cell-style-override-2">
+                
+              </td>
+            </tr></tbody></table>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. What do all the
+        \(x\)-intercepts
+        have in common?</p>
+        <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. What do all the \(y\)-intercepts have in common? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Determine the coordinates of
+    the intercepts of the following straight line graphs.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \(y = 3x + 12 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(b) \( y = x − 3 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(c) \(y = −2x − 4  \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(d) \( 2y = 6x + 12 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(e) \( 4x + 2y = 20  \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(f) \( 13 − y = −26x \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Vertical and horizontal lines</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Some special lines are so easy that
+    you don't need any fancy methods to draw them or get their
+    equation; you can just look at them.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-330" src="Maths_English_LB_gr9_term3_1-web-resources/image/171408.png" alt="171408.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. What do the following
+    coordinate pairs have in common?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">\((2; 3), (2; -2), (2; 0)\)
+    and \((2; -3)\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Write down two more
+    points that have an \(x\)-coordinate of 2. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">If you plot these points on a set of
+    axes you will see that they form a <b>vertical line</b>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The equation of the line is \(x = 2\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Will the two extra points you
+    wrote down (question 2) also be on the line? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Write down five coordinate
+    pairs with \(x=
+    -1\). </p><hr xmlns="http://www.w3.org/1999/xhtml"/><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-23">Graphs of non-linear functions</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Some of the following
+    relationships are represented by graphs on the next page.
+    Identify which of the relationships are represented by which
+    set of points on the graph. You may use the tables below to
+    help you to answer this question. For example, you may
+    calculate some output numbers by using the formulas and record
+    this in the tables.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column">\( y = -x^2 \)</p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \( y = x^2 \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \( y = (−x)^2 \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \( y = −x^2 + 130 \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \( y = x^2 + 130 \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \( y = 130 − x^2 \) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \( y = (x − 5)^2 + 10\) </p>
+	<p xmlns="http://www.w3.org/1999/xhtml"> \( y = x^2 − 10x + 35\) </p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-80" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-81" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-82" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-83" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-84" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-85" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-86" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-87" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-88" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-89" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-90" class="No-Table-Style"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+
+          <td class="cell-style-override-2"/>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-1">
+    <span><img class="large" src="Maths_English_LB_gr9_term3_1-web-resources/image/170038.png" alt="170038.png"/></span></p>
+  
+  </div>
+</div>
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

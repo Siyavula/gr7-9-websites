@@ -1,0 +1,2024 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr9 Maths</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+    <!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/index.html">Grade 7-9 Workbooks</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="/index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mathematics<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/mathematics/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/mathematics/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/mathematics/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natural Sciences<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/natural-sciences/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/natural-sciences/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/natural-sciences/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/technology/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/technology/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/technology/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+
+                <li><a href="/downloads.html">Downloads</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/about.html#contact">Contact</a></li>
+
+            </ul>
+
+        </div><!--/.nav-collapse -->
+    </div>
+</div>
+<div class="container">
+    <div class="language-toggle">
+        <button type="button" class="btn btn-primary active ">English</button>
+        <button type="button" class="btn btn-default">Afrikaans</button>
+    </div>
+</div>
+
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-4">R epresenting data</h1>
+  <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">In the previous chapter, you
+    focused on methods of collecting, organising and summarising
+    data. Now we focus on representing data in bar graphs, double
+    bar graphs, histograms, pie charts and broken-line graphs. You
+    will practise drawing these graphs. You will also decide why a
+    certain kind of graph is useful in a particular context.</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-5">Bar graphs and double bar graphs</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Revising bar graphs and double bar graphs</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-10">A <span class="char-style-override-2">bar graph</span> shows categories of
+    data along the horizontal axis, and the frequency of each
+    category along the vertical axis. An example is given
+    below.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      
+
+<div class="frame-2"><img class="large" src="Maths_English_LB_gr9_term4_1-web-resources/image/Maths-Gr9-Eng-Term4-p142-img1.png" alt="Maths_English_LB_gr9_term417.png"/></div>
+     
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A <span class="char-style-override-2"><b>double bar graph</b></span> shows two sets
+    of data in the same categories on the same set of axes. This is
+    useful when we need to show two groups within each
+    category.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+<div class="frame-2"><img class="large" src="Maths_English_LB_gr9_term4_1-web-resources/image/Maths-Gr9-Eng-Term4-p142-img2.png" alt="Maths_English_LB_gr9_term4172.png"/></div>
+     
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Drawing bar graphs and double bar graphs</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Obese (very
+    overweight) people have many health problems. It is a concern
+    all around the world. Health researchers analysed the change
+    over 28 years in the numbers of people who are overweight and
+    obese in different areas of the world. This table summarises
+    some of the data.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span class="char-style-override-2"><b>Percentage of population that is
+    overweight and obese</b></span></p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-18" class="No-Table-Style"><tbody><tr class="Row-Column-30"><td class="cell-style-override-3"/>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>1980</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>2008</b></p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left">Sub-Saharan Africa</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12%</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">23%</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left">North Africa and Middle
+            East</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">33%</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">58%</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left">Latin America</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">30%</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">57%</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left">East Asia (low income
+            countries)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">13%</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">25%</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left">Europe</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">45%</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">58%</p>
+          </td>
+        </tr><tr class="Row-Column-60"><td class="cell-style-override-3">
+            <p class="Table-text-left">North America (high income
+            countries)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">43%</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">70%</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) The table summarises "some" of the data.
+    What would some other important data be? Think of as many
+    things as you can.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Which data stands out the most for you
+    in the table above? Give your personal opinion.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Plot a double bar graph to compare the
+    data for the areas, and for the two years. Use the grid on the
+    next page. Remember to give your graph a key.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="No-Paragraph-Style"><span><img class="frame-61" src="Maths_English_LB_gr9_term4_1-web-resources/image/157786.png" alt="157786.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Look carefully at the comparisons that
+    the graph makes. Has your opinion of the most interesting
+    differences changed, now that you see the double bar graph?
+    Explain.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) In some countries the obesity problem
+    has been labelled "Obesity in the face of poverty". Write a
+    short report on the data and your double bar graph to support
+    this argument.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-6">Histograms</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Revising histograms</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A histogram is a graph of the
+    frequencies of data in different <span class="char-style-override-2"><b>class intervals</b></span>, as demonstrated
+    in the example below. Each class interval is used for a range
+    of values. The different class intervals are consecutive and
+    cannot have values that overlap. The data may result from
+    counting or from measurement.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-7">A histogram looks
+    somewhat like a bar graph, but is normally drawn without gaps
+    between the bars.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Representing data in histograms</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. A fruit farmer wants
+    to know which of his trees are producing good plums, and which
+    trees need to be replaced.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">He collects 100 plums
+    each from two trees and measures their masses.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">The data below gives the
+    mass of plums from the first tree.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-19" class="No-Table-Style"><tbody><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Mass of plums (g)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            20-29</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            30-39</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            40-49</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            50-59</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            60-69</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Frequency</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">18</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">34</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">30</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Represent the data in a histogram on the
+    grid below.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="No-Paragraph-Style"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/157797.png" alt="157797.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Now draw another histogram to represent
+    the following data giving the mass of the same type of plums
+    from another tree in the orchard.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-20" class="No-Table-Style"><tbody><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Mass of plums (g)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            20-29</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            30-39</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            40-49</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            50-59</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">
+            60-69</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Frequency</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">14</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">26</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">36</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">21</p>
+          </td>
+        </tr></tbody></table><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/157805.png" alt="157805.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Study the two histograms and then
+    comment on the number of plums produced by the two trees.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) Draw a histogram to represent the
+    data in the table below. Group the data in intervals of 0,5
+    kg.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span class="char-style-override-2"><b>Birth
+    weights (kg) of 28 babies at a clinic</b></span></p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-21" class="No-Table-Style"><tbody><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred"><a id="Anchor-33"/>3,3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1,34</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2,88</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2,54</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1,87</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2,06</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2,72</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">1,89</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">0,85</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1,99</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2,43</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1,66</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2,45</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1,62</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">1,91</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1,20</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2,45</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1,38</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">0,9</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2,65</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2,88</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">1,75</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2,11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3,2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1,74</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">0,6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3,1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1,86</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="M6 para-style-override-7"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/157811.png" alt="157811.png"/></span> </p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Calculate the mean and median of the
+    data.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Records from the whole country show that
+    the birth weight of babies ranges from 0,5 kg to 4,5 kg, and
+    the mean birth weight is 3,18 kg. Use the graph and the mean
+    and median to write a short report on the data from the
+    clinic.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-7">Pie charts</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A <span class="char-style-override-2">pie chart</span> consists of a circle
+    divided into sectors (slices). Each sector shows one category
+    of data. Bigger categories of data have bigger slices of the
+    circle.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Here is an example of a pie chart:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-2"><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/Maths-Gr9-Eng-Term4-p149-img1.png" alt="153769.png"/></div>
+     
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Drawing pie charts</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. The following bar graph shows
+    the population of South Africa by province.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/153889.png" alt="153889.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Write the figures in the graph correct
+    to the nearest 500 000.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-22" class="No-Table-Style"><tbody><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Province</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">E Cape</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">FS</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Gau.</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">KZN</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Lim.</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Mpum</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">NC</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-27">
+            NW</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-12">WC</span></p>
+          </td>
+        </tr><tr class="Row-Column-75"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Population</b></p>
+
+            <p class="Table-header-left"><b>(\(\times 1 000\))</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+           
+          </td>
+
+          <td class="cell-style-override-3">
+          
+          </td>
+
+          <td class="cell-style-override-3">
+           
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-18">(b)
+    What is the total of the rounded off numbers?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Work out the percentage of the whole for
+    each province.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-23" class="No-Table-Style"><tbody><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Province</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">E Cape</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">FS</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Gau.</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">KZN</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Lim.</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Mpum</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-27">
+            NC</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-27">
+            NW</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-12">WC</span></p>
+          </td>
+        </tr><tr class="Row-Column-20"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Percentage of total</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+           
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Draw a pie chart showing the data in the
+    completed table. (Estimate the sizes of the slices.)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-29">
+    <span><img class="frame-80" src="Maths_English_LB_gr9_term4_1-web-resources/image/153900.jpg" alt="153900.jpg"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) Write a short report explaining the
+    difference in the way the data is represented in the pie chart
+    and the bar graph. Which do you think is a better method to
+    show this data?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-8">Broken-line graphs</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Broken-line graphs</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span class="char-style-override-2"><b>Broken-line graphs</b></span> are used to
+    represent data that changes continuously over time. For
+    example, the rainfall for a whole month is captured as one data
+    point, even though the rain is spread out over the month, and
+    it rains on some days and not on others. Broken line graphs are
+    useful to identify and display trends.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-7">Here is some data that
+    can be represented with broken-line graphs.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-24" class="No-Table-Style"><tbody><tr class="Row-Column-83"><td class="cell-style-override-3" colspan="4">
+            <p class="Table-header-centred"><b>Rainfall at three locations in South Africa in 2012</b></p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3"/>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Amatole, KZN</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Mahikeng, NW</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Ceres, WC</p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3"/>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Rainfall (mm)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Rainfall (mm)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Rainfall (mm)</p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3">
+            <p class="Table-text-left"><span class="char-style-override-13">January</span></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">101</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">118</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">27</p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3">
+            <p class="Table-text-left">February</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">108</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">90</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">23</p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3">
+            <p class="Table-text-left">March</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">117</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">86</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">41</p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3">
+            <p class="Table-text-left">April</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">77</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">61</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">60</p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3">
+            <p class="Table-text-left">May</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">46</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">14</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">130</p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3">
+            <p class="Table-text-left">June</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">27</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">168</p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3">
+            <p class="Table-text-left">July</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">32</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">152</p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3">
+            <p class="Table-text-left">August</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">48</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">162</p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3">
+            <p class="Table-text-left">September</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">76</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">18</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">88</p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3">
+            <p class="Table-text-left">October</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">112</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">46</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">60</p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3">
+            <p class="Table-text-left">November</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">115</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">75</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">41</p>
+          </td>
+        </tr><tr class="Row-Column-83"><td class="cell-style-override-3">
+            <p class="Table-text-left">December</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">100</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">86</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">36</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body">Here is a broken line graph for the Amatole
+    rainfall data.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body"><span><img class="frame-84" src="Maths_English_LB_gr9_term4_1-web-resources/image/154067.png" alt="154067.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. During which four months does
+    Amatole have the least rain?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. During which six months does
+    Amatole have the most rain?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. During which months
+    would you plan a hike if you were only considering the rainfall
+    patterns?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. What other factors should you
+    consider when planning a hike in this region?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. Make a broken-line graph for
+    the Mahikeng rainfall data on the grid below.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-5">
+    <span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/157817.png" alt="157817.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">6. Make a broken-line graph for
+    the Ceres-rainfall data on the gird below.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="M6"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/157832.png" alt="157832.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">7. Write a few lines on the
+    difference in rainfall patterns between Ceres and Mahikeng.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">8. Draw a combined
+    broken-line graph with the information from all three regions
+    on one graph.</p>
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-10">Scatter plots</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Understanding and constructing scatter plots</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span class="char-style-override-2"><b>Scatter plots</b></span> show how two sets
+    of numerical data are related. Matching pairs of numbers are
+    treated as coordinates and are plotted as a single point. All
+    the points, made up of two data items each, show a scattering
+    across the graph.</p>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. This table shows a data set with
+            <span class="char-style-override-2"><b>two</b></span>
+            variables. Study the information in the table.</p>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. Make a dot for each learner's
+            mark for each subject on the number lines below.</p>
+
+
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-25" class="No-Table-Style table-style-override-3"><tbody><tr class="Row-Column-20">                     
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Learners</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b><b>Maths marks</b></b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Natural Science marks</b></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Zinzi</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-31"><b>
+            25</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-14"><b>26</b></span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">John</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            23</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">25</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2"><b>
+            Palesa</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-31"><b>
+            22</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-14"><b>25</b></span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Siza</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            21</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">23</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Eric</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            20</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">23</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Chokocha</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            19</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">21</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Gabriel</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            17</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">20</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Simon</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            16</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">19</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Miriam</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">18</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Frederik</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">16</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Sibusiso</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2">
+            <b>12</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2">
+            <b>15</b></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Meshack</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">13</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Duma</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">12</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Samuel</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            10</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">12</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Lola</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            10</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">11</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Thandile</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            9</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">10</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Jabulani</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-31">
+            <b>8</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-14"><b>10</b></span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Manare</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">9</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Marlene</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">7</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Mary</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">7</span></p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-86" src="Maths_English_LB_gr9_term4_1-web-resources/image/154097.png" alt="154097.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. What if you were to
+    show both sets of marks on the same graph, instead of a
+    separate number line for each set? The graph below shows a
+    scatter plot that represents both sets of data. Each dot
+    represents one learner.</p>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/Maths-Gr9-Eng-Term4-p154-img1.png" alt="154109.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">The scatter plot shows the <span class="char-style-override-2"><b>relationship</b></span> between the Natural
+    Sciences mark and the Mathematics mark.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Find the dot for
+    Sibusiso in the data set. He obtained a mark of 12 for the
+    mathematics test and a mark of 15 for Natural Sciences. Find 12
+    on the horizontal axis. Follow the vertical line up until you
+    reach a blue dot. Find 15 on the vertical axis. Follow the line
+    horizontally until you reach the same blue dot. This blue dot
+    represents the two marks that belong to Sibusiso. Circle the
+    blue dot and label it S.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. Find the data points
+    for Zinzi, Palesa, Jabulani and Mary. Circle them and label
+    them Z, P, J and M.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">In the above example, a
+      higher mathematics mark corresponds to a higher science mark.
+      We say there is a <span class="char-style-override-2"><b>positive correlation</b></span> between
+      the mathematics marks and the science marks.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">6. Study this data set and
+    the scatter plot of the data given on the next page.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-27" class="No-Table-Style"><tbody><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Learner</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Maths marks</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Art marks</b></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Zinzi</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-31">
+            <b>25</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-14"><b>7</b></span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">John</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            23</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">7</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Jabulani</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            22</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">9</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Siza</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            21</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">10</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2"><b>
+            Eric</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2">
+            <b>20</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2">
+            10</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Chokocha</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            19</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">11</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Gabriel</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            17</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">12</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Simon</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            16</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">12</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Miriam</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-31">
+            15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-14"><b>15</b></span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Frederik</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2">
+            <b>15</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2">
+            <b>15</b></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Sibusiso</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            12</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">16</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Mishack</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">17</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Duma</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">19</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Samuel</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-31">
+            <b>10</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-14"><b>20</b></span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Lola</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">21</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Thandile</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            9</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">23</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Palesa</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">23</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Manare</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">25</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Marlene</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-32">
+            7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-15">25</span></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Mary</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-31">
+            <b>5</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred"><span class="char-style-override-14"><b>26</b></span></p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">7. Find Eric in the
+    table. Note his marks for Mathematics and Art. Find the dot
+    that represents his marks on the scatter plot. Encircle it and
+    label it E.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">8. Find Samuel in the
+    table. Note his marks for Mathematics and Art. Find the dot
+    that represents his marks. Encircle it and label it S.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">9. Compare the two sets
+    of marks for Eric and for Samuel. What do you notice about the
+    marks?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">10. Find the data points
+    on the scatter plot for Zinzi, Eric, Miriam, Frederik, Samuel
+    and Mary. Circle the points and label them Z, E, M, F, S and
+    Ma</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">11. What do you notice
+    about the pattern of marks in mathematics and art for this data
+    set?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/154139.png" alt="154139.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A <span class="char-style-override-2"><b>negative correlation</b></span> is a
+    correlation in which an increase in the value of one piece of
+    data tends to be matched by the decrease in the other set of
+    data. Learners who obtain a high mark for mathematics appear to
+    obtain a low mark for art. We say there is a negative
+    correlation between the mathematics and the art scores for this
+    data set.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A correlation is an assessment of how
+    strongly two sets of data appear to be connected. Two sets of
+    data may be correlated or may show <span class="char-style-override-2"><b>no correlation</b>.</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Here is the scatter plot for the
+    mathematics and Life skills marks of the same group of
+    learners. The table for this data is given on the next
+    page.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/154152.png" alt="154152.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">12. Study the scatter plot and
+    the data table on the next page.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">13. Find the data points
+    on the scatter plot for Zinzi, Eric, Miriam, Lola, and Mary.
+    Circle the points and label them Z, E, M, L and Ma.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">14. What do you notice
+    about the pattern of marks in Mathematics and Life Skills for
+    this data set?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><table xmlns="http://www.w3.org/1999/xhtml" id="table-28" class="No-Table-Style"><tbody><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Learner</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Maths</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Life skills</b></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Zinzi</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">25</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">John</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">23</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">14</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Jabulani</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">22</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">23</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Siza</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">21</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">16</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Eric</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Chokocha</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">19</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Gabriel</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">17</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Simon</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">16</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Miriam</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">25</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Frederik</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">27</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Sibusiso</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">29</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Meshack</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">17</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Duma</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">11</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Samuel</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Lola</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">25</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Thandile</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Palesa</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">28</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Manare</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">26</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Marlene</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Mary</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">15</p>
+          </td>
+        </tr></tbody></table><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">The relationship between arm span and height</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The idea that a person's arm span
+    (the distance from the tip of the finger to the tip of the
+    finger when the arms are stretched out sideways) is the same as
+    one's height has been explored many times.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">A data set for 13 people is given on the next
+    page.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Make a scatter plot of
+    this data on the given grid.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">For example, take Cilla's
+    arm span. Find 156 on the horizontal axis. Follow a vertical
+    line up. Then on the vertical axis find 162. Follow a
+    horizontal line across. Where the two points meet, draw a
+    dot.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-29" class="No-Table-Style"><tbody><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-header-left"><b>Person</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Arm span</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Height</b></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Cilla</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">156</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">162</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Meshack</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">159</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">162</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Tony</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">161</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">160</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Ellen</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">162</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">170</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Karin</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">170</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">170</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Sibongile</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">173</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">185</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Gabriel</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">177</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">173</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Alpheus</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">178</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">178</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Mfiki</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">188</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">188</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Nathi</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">188</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">182</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Manare</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">188</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">192</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Khanyi</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">196</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">184</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/157856.png" alt="157856.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. What would you say about the
+    correlation between the arm span and the height?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+  </div>
+</div>
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

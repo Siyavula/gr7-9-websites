@@ -1,0 +1,1455 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr7 Mathematics</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+    <!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/index.html">Grade 7-9 Workbooks</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="/index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mathematics<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/mathematics/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/mathematics/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/mathematics/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natural Sciences<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/natural-sciences/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/natural-sciences/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/natural-sciences/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/technology/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/technology/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/technology/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+
+                <li><a href="/downloads.html">Downloads</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/about.html#contact">Contact</a></li>
+
+            </ul>
+
+        </div><!--/.nav-collapse -->
+    </div>
+</div>
+<div class="container">
+    <div class="language-toggle">
+        <button type="button" class="btn btn-primary active ">English</button>
+        <button type="button" class="btn btn-default">Afrikaans</button>
+    </div>
+</div>
+
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-8">Functions and relationships</h1>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent" lang="en-US">
+    The way in which an output number can be calculated is called the rule for the relationship. The rule can be described in words or with a formula, and in some cases with a flow diagram.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener" lang="en-US">The work in this chapter builds on the work that you did last term, in chapter 2.</p>
+
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-9">Relationships between variables</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-" lang="en-US">Different ways to represent the rule for a relationship</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">A relationship between two variables consists of two sets of numbers as shown in the two rows of the table below. The first row contains the <b>input     numbers</b> and the second row contains the  <b>output numbers</b>.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-18" class="No-Table-Style"><colgroup><col class="Row-Column-77"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/></colgroup><tbody><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">9</p>
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">32</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">39</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">46</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">53</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">60</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">67</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">74</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">81</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">88</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">For the relationship shown in the table, any output number can be calculated by multiplying the input number by 7 and adding 25 to the answer.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      The input numbers may also be called the values of the
+       <b>input variable</b>,
+      and the output numbers may also be called the values of the
+      <b>output       variable</b>.</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US">The way in which an output number can be calculated is called the  <b>rule</b> for the relationship. The rule can be described in  <b>words</b> or with a
+             <b>formula</b>, and in some cases with a  <b>flow diagram</b>.</p>
+          </div><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">The rule "multiply by 7 and add 25" can be represented with this flow diagram:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-18" lang="en-US"><span><img class="smaller" src="Maths2_Gr7_TG_rev4-web-resources/image/144820.png" alt="144820.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">The same rule can also be represented with the formula below:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-19" lang="en-US">\(y = 7 \times x + 25\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    1.	Calculate the value of \(7 \times x + 25\) for each of the following values of x:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column" lang="en-US">
+    (a)	\(x =
+    10	\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml">(b)	\(x = 20\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column" lang="en-US">
+    (c)	\(x =
+    5	\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml">(d)	\(x = 15\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">2.	(a)	What is the value of \(3
+    \times x - 5\)
+    if \(x = 10\)?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	What is the value of \(3 \times x - 5\)
+    if \(x = 20\)?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)	What is the value of \(3 \times x - 5\)
+    if \(x = 25\)?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d)	What is the value of \(3 \times x - 5\)
+    if \(x = 100\)?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    3.	Complete the table for the values of (x) and \(3 \times x - 5\) given in the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-20" class="No-Table-Style"><colgroup><col class="Row-Column-84"/><col class="Row-Column-85"/><col class="Row-Column-85"/><col class="Row-Column-85"/><col class="Row-Column-85"/><col class="Row-Column-85"/><col class="Row-Column-85"/><col class="Row-Column-85"/><col class="Row-Column-85"/><col class="Row-Column-85"/></colgroup><tbody><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">50</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">200</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(3 \times x - 5\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">61</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">595</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">994</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">4.	When you worked out the input number that corresponds to the output number 994 in question 3, you solved the  <b>equation</b> \(3 \times x - 5 = 994\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">Write the equation that you solved when you worked out the input number that corresponds to the output number 61.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">5.	(a)	Express each of the rules below in words.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">A</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-37"><img class="smaller" src="Maths2_Gr7_TG_rev4-web-resources/image/145192.png" alt="145192.png"/></div>
+
+      <hr/>
+</div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">B</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-37"><img class="smaller" src="Maths2_Gr7_TG_rev4-web-resources/image/145355.png" alt="145355.png"/></div>
+
+      <hr/>
+</div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">C</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-37"><img class="smaller" src="Maths2_Gr7_TG_rev4-web-resources/image/145425.png" alt="145425.png"/></div>
+
+      <hr/>
+</div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	Which of the above flow diagrams represent the same calculations as the expression \(3 \times x -
+    5\)?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US">Instead of \(3 \times x - 5\) we may write \(3x - 5\).</p><p> \(3x\) means \(3 \times x\).</p>
+            <p>The multiplication sign can be left out.
+Instead of \(3 \times (x − 5)\) we may write \(3(x − 5)\).</p>
+
+            </div><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">6.	(a)	Which of the formulae below provide the same information as flow diagram B <span class="char-style-override-6"/>in question 5?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column" lang="en-US">\(
+    y = 5x - 3			\\		y = 3 + 5x			 \\		y = 5(x - 3)\\
+    y = 3x - 5			\\		y = 5x + 3				\\	y = 3(x - 5)\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	Which of the above formulae provide the same information as flow diagram A <span class="char-style-override-6"/>in question 5?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Formulae for tables</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">1.	The table below shows the values of y that correspond to some of the given values of x. In this case,
+    the output numbers form a pattern with a constant difference if the input numbers are the natural numbers.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-22" class="No-Table-Style"><colgroup><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">13</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">21</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">37</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">45</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">53</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(a)	Find the output numbers that correspond to the input numbers 3, 7 and 8.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	Find the output numbers that correspond to the input numbers 20, 21 and 22.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	Which of the formulae below is the rule for the relationship between
+    (x) and y in the above table?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">\(y = 10x + 3 \\ y = 8x + 5 \\ y = 6x + 7 \\ y = 4x + 9 \\ y = 2x + 11\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced" lang="en-US">2.	Complete the tables below for the formulae in question 1(c).</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-23" class="No-Table-Style"><colgroup><col class="Row-Column-89"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(10x + 3\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><table xmlns="http://www.w3.org/1999/xhtml" id="table-24" class="No-Table-Style"><colgroup><col class="Row-Column-89"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(8x + 5\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><table xmlns="http://www.w3.org/1999/xhtml" id="table-25" class="No-Table-Style"><colgroup><col class="Row-Column-91"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(6x + 7\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><table xmlns="http://www.w3.org/1999/xhtml" id="table-26" class="No-Table-Style"><colgroup><col class="Row-Column-91"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(4x + 9\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><table xmlns="http://www.w3.org/1999/xhtml" id="table-27" class="No-Table-Style"><colgroup><col class="Row-Column-91"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(2x + 11\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">3.	In each table in question 2, the output numbers form a number pattern with a constant difference between consecutive terms. What is the constant difference in the pattern generated by each of the following expressions, when the input numbers are consecutive natural numbers? Write your answers in the table below. Also fill in the values of the expressions for
+    \(x = 0\) in the last column.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-28" class="No-Table-Style"><colgroup><col class="Row-Column-92"/><col class="Row-Column-93"/><col class="Row-Column-93"/></colgroup><tbody><tr class="Row-Column-94"><td class="cell-style-override-1">
+            <p class="Table-header-centred" lang="en-US"><b>Expression</b></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-header-centred" lang="en-US"><b>Constant difference between output numbers</b></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-header-centred" lang="en-US"><b>Value of the expression for \(x = 0\)</b></p>
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(2x + 11\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(4x + 9\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(6x + 7\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(8x + 5\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(10x + 3\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">4.	What do you think the constant differences between consecutive output numbers, and the values of the expressions for x = 0 may be in each of the following cases, when the input numbers are consecutive natural numbers?</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-29" class="No-Table-Style"><colgroup><col class="Row-Column-92"/><col class="Row-Column-93"/><col class="Row-Column-93"/></colgroup><tbody><tr class="Row-Column-94"><td class="cell-style-override-1">
+            <p class="Table-header-centred" lang="en-US"><b>Expression</b></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-header-centred" lang="en-US"><b>Constant difference between output numbers</b></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-header-centred" lang="en-US"><b>Value of the expression for \(x = 0\)</b></p>
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5x + 7\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(3x + 10\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(12x + 5\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5x - 5\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\((-10x) + 3\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table>
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-10">Integers in the rules for relationships</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-" lang="en-US">Rules that may look strange at first</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced" lang="en-US">1.	Complete the flow diagrams.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-11" lang="en-US">A.	<span><img class="frame-96" src="Maths2_Gr7_TG_rev4-web-resources/image/Maths_English_term4_146_1.png" alt="145571.png"/></span> </p>
+        <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-11" lang="en-US">B. <span><img class="frame-96" src="Maths2_Gr7_TG_rev4-web-resources/image/Maths_English_term4_146_2.png" alt="145571.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-11" lang="en-US">C. <span><img class="frame-96" src="Maths2_Gr7_TG_rev4-web-resources/image/Maths_English_term4_146_3.png" alt="145571.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-11" lang="en-US">D. <span><img class="frame-96" src="Maths2_Gr7_TG_rev4-web-resources/image/Maths_English_term4_146_4.png" alt="145571.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-11" lang="en-US">E. <span><img class="frame-96" src="Maths2_Gr7_TG_rev4-web-resources/image/Maths_English_term4_146_5.png" alt="145571.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-11" lang="en-US">F. <span><img class="frame-96" src="Maths2_Gr7_TG_rev4-web-resources/image/Maths_English_term4_146_6.png" alt="145571.png"/></span> </p>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">2.	Describe each rule in question 1 in words, for example
+    "<i>multiply by 6 and then     add -3</i>".</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">A.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">B.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">C.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">D.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">E.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">F.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">The rule <i>multiply by 6 and     subtract the answer from 100</i> can be expressed with the formula \(y = 100 -
+    6x\). This formula can also be written as \(y
+    = 100 + (-6x)\) or as
+    \(y = (-6x) + 100\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US">The brackets around the -6(x) can be left out, so the last formula above can also be written as \(y =
+    -6x + 100\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    3.	Calculate \(y\) if
+    \(y = -10x + 3\), for each of the following values of x:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column" lang="en-US">
+    (a)	\(x = 5	\)</p> <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml">(b)	\(x = 10\)</p> <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column" lang="en-US">
+    (c)	\(x = 20	\)</p> <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(d)	\(x = 1\)</p>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    4.	Describe each of the rules in question 1 with a formula, for example y =
+    5x + 8.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">A.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">B.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">C.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">D.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">E.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column para-style-override-10">F.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">5.	In each case below, predict which of the different expressions will produce the same results. You will test your predictions later, and can then mark your own answers for this question.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column" lang="en-US">
+    (a)	\(20 - 5x \\ 5x - 20 \\ 			(-5x) + 20	\\		20 + (-5x)\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column" lang="en-US">
+    (b)	\(20 + 5x \\ 5x + 20 \\ 			20x + 5		\\		20 - (-5x)		\\	5(x + 4)\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column" lang="en-US">
+    (c)	\(5x -
+    20			 \\ 20x - 5		\\	(-20)
+    - (-5x)	\\	-((-5x) + 20)\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">6.	Complete the table below and then use the results to carefully check your answers to question 5.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-30" class="No-Table-Style"><colgroup><col class="Row-Column-102"/><col class="Row-Column-103"/><col class="Row-Column-103"/><col class="Row-Column-103"/><col class="Row-Column-103"/><col class="Row-Column-103"/></colgroup><tbody><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">100</p>
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 - 5x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5x - 20\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\((-5x) + 20\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 + (-5x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 + 5x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5x + 20\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20x + 5\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 - (-5x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5(x + 4)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5x - 20\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20x - 5\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\((-20) - (-5x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(-((-5x) + 20)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">7.	In each case below, use your results in the above table or other methods to establish for which values of
+    \((x)\) the two expressions have the same value(s).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(a)	\(20 -
+    5x\) and \(20 +
+    5x\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	\(20 -
+    5x\) and
+\(    (-5x) + 20\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (c)	\(5x - 20\) and
+\(    (-20) - (-5x)\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (d)	\(5(x + 4)\) and
+\(    5x - 20\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(e)	\(20 +
+    5x\) and \(20 -
+    (-5x)\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+  </div>
+</div>
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

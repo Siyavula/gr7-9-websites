@@ -1,0 +1,1229 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr7 Wiskunde</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Wissel navigasie</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index-afr.html">Gr 7-9 Werkboeke</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/index-afr.html">Tuisblad</a></li>
+                          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wiskunde<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/wiskunde/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/wiskunde/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/wiskunde/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natuurwetenskappe<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/natuurwetenskappe/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/natuurwetenskappe/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/natuurwetenskappe/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tegnologie<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/tegnologie/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/tegnologie/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/tegnologie/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+
+            <li><a href="/aflaaibares-afr.html">Aflaaibares</a></li>
+            <li><a href="/oorons-afr.html">Oor ons</a></li>
+            <li><a href="/oorons-afr.html#contact">Kontak</a></li>
+           
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container">
+        <div class="language-toggle">
+            <button type="button" class="btn btn-default ">English</button>
+            <button type="button" class="btn btn-primary active">Afrikaans</button>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-31">Waarskynlikheid</h1>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent" lang="en-US">
+    <span>Waarskynlikheidsteorie handel oor situasies of gebeure wat verskillende moontlike</span> <span>uitkomste kan hê, waarvan net een werklik plaasvind. Byvoorbeeld, as jy ’n dobbelsteentjie gooi, lê slegs een kant bo - maar enigeen van die ander kon bo gelê het. Of wanneer jy ’n straat oorsteek, kom jy gewoonlik aan die anderkant sonder dat ’n voertuig jou raakgery het - maar dit kon gebeur het</span>.</p>
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-32">Moontlike en werklike uitkomste, en frekwensies</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-" lang="en-US">Wat kan jy verwag ?</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Jy gaan binnekort ’n eksperiment uitvoer. Daarvoor het jy
+    ’n sak, soos ’n bruinpapiersak of ’n plastiekinkopiesak nodig.
+    Jy het ook drie voorwerpe van dieselfde vorm en grootte nodig,
+    soos drie knope, bottelproppe of vierkantige stukkies karton.
+    Die drie voorwerpe moet verskillend lyk. Hulle kleure moet byvoorbeeld verskil, of jy kan op die kartonstukkies “geel”,
+    “rooi” en “blou” skryf</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    1.	(a)	<span>Sit die drie voorwerpe in jou sak. Jy sal later een voorwerp daaruit haal,
+    sonder</span><span>om in die sak te kyk. Kan jy vooruit sê watter voorwerp dit sal wees, die bloue,</span><span>die gele of die rooie</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Bespreek dit met twee klasmaats</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    2.	(a)	<span>Trek nou ’n voorwerp uit die sak, skryf sy kleur neer en sit dit terug</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Jy gaan dit netnou 12 keer herhaal. Kan jy voorspel hoeveel keer jy elkeen van</span> <span>die</span>
+    <span>drie kleure gaan uittrek? As jy dink jy kan, skryf jou voorspelling neer</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (c)	<span>Vergelyk jou voorspellings met twee klasmaats</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)	<span>Kan jy aan enige rede dink waarom jy blou meer dikwels as rooi of geel sal trek in</span><span>’n eksperiment soos in (b) hier bo</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    3.	(a)	<span>Trek ’n voorwerp uit die sak, skryf sy kleur neer en sit dit terug. Doen dit 12 keer</span><span>en skryf elke keer die kleur neer</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Skryf jou uitkomste (resultate) in die tabel</span>.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-125" class="No-Table-Style"><colgroup><col class="Row-Column-294"/><col class="Row-Column-154"/><col class="Row-Column-154"/><col class="Row-Column-154"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Uitkoms</span></p>
+          </td>
+
+          <td class="yellow">
+            <p class="Table-text-centred">Geel</p>
+          </td>
+
+          <td class="red">
+            <p class="Table-text-centred"><span>Rooi</span></p>
+          </td>
+
+          <td class="blue">
+            <p class="Table-text-centred"><span>Blou</span></p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Getal kere behaal</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr></tbody></table>
+
+        <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+
+
+        <p class="Body-content-no-indent" lang="en-US"><span>Wat jy in vraag 3 gedoen het, word
+            ’n</span> <span/> <b>waarskynlikheidseksperiment</b>
+            <span>genoem. Elke keer as jy ’n voorwerp uit die sak gehaal het, het jy ’n</span>  <b>proef</b>
+            <span>uitgevoer.</span></p>
+<p>Met elke proef kon een van drie dinge gebeur het.
+Dit word die <b>moontlike uitkomste</b> genoem.</p>
+<p>Elke keer as jy ’n proef uitgevoer het, het een van
+die moontlike uitkomste daadwerklik gebeur. Dit
+word die <b>werklike uitkoms</b> genoem.</p>
+<p>Die getal kere wat ’n bepaalde uitkoms gedurende
+’n eksperiment voorgekom het, word die <b>werklike
+frekwensie</b> van daardie uitkoms genoem.</p>
+            </div>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    4.	(a)	<span>Wat was die moontlike uitkomste van die eksperiment in vraag 3</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	<span>Hoeveel proewe het jy in die eksperiment uitgevoer</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	<span>Wat was die werklike uitkoms van die derde proef wat jy uitgevoer het</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="x--Answer-text-dotted-line-below"><span>Dit sal van leerder tot leerder verskil. Die doel van die vraag is om leerders te lei</span><span>om die idee van
+    “werklike uitkoms” deel van hulle denke te maak</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    (d)	<span>Wat was die werklike frekwensie waarteen ’n blou voorwerp getrek is in die 12</span><span>proewe va</span><span>n die eksperimen</span><span>t wat jy gedoen het</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-33">Relatiewe frekwensies</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-8" lang="en-US"><span>Thomas het ook die eksperiment in vraag 3 op bladsy 2</span><span>21</span> <span>gedoen, maar hy het meer proewe uitgevoer en die volgende resultate gekry</span>:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-127" class="No-Table-Style"><colgroup><col class="Row-Column-354"/><col class="Row-Column-65"/><col class="Row-Column-65"/><col class="Row-Column-65"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Uitkoms</span></p>
+          </td>
+
+          <td class="yellow">
+            <p class="Table-text-centred"><span>Geel</span></p>
+          </td>
+
+          <td class="red">
+            <p class="Table-text-centred"><span>Rooi</span></p>
+          </td>
+
+          <td class="blue">
+            <p class="Table-text-centred"><span>Blou</span></p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Getal kere behaal</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">1.	(a)	<span>Hoeveel proewe het Thomas altesaam uitgevoer</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Watter breuk van die proewe het geel as ’n uitkoms gehad</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (c)	<span>Watter breuk van die proewe het rooi as ’n uitkoms gehad</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (d)	<span>Watter breuk van die proewe het blou as ’n uitkoms gehad</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US"><span>Die breuk van die proewe in ’n eksperiment</span><span/><span>wat ’n spesifieke uitkoms lewer, word die</span>  <b>relatiewe</b><span class="char-style-override-6"/> <b>frekwensie</b> <span>van daardie uitkoms genoem</span>.</p>
+
+            <p class="Body-content-no-indent" lang="en-US">\( \text{Relatiewe frekwensie van ’n uitkoms} = \frac{ \text{getal kere wat die uitkoms voorgekom het}}{ \text{getal proewe}}\)</p>
+          </div>
+
+          <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">’n Relatiewe frekwensie kan as ’n gewone breuk uitgedruk word, as
+    ’n desimaal of as</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>’n persentasie. Die relatiewe frekwensies in die uitslag van Thomas se eksperiment</span> <span>(vraag 1) was een kwart geel, 7 twintigstes rooi en 2 vyfdes blou. As persentasies uitgedruk was die relatiewe frekwensies 25%, 35% en 40%. Die</span>  <b>omvang</b> <span>van Thomas</span>
+    <span>se relatiewe frekwensies, uitgedruk as persentasies, is 15% (40% - 25%)</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    2.	(a)	<span>Gebruik jou sakrekenaar en bereken die relatiewe frekwensies wat jy verkry</span><span>het vir die drie verskillende uitkomste in die eksperiment wat jy in vraag 3 op</span><span>bladsy 2</span><span>21</span> <span>gedoen het. Skryf hulle as breuke en as persentasies</span><span>.</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="x--Answer-text-dotted-line-below"><span>Moontlike antwoorde</span><span>:</span> <span>0 =
+    0%</span><span>,7%</span><span>;</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Bereken die omvang van die relatiewe frekwensies van die drie uitkomste hier bo</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)	<span>Jy gaan binnekort die eksperiment met 3 moontlike uitkomste en 12 proewe</span><span>wat jy uitgevoer het,
+    herhaal. Dink jy jy sal dieselfde resultate kry as toe jy die</span><span>eksperiment die eerste keer gedoen het?</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    3.	(a)	<span>Bespreek vraag 2(c) met drie of vier klasmaats as
+    ’n span</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Noem julleself A, B, C, D en E (as julle 5 spanmaats is) en voltooi die tabel hier</span><span>onder vir die eksperiment wat julle in vraag 3 uitgevoer het. Druk die relatiewe</span><span>frekwensies as persentasies uit. Let op dat jy ’n sakrekenaar moet gebruik om die</span><span>relatiewe frekwensies van die totale as persentasies uit te druk</span>.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-129" class="No-Table-Style"><colgroup><col class="Row-Column-359"/><col class="Row-Column-114"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-114"/><col class="Row-Column-84"/><col class="Row-Column-114"/><col class="Row-Column-360"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1" colspan="3">
+            <p class="Table-text-centred"><span>Werklike frekwensies</span></p>
+          </td>
+
+          <td class="cell-style-override-1" colspan="3">
+            <p class="Table-text-centred"><span>Relatiewe frekwensies %</span></p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred"><span>Omvang</span></p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            </td>
+
+          <td class="yellow">
+            <p class="Table-text-centred">Geel</p>
+          </td>
+
+          <td class="red">
+            <p class="Table-text-centred">Rooi</p>
+          </td>
+
+          <td class="blue">
+            <p class="Table-text-centred">Blou</p>
+          </td>
+
+          <td class="yellow">
+            <p class="Table-text-centred">Geel</p>
+          </td>
+
+          <td class="red">
+            <p class="Table-text-centred">Rooi</p>
+          </td>
+
+          <td class="blue">
+            <p class="Table-text-centred">Blou</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Eksperiment 1
+            <span>van</span> A</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Eksperiment 1
+            <span>van</span> B</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Eksperiment 1
+            <span>van</span> C</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Eksperiment 1
+            <span>van</span> D</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Eksperiment 1
+            <span>van</span> E</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left"><span>T</span><span>otale vir eks</span><span>periment</span> 1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)	<span>Watter omvang is die kleinste</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-34">Nog proewe en relatiewe frekwensies</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-" lang="en-US">Wat gebeur as jy baie proewe uitvoer ?</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">1.	<span>Werk saam met jou spanmaats van die vorige sessie. Julle gaan binnekort die eksperiment wat julle vroeër uitgevoer het, herhaal. Julle gaan weer ’n geel, ’n blou en ’n rooi voorwerp in die sak sit, een voorwerp uithaal en die kleur neerskryf. Julle gaan dit altesaam 12 keer doen. Dit sal eksperiment 2 wees</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (a)	<span>Verwag jy die uitslae gaan ongeveer dieselfde wees as in die eksperiment wat julle</span><span>in die vorige afdeling gedoen het? Moenie nou met jou spanmaats praat nie.</span><span>Vorm jou eie opinie en besluit hoekom jy dink die uitslae gaan dieselfde of</span><span>verskillend wees</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Deel nou jou idees met jou spanmaats</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-8" lang="en-US">Julle gaan netnou die eksperiment herhaal en die resultate in die rye vir “eksperiment 2”</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-8" lang="en-US"><span>in die tabel op die volgende bladsy neerskryf. Daarna gaan julle dit nog ’n keer herhaal en die uitkomste in die rye vir “eksperiment 3” neerskryf. As daar tyd oor is, kan julle dit nog een keer as “eksperiment 4”
+    herhaal</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    2.	(a)	<span>Kyk na die tabel op die volgende bladsy. Party rye is vir die uitkomste wat jy en</span><span>jou spanmaats sal verkry.</span> <span>Die gearseerde rye is om die verskillende stelle
+    uitkomste bymekaar te tel.</span> <span>Dink na oor wat kan gebeur en voorspel in watter rye</span><span>die omvang kleiner as in die ander rye sal wees en in watter ry die kleinste</span><span>omvang sal wees</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Deel jou idees met jou spanmaats</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    3.	(a)	<span>Skryf die totale vir</span>
+    <span>“</span><span>eksperiment 1</span><span>”</span> <span>in die eerste ry van die tabel op die volgende</span><span>bladsy. Doen die eksperiment soos in vraag 1 beskryf en skryf jou resultate in jou</span><span>ry vir “eksperiment 2”.
+    Bereken die relatiewe frekwensies en die omvang</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Voeg die resultate van jou spanmaats by en tel die totale op.
+    Bereken nou die</span><span>relatiewe frekwensies en die omvang van die totale</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-1" lang="en-US">4.	<span>Herhaal vraag 3, en skryf die resultate in die rye vir “eksperiment 3”.</span></p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-130" class="No-Table-Style"><colgroup><col class="Row-Column-362"/><col class="Row-Column-363"/><col class="Row-Column-84"/><col class="Row-Column-126"/><col class="Row-Column-223"/><col class="Row-Column-84"/><col class="Row-Column-121"/><col class="Row-Column-90"/><col class="Row-Column-140"/></colgroup><tbody><tr class="Row-Column-117"><td class="cell-style-override-33">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1" colspan="3">
+            <p class="Table-text-centred">
+            <span>Werklike</span><span>frekwensies</span></p>
+          </td>
+
+          <td class="cell-style-override-1" colspan="3">
+            <p class="Table-text-centred">
+            <span>Relatiewe</span><span>frekwensies
+            %</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred"><span>Omvang</span></p>
+          </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="yellow">
+            <p class="Table-text-centred"><span>Geel</span></p>
+          </td>
+
+          <td class="red">
+            <p class="Table-text-centred"><span>Rooi</span></p>
+          </td>
+
+          <td class="blue">
+            <p class="Table-text-centred"><span>Blou</span></p>
+          </td>
+
+          <td class="yellow">
+            <p class="Table-text-centred"><span>Geel</span></p>
+          </td>
+
+          <td class="red">
+            <p class="Table-text-centred"><span>Rooi</span></p>
+          </td>
+
+          <td class="blue">
+            <p class="Table-text-centred"><span>Blou</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">1</p>
+          </td>
+
+          <td class="cell-style-override-11">
+            <p class="Table-text-left"><span>Totale vir eksperiment 1</span></p>
+          </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 2 van A</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 2 van B</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 2 van C</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 2 van D</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 2 van E</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">7</p>
+          </td>
+
+          <td class="cell-style-override-11">
+            <p class="Table-text-left">Totale vir eksperiment 2</p>
+          </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+        </tr><tr class="Row-Column-101"><td class="cell-style-override-33">
+            <p class="Table-text-left">8</p>
+          </td>
+
+          <td class="cell-style-override-34">
+            <p class="Table-text-left"><span>Totale vir eksperimente 1 en 2 saam</span></p>
+          </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">9</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 3 van A</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 3 van B</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">11</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 3 van C</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">12</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 3 van D</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">13</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 3 van E</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">14</p>
+          </td>
+
+          <td class="cell-style-override-11">
+            <p class="Table-text-left"><span>Totale vir eksperiment 3</span></p>
+          </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+        </tr><tr class="Row-Column-101"><td class="cell-style-override-33">
+            <p class="Table-text-left">15</p>
+          </td>
+
+          <td class="cell-style-override-34">
+            <p class="Table-text-left"><span>Totale vir eksperimente 1, 2 en 3 saam</span></p>
+          </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">16</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 4 van A</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">17</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 4 van B</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">18</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 4 van C</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">19</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 4 van D</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">20</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Eksperiment 4 van E</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr><tr class="Row-Column-56"><td class="cell-style-override-33">
+            <p class="Table-text-left">21</p>
+          </td>
+
+          <td class="cell-style-override-11">
+            <p class="Table-text-left"><span>Totale vir eksperiment</span> <span>4</span></p>
+          </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+
+          <td class="cell-style-override-11">
+            </td>
+        </tr><tr class="Row-Column-101"><td class="cell-style-override-33">
+            <p class="Table-text-left">22</p>
+          </td>
+
+          <td class="cell-style-override-34">
+            <p class="Table-text-left"><span>Totale vir eksperimente 1, 2 , 3 en 4 saam</span></p>
+          </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+
+          <td class="cell-style-override-34">
+            </td>
+        </tr></tbody></table>
+  
+  </div>
+</div>
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

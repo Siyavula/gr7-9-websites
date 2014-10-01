@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr8 Mathematics</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+    <!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/index.html">Grade 7-9 Workbooks</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="/index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mathematics<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/mathematics/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/mathematics/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/mathematics/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natural Sciences<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/natural-sciences/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/natural-sciences/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/natural-sciences/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/technology/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/technology/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/technology/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+
+                <li><a href="/downloads.html">Downloads</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/about.html#contact">Contact</a></li>
+
+            </ul>
+
+        </div><!--/.nav-collapse -->
+    </div>
+</div>
+<div class="container">
+    <div class="language-toggle">
+        <button type="button" class="btn btn-primary active ">English</button>
+        <button type="button" class="btn btn-default">Afrikaans</button>
+    </div>
+</div>
+
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-39">Interpret, analyse and report on data</h1>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">In this chapter, you will
+    develop and practise some critical data analysis skills. This
+    means looking at reported data and analysing the whole data
+    handling cycle for this data. You need to decide which way of
+    representing data is best in a given situation and identify
+    data that is hidden rather than shown. In summarising data,
+    some measures are more appropriate for different types of data
+    and for indicating central tendencies in the data. You also
+    need to recognise some ways in which bias can appear in data,
+    including methods of collecting, representing and summarising
+    data.</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-40">Critically analysing how data is collected</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Data collection methods can sometimes
+    result in bias and misleading data. This is not always intended
+    by the researcher  it often happens when
+    the source of the data was not carefully checked or the method
+    of collecting data has not been planned carefully.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">In chapter 6 you learnt that a sample must be
+    large enough to be representative and must be randomly selected
+    from the population. If data is collected from only one part of
+    a population, it could be biased towards that part. The
+    researcher has to be aware of all the places where bias could
+    occur, and should design the data handling process so that it
+    does not happen.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">When you read reported statistics, always be
+    aware that you need information about how the data was
+    collected, when it was collected and how the sample was
+    chosen.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Data can change over time, so you should also
+    be aware of when it was collected. This information should be
+    given in any report on data.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Data sources and collection methods</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Read the following paragraph
+    and answer the questions that follow.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-28"><i>A recent
+    study revealed that 50% of high school learners smoke
+    cigarettes, 45% drink alcohol and 60% abuse drugs. This is an
+    indication of the general poor health and social problems of
+    the teenage population in our country.</i></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Do you agree that the figures are high
+    enough to conclude that the habits of these teenagers are
+    unhealthy?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Can we tell the following
+    from the data above?</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet--indented- para-style-override-69">
+        <span class="char-style-override-7"/> What the
+        sample of this study was
+        <hr/></li>
+
+      <li class="Body-bullet--indented- para-style-override-69">
+        <span class="char-style-override-7"/> Where
+        the data was collected
+        <hr/></li>
+
+      <li class="Body-bullet--indented- para-style-override-69">
+        <span class="char-style-override-7"/> When the
+        data was collected
+        <hr/></li>
+    </ul><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) If the sample consisted of 10 teenagers
+    all located in an area known for drug and alcohol abuse, would
+    the data be a good reflection of all teenagers in the
+    country?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Describe what you think would be a
+    better sample.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) Why is it important to know the date
+    when this data set was collected?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. The following pie charts show
+    the toilet facilities in households in South Africa.</p>
+
+      <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="medium" src="Maths_English_LB_gr8_term3_1-web-resources/image/Maths-Gr8-Eng-Term3-p130-img1.png" alt="218458.png"/></div>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) According to pie chart A, what type of
+    toilet facility do most people have and what percentage of
+    households is this?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) How will your answer for (a) be
+    different if you use pie chart B to answer the question?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Write a short report in one paragraph
+    about the data in the pie charts.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) What can you conclude from the data in
+    pie chart A?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) What can you conclude from the data in
+    pie chart B?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(f) How could the year of data collection
+    account for the differences in the data?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g) The graph below shows the same data as
+    the two pie charts. Do the pie charts or the double bar graph
+    allow us to compare the two sets of data more easily?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-453" src="Maths_English_LB_gr8_term3_1-web-resources/image/218447.png" alt="218447.png"/></span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(h) Do the pie charts or the double bar
+    graph show the percentage of types of toilet facilities used in
+    South Africa better?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-41">Critically analysing how data is represented</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Graphs don't always show what they
+    seem to show at first glance! If you look a bit closer, you
+    might see that they are misleading you into drawing an
+    incorrect conclusion. Work through the activity below to see
+    how this can happen.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Manipulation in data presentation</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The graphs show the average
+    temperatures recorded in the same place, at the same time.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-29"><img class="frame-454" src="Maths_English_LB_gr8_term3_1-web-resources/image/218885.png" alt="218885.png"/></div>
+
+      <div class="frame-29"><img class="frame-455" src="Maths_English_LB_gr8_term3_1-web-resources/image/218892.png" alt="218892.png"/></div>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Do both graphs show exactly
+    the same data?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Why do the graphs look so
+    different?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Which of the graphs
+    would people use to emphasise that there are big differences in
+    the temperatures over the years? Explain your answer.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Suggest a way to
+    change the vertical scale of Graph A to emphasise even more
+    that there are no big differences between the temperatures over
+    the years.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. Write a short report
+    on Graph A. Also include a prediction of the temperatures in
+    Years 8 and 9.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-42">Critically analysing summary statistics</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">It is sometimes necessary to inform
+    another person about a set of data that you have worked on. In
+    doing that, you may want to save the other person having to
+    look at all the values in the data set. You also want to
+    emphasise some aspects of the data. It is for these purposes
+    that we use summary statistics like the following:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet"><span class="char-style-override-7"/> measures
+      of central tendency (typical values): <b>mode</b>, <b>median</b> and <b>mean</b></li>
+
+      <li class="Body-bullet"><span class="char-style-override-7"/> measures
+      of dispersion (values indicating the spread of data): the
+      smallest and largest values and the difference between them
+      (the <b>range</b>)</li>
+    </ul><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-7">Summary
+    statistics do not provide full information on data. Some
+    information is always lost and so summary statistics can be
+    misleading, especially if there are <b>outliers</b>, in other words values
+    that differ a lot from the majority of the values.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">How summary statistics can be misleading</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. The manager of a small
+    business is asked what monthly salaries his employees get. His
+    answer: <i>The mean of the
+    salaries is R13 731.</i></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Do you think the manager's answer is a
+    good description of the salaries?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) In order to have some sense of the
+    salaries paid at the firm, which one of the following would you
+    prefer to know: the <i>median</i> or the <i>mode</i> or the <i>range</i> or the <i>lowest and highest</i> salaries?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. The actual monthly
+    salaries of the 13 staff members in the small business
+    mentioned in question 1 are given below.</p>
+<table xmlns="http://www.w3.org/1999/xhtml" class="no-border"><tbody>
+    <tr><td>R3 500</td><td> R3 500 </td><td> R3 500</td><td>  R3 500</td><td>  R3 500</td> </tr>
+
+    <tr><td>R4 200</td><td>  R4 200</td><td>  R4 200</td><td>  R4 400 </td><td> R12 000 </td></tr>
+    <tr><td>R28 000</td><td> R44 000 </td><td>R60 000</td> <td/> <td/></tr>
+    </tbody></table>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">In what ways may you be misinformed if you
+    do not know the above figures, but only know that the mean
+    salary is R13 731?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. If only one summary
+    statistic is used to provide information about the salaries at
+    the firm, which of the following do you think would be the best
+    to give? Give reasons for your choice.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">A. The mode</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">B. The range</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">C. The median</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">D. The lowest and highest salaries.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-7">4.
+    The different monthly salaries of employees at another small
+    business are given below.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14">R34 000    R35 000    R3
+    400    R31 000    R32 000</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Why would the mean not be a good way to
+    summarise this data?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Calculate the mean salary.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. The following data
+    shows the number of boxes of chocolates sold by a store in 10
+    consecutive months.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">42    38    179    40    43    40    48    39    41    42</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Which would be the better summary
+    description of the data, the mean or the median? Explain your
+    answer.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Write a good summary description of the
+    data without using the median.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Would it make sense to leave out the
+    outlier, 179, when calculating the mean of the monthly sales?
+    Explain your answer.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Manipulation in summary reports on data</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The mode, median and mean each
+    highlight different bits of information <a id="Anchor-37"/>about the same set of data. They can be very
+    different from one another, depending on the kind of data set
+    you have.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Sometimes people choose the statistic that does
+    not show the typical values, but rather the value that works
+    best for them.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Thivha sells restored
+    furniture. He reports that he usually sells seven items per
+    week, and that he has the data to prove it. The receipts show
+    that he made 52 sales over a period of eight weeks.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Can you tell from the data above whether
+    Thivha is truthful about the sales?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) You examined the receipts for the 8
+    weeks closely, and find the following number of sales per
+    week:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3, 4, 4, 4, 4, 5, 6, 22</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Determine the mode and median of the data
+    set.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Do you think the mode, median or mean is
+    a better reflection of Thivha's typical sales figures per week?
+    Explain your answer.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. The following data
+    shows the amount of pocket money that a group of learners
+    receive per week.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-100" class="no-border"><tbody><tr class="Row-Column-244"><td>
+            <p class="Table-text-left">R0</p>
+          </td>
+
+          <td>
+            <p class="Table-text-left">R0</p>
+          </td>
+
+          <td>
+            <p class="Table-text-left">R5</p>
+          </td>
+
+          <td>
+            <p class="Table-text-left">R10</p>
+          </td>
+
+          <td>
+            <p class="Table-text-left">R10</p>
+          </td>
+
+          <td>
+            <p class="Table-text-left">R10</p>
+          </td>
+
+          <td>
+            <p class="Table-text-left">R10</p>
+          </td>
+
+          <td>
+            <p class="Table-text-left">R20</p>
+          </td>
+
+          <td>
+            <p class="Table-text-left">R20</p>
+          </td>
+
+          <td>
+            <p class="Table-text-left">R50</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Determine the mode, median, mean and
+    range of the data set.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) The teenager who receives R5 a week
+    wants to convince her parents to give her more money. Which of
+    the summary statistics would she use? Explain your answer.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Which summary statistic do you think
+    best represents the weekly pocket money in this group of
+    learners? Explain your answer.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+  </div>
+</div>
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

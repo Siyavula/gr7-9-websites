@@ -1,0 +1,2341 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr7 Wiskunde</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Wissel navigasie</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index-afr.html">Gr 7-9 Werkboeke</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/index-afr.html">Tuisblad</a></li>
+                          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wiskunde<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/wiskunde/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/wiskunde/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/wiskunde/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natuurwetenskappe<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/natuurwetenskappe/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/natuurwetenskappe/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/natuurwetenskappe/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tegnologie<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/tegnologie/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/tegnologie/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/tegnologie/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+
+            <li><a href="/aflaaibares-afr.html">Aflaaibares</a></li>
+            <li><a href="/oorons-afr.html">Oor ons</a></li>
+            <li><a href="/oorons-afr.html#contact">Kontak</a></li>
+           
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container">
+        <div class="language-toggle">
+            <button type="button" class="btn btn-default ">English</button>
+            <button type="button" class="btn btn-primary active">Afrikaans</button>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-20">Versamel, organiseer en som dat op</h1>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent" lang="en-US">
+    <span>Datahantering is daardie deel van wiskunde wat gaan oor getalle en feite wat ons oor</span> <span>ons leefwêreld versamel. Data kan baie dinge wees,
+    byvoorbeeld mense se menings oor politiek en die suksessyfer van die behandeling van mense met ’n sekere soort medisyne. Ons gebruik data om ons te help om besluite te neem en om probleme oor die wêreld rondom ons op te los</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener" lang="en-US"><span>In hierdie hoofstuk gaan ons fokus op die insameling van data deur die gebruik van vraelyste; hoe die data georganiseer kan word deur onder meer die gebruik van stingel-</span><span>en-blaarvoorstellings en die groepering van data in intervalle. Die volgende stap is om die data op te som deur die modus, median en gemiddeld te bepaal en om die omvang of</span><span>verspreiding van stelle numeriese data te bepaal</span>.</p>
+
+
+
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-21">Versamel data</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Dink aan iets wat jy graag van jou eie gemeenskap wil weet, of oor kinders van jou ouderdom in ander skole.
+    Byvoorbeeld, “Hoeveel graad 7-leerders in Suid Afrika het toegang tot ’n rekenaar?” Wat sou vir jou interessant wees om te weet</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>As ons met die siklus van datahantering begin, begin ons met ten minste een vraag, maar daar kan natuurlik ook baie meer vrae wees</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>As ons navorsing in gedagte het, moet ons beplan hoe ons die data gaan versamel.</span> <span>Die volgende is belangrik</span>:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet" lang="en-US">
+      <span class="char-style-override-9">	</span><span>watter soort vraag vra jy</span></li>
+
+      <li class="Body-bullet" lang="en-US">
+      <span class="char-style-override-9">	</span><span>waar kry jy die data om die vraag te beantwoord (bv. van mense uit jou ouderdomsgroep, familie of gemeenskap; of uit gepubliseerde bronne soos</span> <span>koerante, boeke of tydskrifte)</span></li>
+
+      <li class="Body-bullet" lang="en-US">
+      <span class="char-style-override-9">	</span><span>hoe gaan jy die data insamel (bv. met behulp van vraelyste of onderhoude)</span></li>
+
+      <li class="Body-bullet" lang="en-US">
+      <span class="char-style-override-9">	</span><span>by wie gaan jy die data verkry (die hele gemeenskap of ’n steekproef
+      [monster]).</span></li>
+    </ul><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Populasies en steekproewe: by wie om die data te verkry</h3>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US"><span>In datahantering beteken</span>
+             <b>populasie</b>
+            <span>die hele groep waaroor jy inligting insamel.</span>  <b>Steekproef</b> <span>verwys na ’n klein groepie wat jy dink die hele groep of populasie sal verteenwoordig</span>.</p>
+          </div><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Byvoorbeeld: Thandeka wil weet hoeveel verskillende huistale die graad 7’s in die</span> <span>hele Suid-Afrika praat. Al die graad 7’s in Suid-Afrika vorm dan die populasie van</span> <span>hierdie data. Dit is egter onmoontlik om elke graad 7-leerder in Suid-Afrika te</span> <span>ondervra, dus moet Thandeka ’n steekproef van graad 7-leerders neem. Sy kan byvoorbeeld die data by die leerders in haar eie graad-7 klas of in twee graad 7-klasse</span> <span>van twee ander skole kry</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Maar as Thandeka haar eie graad 7-klas en slegs twee ander klasse van ander skole</span> <span>sou kies, dan sou haar steekproef nie werklik inligting oor die hele Suid-Afrika gee</span> <span>nie omdat die leerders in daardie drie skole almal aan dieselfde taalgroep sou kon behoort</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Hoe kan ons probeer om te verseker dat die inligting wat ons met ’n steekproef sal insamel die hele populasie sal weerspieël? Met ander woorde, hoe kan ons verseker dat die steekproef</span>  <b>verteenwoordigend</b> <span>van die populasie is</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">1.	<i>Kies ’n groot genoeg steekproef.</i> <span>Dit is oor die algemeen so dat hoe groter die</span> <span>steekproef is,
+    hoe groter is die moontlikheid dat dit die eienskappe van die</span> <span>populasie sal verteenwoordig</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">2.	<i>Maak seker dat jou steekproef nie slegs een of twee groepe binne die populasie insluit nie.</i> <span>As jy byvoorbeeld werklik wil uitvind of mense graag sokker kyk, sou dit nie ’n verteenwoordigende steekproef wees as jy net die mense by ’n wedstryd waar die Chiefs teen die Pirates speel betrek nie. Die meerderheid van hulle sal daar wees omdat hulle sokker-entoesiaste is</span><span>.</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+     <b>Voorbeeld</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Ganief wil uitvind wat die gewildste soort kos by die skool se snoepwinkel is, en</span> <span>ondervra 10 leerders in graad 7. Daar is 2 000 leerders in die skool</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Gee twee redes om te verduidelik waarom die steekproef waarskynlik nie</span> <span>verteenwoordigend van die populasie sal wees nie</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <i>Antwoord</i></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">1.	<span>Die steekproef is te klein</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">2.	<span>Hy kry net die graad 7’s se siening, nie dié
+    van leerders in enige ander graad (wat dalk ander sienings sal hê) nie</span>.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Dink na oor populasies en steekproewe</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">1.	<span>Hier volg ’n paar navorsingsvrae.
+    Gebruik</span>  <b>P</b>
+    <span>om te wys watter stelling die populasie verteenwoordig en</span>  <b>S</b> <span>om die steekproef te beskryf</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (a)	<span>Watter persentasie plante in die groentetuin het ’n siekte</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span>☐ Al die plante in die groentetuin</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span>☐ Elke vierde of vyfde plant in die groentetuin</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Hoe dikwels herwin tieners plastiek</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span>☐ Elke tiener in Suid-Afrika</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span>☐ Ongeveer 40 tieners in die gemeenskap</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (c)	<span>Hoeveel ure slaap 10-jariges in my gemeenskap per nag</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span>☐ Alle 10-jariges in die gemeenskap</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span>☐ Omtrent tien 10-jariges in die gemeenskap</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    2.	<span>Jy wil uitvind watter kleur die gewildste by die leerders van jou skool is</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(a)	<span>Wie is die populasie vir jou data-insameling</span><span>?</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Watter steekproef sou jy gebruik</span><span>?</span></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">3.	<span>Die Census@School is in 2001 en 2009 opgeneem.
+    Statistiek Suid-Afrika het hierdie opnames gedoen om leerders te wys hoe inligting oor mense ingesamel en ontleed word. Hulle het persoonlike, gemeenskaps- en huishoudelike inligting van leerders in graad 3 tot 12 ingesamel. Hulle het hulle steekproef só gekies</span>:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet--indented-" lang="en-US"><span class="char-style-override-9">	</span><i>’n Steekproef van 2 500 skole is gekies uit die Departement van Basiese Onderwys se databasis van ongeveer 26 000 geregistreerde skole</i><i>.</i></li>
+
+      <li class="Body-bullet--indented-" lang="en-US"><span class="char-style-override-9">	</span><i>Die skole is gegroepeer volgens provinsie, tipe skool (dit is laerskole: slegs gr 3-7;
+      intermediêre skole: slegs gr 5-9; hoërskole: slegs gr 8-12;
+      gekombineerde skole:</i><i>gr 3-12), en skooldistrik</i><i>.</i></li>
+
+      <li class="Body-bullet--indented-" lang="en-US"><span class="char-style-override-9">	</span><i>’n Steekproef is uit elkeen van die groepe gekies</i><i>.</i></li>
+
+      <li class="Body-bullet--indented-" lang="en-US"><span class="char-style-override-9">	</span><i>Ongeveer 790 000 leerders is by die 2009-sensus betrek</i><i>.</i></li>
+    </ul><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    <span>Hierdie inligting verskyn in die finale verslag</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (a)	<span>Watter persentasie was die steekproef van al die skole in die land</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Hoekom dink jy het hulle die skole eers in groepe verdeel</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	<span>Sou die inligting wat hulle in hierdie opname gemaak het jou interesseer?</span><span>Verduidelik</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">4.	<span>Susan is in die Emily Hobhouse Meisieskool. Sy wil vasstel of 13-jariges in haar</span><span>dorp rugby of netbal verkies. Sy kry haar data van 10 leerders uit elkeen van die drie graad 7-klasse by haar skool. Is die steekproef verteenwoordigend van die populasie (van 13-jariges in haar gemeenskap)? Verduidelik jou antwoord</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Samestelling van vraelyste: hoe om data te versamel</h3>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US"><span>’n</span>  <b>Vraelys</b> <span>is ’n lys vrae wat opgestel is met die doel om data van mense te verkry. Elke persoon in die steekproef vul ’n vraelys in. Die vrae kan verskillende tipes vrae bevat,
+            byvoorbeeld</span>:</p>
+<ul>
+  <li> Die vrae kan slegs “ja” of “nee” antwoorde vereis.</li>
+<li> Verskeie antwoorde (meervoudigekeuse-
+antwoorde) waaruit die respondent kan kies,
+kan verskaf word.</li>
+<li>  Die respondente kan hulle eie inligting of mening
+op die vraelys invul.</li>
+</ul>
+            </div><div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      <span>’n</span>  <b>Respondent</b> <span>is ’n</span>
+      <span>persoon wat ’n vraelys invul, of iemand van wie jy data verkry.</span></p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Die soort data wat jy wil inwin sal die vrae bepaal wat jy moet vra (bv. of dit ’n eenvoudige “ja” of “nee” respons sal wees of meer besonderhede</span> <span>verlang word</span><span>).</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Kyk na die voorbeelde hier onder. Let op dat elke vraag se bewoording so is dat die vraag so duidelik as moontlik is en sodat die data so maklik as moontlik ingesamel kan word. (Die vrae in voorbeelde 3 en 4 kom uit Census@School se 2009-vraelys.)</span></p>
+
+     <table xmlns="http://www.w3.org/1999/xhtml" id="table-62" class="border-plain"><colgroup><col class="Row-Column-168"/><col class="Row-Column-169"/><col class="Row-Column-170"/></colgroup><tbody>
+<tr>
+<td class="none"><b>Voorbeeld 1</b></td>
+<td class="none"/>
+<td class="none"><b>Voorbeeld 2</b></td>
+</tr>
+    <tr class="Row-Column-172">
+
+    <td class="cell-style-override-10">
+            <p class="Body-box-no-indent" lang="en-US">Help jy met werkies by die huis?</p>
+
+            <p class="Body-box-no-indent" lang="en-US">☐ Ja    ☐ Nee</p>
+          </td>
+
+          <td class="none">
+            </td>
+
+          <td class="cell-style-override-10">
+            <p class="Body-box-no-indent" lang="en-US">Met watter van hierdie werkies help jy?</p>
+
+            <p class="Body-box-no-indent" lang="en-US">☐ skottelgoed was     ☐  klere was</p>
+
+            <p class="Body-box-no-indent" lang="en-US">☐
+            vee / stofsuig  ☐ beddens opmaak</p>
+          </td>
+        </tr></tbody></table>
+   <p xmlns="http://www.w3.org/1999/xhtml" class="Example-head" lang="en-US"><b>
+    <span>Voorbeeld</span> 3</b></p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      <span>Mer</span><span>k op hoe die ouderdomm</span><span>e</span><span>van 5 tot 19 in voorbeeld</span> <span>3</span> <span>gedek word:</span> <span>sonder</span>
+      <span>o</span><span>orvleuelings</span>.</p>
+    </div>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-63" class="No-Table-Style"><colgroup><col class="Row-Column-181"/></colgroup><tbody><tr class="Row-Column-170"><td class="cell-style-override-11">
+            <p class="Body-box-no-indent" lang="en-US"><span>Hoe oud is jy</span>?</p>
+
+            <p class="Body-box-no-indent" lang="en-US">☐ 5-8
+            <span>jaar</span>		☐ 9-11 <span>jaar</span></p>
+
+            <p class="Body-box-no-indent" lang="en-US">☐ 12-15
+            <span>jaar</span>		☐ 16-19 <span>jaar</span></p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Example-head" lang="en-US"><b>
+    <span>Voorbeeld</span> 4</b></p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-64" class="No-Table-Style"><colgroup><col class="Row-Column-182"/></colgroup><tbody><tr class="Row-Column-183"><td class="cell-style-override-11">
+            <p class="Body-box-no-indent" lang="en-US"> <b>14.</b>
+            <span>Merk af as jy die volgende het</span>:</p>
+
+            <p class="Body-box-no-indent para-style-override-12" lang="en-US">1 ☐ <span>Lopende water in die huis</span>		6 ☐ <span>’n Selfoon</span></p>
+
+            <p class="Body-box-no-indent para-style-override-12" lang="en-US">2 ☐ <span>Elektrisiteit in die huis</span>			7 ☐ <span>Toegang tot ’n rekenaar</span></p>
+
+            <p class="Body-box-no-indent para-style-override-12" lang="en-US">3 ☐ <span>’n Radio by die huis</span>			8 ☐ <span>Toegang tot die internet</span></p>
+
+            <p class="Body-box-no-indent para-style-override-12" lang="en-US">4 ☐ <span>’n TV by die huis</span>			9 ☐ <span>Toegang tot ’n biblioteek</span></p>
+
+            <p class="Body-box-no-indent" lang="en-US">5 ☐ <span>’n Telefoon by die huis</span></p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Example-head" lang="en-US"><b>
+    <span>Voorbeeld</span> 5</b></p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-65" class="No-Table-Style"><colgroup><col class="Row-Column-182"/></colgroup><tbody><tr class="Row-Column-184"><td class="cell-style-override-11">
+            <p class="Body-box-numbers para-style-override-10" lang="en-US"> <b>6.</b>	<span>Hoe lank is jy as jy geen skoene aan het nie? Antwoord tot die naaste cm</span>.</p>
+
+            <p class="Body-box-numbers" lang="en-US">☐ ☐ ☐ <span>sentimeter</span></p>
+
+            <p class="Body-box-numbers para-style-override-10" lang="en-US"> <b>7.</b>	<span>Hoe lank is jou regtervoet sonder ’n skoen? Antwoord tot die naaste cm</span>.</p>
+
+            <p class="Body-box-numbers" lang="en-US">☐ ☐ ☐ <span>sentimeter</span></p>
+
+            <p class="Body-box-numbers para-style-override-10" lang="en-US"> <b>8.</b>	<span>Hoe lank is die spanwydte van jou arms? (Sprei jou arms wyd oop en meet die</span><span>afstand vanaf jou regterhand se middelvingerpunt tot jou linkerhand se</span><span>middelvingerpunt.)
+            Antwoord tot die naaste cm</span>.</p>
+
+            <p class="Body-box-numbers" lang="en-US">☐ ☐ ☐ <span>sentimeter</span></p>
+          </td>
+        </tr></tbody></table><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Stel vraelyste op</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    1.	(a)	<span>Refue wil uitvind hoeveel sakgeld leerders in haar klas elke maand kry en stel die</span><span>volgende meervoudigekeusevraag op</span>:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-66" class="No-Table-Style"><colgroup><col class="Row-Column-185"/></colgroup><tbody><tr class="Row-Column-186"><td class="cell-style-override-1">
+            <p class="Body-box-no-indent" lang="en-US"><span>Hoeveel sakgeld kry jy</span>?</p>
+
+            <p class="Body-box-no-indent" lang="en-US">☐☐☐ 0-10 ☐☐☐ 10-20 ☐☐☐ 20-30 ☐☐☐ 30-40</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    <span>Verduidelik hoekom hierdie vra</span><span>ag</span>
+    <span>swak saamgestel, of swak bewoord is.
+    Gee</span><span>soveel redes as moontlik</span>.</p>
+
+    
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	Stel die meervoudigekeusevraag so op, dat dit die data wat Refue nodig het,
+    korrek sal verskaf.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US"><i>Moontlike antwoord</i><i>:</i></p>
+
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    2.	<span>Jy wil uitvind watter sportsoorte by jou skool beoefen word</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (a)	<span>Beskryf die populasie van jou data</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Beskryf die steekproef wat jy sal gebruik</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-8" lang="en-US">3.	<span>Stel ’n vraag op met ja/nee-antwoorde of meervoudigekeuse-antwoorde om jou te</span><span>help om die data wat jy nodig het, in te samel</span>:</p>
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+   <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">4.	<span>Versamel jou data uit die populasie van die steekproef wat jy gekies het. Hou jou ingesamelde data vir die volgende hoofstuk</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-9" lang="en-US"><span class="Basic-Graphics-Frame"><img class="frame-102" src="Maths2_Gr7_TG_rev4-web-resources/image/152723.png" alt="152723.png"/></span> </p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-22">Organiseer data</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Om data wat ons ingesamel het te organiseer, kan ons telstrepies en tabelle, en</span> <span>stingel-en-blaarvoorstellings gebruik. Ons kan ook die data groepeer, veral as daar</span> <span>baie datawaardes is. Die manier waarop ons die data organiseer hang af van die soort data wat ons verkry het</span>.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Verskillende soorte data</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Kyk na die vyf voorbeelde van vrae op bladsye 172 en 173</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-8" lang="en-US">1.	<span>Watter van die vrae sal data soos die volgende oplewer</span>?</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-70" class="No-Table-Style"><colgroup><col class="Row-Column-95"/><col class="Row-Column-141"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred"><span>Ja</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1 235
+            <span>leerders</span></p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred"><span>Nee</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1 265
+            <span>leerders</span></p>
+          </td>
+        </tr></tbody></table><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">2.	<span>Watter van die vrae sal data soos die volgende oplewer</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">132 cm; 141 cm; 160 cm; 132 cm; 154 cm; 145 cm; 147 cm;
+    129 cm; 121 cm;
+    143 cm; 135 cm; 154 cm; 156 cm; 133 cm; 156 cm; 123 cm; 137 cm.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-8" lang="en-US">3.	<span>Hoe kan die data vir voorbeeld 4 daar uitsien as 30 leerders die vraag sou beantwoord? Voltooi die tabel met getalle wat jy opmaak</span>.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-71" class="No-Table-Style"><colgroup><col class="Row-Column-169"/><col class="Row-Column-191"/></colgroup><tbody><tr class="Row-Column-192"><td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred"><span>Getal leerders</span></p>
+          </td>
+        </tr><tr class="Row-Column-192"><td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-192"><td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-192"><td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-192"><td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-192"><td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-192"><td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-192"><td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-192"><td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-192"><td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-8" lang="en-US">4.	<span>Watter van die vrae sal ’n stel data soos die volgende oplewer</span>?</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-72" class="No-Table-Style"><colgroup><col class="Row-Column-193"/><col class="Row-Column-194"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">5-8 <span>jaar</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">15</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">9-11 <span>jaar</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">45</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">12-15 <span>jaar</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">32</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">16-19 <span>jaar</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">28</p>
+          </td>
+        </tr></tbody></table><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US"><span>Die soort data in vrae 1 en 3 word</span>  <b>kategoriese</b> <span class="char-style-override-6"/> <b>data</b> <span>genoem. Dit word dikwels in woorde gegee.</span> <span/><span>Die kategorieë hoef nie opmekaar te volg nie.</span></p>
+<p>Die soort data in vrae 2 en 4 is <b>numeriese data</b>.
+Numeriese data kan slegs heelgetalle wees, of dit kan
+breuke insluit.</p>
+            </div><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Vir albei hierdie soorte data sal jou vraelys se resultate ’n hele lys moontlike response lewer. Kom ons kyk hoe ons die response kan organiseer</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-8" lang="en-US">5.	<span>Klassifiseer die datastelle as kategories of numeries</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-29">
+    (a)	<span>die getal bladsye in boeke</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-29">
+    (b)	<span>die spanwydte van leerders se arms</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-29">
+    (c)	<span>leerders se gunstelingsokkerspanne</span></p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-29">
+    (d)	<span>die tyd wat dit neem om 1,5 km te hardloop</span>	</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-29">
+    (e)	<span>die koste van verskillende soorte selfone</span>		</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    (f)	<span>die kleure van nuut vervaardigde motors</span>	</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Organiseer kategoriese data</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Thandeka het die vraag gestel: Watter van Suid-Afrika se amptelike tale is die huistale van die leerders in my klas</span><span>?</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-8" lang="en-US"><span>Sy het ’n tabel met elke leerder se naam daarop opgestel. Toe het sy die data verkry deur elke leerder te vra wat sy of haar huistaal is, en dit op die tabel ingeskryf</span>:</p>
+
+    
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-74" class="No-Table-Style"><colgroup><col class="Row-Column-191"/><col class="Row-Column-191"/><col class="Row-Column-191"/><col class="Row-Column-191"/><col class="Row-Column-191"/><col class="Row-Column-191"/></colgroup><tbody><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-header-left" lang="en-US"><b>Name</b></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-header-left" lang="en-US"><b>Language</b></p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-header-left" lang="en-US"><b>Name</b></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-header-left" lang="en-US"><b>Language</b></p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-header-left" lang="en-US"><b>Name</b></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-header-left" lang="en-US"><b>Language</b></p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Nonkhanyiso</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiXhosa</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Marike</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Afrikaans</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Herbert</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Sepedi</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Anna</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Afrikaans</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Jennifer</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Sepedi</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Thabo</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiXhosa</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Mpho</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Ndebele</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Nomonde</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiXhosa</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Nomi</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiXhosa</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Nontobeko</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiZulu</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Thandeka</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Sepedi</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Manare</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Sepedi</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Jonathan</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">English</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Siza</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiZulu</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Unathi</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Sesotho</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Sibongile</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiZulu</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Prince</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Sesotho</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Gabriel</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Ndebele</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Dumisani</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiZulu</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Duma</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiZulu</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Marlene</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Afrikaans</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Matshediso</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Sesotho</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Thandile</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Sepedi</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Simon</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Sesotho</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Chokocha</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Sepedi</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Nicholas</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Sesotho</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Miriam</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Setswana</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Khanyisile</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiXhosa</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Jabulani</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiZulu</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Sibusiso</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiZulu</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Ramphamba</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Tshivenda</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Nomhle</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiXhosa</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Mishack</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiZulu</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Portia</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiZulu</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Frederik</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Afrikaans</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Peter</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Setswana</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Erik</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Afrikaans</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Lola</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Afrikaans</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Maya</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Afrikaans</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Jan</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Afrikaans</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Zinzi</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiXhosa</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Thobile</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Sesotho</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="brown">
+            <p class="Table-text-left">Palesa</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">isiZulu</p>
+          </td>
+
+          <td class="brown">
+            <p class="Table-text-left">Jacob</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">Setswana</p>
+          </td>
+
+          <td class="brown">
+            </td>
+
+          <td class="cell-style-override-1">
+            </td>
+        </tr></tbody></table>
+        <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Ons het nie die leerders se name vir hierdie data nodig nie. Dit kan as ’n lys van tale geskryf word</span>:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-75" class="no-border-plain"><colgroup><col class="Row-Column-42"/></colgroup><tbody><tr class="Row-Column-81"><td class="brown">
+            <p class="Body-box-no-indent" lang="en-US">isiXhosa, Afrikaans, Sepedi, Afrikaans, Sepedi,
+            isiXhosa, Ndebele, isiXhosa, isiXhosa, isiZulu,
+            Sepedi, Sepedi, English, isiZulu, Sesotho, isiZulu,
+            Sesotho, Ndebele, isiZulu, isiZulu, Afrikaans, Sesotho,
+            Sepedi, Sesotho, Sepedi, Sesotho, Setswana, isiXhosa,
+            isiZulu, isiZulu, Tshivenda,
+            isiXhosa, isiZulu, isiZulu, Afrikaans, Setswana,
+            Afrikaans, Afrikaans, Afrikaans, Afrikaans, isiXhosa,
+            Sesotho, isiZulu, Setswana</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Kom ons werk met hierdie stel data om te sien wat dit vir ons sê</span><span>.</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    1.	<span>Wat probeer ons deur hierdie lys van tale uitvind</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">2.	<span>Maak dit saak in watter volgorde die tale geskryf is? Hoekom of hoekom nie</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-17" lang="en-US">3.	(a)	D<span>ie grafiek</span> <span>hier onder</span> <span>word ’n</span>  <b>puntstipping</b> <span>(of dotplot)
+    genoem.</span>
+    <span>Gebruik</span><span>Thandeka se tabel.
+    Maak ’n kol bokant die taal vir elke leerder wat dit</span>
+    <span>praat.</span><span>Die tale is in alfabetiese volgorde. Probeer om die kolle ewe ver uitmekaar</span> <span>te</span><span>maak.
+    Die kolle vir Afrikaans is reeds vir jou ingeteken.</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    <span><img class="large" src="Maths2_Gr7_TG_rev4-web-resources/image/Maths_Afr_term4_177_1.png" alt="154445.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Watter tale het dieselfde getalle leerders</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	<span>Lys die tale in volgorde van die taal wat die meeste deur die leerders gepraat word,</span> <span>tot die wat die minste gepraat word</span>.</p>
+
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+<div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US"><span>Jy kan die inligting ook in
+            ’n</span>  <b>telstrepietabel</b>
+            <span>organiseer. Om dit te doen, trek jy een strepie (
+            | ) vir elke item wat jy tel. Die strepie is ’n</span>
+             <b>telstrepie</b>.</p>
+
+            </div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+        <p class="Body-box-no-indent" lang="en-US"><span>Voorbeelde van telstrepies</span>:</p>
+
+        <p class="Body-box-no-indent" lang="en-US"><span>’n telling van drie</span> = |||</p>
+
+        <p class="Body-box-no-indent" lang="en-US"><span>’n telling van vier</span> = ||||</p>
+
+        <p class="Body-box-no-indent" lang="en-US"><span>’n telling van vyf</span> = <del>||||</del></p>
+
+        <p class="Body-box-no-indent" lang="en-US"><span>’n telling van sewe</span> = <del>||||</del> ||</p>
+      </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    4.	(a)	<span>Voltooi die tabel</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Example-head para-style-override-3"><span>Huistaal van leerders in die graad 7-klas</span></p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-77" class="No-Table-Style"><colgroup><col class="Row-Column-124"/><col class="Row-Column-200"/><col class="Row-Column-97"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-header-left" lang="en-US"><b><span>Taal</span></b></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-header-left" lang="en-US"><b><span>Getal leerders wat die huistaal praat</span></b></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-header-centred" lang="en-US"><b><span>Totaal</span></b></p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Afrikaans</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">|||| |||</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Engels</span></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-left">|</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">isiXhosa</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">isiZulu</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Ndebele</p>
+          </td>
+
+          <td class="cell-style-override-1">
+                      </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Sepedi</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Sesotho</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Setswana</p>
+          </td>
+
+          <td class="cell-style-override-1">
+                      </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Siswati</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Tshivenda</p>
+          </td>
+
+          <td class="cell-style-override-1">
+                      </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Xitsonga</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left"> <b>Totaal (hele klas)</b></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	<span>Hoeveel leerders is altesaam gevra wat hulle huistaal is</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)	<span>Watter huistaal word die meeste in die klas gepraat</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (d)	<span>Watter tale word nie deur enige van die leerders as huistaal gepraat nie</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (e)	<span>Skryf ’n kort verslag oor die bevindings rakende huistale in Thandeka se klas</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Puntstippings (dotplots) en telstrepietabelle word ook vir</span>  <b>numeriese data</b> <span>gebruik.</span> <span>Jy kan die datawaardes direk in ’n voorafbereide tabel of puntstipping neerskyf soos jy hulle aanteken. Die data word dan terselfdertyd sorteer</span>.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Stingel-en-blaarvoorstellings</h3>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US"><span>’n</span>  <b>Stingel-en-blaarvoorstelling</b>
+            <span>is ’n manier om numeriese data of getalledata in twee kolomme, wat deur ’n vertikale lyn verdeel is, te organiseer. Elke getal word oor die twee kolomme geskryf.</span></p>
+
+            </div><div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      <span>Numeriese data of getalledata is data wat uit getalle bestaan.</span></p>
+    </div>
+<p xmlns="http://www.w3.org/1999/xhtml"/>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      <span>In hierdie voorbeeld strek die tiene-syfers van 1 tot 5, dus word hu</span><span>l</span><span>le in die stingel-kolom geskryf. Dan skryf ons al die ene in die blaar-kolom</span><span>.</span></p>
+    </div>
+
+        <p xmlns="http://www.w3.org/1999/xhtml" class="Example-head para-style-override-8">
+    <b>Voorbeeld</b> 1</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Wys hierdie data in ’n stingel-en-blaarvoorstelling</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US">13, 56, 20, 35,
+    47, 53, 12, 51, 53, 49, 34, 53</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Ons organiseer eers die waardes in die datastel van</span><span>klein na groot</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US">12, 13, 20, 34,
+    35, 47, 49, 51, 53, 53, 53, 56</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Die stingel-en-blaarvoorstelling van die datawaardes lyk so</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    <span><img class="large" src="Maths2_Gr7_TG_rev4-web-resources/image/Maths_Afr_term4_179_1.png" alt="154445.png"/></span> </p>
+ 
+
+   <p xmlns="http://www.w3.org/1999/xhtml" class="Example-head" lang="en-US"><b>
+    <span>Voorbeeld</span> 2</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-8" lang="en-US"><span>Hierdie stingel-en-blaarvoorstelling wys die ene as die blare, terwyl die honderde én die tiene as stingels geskryf word</span>:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-80" class="no-border-plain"><colgroup><col class="Row-Column-103"/><col class="Row-Column-129"/><col class="Row-Column-207"/></colgroup><tbody><tr class="Row-Column-208"><td class="cell-style-override-12">
+            <p class="Table-text-left para-style-override-35">
+            10</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-left">2, 5</p>
+          </td>
+
+          <td class="cell-style-override-13">
+            </td>
+        </tr><tr class="Row-Column-208"><td class="cell-style-override-12">
+            <p class="Table-text-left para-style-override-35">
+            11</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-left">0, 6</p>
+          </td>
+
+          <td class="cell-style-override-13">
+            <p class="Table-text-left">Sleutel: 10 | 2 beteken 102</p>
+          </td>
+        </tr><tr class="Row-Column-208"><td class="cell-style-override-12">
+            <p class="Table-text-left para-style-override-35">
+            12</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-left">1, 4, 4</p>
+          </td>
+
+          <td class="cell-style-override-13">
+            </td>
+        </tr><tr class="Row-Column-208"><td class="cell-style-override-12">
+            <p class="Table-text-left para-style-override-35">
+            13</p>
+          </td>
+
+          <td class="left">
+            </td>
+
+          <td class="cell-style-override-13">
+            </td>
+        </tr><tr class="Row-Column-208"><td class="cell-style-override-12">
+            <p class="Table-text-left para-style-override-35">
+            14</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-left">7, 9</p>
+          </td>
+
+          <td class="cell-style-override-13">
+            </td>
+        </tr><tr class="Row-Column-208"><td class="cell-style-override-12">
+            <p class="Table-text-left para-style-override-35">
+            15</p>
+          </td>
+
+          <td class="left">
+            </td>
+
+          <td class="cell-style-override-13">
+            </td>
+        </tr><tr class="Row-Column-208"><td class="cell-style-override-12">
+            <p class="Table-text-left para-style-override-35">
+            16</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-left">1, 3, 8</p>
+          </td>
+
+          <td class="cell-style-override-13">
+            </td>
+        </tr></tbody></table>
+        <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Die datawaardes is:</span> 102, 105, 110, 116, 121, 124,
+    124, 147, 149, 161, 163, 168.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Let op die volgende: Wanneer daar ’n 0 in die blaar-kolom staan, beteken dit dat die ene-syfer ’n nul is soos in 110 hier bo. Wanneer daar niks in die blaar-kolom teenoor ’n stingel staan nie,
+    beteken dit dat daar geen datawaarde met daardie spesifieke stingel is nie. Hier bo is daar byvoorbeeld geen waardes tussen 129 en 140 nie</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Wanneer jy stingel-en-blaarvoorstellings maak is dit belangrik om die getalle vertikaal in lyn ondermekaar te skryf, sodat jy die
+    “blare” kan vergelyk. Trek strepies om jou te help. (Of jy kan</span> <span>blokkies</span><span>papier gebruik as jy het.)</span></p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Puntstippings en stingel-en-blaarvoorstellings</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-8" lang="en-US">1.	<span>Kyk na die volgende stingel-en-blaarvoorstelling en beantwoord dan die vrae</span><span>:</span></p>
+
+   <table xmlns="http://www.w3.org/1999/xhtml" id="table-81" class="no-border-plain"><colgroup><col class="Row-Column-103"/><col class="Row-Column-129"/><col class="Row-Column-209"/></colgroup><tbody><tr class="Row-Column-208"><td class="cell-style-override-14">
+            <p class="Table-text-left para-style-override-35">
+            13</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-left">1, 9</p>
+          </td>
+
+          <td class="cell-style-override-13">
+            <p class="Table-text-left">Sleutel: 13 | 1 beteken 131</p>
+          </td>
+        </tr><tr class="Row-Column-208"><td class="cell-style-override-14">
+            <p class="Table-text-left para-style-override-35">
+            14</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-left">0</p>
+          </td>
+
+          <td class="cell-style-override-13">
+            </td>
+        </tr><tr class="Row-Column-208"><td class="cell-style-override-14">
+            <p class="Table-text-left para-style-override-35">
+            15</p>
+          </td>
+
+          <td class="left">
+            </td>
+
+          <td class="cell-style-override-13">
+            </td>
+        </tr><tr class="Row-Column-208"><td class="cell-style-override-14">
+            <p class="Table-text-left para-style-override-35">
+            16</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-left">2, 3, 5, 5, 5</p>
+          </td>
+
+          <td class="cell-style-override-13">
+            </td>
+        </tr><tr class="Row-Column-208"><td class="cell-style-override-14">
+            <p class="Table-text-left para-style-override-35">
+            17</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-left">6, 8, 8</p>
+          </td>
+
+          <td class="cell-style-override-13">
+            </td>
+        </tr><tr class="Row-Column-208"><td class="cell-style-override-14">
+            <p class="Table-text-left para-style-override-35">
+            18</p>
+          </td>
+
+          <td class="left">
+            </td>
+
+          <td class="cell-style-override-13">
+            </td>
+        </tr><tr class="Row-Column-208"><td class="cell-style-override-14">
+            <p class="Table-text-left para-style-override-35">
+            19</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-left">4, 6, 7</p>
+          </td>
+
+          <td class="cell-style-override-13">
+            </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (a)	<span>Skryf die datawaardes van die datastel in die stingel-en-blaarvoorstelling neer</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	<span>Val die meeste van die datawaardes in die 160’s of die 170’s</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)	<span>Watter datawaarde kom die meeste voor</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)	<span>Voeg hierdie datawaardes by die stingel-en-blaarvoorstelling:</span>
+    <span>143; 167; 199</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(e)	<span>Daar is geen datawaardes in die 150’s nie. Kan ons die volgende by die
+    stingel-</span><span>en-blaarvoorstelling byvoeg om te wys dat dit so is? Verduidelik jou antwoord</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">15
+    <span>|</span> 0</p>
+
+    
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    2.	(a)	<span>Rangskik die volgende datawaardes van die kleinste tot die grootste</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">378, 360, 390,
+    378, 378, 400, 379, 382, 354, 394, 399, 395, 378, 361, 375</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12" lang="en-US">(b)	<span>Organiseer die data in
+    ’n stingel-en-blaarvoorstelling</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span>Sleutel</span>:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+        <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    <span><img class="frame-213" src="Maths2_Gr7_TG_rev4-web-resources/image/Maths_English_term4_181_1.png" alt="154464.png"/></span> </p><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    (c)	<span>Watter datawaarde kom die meeste voor</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    3.	(a)	<span>Hierdie datastelle wys die verkope van twee nuwe motorfabrikate (Jupiter en</span><span>Mercury) oor 24 maande. Maak
+    ’n puntstipping (dotplot) op die getallelyne vir</span><span>elke datastel</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US"><i>Mercury:</i> 23, 27, 30, 27, 32, 31,
+    32, 32, 35, 33, 28, 39, 32, 29, 35, 36, 33, 25, 35,</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">37, 26, 28,
+    36, 30</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US"><i>Jupiter:</i> 31, 44, 30, 36, 37, 34,
+    43, 38, 37, 35, 36, 34, 31, 32, 40, 36, 31, 44, 26,</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">30, 37, 43,
+    42, 33</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    <span><img class="large" src="Maths2_Gr7_TG_rev4-web-resources/image/Maths_Afr_term4_181_1.png" alt="154464.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Wat word jy wys uit die verkope van die twee soorte motors as jy na die kolle op</span><span>die grafiek kyk?
+    Wat beteken dit</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+            <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-extension--no-rule-" lang="en-US">Iets om oor te dink</h3>
+          <div xmlns="http://www.w3.org/1999/xhtml" class="extension">
+                        <p class="Body-box-no-indent para-style-override-9">
+           Aan watter soort grafiek laat die stingel-en-blaarvoorstelling jou dink as jy dit deur 90° draai?</p>
+    <p class="ques-a-" lang="en-US">
+    <span><img class="medium" src="Maths2_Gr7_TG_rev4-web-resources/image/Maths_English_term4_182_1.png" alt="154464.png"/></span> </p>
+          </div>
+
+
+<h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Groepeer data in intervalle</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Partykeer groepeer ons data met baie datawaardes om ons te help om die versamelde data te organiseer. Byvoorbeeld, die volgende data wys die getal melkbottels wat 24 leerders vir herwinning ingesamel het</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">9, 10,
+    13, 23, 24, 26, 26, 27, 30, 31, 34, 40, 42, 49, 50, 53, 61, 64,
+    67, 67, 68, 69, 91, 94</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US"><span>Ons kan die data in kategorieë,
+            wat</span>  <b>klasintervalle</b>
+            <span>genoem word, groepeer, bv. 0-9, 10-19, 20-29,
+            ensovoorts. Ons kan tel hoeveel keer ’n datawaarde in elke interval voorgekom het. Die getal kere wat ’n datawaarde in ’n interval voorkom, word sy</span>
+             <b>frekwensie</b>
+            <span>genoem</span>.</p>
+          </div><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Hierdie tabel wys die gegroepeerde data en die frekwensie waarteen die datawaardes in elke interval voorkom</span>.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-87" class="No-Table-Style"><colgroup><col class="Row-Column-98"/><col class="Row-Column-228"/><col class="Row-Column-126"/><col class="Row-Column-126"/><col class="Row-Column-126"/><col class="Row-Column-126"/><col class="Row-Column-126"/><col class="Row-Column-126"/><col class="Row-Column-126"/><col class="Row-Column-126"/><col class="Row-Column-126"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left">Interval</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">0-9</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">10-19</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">20-29</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">30-39</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">40-49</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">50-59</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">60-69</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">70-79</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">80-89</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">90-99</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-left"><span>Frekwensie</span></p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-16">
+            <p class="Table-text-centred">2</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Die tabel wys dat 1 leerder 0-9 bottels bymekaar gemaak het, 2 leerders 10-19 bottels, 5 leerders 20-29 bottels,
+    ensovoorts. Ons kan duidelik sien dat die meeste leerders
+    (naamlik 6 leerders) 60-69 bottels ingesamel het</span>.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Werk met gegroepeerde data</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-8" lang="en-US">1.	<span>Anita het data van ’n steekproef van graad 7-leerders ingesamel om te bepaal hoe ver hulle van die naaste kruidenierswinkel af woon. Die resultate is hier onder. Die waardes is in kilometer, korrek tot 2 desimale syfers, aangedui</span>.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-88" class="No-Table-Style"><colgroup><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/><col class="Row-Column-58"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">0,1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,6</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">0,6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,9</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,9</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0,9</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1,5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1,5</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2,5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2,5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3,5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3,5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4,</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4,5</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">23</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">30</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)	<span>Voltooi die tabel hier regs om aan te dui</span><span>hoeveel van die datawaardes in elkeen</span><span>van die intervalle voorkom</span>.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-231">
+      <table id="table-89" class="No-Table-Style"><colgroup><col class="Row-Column-229"/><col class="Row-Column-230"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+              <p class="Table-header-centred" lang="en-US"><b>Interval</b></p>
+            </td>
+
+            <td class="cell-style-override-1">
+              <p class="Table-header-centred" lang="en-US"><b><span>Frekwensie</span></b></p>
+            </td>
+          </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+              <p class="Table-text-centred"><span>minder as 1,0 km</span></p>
+            </td>
+
+            <td class="cell-style-override-1">
+              
+            </td>
+          </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+              <p class="Table-text-centred">1,0-5,9 km</p>
+            </td>
+
+            <td class="cell-style-override-1">
+              
+            </td>
+          </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+              <p class="Table-text-centred">6,0-9,9 km</p>
+            </td>
+
+            <td class="cell-style-override-1">
+              
+            </td>
+          </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+              <p class="Table-text-centred"><span>10 km of verder</span></p>
+            </td>
+
+            <td class="cell-style-override-1">
+              
+            </td>
+          </tr></tbody></table></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	<span>Hoe ver woon die meeste leerders van die</span><span>naaste kruidenierswinkel af?</span></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-8" lang="en-US">2.	<span>Hier is die lengtes van 50 graad 7-seuns (in cm)</span>:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-90" class="No-Table-Style"><colgroup><col class="Row-Column-84"/><col class="Row-Column-84"/><col class="Row-Column-84"/><col class="Row-Column-84"/><col class="Row-Column-84"/><col class="Row-Column-84"/><col class="Row-Column-84"/><col class="Row-Column-84"/><col class="Row-Column-84"/><col class="Row-Column-84"/></colgroup><tbody><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">165</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">148</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">150</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">160</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">165</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">150</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">156</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">155</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">164</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">162</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">160</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">158</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">138</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">158</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">140</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">146</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">160</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">148</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">152</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">139</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">165</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">148</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">152</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">139</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">165</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">148</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">160</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">163</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">178</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">138</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">142</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">179</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">156</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">160</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">160</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">171</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">140</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">160</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">164</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">135</p>
+          </td>
+        </tr><tr class="Row-Column-16"><td class="cell-style-override-1">
+            <p class="Table-text-centred">159</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">143</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">167</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">138</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">163</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">164</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">155</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">160</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">167</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">165</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(a)	<span>Maak
+    ’n stingel-en-blaarvoorstelling van hierdie datastel</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    <span>Sleutel</span>:</p>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-6" lang="en-US"><span class="Basic-Graphics-Frame"><img class="frame-95" src="Maths2_Gr7_TG_rev4-web-resources/image/Maths_English_term4_183_1.png" alt="154022.png"/></span> </p>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Skryf ’n paar reëls oor wat jy uit die data wys word</span>.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (c)	<span>Voltooi die frekwensietabel vir die gegroepeerde data deur gebruik te maak van</span><span>jou stingel-en-blaarvoorstelling</span>.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-92" class="No-Table-Style"><colgroup><col class="Row-Column-124"/><col class="Row-Column-124"/></colgroup><tbody><tr class="Row-Column-165"><td class="cell-style-override-1">
+            <p class="Table-header-centred" lang="en-US"><b><span>Klasinterval (cm)</span></b></p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-header-centred" lang="en-US"><b><span>Frekwensie</span></b></p>
+          </td>
+        </tr><tr class="Row-Column-165"><td class="cell-style-override-1">
+            <p class="Table-text-centred">130-139</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-165"><td class="cell-style-override-1">
+            <p class="Table-text-centred">140-149</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-165"><td class="cell-style-override-1">
+            <p class="Table-text-centred">150-159</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-165"><td class="cell-style-override-1">
+            <p class="Table-text-centred">160-169</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-165"><td class="cell-style-override-1">
+            <p class="Table-text-centred">170-179</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr><tr class="Row-Column-165"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-30">
+            Totaal</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            
+          </td>
+        </tr></tbody></table>
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-23">Som data op</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">
+    <span>Wanneer jy data versamel het, is dit dikwels nodig om vir ander te vertel wat jy gevind het. Ander mense sal wil weet wat jou gevolgtrekkings is sonder om na al die data wat jy ingesamel het te kyk</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US"><span>Dit is dikwels nuttig om ’n stel numeriese of getalledata op te som deur slegs</span> <i>een</i> <span>data-waarde te gebruik. Byvoorbeeld, watter waarde beskryf die volgende datastel die beste</span>?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">0 1 1 5 8 8 9 9 10 10 10 11 11</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-8">
+    <span>Statistici gebruik enige van drie datawaardes wat die</span><span>mees sentrale waardes in die stel aandui, of die</span><span>datawaarde waarom ander datawaardes oënskynlik</span><span>opeenhoop. Hierdie datawaardes word die</span>  <b>sentrale</b> <b>waardes</b> <span>of</span>
+     <b>opsommende statistiek</b> <span>genoem</span>.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      <span>Statistici is wiskundiges wat spesialiseer daarin om data te versamel, dit te organiseer en</span> <span>te ontleed</span><span>.</span></p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+    <ul><li class="Body-content-bullet para-style-override-36" lang="en-US">
+                <span class="char-style-override-21">	</span><span>Die</span>
+                 <b>modus</b>
+                <span>is die datawaarde wat meer dikwels as enige ander waarde in ’n datastel voorkom. In die voorbeeld hier bo is die modus 10, want dit kom die meeste (3 keer) voor</span>.
+
+                <div class="aside">
+                  <p class="Body-box-no-indent" lang="en-US"><span>’n Datastel kan meer as een modus hê</span>.</p>
+                </div>
+              </li>
+
+              <li class="Body-content-bullet para-style-override-36" lang="en-US">
+                <span class="char-style-override-21">	</span><span>Die</span>
+                 <b>mediaan</b>
+                <span>is die datawaarde wat presies in die middel van die stel datawaardes lê as dit van die kleinste na die grootste gerangskik is. Vir die stel data hier bo is die mediaan 9, omdat daar ses datawaardes regs van die eerste 9 lê en ses datawaardes links daarvan</span>.
+
+                <div class="aside">
+                  <p class="Body-box-no-indent" lang="en-US">As die datawaardes uit ’n ewe getal datawaardes bestaan, is die mediaan = som van die</p>
+
+                  <p class="Body-box-no-indent" lang="en-US"><span>twee middelste waardes gedeel deur 2.</span></p>
+                </div>
+              </li>
+
+              <li class="Body-content-bullet para-style-override-10" lang="en-US">
+                <span class="char-style-override-21">	</span><span>Die</span>
+                 <b>gemiddeld</b> <span>is die som van al die datawaardes gedeel deur die totale getal datawaardes in die stel. Dus</span>:
+                 <p>\(\text{Mediaan} = \frac{\text{Totaal van waardes}}{\text{Getal waardes}} = \frac{93}{13} = 7.15 \)</p>
+
+                <div class="aside">
+                  <p class="Body-box-no-indent" lang="en-US"><span>In die datastel hier bo, kan
+                  óf 10 (modus), 9 (mediaan), óf 7,15 (gemiddeld)
+                  gebruik word om die datastel voor te stel.</span></p>
+                </div>
+              </li>
+            </ul></div>
+
+            <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-extension--no-rule-" lang="en-US">Wat be t eken gemiddeld ?</h3>
+          
+          <div xmlns="http://www.w3.org/1999/xhtml" class="extension">
+            <p class="Body-box-no-indent" lang="en-US"><span>Hierdie aktiwiteit sal jou help om te verstaan hoe die gemiddeld die hele stel data voorstel</span>.</p>
+
+            <p class="Body-box-no-indent" lang="en-US"><span>Bou blokkiestorings van verskillende hoogtes</span>:</p>
+            <p><span><img class="frame-238" src="Maths2_Gr7_TG_rev4-web-resources/image/154750.png" alt="154750.png"/></span></p>
+            <p><span>Skuif nou die blokkies van die hoër torings na die laer torings om hulle gelyk te maak</span>:<span><img class="frame-239" src="Maths2_Gr7_TG_rev4-web-resources/image/154759.png" alt="154759.png"/></span></p>
+
+            <p class="Body-box-no-indent para-style-override-10" lang="en-US"><span>Jy het so pas die gemiddeld gekry: elke toring bestaan nou uit 4 blokkies. Maar hoe werk dit as jy net met die getalle 5, 6, 3, 2 en 4 moet werk? Jy tel hulle bymekaar en deel die antwoord met die aantal getalle wat jy het</span>:</p>
+
+            <p class="Body-box-no-indent para-style-override-10" lang="en-US">\(5 + 6 + 3 + 2 + 4 = 20 \\ 20
+            \div 5 = 4\)</p>
+
+            <p class="Body-box-no-indent" lang="en-US"><span>Dit beteken dat jy ’n enkele getal kan uitwerk om in die plek van die verskillende getalle te gebruik en steeds dieselfde totaal kan kry</span>.</p>
+          </div>
+
+          <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US"><span>Dit is ook nuttig om te weet hoe ver die datawaardes uitmekaar versprei is</span>.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note"><p class="Body-content-no-indent" lang="en-US"><span>Die</span>  <b>verspreiding</b>
+            <span>of</span>  <b>omvang</b> <span>van ’n stel data word verkry deur die laagste datawaarde van die hoogste datawaarde af te trek. Byvoorbeeld, vir die stel datawaardes op die vorige bladsy is die verspreiding</span>:
+            11 - 0 = 11</p>
+
+            <p class="Body-content-no-indent" lang="en-US"><span>Hoe groter die omvang, hoe meer is die data versprei. Hoe kleiner die omvang, hoe meer is die data om gelyke waardes gekonsentreer</span>.</p>
+          </div><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Stel die modus, mediaan, gemiddeld en omvang vas</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">1.	<span>Hierdie stel data wys die skoengroottes van ’n steekproef leerders by ’n skool</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">1, 1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 5, 5, 5, 5, 5, 5, 6,
+    6</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a)	<span>Wat is die modus van die datastel</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	<span>Wat is die median van die datastel</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	<span>Wat is die gemiddeld? (Rond jou antwoord af tot die naaste telgetal.</span></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d)	<span>Wat is die omvang of verspreiding van die datastel</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">2.	<span>’n Steekproef van graad 7-leerders het hierdie data opgelewer. Dit wys die getal broers en susters van die leerders</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">0, 0, 0, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3,
+    3, 3, 4, 4, 5</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a)	<span>Hoeveel leerders is in die steekproef</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	<span>Wat is die modus van die datastel</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)	<span>Wat is die m</span><span>e</span><span>d</span><span>iaan</span> <span>van die datastel</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)	<span>Wat is die gemiddeld? (Rond jou antwoord af tot die naaste telgetal.)</span></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">
+    (e)	<span>Wat is die omvang van die datastel</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">3.	<span>Die volgende datastel wys die getal ure wat ’n steekproef van ouers by Skool A in ’n week gewerk het</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">15, 16, 20, 25, 25, 30, 40, 40, 40, 40, 40, 42, 45, 45,
+    48, 48</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-29">
+    (a)	<span>Hoeveel ouers is in die steekproef</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-29">
+    (b)	<span>Wat is die modus van die datastel</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)	<span>Wat is die mediaan van die datastel</span>?</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      <span>Onthou, as die getal</span> <span>datawaardes in ’n stel data ewe is, is die mediaan = die som van die twee middelste getalle gedeel deur 2</span>.</p>
+    </div>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)	<span>Wat is die gemiddeld? (Rond jou antwoord af tot een desimale plek.)</span></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e)	<span>Wat is die omvang of verspreiding van die datastel</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-8" lang="en-US">4.	<span>Hierdie datastel wys hoeveel uur ouers in ’n steekproef by Skool B in ’n week</span>
+    <span>gewerk het</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-8" lang="en-US">25, 30, 35, 35, 35, 40, 40, 40,
+    40, 40, 42, 45, 45, 45, 48, 50</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-23">
+    (a)	<span>Hoeveel ouers is in die steekproef</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-23">(b)	Wat is die modus van die datastel?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	<span>Wat is die mediaan</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)	<span>Wat is die gemiddeld? (Rond jou antwoord af tot een desimale plek.)</span></p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(e)	<span>Wat is die omvang van die datastel</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-8" lang="en-US">5.	<span>Die volgende is ’n lys met toetspunte van leerders in ’n graad 7-klas</span>:
+    40, 42, 44, 13, 10, 23, 68, 31, 69, 91, 30, 49, 50, 53, 67, 94,
+    61, 64, 67, 34</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (a)	<span>Rangskik die toetspunte van die laagste tot die hoogste</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-23">
+    (b)	Hoeveel leerders is in die populasie?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-23">
+    (c)	<span>Wat is die modus van die datastel</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)	<span>Wat is die media</span><span>a</span><span>n van die datastel</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(e)	<span>Wat is die gemiddeld</span>?</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(f)	<span>Wat is die omvang van die datastel</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">6.	<span>’n Hokkiespeelster het die getal doele wat sy in haar laaste 30 wedstryde aangeteken het,
+    neergeskryf</span>:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    1	1	3	2	0	0	4	2	2	4	3	1	0	1	0</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    2	1	5	1	3	7	2	2	2	4	3	1	1	0	3</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(a)	<span>Maak
+    ’n puntstipping om hierdie datawaardes te organiseer</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    <span><img class="large" src="Maths2_Gr7_TG_rev4-web-resources/image/Maths_Afr_term4_188_1.png" alt="155098.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    <span>Gebruik nou die puntstipping om die volgende vrae te beantwoord</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (b)	<span>Watter van die waardes verskil baie van die ander</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (c)	<span>Watter getal doele het sy die meeste keer in ’n wedstryd aangeteken</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (d)	<span>Hoeveel doele het sy in die twee groepe van vyf wedstryde elk aangeteken</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(e)	<span>Wat is volgens die puntstipping die modus van die data</span>.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    (f)	<span>Gebruik die puntstipping om die mediaan te bepaal</span>.</p>
+
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(g)	<span>Wat is die gemiddelde getal doele wat sy aangeteken het</span>?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+  </div>
+</div>
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

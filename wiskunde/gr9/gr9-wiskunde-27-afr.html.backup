@@ -1,0 +1,1377 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr9 Wiskunde</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+        <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Wissel navigasie</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/index-afr.html">Gr 7-9 Werkboeke</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="/index-afr.html">Tuisblad</a></li>
+                          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Wiskunde<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/wiskunde/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/wiskunde/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/wiskunde/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natuurwetenskappe<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/natuurwetenskappe/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/natuurwetenskappe/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/natuurwetenskappe/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tegnologie<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="/tegnologie/gr7/inhoudsopgawe-afr.html">Graad 7</a></li>
+                <li><a href="/tegnologie/gr8/inhoudsopgawe-afr.html">Graad 8</a></li>
+                <li><a href="/tegnologie/gr9/inhoudsopgawe-afr.html">Graad 9</a></li>
+            </ul>
+            </li>
+
+
+            <li><a href="/aflaaibares-afr.html">Aflaaibares</a></li>
+            <li><a href="/oorons-afr.html">Oor ons</a></li>
+            <li><a href="/oorons-afr.html#contact">Kontak</a></li>
+           
+          </ul>
+          
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div class="container">
+        <div class="language-toggle">
+            <button type="button" class="btn btn-default ">English</button>
+            <button type="button" class="btn btn-primary active">Afrikaans</button>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-11">Vertolk, ontleed en doen verslag oor data</h1> 
+
+
+
+ <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">In hierdie hoofstuk sal jy sekere kritiese data-ontledingsvaardighede ontwikkel en inoefen.
+Dit beteken dat jy die hele datahanteringsiklus gaan ontleed. Jy sal moet besluit watter
+voorstelling van die data die beste is in ’n gegewe situasie. In die opsomming van data, is
+sekere opsommingstatistiek meer geskik as ander vir verskillende tipes data. Jy moet ook
+die maniere herken waarop vooroordeel in data kan insluip. Dit sluit die metodes van die
+insameling, voorstelling en opsomming van data in.
+</p>
+ 
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-12">Watter grafiek is die beste?</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Jy het geleer dat sekere soorte grafieke spesifieke soorte inligting beter voorstel as ander.
+Die tipe grafiek wat gebruik word, hang dus af van die inligting wat voorgestel moet
+word. Hier is ’n opsomming van die voordele van verskillende soorte grafieke:
+</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent"><span class="char-style-override-2"><b>Tabelle
+</b></span> wys meer inligting as grafieke, maar pa-
+trone is nie so maklik om raak te sien nie. ’n Mens kry
+nie ’n visuele indruk van spesifieke tendense nie.
+</p>
+      
+       <p class="Body-content-no-indent"><b>Sirkeldiagramme
+</b> wys die geheel wat in dele
+verdeel is. Dit wys die verband tussen die dele en
+tussen ’n deel en die geheel. Dit wys nie die betrokke
+hoeveelhede nie.
+
+</p>
+       <p class="Body-content-no-indent"/><p class="Body-content-no-indent"><b>Staafgrafieke
+</b> wys die betrokke hoeveelhede
+maar wys nie die verbande so duidelik soos ’n sirkel-
+diagram nie. Hulle is nuttig om
+
+<b>kwantitatiewe
+</b> data te vertoon. Staafgrafieke stel ons in staat om
+die hoeveelhede van sekere kategorieë te vergelyk,
+byvoorbeeld die verkope van verskillende soorte
+items.
+
+</p><p class="Body-content-no-indent"/><p class="Body-content-no-indent">'n <b>Dubbele staafgrafiek
+</b>word gebruik om
+twee of meer goed in elke kategorie te vergelyk.
+Byvoorbeeld, ons kan ’n dubbele staafgrafiek gebruik
+om die verskille tussen mans en vroue te vergelyk.
+
+</p><p class="Body-content-no-indent"><b>Histogramme
+</b> word gebruik om numeriese data
+wat in gelyke klasintervalle gegroepeer is voor te
+stel. Histogramme is nuttig om te wys hoe die data
+versprei is.
+
+</p><p class="Body-content-no-indent"><b>Gebrokelyngrafieke
+</b>dui tendense of
+veranderinge in hoeveelhede oor tyd aan.
+
+</p>
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Gebruik die beste voorstellingsmetode</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1.Watter soort grafiek sal die volgende die beste voorstel? Verduidelik jou antwoorde.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Om die waarde van die rand teenoor die dollar oor ’n aantal jare aan te dui
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Om die maandelikse verkoopsyfers van ses verskillende soorte motors in 2014 en 	
+	
+2015 te vergelyk
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Die verhouding tussen mense van verskillende ouderdomsgroepe in ’n dorp
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Hoeveelhede van verskillende soorte produkte geproduseer op ’n plaas
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) Die persentasies van verskillende goedere wat saam die totale verkope uitmaak
+
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(f) Die verandering in die tempo van MIV-infeksie met verloop van tyd
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Hierdie grafiek is deur Statistiek Suid-Afrika gepubliseer om die bates van Suid-
+Afrikaners aan te toon. Die blou staaf verwys na die Sensus 2011 en die geel staaf wys
+die resultate van die Algemene Huishoudelike Opname van 2012.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/1555311.png" alt="155531.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Gee redes vir jou antwoorde op die vrae hier onder.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Is dit nuttig om die verskille tussen die resultate van die 2011 Sensus en die
+	
+Algemene Huishoudelike Opname van 2012 te wys?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Is dit nuttig om data oor die bates wat mense besit in te samel?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Is dit nuttig om te wys dat lae persentasies van mense sekere bates besit?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Die verskillende gekleurde stawe stel twee verskillende opnames voor. Stel ’n
+ tabel op om die data in tabelvorm aan te toon. (Lees die persentasies so akkuraat 	
+	
+	
+as moontlik vanaf die grafiek en rond die data af tot die naaste heelgetal.)
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-31" class="No-Table-Style"><tbody><tr class="Row-Column-39"><td class="cell-style-override-3"/>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+        </tr><tr class="Row-Column-97"><td class="cell-style-override-3">
+            
+             
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr><tr class="Row-Column-97"><td class="cell-style-override-3">
+           
+           
+          </td>
+
+          <td class="cell-style-override-3">
+          
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+        </tr><tr class="Row-Column-97"><td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr><tr class="Row-Column-97"><td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+        </tr><tr class="Row-Column-97"><td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+        </tr><tr class="Row-Column-97"><td class="cell-style-override-3">
+            
+             
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e)Word die data net so effektief in die tabel gewys soos in die dubbele staafgrafiek? 	
+	
+Gee jou eie mening.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Die volgende tabel wys die indiensnemingstatus van 15- tot 64-jariges in Suid-Afrika.
+Bespreek maniere om die data voor te stel (bv. grafieke). Staaf jou antwoorde.
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-32" class="No-Table-Style"><tbody><tr class="Row-Column-30"><td class="cell-style-override-3" rowspan="2"/>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred">
+           <b> Jul-Sep 2012</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Apr-Jun 2013</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Jul-Sep 2013</b></p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3" colspan="3">
+            <p class="Table-header-centred"><b>Getal mense (duisende)
+</b></p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Bevolking 15- tot 64-jariges 
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">33 017</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">33 352</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">33 464</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2"><b>Werkmag 
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">18 313</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">18 444</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">18 638</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Werksaam 
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>13
+            645</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>13
+            720</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>14
+            028</b></p>
+          </td>
+        </tr><tr class="Row-Column-60"><td class="cell-style-override-3">
+            <p class="Table-text-left"> Formele sektor
+ (nie-landbou)
+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9 663</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9 694</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">10 008</p>
+          </td>
+        </tr><tr class="Row-Column-60"><td class="cell-style-override-3">
+            <p class="Table-text-left">Informele sektor
+ (nie-landbou)
+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 197</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 221</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 182</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left">Landbou
+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">661</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">712</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">706</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left">Private huishoudings 
+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 124</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 093</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 132</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Werkloos 
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>4
+            668</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>4
+            723</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>4
+            609</b></p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2"><b>Nie ekonomies aktief
+
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>14
+            705</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>14
+            908</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>14
+            826</b></p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left">Ontmoedigde werksoekers
+
+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 170</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 365</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 240</p>
+          </td>
+        </tr><tr class="Row-Column-60"><td class="cell-style-override-3">
+            <p class="Table-text-left">Ander (ekonomies onaktief)
+
+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12 535</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12 543</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12 586</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Werkloosheidskoers (%)
+</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">25,5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">25,6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">24,7</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Die persentasies van die mense wat werksaam, werkloos of ekonomies onaktief
+	
+in Julie tot September 2013 was.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Die verandering in indiensnemingskoers oor drie tydperke.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Die proporsies van mense wat werksaam in die formele sektor, die informele
+sektor, landbou en privaat huishoudings was.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Die getal mense wat werksaam en werkloos is oor die drie tydperke.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-13">Die uitwerking van opsommende statistiek op die rapportering van data</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Inligtingsartikels gebruik dikwels gemiddeldes om inligting weer te gee. Die artikels
+mag dalk nie die regte benaming vir gemiddeld gebruik soos jy geleer het nie: die 
+<b>gemiddeld, mediaan</b> en <b>modus</b>. In plaas hiervan, mag hulle woorde soos ‘die meeste’
+gebruik. Dis egter belangrik om te weet na watter soort gemiddeld ’n verslag verwys,
+want dit omvat verskillende soorte inligting.
+•	 Onthou dat die gemiddeld nuttig is om
+</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet--indented-">Onthou dat die 
+
+      <b>gemiddeld
+</b> nuttig is om ’n stel metingswaardes te beskryf, maar
+dit kan ook vir ander stelle numeriese data gebruik word. As die woord ‘gemiddeld’
+nie verder omskryf word nie, is dit gewoonlik presies wat daarmee bedoel word. Dit
+is egter nie betroubaar as die verspreiding van die data baie wyd is nie.
+</li>
+
+      <li class="Body-bullet--indented-">Die
+ <b>mediaan</b> is die waarde in die middel van ’n geordende datastel. Die helfte
+van die datawaardes in die stel is laer as die mediaan en die helfte is hoër as die
+mediaan. Die mediaan word dikwels as gemiddeld gebruik as die datawaardes nie
+gelyk versprei is nie, omdat die gemiddeld deur ekstreme waardes of uitskieters
+beïnvloed word en die mediaan nie. As huispryse byvoorbeeld baie verskil, sal die
+mediaan ’n beter beskrywing van die data wees as die gemiddeld. As die mediaan in
+’n verslag gebruik word, behoort die skrywer aan te dui dat dit as ’n middelwaarde
+gebruik word.
+</li>
+
+      <li class="Body-bullet--indented-">Die
+ <b>modus
+</b> is die getal wat die meeste in ’n datastel voorkom. As ons byvoorbeeld
+data oor mense se geliefkoosde kleure insamel, sal die data uit ’n lys kleure bestaan
+en die modus sal die kleur wees wat die meeste voorkom. Die modus kan ook by
+getalle gebruik word. Nie alle datastelle het ’n modus nie, omdat geeneen van die
+getalle partykeer meer as een keer voorkom nie.
+</li>
+    </ul><h4 xmlns="http://www.w3.org/1999/xhtml">Voorbeeld
+</h4>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die algemene manier waarop huispryse in Suid-Afrika en internasionaal gerapporteer
+word, is die mediaan huisprys, wat deur ekonome in finansiële verslae gebruik word. Die
+mediaan word as meer bruikbaar as die gemiddelde huisprys beskou, omdat die verkope
+van ’n paar duur huise die gemiddeld sal opjaag, maar nie die mediaan sal affekteer nie.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">As ’n bank ’n verband ter waarde van R100 000 vir agt huise toestaan, en vir twee
+huise verbande ter waarde van R1 miljoen, sal die gemiddeld R280 000 wees. Dit lyk nie
+na ’n goeie weergawe van die waarde van huise nie, omdat die hoër waardes die prys
+skeefgetrek het. Die mediaanprys sal R100 000 wees, wat ’n baie beter aanduiding van
+die pryse is.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Onthou dat die mediaan die middelste punt is. Die helfte van die waardes lê onder die
+mediaan en die ander helfte lê daar bokant. As die mediaan laer as die gemiddeld is, dui
+dit daarop dat daar hoë waardes is wat die gemiddeld skeeftrek.
+</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Gebruik verskillende tipes opsommende statistiek</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Watter soort gemiddeld is in elk van die stellings gebruik?
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) Die gemiddelde familie het 2,6 kinders.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Die gemiddelde familie het 2,6 kinders.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) Die meeste mense verkies rooi motors.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) Die gemiddelde lengte van vroue is 1,62 m.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e) Meer mense doen na werk inkope as enige ander tyd van die dag.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Die gemiddelde maandelikse salaris van al die personeel by maatskappy ABC is
+R8 000 per maand, maar die mediaansalaris is R5 000.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Verduidelik hoekom die twee opsommende statistieke so verskil.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)Watter gemiddeld gee die beste weergawe van die salarisse van die maatskappy? 	
+Gee redes vir jou antwoord.
+</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-14">Misleidende grafieke</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die media (koerante, tydskrifte, televisie) gebruik dikwels grafieke om inligting voor te
+stel. Ongelukkig word die inligting dikwels gemanipuleer om ’n spesifieke uitkoms te
+beklemtoon. Dit mag wees omdat die skrywer sy/haar argument duideliker onder die
+leser se aandag wil bring.
+</p>
+
+    <h4 xmlns="http://www.w3.org/1999/xhtml"> Verander die skaal van die asse
+ </h4>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">As die skaal van die vertikale as van ’n staaf- of lyngrafiek verander word, lyk die grafiek
+anders. In die geval van ’n staafgrafiek: hoe groter die afstand tussen die getalle op die
+vertikale as, hoe duideliker is die verskillende lengtes van die stawe sigbaar en hoe kleiner
+die afstand tussen die getalle op die vertikale as is, hoe kleiner vertoon die verskil in die
+lengtes van die stawe. Dieselfde geld vir ’n lyngrafiek wat óf skerp punte sal hê óf baie
+platter sal wees, afhangende van hoe die skaal verander word.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-2"><b>Voorbeeld
+</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die twee gebrokelyngrafieke wys presies dieselfde data van ’n besigheid se verkope oor ’n
+tydperk van ses maande. Watter grafiek gee die meer akkurate indruk?
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/1553761.png" alt="155376.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/1553661.png" alt="155366.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Grafiek B het ’n verskillende skaal op die vertikale as. Die vertikale as begin nie by 0
+nie en is onderbreek. Die spasies tussen die hoeveelhede is baie groter aangesien twee
+blokkies op die vertikale as 100 items verteenwoordig, in plaas van een blokkie, soos in
+Grafiek A. Dit veroorsaak dat dit lyk asof die verkope sterk gestyg het oor ’n periode van
+ses maande.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Let daarop dat dit nie noodwendig verkeerd is om die skale op die asse te verander,
+of nie by 0 te begin nie. Byvoorbeeld, grafieke wat die skommeling op die aandele-
+beurs vertoon, wys baie selde die oorsprong op die grafiek en makelaars word geleer om
+die grafieke in daardie vorm te interpreteer. Partykeer het klein veranderinkies in da-
+tawaardes ’n belangrike uitwerking en in daardie gevalle mag dit geldig wees om die skaal
+te verander om aandag daarop te vestig.
+</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Ontleed grafieke</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Hierdie grafiek van Statistiek Suid-Afrika wys die verhoging in die persentasie
+huishoudings wat oor ’n tydperk van tien jaar toegang tot kraanwater gehad het.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/1553561.png" alt="155356.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Lewer kommentaar op die skaal wat op die vertikale as gebruik is. Is die grafiek
+	misleidend?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Hoe sou jy die grafiek teken sodat die verskille nog meer opvallend is?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Hoe sal jy die grafiek teken sodat die verskille minder opvallend sal wees?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. In hierdie grafiek stel die hoogte van die huise die getal verkope voor.
+</p>
+
+
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-2"><img class="frame-107" src="Maths_English_LB_gr9_term4_1-web-resources/image/pg171.png" alt="Maths%20ch10%20aw%20(house).tif"/></div>
+
+           </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Dink jy dat hierdie grafiek misleidend is? Gee rede(s) vir jou antwoord.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Kyk na die twee grafieke hier onder:
+</p>
+ 
+
+<div xmlns="http://www.w3.org/1999/xhtml" class="frame-2"><img class="frame-107" src="Maths_English_LB_gr9_term4_1-web-resources/image/pg1711.png" alt="Maths%20ch10%20aw%20(house).tif"/></div>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"> Watter grafiek is volgens jou reg geteken? Verduidelik jou antwoord.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-15">Ontleed uiterste waardes en uitskieters</h2>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">’n Datawaarde wat baie anders as al (of meeste
+van) die ander waardes in ’n stel data is, word ’n
+ <span class="char-style-override-2"><b>uitskieter  
+</b></span>  genoem.
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Dit is soms moeilik om ’n uitskieter in numeriese data raak te sien. Uitskieters word egter
+makliker raakgesien as die data op ’n grafiek aangedui word.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-15"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/1553391.png" alt="155339.png"/></span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Die bostaande spreidingsgrafiek wys hoe ’n groep leerders in Wiskunde en
+Geskiedenis presteer het. Watter van die punte op die spreidingsgrafiek kan as
+uitskieters beskou word? Gee redes vir jou antwoord.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Uitskieters in datastelle kan baie belangrik wees. Ons moet besluit of daar ’n spesifieke
+rede is vir die betrokke waarde wat so van die ander verskil. Soms gee dit ons belangrike
+inligting. In sommige gevalle is die data wat vir hierdie punt ingesamel is, verkeerd.
+Die spreidingsgrafiek hier onder is data wat ’n vervoermaatskappy ingesamel het.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Die spreidingsgrafiek hier onder is data wat ’n vervoermaatskappy ingesamel het.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/1570491.png" alt="157049.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Die maatskappy gebruik net een soort vragmotor. Voor elke vervoeropdrag uitgevoer
+word, moet die maatskappy die koste van die vervoer spesifiseer. Ten einde die prys te
+verskaf voordat die taak uitgevoer kan word, moet die maatskappy ’n skatting maak van
+hoeveel dit hulle gaan kos om die opdrag uit te voer. Een van die hoofuitgawes is die
+koste van petrol en die belangrikste faktor wat die hoeveelheid petrol beïnvloed, is die
+afstand wat afgelê moet word. Die vrag se gewig speel ook ’n rol: hoe swaarder die vrag
+hoe hoër die petrolverbruik (liter/100km).
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml">Die tabel op die volgende bladsy verskaf inligting wat met vorige vervoeropdragte
+aangeteken is. Die opdragte is van 1 tot 16 genommer en vir elke vervoeropdrag is die
+waardes van vier veranderlikes gegee: afstand, vraggewig, hoeveelheid petrol gebruik en
+pertrolverbruik-koers.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) Watter van die drie veranderlikes word gewys op die spreidingsgrafiek hier bo?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Wat is die waardes van hierdie twee veranderlikes vir die punt wat met die blou
+	
+pyltjie op die spreidingsgrafiek aangedui word?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><table xmlns="http://www.w3.org/1999/xhtml" id="table-34" class="No-Table-Style table-style-override-3"><tbody><tr class="Row-Column-43"><td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Opdrag 
+nommer 
+</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Afstand (km) 
+</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Vraggewig (kg) 
+</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Hoeveelheid 
+petrol (liter) 
+</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Petrolverbruik
+(liter/100km)
+</b></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 304</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5 445</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">879</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">67.4</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 320</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 954</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">639</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">48.4</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 151</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 705</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">698</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">60.6</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 371</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 378</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">787</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">57.4</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">325</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3 673</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">176</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">54.2</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 630</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5 995</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 113</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">68.3</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 023</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5 357</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">600</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">58.7</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">620</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 988</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">382</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">61.6</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">73</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 992</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">35</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">47.9</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 071</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5 529</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">680</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">63.5</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">370</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 140</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">218</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">58.9</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 423</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 062</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">843</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">59.2</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">13</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">394</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 068</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">221</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">56.1</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">14</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 536</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 678</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">682</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">44.4</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 633</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3 736</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">887</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">54.3</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">16</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">435</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3 644</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">241</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">55.4</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3. (a) Kyk na die spreidingsgrafiek en die stel data. Wat is die invloed van vraggewig
+	
+op die petrolverbruik?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Is opdrag 7 ’n uitsondering in hierdie verband? Verduidelik jou antwoord.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Verdere ondersoeke het getoon dat die bestuurder van opdragte 2 en 7 dieselfde
+persoon was en dat hy nie die bestuurder was vir die ander vervoeropdragte nie. Wat
+kan dit aandui?
+ </p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Vind uitskieters</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Navorsers het data ingesamel oor die bevolkings van sekere Afrika-lande en die Seychelle,
+die inkomste per persoon en die persentasie inkomste wat op gesondheid spandeer word.
+</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-35" class="No-Table-Style"><tbody><tr class="Row-Column-43"><td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Land
+</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Totale bevolking 
+(in 1 000e) 
+</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Totale nasionale 
+inkomste per persoon 
+(VSA$) 
+</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Persentasie
+inkomste spandeer
+op gesondheid
+</b></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Angola</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">18 498</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 830</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4,6</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Botswana</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 950</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">13 310</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">10,3</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">DRK</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">66 020</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">280</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2,0</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Lesotho</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 067</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 970</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8,2</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Malawi</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">15 263</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">810</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6,2</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Mauritius</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 288</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12 580</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5,7</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Mosambiek 
+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">22 894</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">770</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5,7</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Namibië 
+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 171</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6 250</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5,9</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Seychelle</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">84</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">19 650</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4,0</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Suid-Afrika 
+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">50 110</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9 790</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8,5</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Swaziland</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 185</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5 000</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6,3</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Tanzanië 
+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">43 739</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 260</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5,1</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Zambië 
+</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12 935</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 230</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4,8</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Wat is die drie veranderlikes in hierdie tabel?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Hoekom dink jy is dit in hierdie geval belangrik om liewer na inkomste per persoon te
+kyk as na die totale inkomste?
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Vir elke land, stip die punte vir die nasionale inkomste per persoon en die persentasie
+inkomste wat op gesondheidsorg spandeer word.
+</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/157865.png" alt="157865.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Skryf ’n kort verslaggie oor die data in die tabel en wat die spreidingsgrafiek jou van
+die data wys. Lewer kommentaar op die algemene tendens en die uitskieters.
+</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> 
+  </div>
+</div>
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" href="#">&larr; Vorige afdeling</a></li>
+          <li><a href="inhoudsopgawe-afr.html">Inhoudsopgawe</a></li>
+          <li><a class="next" href="#">Volgende afdeling &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

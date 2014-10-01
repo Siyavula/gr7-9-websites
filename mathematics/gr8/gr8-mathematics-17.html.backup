@@ -1,0 +1,1099 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr8 Mathematics</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+    <!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/index.html">Grade 7-9 Workbooks</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="/index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mathematics<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/mathematics/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/mathematics/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/mathematics/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natural Sciences<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/natural-sciences/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/natural-sciences/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/natural-sciences/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/technology/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/technology/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/technology/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+
+                <li><a href="/downloads.html">Downloads</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/about.html#contact">Contact</a></li>
+
+            </ul>
+
+        </div><!--/.nav-collapse -->
+    </div>
+</div>
+<div class="container">
+    <div class="language-toggle">
+        <button type="button" class="btn btn-primary active ">English</button>
+        <button type="button" class="btn btn-default">Afrikaans</button>
+    </div>
+</div>
+
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-12">The theorem of pythagoras</h1>
+  
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">Right-angled triangles have a
+    special feature that does not apply to other types of
+    triangles. In this chapter, you will investigate this feature,
+    which has come to be known as the theorem of Pythagoras. A
+    theorem is a statement that is proved to be true through
+    reasoning. Once you understand the theorem, you will practise
+    applying it in various ways.</p>
+
+
+        <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-13">The lengths of sides of right-angled triangles</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">What do you remember about triangles?</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-166" src="Maths_English_LB_gr8_term3_1-web-resources/image/193241.png" alt="193241.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">If the vertices of a triangle are
+    labelled A, B and C, the sides opposite these vertices are
+    often labelled as a,
+    b and c, as shown in the above
+    diagrams.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">We use the word <b>hypotenuse</b> to indicate the
+    length of the side opposite the 90° angle of a
+    right-angled triangle. The hypotenuse is always the longest
+    side of a right-angled triangle. A triangle with no right angle
+    does not have a hypotenuse.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Investigating the relationship between the lengths of sides</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-4">1.
+    Study the figures below. Each triangle in the following four
+    figures has a square drawn on each of its sides. So, in figure
+    (a), a = 3 units,
+    b = 4 units and
+    c = 5 units
+    long.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-167" src="Maths_English_LB_gr8_term3_1-web-resources/image/193249.png" alt="193249.png"/></div>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)</p>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-168" src="Maths_English_LB_gr8_term3_1-web-resources/image/193266.png" alt="193266.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-169" src="Maths_English_LB_gr8_term3_1-web-resources/image/193301.png" alt="193301.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-170" src="Maths_English_LB_gr8_term3_1-web-resources/image/193292.png" alt="193292.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced">2. Refer to the four
+    figures above to complete the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-20" class="No-Table-Style"><tbody><tr class="Row-Column-175"><td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Figure</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Type of triangle</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Length of side \({a}\)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Length of side \({b}\)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Length of side \({c}\)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred">\({ a^2 } \)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred">\({ b^2 } \)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred">\({ c^2 } \)</p>
+          </td>
+        </tr><tr class="Row-Column-176"><td class="cell-style-override-3">
+            <p class="Table-text-centred">(a)</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"><td class="cell-style-override-3">
+            <p class="Table-text-centred">(b)</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"><td class="cell-style-override-3">
+            <p class="Table-text-centred">(c)</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176"><td class="cell-style-override-3">
+            <p class="Table-text-centred">(d)</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Look at your completed table
+    and then insert =, &gt; or &lt; in the following
+    statements.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">\(a^2 + b^2 ☐c^2\) when \( \triangle ABC\) is an
+    acute-angled triangle.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">\(a^2 + b^2 ☐c^2\) when \( \triangle ABC\) is an
+    obtuse-angled triangle.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">\(a^2 + b^2 ☐c^2\) when \( \triangle ABC\) is a
+    right-angled triangle.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Which of the statements below
+    are correct?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">A. In any right-angled triangle, the area of
+    the square on the hypotenuse is equal to the sum of the areas
+    of the squares on the other two sides.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">B. If a triangle is acute-angled, then the
+    square of the length of the longest side is equal to the sum of
+    the squares of the lengths of the other two sides.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">C. If a triangle is right-angled, then the
+    square of the length of the hypotenuse is equal to the sum of
+    the squares of the lengths of the other two sides.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">D. In any obtuse-angled triangle, the area
+    of the square on the longest side is equal to the sum of the
+    area of the squares on the other two sides.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. The following table
+    gives the side lengths a, b and c of 10 triangles. Complete the
+    table to decide what type of triangle each triangle is
+    (acute-angled, obtuse-angled or right-angled).</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-21" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>a</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>b</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>c</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred">\({\bf a^2 +b^2 } \)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred">\({\bf c^2 } \)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Fill in =, &lt; or &gt;</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Type of triangle</b></p>
+          </td>
+        </tr><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">\(7^2 + 8^2 = 113\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">\(10^2 = 100\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">\(a^2 + b^2 &gt; c^2\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Acute-angled</p>
+          </td>
+        </tr><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">\(4^2 + 5^2 = 41\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">\(8^2 = 64\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">\(a^2 + b^2 &lt; c^2\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Obtuse-angled</p>
+          </td>
+        </tr><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">\(6^2 + 8^2 = 100\)</p>
+          </td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">\(a^2 + b^2 =c^2\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">Right-angled</p>
+          </td>
+        </tr><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">13</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">17</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Body para-style-override-26">\(a^2 + b^2 ☐c^2\)</p>
+          </td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Body para-style-override-26">\(a^2 + b^2 ☐c^2\)</p>
+          </td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Body para-style-override-26">\(a^2 + b^2 ☐c^2\)</p>
+          </td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">13</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Body para-style-override-26">\(a^2 + b^2 ☐c^2\)</p>
+          </td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">17</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Body para-style-override-26">\(a^2 + b^2 ☐c^2\)</p>
+          </td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">60</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">61</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Body para-style-override-26">\(a^2 + b^2 ☐c^2\)</p>
+          </td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-176">
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">35</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">37</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Body para-style-override-26">\(a^2 + b^2 ☐c^2\)</p>
+          </td>
+
+          <td>
+</td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">6. Two pieces of wood,
+    one red and one blue, are loosely tied at one end. The two free
+    ends are linked by a spring.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">The angle between the two wooden rods can be
+    changed.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-186" src="Maths_English_LB_gr8_term3_1-web-resources/image/grade-8-opt-100.png" alt="G8_Maths%20B_Engl_TG_100.tif"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">Describe how this angle affects the length
+    of the spring.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-14">Working with the theorem of pythagoras</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The special relationship between the
+    lengths of the sides of a right-angled triangle is
+    known as the <b>theorem of Pythagoras</b>. It can be stated in
+    terms of area as follows:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">If a triangle has a right
+      angle, then the area of the square with a side on the
+      hypotenuse is equal to the sum of the areas of the squares on
+      the other two sides.</p>
+    </div>
+    
+<div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent para-style-override-2"><b>A note
+      about Pythagoras</b></p>
+
+      <p class="Body-box-no-indent">Pythagoras lived in about 500
+      BCE. The theorem is named after Pythagoras because he may
+      have been the first person to prove it. However, the theorem
+      was known and used in other parts of the world such as Egypt
+      1 200 years before Pythagoras was born.</p>
+    </div>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The reference to area can be left
+    out.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">If a triangle is a
+      right-angled triangle, then the square of the length of the
+      hypotenuse is equal to the sum of the squares of the lengths
+      of the other two sides.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">We can express the relationship
+    between the lengths of the sides of the triangle by means of the
+    equation \(c^2 = a^2 + b^2\) represents the length of the
+    hypotenuse and a and
+    b represent the
+    lengths of the other two sides.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-190" src="Maths_English_LB_gr8_term3_1-web-resources/image/193840.png" alt="193840.png"/></div>
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Working with the formula</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Write a Pythagorean
+    equation for each of the following triangles. Explain what each
+    letter symbol represents.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-191" src="Maths_English_LB_gr8_term3_1-web-resources/image/207237.png" alt="207237.png"/></span> </p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced para-style-override-14">2.
+    Study the worked example below.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-24" class="worked-example"><tbody><tr class="Row-Column-195"> 
+
+          <td class="cell-style-override-3" colspan="2">
+            <p class="Body-investigation para-style-override-2">
+            <b>Example</b></p>
+
+            <p class="Body-investigation">Consider the triangle
+            below. Side a is 3 units long and
+            side b is 4
+            units long. What is the length of side \(c\)?</p>
+          </td>
+        </tr><tr class="Row-Column-199"> 
+
+          <td class="cell-style-override-3">
+            <div class="frame-29"><img class="large" src="Maths_English_LB_gr8_term3_1-web-resources/image/194149.png" alt="194149.png"/></div>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Body-investigation">If side a is 3 units long, and
+            side b is 4
+            units long, then, according to Pythagoras' theorem:</p>
+
+            <p class="ques-a-">\(\begin{align} c^2 &amp;= a^2 + b^2 \\ c^2 &amp;= 3^2 + 4^2 \\ c^2 &amp;= 9 + 16\\ c^2 &amp;= 25 \\  \sqrt{c^2} &amp;= \sqrt{25} \\  c &amp;=   5 \text{ units}\end{align}\)</p>
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-7">3.
+    The areas of some of the squares below are given. Calculate the
+    areas of each of the squares that are not given and the lengths
+    of all the sides.</p>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-203" src="Maths_English_LB_gr8_term3_1-web-resources/image/207261.png" alt="207261.png"/></span> </p>
+
+            <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)</p>
+          
+            <p xmlns="http://www.w3.org/1999/xhtml" class="MQ para-style-override-26"><span><img class="frame-203" src="Maths_English_LB_gr8_term3_1-web-resources/image/207272.png" alt="207272.png"/></span> </p>
+          
+          <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. The following table
+    gives information about the sides of five right-angled
+    triangles. The letter symbol c represents the length of the
+    hypotenuse in all cases. Use Pythagoras' theorem to complete
+    the table, leaving answers in surd form if necessary.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-206" src="Maths_English_LB_gr8_term3_1-web-resources/image/194260.png" alt="194260.png"/></div>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-26" class="No-Table-Style"><tbody><tr class="Row-Column-209"><td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>a</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>b</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>c</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred">\({\bf a^2}\) </p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred">\({\bf b^2}\)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred">\({\bf a^2  +b^2 } \)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred">\({\bf c^2 } \)</p>
+          </td>
+        </tr><tr class="Row-Column-209"><td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">24</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-209"><td class="cell-style-override-3">
+            <p class="Table-text-centred">16</p>
+          </td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Body para-style-override-27">34</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-209"><td class="cell-style-override-3">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">576</p>
+          </td>
+
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr><tr class="Row-Column-209"><td>
+</td>
+
+          <td>
+</td>
+
+          
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3"><p class="Table-text-centred">16</p>
+            
+          </td>
+
+          <td><p class="Table-text-centred">49</p>
+</td>
+          <td>
+</td>
+          <td>
+</td>
+        </tr><tr class="Row-Column-209"><td>
+</td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td><p class="Table-text-centred">1</p>
+</td>
+          <td>
+</td>
+          <td>
+</td>
+
+          <td>
+</td>
+        </tr></tbody></table>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-15">Finding the missing sides in right-angled triangles</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">We can use the theorem of
+    Pythagoras to calculate the length of the third side of a
+    right-angled triangle if we know the lengths of the other two
+    sides.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-27" class="worked-example"><tbody><tr class="Row-Column-212"><td class="cell-style-override-10">
+            <p class="Body-investigation para-style-override-2">
+            <b>Example 1</b></p>
+
+            <p class="Body-investigation">A right-angled triangle
+            has side \(a =
+            6\) units and side \(b = 8\) units. Calculate
+            the length of side \(c\).</p>
+
+            <p class="ques-a-">\(\begin{align} c^2 &amp;= a^2 + b^2 \\ &amp;= 6^2 + 8^2 \\ &amp;= 36 + 64\\ &amp;= 100 \\  \sqrt{c^2} &amp;= \sqrt{100} \\ c&amp;= 10 \\ ∴c &amp;=  10 \text{ units}\end{align}\)</p>
+
+          </td>
+</tr>
+</tbody>
+</table>
+
+<table xmlns="http://www.w3.org/1999/xhtml" class="worked-example">
+<tbody>
+<tr>
+
+          <td class="cell-style-override-10">
+            <p class="Body-investigation para-style-override-2">
+            <b>Example 2</b></p>
+
+            <p class="Body-investigation">A right-angled triangle
+            has side \(a =
+            5\) units and side \(b = 3\) units. Calculate
+            the length of side \(c\).</p>
+
+            <p class="ques-a-">\(\begin{align} c^2 &amp;= a^2 + b^2 \\ &amp;= 5^2 + 3^2 \\ &amp;= 25 + 9\\ &amp;= 34 \\  \sqrt{c^2} &amp;= \sqrt{34} \\ c&amp;= \sqrt{34} \text{ (leave in surd form)} \\ ∴c &amp;=  \sqrt{34} \text{ units}\end{align}\)</p>
+          </td>
+        </tr></tbody></table><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Calculating the length of the hypotenuse</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-7">Use the
+    formula for the theorem of Pythagoras to calculate the length
+    of the hypotenuse. Leave answers in surd form if necessary.</p>
+ 1. 
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-214" src="Maths_English_LB_gr8_term3_1-web-resources/image/194595.png" alt="194595.png"/></div>
+           
+            <hr xmlns="http://www.w3.org/1999/xhtml"/> 
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-216" src="Maths_English_LB_gr8_term3_1-web-resources/image/194606.png" alt="194606.png"/></div>
+            <hr xmlns="http://www.w3.org/1999/xhtml"/>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-218" src="Maths_English_LB_gr8_term3_1-web-resources/image/194615.png" alt="194615.png"/></div>
+            <hr xmlns="http://www.w3.org/1999/xhtml"/> 
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-219" src="Maths_English_LB_gr8_term3_1-web-resources/image/194640.png" alt="194640.png"/></div>
+        
+            <hr xmlns="http://www.w3.org/1999/xhtml"/> 
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. A right-angled
+            triangle with hypotenuse c and sides the
+            following lengths:</p>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">a = 9 cm, b = 40 cm.</p>
+       
+            <hr xmlns="http://www.w3.org/1999/xhtml"/>
+            
+            <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Calculating the length of any side in a right-angled triangle</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Calculate the missing sides in the
+    following triangles. Do not use a calculator and leave the
+    answers in the simplest surd form where necessary.</p>
+
+  
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-222" src="Maths_English_LB_gr8_term3_1-web-resources/image/194846.png" alt="194846.png"/></div>
+       
+            <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-224" src="Maths_English_LB_gr8_term3_1-web-resources/image/194857.png" alt="194857.png"/></div>
+         
+            <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-226" src="Maths_English_LB_gr8_term3_1-web-resources/image/194871.png" alt="194871.png"/></div>
+
+            <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-228" src="Maths_English_LB_gr8_term3_1-web-resources/image/194882.png" alt="194882.png"/></div>
+             <hr xmlns="http://www.w3.org/1999/xhtml"/>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-230" src="Maths_English_LB_gr8_term3_1-web-resources/image/214527.png" alt="214527.png"/></div>
+     
+            <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-16">Are the triangles right-angled?</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">You learnt in sections 3.1 and 3.2
+    that in a right-angled triangle the area of the square on the
+    hypotenuse is equal to the sum of the areas of the squares on
+    the other two sides.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">How can we tell whether a triangle is
+    right-angled if we are given the lengths of the sides? One way
+    is to use the "converse" of the Pythagoras theorem.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">The converse states that if
+      the sum of the squares of the lengths of two sides equals the
+      square of the length of the longest side, then the triangle
+      is a right-angled triangle.</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">A converse is a statement that
+      swaps around <b>what
+      is given</b> in
+      a theorem and <b>what must
+      be determined</b>.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">We can also state the converse as
+    follows:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">If a triangle has side
+      lengths \(a\),
+      \(b\) and \(c\) such that \(c^2 = a^2 + b^2\), then the triangle is a
+      right-angled triangle.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In the questions that follow, you
+    have to determine whether triangles are right-angled or not.
+    You may study the example first.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-33" class="worked-example"><tbody><tr class="Row-Column-223"><td class="cell-style-override-3">
+            <p class="Body-investigation"><b>Example:</b> Determine
+            whether the triangle is right-angled or not.</p>
+
+            <img class="medium" src="Maths_English_LB_gr8_term3_1-web-resources/image/195097.png" alt="195097.png"/> 
+
+            <p class="ques-a-">\(\text{(Length of longest side)}^2 = (15)^2 = 225 \\ \text{Sum of the 
+            squares of the lengths of the other two sides} \\  = 9^2 + 12^2 \\  = 81 + 144 \\ = 225  \\ \text{(Longest side length)}^2 = \text{Sum of squares of other two sides lengths} \\ 15^2 = 9^2 + 12^2 \\ ∴ \text{The
+            triangle is right-angled}.\)</p>
+          </td>
+        </tr></tbody></table>
+        
+        <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Right-angled or not ?</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Determine whether the triangles
+    are right-angled or not.</p>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-237" src="Maths_English_LB_gr8_term3_1-web-resources/image/195111.png" alt="195111.png"/></div>
+      
+            <hr xmlns="http://www.w3.org/1999/xhtml"/>
+ 
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2.</p>
+
+            <div xmlns="http://www.w3.org/1999/xhtml" class="frame-29"><img class="frame-239" src="Maths_English_LB_gr8_term3_1-web-resources/image/195121.png" alt="195121.png"/></div>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+            <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. A triangle has
+            sides measuring 6, 9 and 15 units.</p>
+ <hr xmlns="http://www.w3.org/1999/xhtml"/>
+ <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Which of the following
+    lengths of<a id="Anchor-34"/> sides of a triangle will form
+    a right-angled triangle? Answer without doing any calculations
+    and explain your answer.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(a) 4, 2, 2 </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(b) 6, 8, 10</p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml"> (c) 9,
+    12, 15</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">(d) 3, 4, 6 </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(e) \(3x\), \(4x\), \(5x\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml">(f) 30, 40, 50</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+  </div>
+</div>
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

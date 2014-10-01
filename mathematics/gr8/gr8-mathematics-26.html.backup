@@ -1,0 +1,1047 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr8 Mathematics</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+    <!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/index.html">Grade 7-9 Workbooks</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="/index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mathematics<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/mathematics/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/mathematics/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/mathematics/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natural Sciences<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/natural-sciences/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/natural-sciences/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/natural-sciences/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/technology/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/technology/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/technology/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+
+                <li><a href="/downloads.html">Downloads</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/about.html#contact">Contact</a></li>
+
+            </ul>
+
+        </div><!--/.nav-collapse -->
+    </div>
+</div>
+<div class="container">
+    <div class="language-toggle">
+        <button type="button" class="btn btn-primary active ">English</button>
+        <button type="button" class="btn btn-default">Afrikaans</button>
+    </div>
+</div>
+
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-13">Transformation geometry</h1>
+    
+ <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">In previous grades, you learnt
+    about translating, reflecting and rotating geometric figures.
+    These changes in the positions of figures are types of
+    transformations. You will now learn how to plot transformations
+    on a coordinate system. Here, you will focus on the change in
+    the coordinates of points and geometric figures on the
+    coordinate system. You will also revise how to enlarge and
+    reduce figures, and investigate in more detail how the sides of
+    enlarged and reduced figures must be in proportion. Then you
+    will explore how enlarging or reducing a figure affects the
+    sizes of its perimeter and area.</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-14">Transformations and coordinate systems</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">What are transformations?</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A figure can be moved from one
+    position to another on a flat surface by <b>sliding</b> (translating),
+    <b>turning</b> (rotating)
+    or <b>flipping</b> it over
+    (reflecting), or by a combination of such movements. These and
+    other kinds of movements are also called <b>transformations</b>.</p>
+
+ <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+    <p class="Box-list-head">A slide, also called a <b>translation</b></p>
+  </div>
+  
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-139" src="Maths_English_LB_gr8_term4_1-web-resources/image/169828.png" alt="169828.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A slide can also be performed in
+    steps, as indicated by the green arrows.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Box-list-head">A flip-over, also called a
+	<b>reflection</b></p>
+      </div>
+      
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-140" src="Maths_English_LB_gr8_term4_1-web-resources/image/169819.png" alt="169819.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">You may also think of folding the
+    paper over on the dotted line.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+    <p class="Box-list-head">A swing or turn, also called a
+    <b>rotation</b></p>
+  </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-141" src="Maths_English_LB_gr8_term4_1-web-resources/image/169806.png" alt="169806.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-13">The object is
+    swung (rotated) clockwise or anticlockwise around a point
+    called the <b>centre of
+    rotation</b>. It is as if you hold the object on a
+    string.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In its new position, the figure is
+    called the <b>image</b> of
+    the original figure. In the diagrams above, the original
+    figures are blue and the images are yellow. Slides, turns and
+    flips do not change the shape or size of a figure. Hence, in
+    these transformations, the original figure and its image are
+    always congruent.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">To name the image, we use the same
+    letters as in the original figure, but we add the prime symbol
+    (<span class="char-style-override-27">'</span>) after each
+    letter. For example, the image of \(\triangle ABC\) is
+    \(\triangle A'B'C'\). If there is a second image,
+    we add two prime symbols, for example \(\triangle A''B''C''\). If there is a third
+    image, we use three prime symbols, for example
+    \(\triangle A'''B'''C'''\), and so on.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-142" src="Maths_English_LB_gr8_term4_1-web-resources/image/169343.png" alt="169343.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The grid in <span>the background
+    makes it possible to describe the different</span> positions of
+    the <span>figure clearly. To do that, a</span> <b>system of axes</b> <span>can be
+    d</span><span>rawn on the g</span><span>rid to form a</span>
+    <b>coordinat</b><b>e system</b>, as you will see
+    o<span>n the next pa</span>ge. But first, answer the question
+    below.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">A <b>coordinate system</b> consists of
+      numbered horizontal and vertical lines that are used to
+      describe position.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">In each case, state whether the
+    triangle was translated, reflected or rotated.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. <span><img class="frame-143" src="Maths_English_LB_gr8_term4_1-web-resources/image/169305.png" alt="169305.png"/></span> 2. <span><img class="frame-144" src="Maths_English_LB_gr8_term4_1-web-resources/image/169296.png" alt="169296.png"/></span> </p>
+
+       <div xmlns="http://www.w3.org/1999/xhtml" class="Basic-Text-Frame">
+        <hr/></div>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3. <span><img class="frame-143" src="Maths_English_LB_gr8_term4_1-web-resources/image/169240.png" alt="169240.png"/></span> 4. <span><img class="frame-144" src="Maths_English_LB_gr8_term4_1-web-resources/image/169232.png" alt="169232.png"/></span> </p>
+
+        <div xmlns="http://www.w3.org/1999/xhtml" class="Basic-Text-Frame">
+        <hr/></div>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">5. <span><img class="frame-143" src="Maths_English_LB_gr8_term4_1-web-resources/image/169175.png" alt="169175.png"/></span> 6. <span><img class="frame-143" src="Maths_English_LB_gr8_term4_1-web-resources/image/169167.png" alt="169167.png"/></span> </p>
+
+       <div xmlns="http://www.w3.org/1999/xhtml" class="Basic-Text-Frame">
+        <hr/></div>
+
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Coordinate systems</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The position of any point on a system
+    of coordinates can be described by two numbers, as demonstrated
+    below for the points A, B, C and D.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">In honour of the French
+      mathematician Descartes who invented it, a coordinate system
+      is also called <i>a system of
+      Cartesian coordinates</i>.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-146" src="Maths_English_LB_gr8_term4_1-web-resources/image/169086.png" alt="169086.png"/></span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The horizontal axis on the coordinate
+    system is called the \(x\)-axis and the vertical axis is
+    called the \(y\)-axis.
+    The ordered pair (4; 3) indicates that the value of the
+    \(x\)-coordinate is 4
+    and the value of the \(y\)-coordinate is 3. A coordinate
+    system is divided into four sections called <b>quadrants</b>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. What are the coordinates of
+    each of the following points on the above grid?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-16">E</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-16">F</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns para-style-override-16">G</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">H</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">I</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--3-columns">J</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">The first quadrant is coloured
+    yellow on the system on the right, the
+    second quadrant green, the third quadrant blue and the fourth
+    quadrant red.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-148" src="Maths_English_LB_gr8_term4_1-web-resources/image/168933.png" alt="168933.png"/></div>
+
+ 
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Mark the following points on
+    the coloured coordinate system.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">A(5; 2) B(-4; 3)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">C(-5; 1) D(-3; -3)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">E(-6; -2) F(2; -3)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">G(5; -2) H(4; -6)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">3. (a) In which quadrant are
+    both coordinates positive?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) In which quadrant are both
+    coordinates negative?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) In which quadrant is only
+    the \(x\)-coordinate
+    negative?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) In which quadrant is only
+    the \(y\)-coordinate
+    negative?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-15">Translation on the coordinate system</h2>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Revise the <b>properties of translation</b>
+      from Grade 7:</p>
+	
+      <ul>
+	  <li>The line segments that connect any point in the 
+original figure to its image are all equal in length. 
+  In the diagram: PP' = RR' = QQ' </li>
+  <li>The line segments that connect any original point 
+in the figure to its image are all parallel. In the 
+  diagram: PP'||RR'||QQ' </li>
+<li>When a figure is translated, its shape and size
+do not change. The original and its image are
+  congruent.</li>
+</ul>   
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-154" src="Maths_English_LB_gr8_term4_1-web-resources/image/168816.png" alt="168816.png"/></div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Translating points on the coordinate system</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Plot the image of each of the
+    following translations.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) R is translated 3 units down to
+    R<span class="char-style-override-27">'</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) R<span class="char-style-override-27">'</span> is translated 4 units to the
+    left, to R<span class="char-style-override-27">''</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) W is translated 5 units to the right, to
+    W<span class="char-style-override-27">'</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) W<span class="char-style-override-27">'</span> is translated 6 units up, to
+    W<span class="char-style-override-27">''</span>.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-156" src="Maths_English_LB_gr8_term4_1-web-resources/image/168781.png" alt="168781.png"/></div>
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) Write down the coordinates of points
+    A, B and C.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Translate A, B and C 6 units to the left
+    and 4 units up.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Write down the coordinates of points
+    A<span class="char-style-override-27">'</span>, B<span class="char-style-override-27">'</span> and C<span class="char-style-override-27">'</span>.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Join points A, B and C to form a
+    triangle. Do the same with points A<span class="char-style-override-27">'</span>, B<span class="char-style-override-27">'</span> and C<span class="char-style-override-27">'</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) Are \triangle}ABC and
+    \triangle}A<span class="char-style-override-27">'</span>B<span class="char-style-override-27">'</span>C<span class="char-style-override-27">'</span> congruent?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-157" src="Maths_English_LB_gr8_term4_1-web-resources/image/168771.png" alt="168771.png"/></div>
+    
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Translating triangles on the coordinate system</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">When you plot the transformation of a
+    shape, first plot the images of the vertices of the shape and
+    then join the image points to create the shape.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. (a)  
+
+   
+ Translate \(\triangle PQR\) 6 units to the right and 2 units down. What are the
+    coordinates of the vertices of \(\triangle P'Q'R'\)?</p><div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-159" src="Maths_English_LB_gr8_term4_1-web-resources/image/168686.png" alt="168686.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Translate \(\triangle PQR\) 4 units to the
+    left and 3 units up. What are the coordinates of the vertices
+    of \(\triangle PQ''R''\)?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) Translate \(\triangle DEF\) 4 units
+    to the left and 2 units down. What are the
+    coordinates of the vertices of \(\triangle D'E'F'\)?</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-160" src="Maths_English_LB_gr8_term4_1-web-resources/image/168605.png" alt="168605.png"/></div>
+
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Translate \(\triangle DEF\) 3 units to the
+    right and 4 units up. What are the coordinates of the vertices
+    of \\(\triangle D''E''F''\)?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Write down the
+    coordinates of the vertices of \(\triangle KLM\) after each
+    translation described in the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-69" class="No-Table-Style table-style-override-2"><tbody><tr class="Row-Column-162"><td class="cell-style-override-4">
+            <p class="Table-header-left"><b>Vertices of triangle</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-left">Translated 5 units to the
+            right and 2 units down</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-left">Translated 4 units to the
+            left and 3 units down</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-left">Translated 2 units to the
+            right and 3 units up</p>
+          </td>
+        </tr><tr class="Row-Column-40"><td class="cell-style-override-4">
+            <p class="Table-text-left" xml:lang="en-GB">K(-1;
+            3)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Row-Column-40"><td class="cell-style-override-4">
+            <p class="Table-text-left" xml:lang="en-GB">L(-2;
+            -3)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Row-Column-40"><td class="cell-style-override-4">
+            <p class="Table-text-left" xml:lang="en-GB">M(4; 0)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr></tbody></table><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-16">Reflection on the coordinate system</h2>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Revise the <b>properties of reflection</b> from
+      Grade 7:</p>
+	<ul>
+	  <li>The image of ∆FGH lies on the opposite side
+	    of the <b>line of reflection</b> (mirror line).</li>
+	    <li>The distance from the original point to the
+line of reflection is the same as the distance
+from the image point to the line of reflection.
+In the diagram: GE = G'E; FC = F'C and HD = H'D.</li>
+<li>The line that connects the original point to
+its image point is always perpendicular (⊥) to
+the line of reflection. In the diagram:
+HH' ⊥ line of reflection, FF' ⊥ line of reflection
+  and GG' ⊥ line of reflection.</li>
+  <li>When a figure is reflected, the figure and its image
+are congruent.
+</li>
+</ul>      
+      
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-164" src="Maths_English_LB_gr8_term4_1-web-resources/image/168503.png" alt="168503.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A line of reflection can run in any
+    direction. This year, you will learn about reflections in the
+    \(x\)-axis or in the
+    \(y\)-axis only.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Reflecting points in the \(x\) -axis or in the \(y\) -axis</h3>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Reflecting a point in the
+      \(x\)-axis means that
+      the \(x\)-axis is the
+      line of reflection.
+      Reflecting a point in the \(y\)-axis means that
+the \(y\)-axis is the line of reflection.
+
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. The points A(5; 4) and B(-3;
+    -2) are plotted on a coordinate
+    system.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-166" src="Maths_English_LB_gr8_term4_1-web-resources/image/168485.png" alt="168485.png"/></div>
+
+ 
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Reflect points A and B in the
+    \(x\)-axis (horizontal
+    mirror) and then in the \(y\)-axis (vertical mirror).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) What are the coordinates of the images
+    of point A and B when reflected in the \(x\)-axis?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) What are the coordinates of the images
+    of point A and B when reflected in the \(y\)-axis?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Compare the coordinates of points A and
+    B with the coordinates of their images. What do you notice?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. The points K, M and T are
+    plotted on the coordinate system.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-167" src="Maths_English_LB_gr8_term4_1-web-resources/image/168477.png" alt="168477.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Write down the coordinates of points K,
+    M and T.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Reflect each point in the \(x\)-axis and write down the
+    coordinates of K<span class="char-style-override-27">'</span>,
+    M<span class="char-style-override-27">'</span> and
+    T<span class="char-style-override-27">'</span>.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Reflect points K, M and T in the
+    \(y\)-axis and write
+    down the coordinates of K<span class="char-style-override-27">''</span>, M<span class="char-style-override-27">''</span> and T<span class="char-style-override-27">''</span>.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Join points K, M and T to form a
+    triangle. Do the same with points K<span class="char-style-override-27">'</span>, M<span class="char-style-override-27">'</span> and T<span class="char-style-override-27">'</span>, and with points
+    K<span class="char-style-override-27">''</span>, M<span class="char-style-override-27">''</span> and T<span class="char-style-override-27">''</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e) Are all three triangles
+    congruent?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Reflecting triangles in the \(x\) -axis or in the \(y\) -axis</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">When you reflect a triangle, first
+    reflect the vertices of the triangle and then join the
+    reflected points.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. (a) Reflect \(\triangle PQR\) in the
+    \(x\)-axis.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-170" src="Maths_English_LB_gr8_term4_1-web-resources/image/168372.png" alt="168372.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Reflect \(\triangle PQR\) in the
+    \(y\)-axis.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) Reflect \(\triangle DEF\) in the
+    \(x\)-axis.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Reflect \(\triangle DEF\) in the
+    \(y\)-axis.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-157" src="Maths_English_LB_gr8_term4_1-web-resources/image/168364.png" alt="168364.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. The coordinates of the
+    vertices of three triangles are given in the tables below. For
+    each vertex, write down the coordinates of its reflection in
+    the \(x\)-axis or in the
+    \(y\)-axis as
+    required.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p>
+    
+        <table xmlns="http://www.w3.org/1999/xhtml" id="table-72" class="No-Table-Style table-style-override-2"><tbody><tr class="Row-Column-117"><td class="cell-style-override-4">
+            <p class="Table-header-left"><b>Vertices of triangle</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-left"><b>Reflection in the
+            <span class="Head-Invest-variable-bold-italic">\(x\)</span>-axis</b></p>
+          </td>
+
+         
+        </tr><tr class="Row-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-left" xml:lang="en-GB">K(-4;
+            5)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+
+        </tr><tr class="Row-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-left" xml:lang="en-GB">L(2;
+            -5)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+        </tr><tr class="Row-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-left" xml:lang="en-GB">M(-5;
+            -3)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+
+        </tr></tbody></table>
+        
+    
+    <p xmlns="http://www.w3.org/1999/xhtml"> (b)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" class="No-Table-Style table-style-override-2"><tbody><tr class="Row-Column-117">
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-left"><b>Vertices of triangle</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-left"><b>Reflection in the
+            <span class="Head-Invest-variable-bold-italic">\(y\)</span>-axis</b></p>
+          </td>
+        </tr><tr class="Row-Column-45">
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-left" xml:lang="en-GB">X(-1;
+            3)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Row-Column-45">
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-left" xml:lang="en-GB">Y(-2;
+            -3)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Row-Column-45">
+
+          <td class="cell-style-override-4">
+            <p class="Table-text-left" xml:lang="en-GB">Z(4; 1)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr></tbody></table>
+        
+        <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-73" class="No-Table-Style table-style-override-2"><tbody><tr class="Row-Column-45"><td class="cell-style-override-4">
+            <p class="Table-header-left"><b>Vertices of triangle</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-left"><b>Reflection in the
+            <span class="Head-Invest-variable-bold-italic">\(y\)</span>-axis</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-left"><b>Reflection in the
+            <span class="Head-Invest-variable-bold-italic">\(x\)</span>-axis</b></p>
+          </td>
+        </tr><tr class="Row-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-left" xml:lang="en-GB">D(-2;
+            5)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Row-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-left" xml:lang="en-GB">E(0;
+            -3)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr><tr class="Row-Column-45"><td class="cell-style-override-4">
+            <p class="Table-text-left" xml:lang="en-GB">G(2; 0)</p>
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+
+          <td class="cell-style-override-4">
+            
+          </td>
+        </tr></tbody></table>
+	
+	<h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-17">Rotation on the coordinate system</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The distance from the centre of
+    rotation to any point on the original image is equal to the
+    distance from the centre of rotation to its corresponding point
+    on the image. In the diagrams below: SA = S<span class="char-style-override-27">'</span>A, PA = P<span class="char-style-override-27">'</span>A and RA = R<span class="char-style-override-27">'</span>A.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The angle that is formed between the line
+    connecting an original point (S or P or R) to the centre of
+    rotation A and the line connecting the image point
+    (S<span class="char-style-override-27">'</span>, P<span class="char-style-override-27">'</span>, R<span class="char-style-override-27">'</span>) to the centre of rotation is
+    equal to the angle of rotation. In the diagrams: the triangle
+    was rotated through 90°, so
+   \(S\hat{A}S' = 90^{\circ},\)
+   \(P\hat{A}P' = 90^{\circ},\) and
+    \(R\hat{A}R' = 90^{\circ}\).</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-4"><img class="frame-172" src="Maths_English_LB_gr8_term4_1-web-resources/image/168319.png" alt="168319.png"/></div>
+
+      <div class="frame-4"><img class="frame-172" src="Maths_English_LB_gr8_term4_1-web-resources/image/168328.png" alt="168328.png"/></div>
+
+      <div class="frame-4"><img class="frame-172" src="Maths_English_LB_gr8_term4_1-web-resources/image/168337.png" alt="168337.png"/></div>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">On the coordinate system, the centre
+    of rotation can be any point. This year, you will focus on
+    rotations about the point (0; 0), which is called the
+    <b>origin</b>. A point,
+    line segment or figure can be rotated clockwise or
+    anticlockwise through any number of degrees about the centre of
+    rotation.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Rotating points and figures about the origin</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. In the diagram, point
+    C has been rotated 90° clockwise about the
+    origin.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-173" src="Maths_English_LB_gr8_term4_1-web-resources/image/168308.png" alt="168308.png"/></div>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Rotate points A and B 90°
+    clockwise about the origin.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Write down the coordinates of points
+    A<span class="char-style-override-27">'</span> and
+    B<span class="char-style-override-27">'</span>.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Join points A, B and C to form a
+    triangle. Do the same with points A<span class="char-style-override-27">'</span>, B<span class="char-style-override-27">'</span> and C<span class="char-style-override-27">'</span>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Are the triangle and its image
+    congruent?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) Compare the coordinates of points A, B
+    and C with the coordinates of their images. What do you
+    notice?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) Write down the coordinates of points
+    K, L and M.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-176" src="Maths_English_LB_gr8_term4_1-web-resources/image/168223.png" alt="168223.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Rotate points K, L and M 90°
+    anticlockwise about the origin.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Write down the coordinates of the image
+    points.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Rotate points K, L and M 180°
+    about the origin.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) Write down the coordinates of
+    K<span class="char-style-override-27">''</span>, L<span class="char-style-override-27">''</span> and M<span class="char-style-override-27">''</span><span class="char-style-override-29">.</span></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(f) Can you explain why there was no need to
+    say "clockwise" or "anticlockwise" in question (d)?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Rotate the following
+    triangles and write down the coordinates of the vertices of
+    each triangle after the required rotation.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) 180° about the origin </p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="medium" src="Maths_English_LB_gr8_term4_1-web-resources/image/168141.png" alt="168141.png"/></div>
+
+ <p xmlns="http://www.w3.org/1999/xhtml">(b) 90° clockwise about the origin</p>
+ 
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="medium" src="Maths_English_LB_gr8_term4_1-web-resources/image/168132.png" alt="168132.png"/></div>
+
+   
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) 90° anti-clockwise about the origin </p>
+    
+     <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="medium" src="Maths_English_LB_gr8_term4_1-web-resources/image/168115.png" alt="168115.png"/></div>
+    
+<p xmlns="http://www.w3.org/1999/xhtml">(d) 180° about the origin</p>
+
+  <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="medium" src="Maths_English_LB_gr8_term4_1-web-resources/image/168124.png" alt="168124.png"/></div>
+   
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Write down the coordinates of
+    each image point after these transformations.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Rotation 180° about the
+    origin: K(-1; 0); C(1; 1); N(3; -2)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Rotation 90° clockwise about
+    the origin: L(1; 3); Z(5; 5); F(4; 2)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Rotation 90° anticlockwise
+    about the origin: S(1; -4); W(1; 0); J(3; -4)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Rotation 180° about the
+    origin: V(-5; -3); A(-3; 1); G(0; -3)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-18">Enlargements and reductions</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-">Calculate and use scale factors</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">A figure may be made bigger or
+    smaller without changing its shape.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="caption para-style-override-26"><span><img class="frame-180" src="Maths_English_LB_gr8_term4_1-web-resources/image/Maths-Gr8-Eng-Term4-p188-img1.png" alt="168105.png"/></span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A figure is only called an
+    enlargement or reduction of another figure if the two figures
+    have <b>the</b>
+    <b>same shape</b>. The
+    shapes can only be the same if all the corresponding angles are
+    equal.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-181" src="Maths_English_LB_gr8_term4_1-web-resources/image/168096.png" alt="168096.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Even if the angles are equal, two
+    figures may have different shapes. When the corresponding
+    angles are equal, one figure is not necessarily an enlargement
+    or reduction of the other.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-182" src="Maths_English_LB_gr8_term4_1-web-resources/image/168087.png" alt="168087.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Although the angles are equal, the
+    yellow and green figures above are <i>not</i> enlargements of the blue
+    figure.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">When a figure with straight
+      sides is enlarged or reduced, the lengths of the sides are
+      increased or decreased. To find the lengths of the sides of the new figure,
+the lengths of the sides of the original figure are
+all multiplied by the same number. This number
+  is called the <b>scale factor</b> of the enlargement or
+reduction.
+</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">The scale factor for an
+      <b>enlargement</b> is
+      bigger than 1.</p>
+
+      <p class="Body-box-no-indent">The scale factor for a
+      <b>reduction</b> is
+      smaller than 1.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Draw a bigger
+    rectangle ABCD on the grid below, with each side 5 times as
+    long as the blue rectangle. Also draw another bigger rectangle
+    PQRS, with each side 5 units longer than the blue
+    rectangle.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-18">
+    <span><img class="medium" src="Maths_English_LB_gr8_term4_1-web-resources/image/168045.png" alt="168045.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">One figure is only called an
+    enlargement or reduction of another figure if the <b>corresponding angles are equal</b>
+    and <b>the ratio between the
+    lengths of the corresponding sides is the same</b>, for all
+    pairs of corresponding angles and sides in the two figures.
+    This is demonstrated below.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The green rectangle on the right is an
+    enlargement of the blue rectangle. The yellow rectangle is
+    a reduction of the blue rectangle.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-4"><img class="frame-186" src="Maths_English_LB_gr8_term4_1-web-resources/image/168035.png" alt="168035.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">In the two diagrams below, the same rectangles
+    are shown on grids so that it is easy to compare the lengths of
+    the corresponding sides and calculate the ratio between the
+    lengths of the sides.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Normal para-style-override-29"><span><img class="frame-187" src="Maths_English_LB_gr8_term4_1-web-resources/image/168025.png" alt="168025.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Normal"><span class="char-style-override-30"><span><img class="frame-188" src="Maths_English_LB_gr8_term4_1-web-resources/image/168011.png" alt="168011.png"/></span></span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">KLMN is an enlargement of EFGH.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-11">Note that
+    \(\frac{LM}{FG} = 8 : 4 = 2\), \(\frac{MN}{GH} = 12 : 6 = 2\),\(\frac{NK}{HE} = 8 : 4 = 2\) and \(\frac{KL}{EF} = 12 : 6 = 2\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The ratio between the lengths of corresponding
+    sides is 2, for all four pairs of corresponding sides.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">We say: The <b>scale factor</b> of the enlargement
+    from EFGH to KLMN is 2.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">To avoid confusion,
+      mathematicians normally state the dimensions of the image
+      first when forming ratios.</p>
+    </div>
+    
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">ABCD is a reduction of EFGH.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-11">Note that  \(\frac{BC}{FG} = 2 : 4 = \frac{1}{2}\), \(\frac{CD}{GH} = 3 : 6 = \frac{1}{2}\), \(\frac{DA}{HE} = 2 : 4 = \frac{1}{2}\) and \(\frac{AB}{EF} = 3 : 6 = \frac{1}{2}\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The ratio between the lengths of corresponding
+    sides is \(\frac{1}{2}\), for all four pairs of corresponding
+    sides. The scale factor of the reduction from EFGH to ABCD is \(\frac{1}{2}\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) What is the scale factor of the
+    enlargement from ABCD to KLMN?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) What is the scale factor of the
+    reduction from KLMN to EFGH?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. A rectangular shape on
+    a photograph is 3 mm wide and 4 mm long. The photograph is
+    enlarged with a scale factor of 5. What is the width and length
+    of the rectangular shape on the enlarged photograph?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">We work out the scale factor by
+    calculating the ratios of the lengths of corresponding sides of
+    the two figures. If the ratios are equal, we say that the
+    corresponding sides are <b>in
+    proportion</b>. This means that the second figure (the
+    image) is a reduction or an enlargement of the first figure
+    (the original).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Determine whether the
+    second figure in each of the following pairs is an enlargement,
+    a reduction, or neither of the two. Also work out the
+    perimeters of both figures.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-194" src="Maths_English_LB_gr8_term4_1-web-resources/image/169940.png" alt="169940.png"/></span> </p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-195" src="Maths_English_LB_gr8_term4_1-web-resources/image/167841.png" alt="167841.png"/></span> </p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="frame-196" src="Maths_English_LB_gr8_term4_1-web-resources/image/167765.png" alt="167765.png"/></span> </p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. Take measurements and
+    do calculations to establish whether the blue figure below is
+    an enlargement of the green figure.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-197" src="Maths_English_LB_gr8_term4_1-web-resources/image/167699.png" alt="167699.png"/></span> </p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Effect of enlargements or reductions on perimeter and area</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Consider the rectangles
+    below.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="frame-198" src="Maths_English_LB_gr8_term4_1-web-resources/image/167691.png" alt="167691.png"/></span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">1. (a) Do you think EFGH is an
+    enlargement of MJKL?</p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Do you think PQRS is a
+    reduction of EFGH?</p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) Do you think EFGH is an
+    enlargement of ABCD?</p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">2. (a) Calculate \(\frac{EF}{MJ}, \frac{FG}{JK}, \frac{GH}{KL}\) and \(\frac{HE}{LM}\) .</p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Is rectangle EFGH an
+    enlargement of rectangle MJKL?</p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-8">(c) If
+    EFGH is an enlargement of MJKL, what is the scale factor?</p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">3. (a) Calculate
+    \(\frac{PQ}{EF}, \frac{QR}{FG}, \frac{RS}{GH}\) and \(\frac{SP}{HE}\).</p>
+      
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Is rectangle PQRS a
+    reduction of EFGH?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-8">(c) If
+    PQRS is a reduction of EFGH, what is the scale factor?</p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-16">4. (a) Calculate\(\frac{EF}{AB}, \frac{FG}{BC}, \frac{GH}{CD}\) and \(\frac{HE}{DA}\).</p>
+    
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Is rectangle EFGH an
+    enlargement of rectangle ABCD?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-8">(c) If
+    EFGH is an enlargement of ABCD, what is the scale factor?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. Do you agree or disagree with
+    the following statements?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) Perimeter of
+    enlargement/reduction = perimeter of original \(\times\) scale
+    factor</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Area of
+    enlargement/reduction = area of original \(\times\) (scale
+    factor)<sup>2</sup></p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Calculating perimeters and areas of enlarged or reduced figures</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. The perimeter of
+    rectangle DEFG = 20 cm and its area = 16 cm<sup>2</sup>. Find the perimeter and area
+    of the enlarged rectangle D<span class="char-style-override-27">'</span>E<span class="char-style-override-27">'</span>F<span class="char-style-override-27">'</span>G<span class="char-style-override-27">'</span> if the scale factor is 3.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. The perimeter of
+    \(\triangle JKL\) = 120 cm and its area = 600 cm<sup>2</sup>. Determine the perimeter and
+    area of the reduced \(\triangle J'K'L'\) if the scale factor is
+    0,5.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. The perimeter of
+    quadrilateral PQRS = 30 mm and its area is 50 mm<sup>2</sup>. Find the perimeter and area
+    of quadrilateral P<span class="char-style-override-27">'</span>Q<span class="char-style-override-27">'</span>R<span class="char-style-override-27">'</span>S<span class="char-style-override-27">'</span> if the scale factor is
+    \(\frac{1}{5}\).</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. The perimeter of
+    \(\triangle STU\) = 51 cm and its area is 12 cm<sup>2</sup>. Calculate the perimeter and
+    area of \(\triangle S'T'U'\) if the scale factor is
+    \(\frac{1}{3}\).</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. The perimeter of a square = 48
+    m.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Write down the perimeter of the square
+    if the length of each side is doubled.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-8">(b) Will the area of
+    the enlarged square be twice or four times that of the original
+    square?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">6. The perimeter of
+    \(\triangle DEF\) = 7 cm and \(\triangle D'E'F'\) = 21 cm. What is the scale
+    factor of enlargement? How many times larger is the area of
+    \(\triangle D'E'F'\) than the area of
+    \(\triangle DEF\)?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">7. The perimeter of
+    quadrilateral ADFS = 26 cm and the perimeter of quadrilateral
+    A<span class="char-style-override-27">'</span>D<span class="char-style-override-27">'</span>F<span class="char-style-override-27">'</span>S<span class="char-style-override-27">'</span> = 13 cm. How many times
+    larger is the area of quadrilateral A<span class="char-style-override-27">'</span>D<span class="char-style-override-27">'</span>F<span class="char-style-override-27">'</span>S<span class="char-style-override-27">'</span> than the area of
+    quadrilateral ADFS?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+  </div>
+</div>
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>

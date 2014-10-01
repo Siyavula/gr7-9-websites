@@ -1,0 +1,2846 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Gr7 Mathematics</title>
+        <meta name="viewport" content="width=device-width">
+        <!-- Bootstrap -->
+        <link href="/css/bootstrap.min.css" rel="stylesheet">
+        <!--Sticky footer-->
+        <link href="/css/sticky-footer-navbar.css" rel="stylesheet">
+        <!--Custom CSS-->
+        <link href="/css/custom.css" rel="stylesheet">
+        <link href="/css/Mathbookstyles.css" rel="stylesheet">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800|Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript"
+          src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        </script>
+    </head>
+    <body>
+
+    <!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/index.html">Grade 7-9 Workbooks</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="/index.html">Home</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mathematics<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/mathematics/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/mathematics/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/mathematics/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Natural Sciences<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/natural-sciences/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/natural-sciences/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/natural-sciences/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Technology<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/technology/gr7/tableofcontents.html">Grade 7</a></li>
+                        <li><a href="/technology/gr8/tableofcontents.html">Grade 8</a></li>
+                        <li><a href="/technology/gr9/tableofcontents.html">Grade 9</a></li>
+                    </ul>
+                </li>
+
+
+                <li><a href="/downloads.html">Downloads</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/about.html#contact">Contact</a></li>
+
+            </ul>
+
+        </div><!--/.nav-collapse -->
+    </div>
+</div>
+<div class="container">
+    <div class="language-toggle">
+        <button type="button" class="btn btn-primary active ">English</button>
+        <button type="button" class="btn btn-default">Afrikaans</button>
+    </div>
+</div>
+
+
+
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+    <div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-11">Algebraic expressions</h1>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent" lang="en-US">
+    You already know that an algebraic expression is a computational procedure. It tells you what calculations you must do with the value of one variable, to produce the value of another variable. In this chapter, we extend the work you have already done to include algebraic expressions with integer constants, including negative numbers.</p>
+
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-12">Interpret rules to calculate values of a variable</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-" lang="en-US">Rules in verbal and symbolic form</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging" lang="en-US">1.	Do this to each of the numbers in the top row of the table, and write your answers in the bottom row: <i>multiply     the input number by 20 and add 50 to the answer</i>.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-32" class="No-Table-Style"><colgroup><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/><col class="Row-Column-78"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">9</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">The sentence <i>multiply the input     number by 20 and add 50 to the answer</i> is the rule that describes how the output number that corresponds to each input number in the above relationship between the variables
+    \(x\) and y can be calculated.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The same rule can be described with the algebraic expression \(20x + 50\).
+    In this expression, the symbol \(x\) represents the input variable (the values of \(x\)). The numbers 20 and 50 are constant; they remain the same for all the different values of \(x\).</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      If there are no brackets in an expression, multiplication is done first, even if it appears later in the expression like in
+      \(30 + 5x\).</p>
+
+      <p class="Body-box" lang="en-US">If there are brackets in an algebraic expression, the operations in brackets are to be done first.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-8" lang="en-US">The rule <i>add 50 to the input number and multiply the answer by 20</i> can be described with the expression
+    \(20(x +
+    50)\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    2.	Describe each of the following rules in words.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a)	\(15x + 30\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b)	\(30 + 15x\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c)	\(15(x + 30)\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d)	\(15(x + 2)\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e)	\(15x - 30\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(f)	\(15(x - 30)\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(g)	\(15(x - 2)\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation" lang="en-US">
+    3.	What is the difference between \(3(x + 5)\) and \(3x + 5\)?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced" lang="en-US">4.	Complete the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-33" class="No-Table-Style"><colgroup><col class="Row-Column-77"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/></colgroup><tbody><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">9</p>
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-left">\(15x + 30\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-left">\(30 + 15x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-left">\(15(x + 30)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-left">\(15(x + 2)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-spaced" lang="en-US">5.	Complete the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-34" class="No-Table-Style"><colgroup><col class="Row-Column-89"/><col class="Row-Column-115"/><col class="Row-Column-115"/><col class="Row-Column-115"/><col class="Row-Column-115"/><col class="Row-Column-115"/><col class="Row-Column-115"/><col class="Row-Column-115"/></colgroup><tbody><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">30</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">40</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">50</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">60</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">70</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">80</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">90</p>
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-left">\(15x - 30\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-left">\(15(x - 30)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-left">\(15(x - 2)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    6.	(a)	Investigate which of the following rules will produce the same output numbers.
+    You need to check for several different input numbers.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-12" lang="en-US">A:	Multiply the input number by 10 and then add 20.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-12" lang="en-US">B:	Add 20 to the input number and then multiply by 10.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-12" lang="en-US">C:	Add 2 to the input number and then multiply by 10.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">D:	Multiply the input number by 3, add 15, add 7 times the input number,
+    and then add 5.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-35" class="No-Table-Style"><colgroup><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/></colgroup><tbody><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">A</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">B</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">C</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-61"><td class="cell-style-override-1">
+            <p class="Table-text-centred">D</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-12" lang="en-US">(b)	Describe each of the above rules with an algebraic expression.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">A:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">B:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">C:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">D:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">7.	(a)	Which of these rules do you think will produce the same output numbers?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column" lang="en-US">A: \(
+    5x + 20				\)</p>
+    <p xmlns="http://www.w3.org/1999/xhtml">B: \(
+    4x + 19				\)</p>
+    <p xmlns="http://www.w3.org/1999/xhtml">C: \(
+    5(x + 20)\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column" lang="en-US">D: \( 20
+    + 5x				\)</p>
+    <p xmlns="http://www.w3.org/1999/xhtml">E: \(
+    5(x + 4)			\)</p>
+    <p xmlns="http://www.w3.org/1999/xhtml">	F: \(
+    3x + 7 +
+    2x + 13\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	Express each of the above rules in words.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-22">A:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-22">B:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-22">C:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-22">D:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-22">E:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">F:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	Complete this table for the rules given in (a).</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-36" class="No-Table-Style"><colgroup><col class="Row-Column-117"/><col class="Row-Column-84"/><col class="Row-Column-84"/><col class="Row-Column-84"/><col class="Row-Column-84"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">15</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5x + 20\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(4x + 19\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5(x + 20)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 + x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5(x + 4)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(3x + 7 + 2x + 13\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)	Use your completed table to check your answer in question (a).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">8.	(a)	Which of these rules do you think will produce the same output numbers?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column" lang="en-US">A: \(
+    5x - 20			\)</p>	
+    <p xmlns="http://www.w3.org/1999/xhtml">B: \( 20 -
+    5x\)</p>	
+    <p xmlns="http://www.w3.org/1999/xhtml">C: \( 5(x - 20)\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--4-column" lang="en-US">D: \(
+    3x - 18			\)</p>	
+    <p xmlns="http://www.w3.org/1999/xhtml">E: \(
+    5(x - 4)			\)</p>	
+    <p xmlns="http://www.w3.org/1999/xhtml">F: \(
+    9x + 10 -
+    4x - 30\)</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	Express each of the above rules in words.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-22">A:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-22">B:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-22">C:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-22">D:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-22">E:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-12">F:</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US"><span class="char-style-override-12" xml:lang="en-GB" lang="en-GB"/>(c)	Complete this table for the rules given in
+    (a).</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-37" class="No-Table-Style"><colgroup><col class="Row-Column-118"/><col class="Row-Column-119"/><col class="Row-Column-119"/><col class="Row-Column-119"/><col class="Row-Column-119"/><col class="Row-Column-119"/><col class="Row-Column-119"/><col class="Row-Column-119"/><col class="Row-Column-119"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">30</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">40</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">50</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">60</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">70</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">80</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">90</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5x - 20\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 - x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5(x - 20)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(3x - 18\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5(x - 4)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(9x + 10 - 4x - 30\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(d)	Use your completed table to check your answer to question (a).</p>
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" lang="en-US" id="toc-id-13">Slightly different kinds of rules</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation--after-b-head-" lang="en-US">Subtract positive and negative quantities</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-12" lang="en-US">1.	Complete the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-38" class="No-Table-Style"><colgroup><col class="Row-Column-120"/><col class="Row-Column-104"/><col class="Row-Column-104"/><col class="Row-Column-104"/><col class="Row-Column-104"/><col class="Row-Column-104"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">25</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(1x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(50 - 1x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 - 1x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(0 - 1x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-12" lang="en-US">2.	(a)	Complete the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-39" class="No-Table-Style"><colgroup><col class="Row-Column-121"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/><col class="Row-Column-90"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">25</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">30</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(10x - 5\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5x - 10\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(100 - x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(-100 + x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5x - 100\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5 - 1x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	The values of \(10x - 5\)
+    <i>increase</i> as the values of \(x\) <i>increase</i>
+    from 0 to 30.
+    For which expressions in (a) do the values <i>decrease</i> when \((x)\) is increased?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(c)	Do the values of \(-100 + 5x\)     <i>increase</i> or <i>decrease</i> when \((x)\) is increased from 0 to 30?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">3.	(a)	The values of the expression \(5x - 10\) increase when
+    \((x)\) is increased from 0 to 30.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">Do you think the values will increase further when \(x\) is increased beyond 30,</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">or will they start to decrease at some stage?</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">(b)	Do you think the values of the expression \(100 - 3x\) will increase when
+    \((x)\) is increased from 0 to 30? Explain why you think they will or will not.</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-8" lang="en-US">The additive inverse of a number may be indicated by writing a negative sign before the number. For example, the additive inverse of 8 can be written as -8.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4.	Write the additive inverse of each of the following numbers:</p>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-" lang="en-US">
+    20	30	-25	-20	40</p>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent" lang="en-US">
+      When a number is added to the number called its additive inverse, the answer is 0. For example, \(45 + (-45) = 0\) and
+      \((-12) + 12 = 0\).</p>
+    </div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-8" lang="en-US">5.	Different values for
+    \(x\) are given in the first row of the table below. Write the additive inverses of the \(x\) values in the second row, and then complete the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-40" class="No-Table-Style"><colgroup><col class="Row-Column-123"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/></colgroup><tbody><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">25</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">30</p>
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(\text{the additive inverse of
+            }x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 + (\text{the additive inverse of }x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 - (\text{the additive inverse of }x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 + x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 - x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-8" lang="en-US">6.	Complete the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-41" class="No-Table-Style"><colgroup><col class="Row-Column-123"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/><col class="Row-Column-114"/></colgroup><tbody><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-15</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-20</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-25</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-30</p>
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(\text{the additive inverse of
+            }x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 + (\text{the additive inverse of }x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 - (\text{the additive inverse of }x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 + x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 - x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-8" lang="en-US">7.	Complete the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-42" class="No-Table-Style"><colgroup><col class="Row-Column-125"/><col class="Row-Column-126"/><col class="Row-Column-126"/><col class="Row-Column-126"/><col class="Row-Column-126"/><col class="Row-Column-126"/><col class="Row-Column-126"/><col class="Row-Column-126"/></colgroup><tbody><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-3</p>
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">-\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5 + (-x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5 - (-x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5 - x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-124"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(5 + x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation" lang="en-US">Expressions with additive inverses</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-8" lang="en-US">1.	Complete the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-43" class="No-Table-Style"><colgroup><col class="Row-Column-127"/><col class="Row-Column-128"/><col class="Row-Column-128"/><col class="Row-Column-128"/><col class="Row-Column-128"/><col class="Row-Column-128"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">25</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(\text{the additive inverse of
+            }x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 + (\text{the additive inverse of }5x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(20 - (\text{the additive inverse of }5x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(-x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(10 + (-3x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(10 - x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(10 - (-3x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-8" lang="en-US">2.	Complete the table below.
+    Note that \((-10x)\)
+    indicates the additive inverse of 10x.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-44" class="No-Table-Style"><colgroup><col class="Row-Column-118"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/><col class="Row-Column-88"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-4</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-3</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">-2</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(10x - 1 000\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(1 000 - (-10x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(1 000 - 1x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\((-10x) + 1 000\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(10x + 1 000\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(10x + (-1 000)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\((-10x) - 1 000\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(1 000 + (-10x)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(1 000 + 1x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(10x - (+1 000)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent" lang="en-US">Instead of \((-10x) - 1 000\) we may write \(-10x - 1 000\), in other words the brackets around the additive inverse may be left out.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body" lang="en-US">Similarly,
+    \((-10x) + 1 000\) may be written as \(-10x +
+    1 000\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-8" lang="en-US">3.	Complete the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-45" class="No-Table-Style"><colgroup><col class="Row-Column-129"/><col class="Row-Column-55"/><col class="Row-Column-55"/><col class="Row-Column-55"/><col class="Row-Column-55"/><col class="Row-Column-55"/><col class="Row-Column-55"/></colgroup><tbody><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">25</p>
+          </td>
+
+          <td class="cell-style-override-1">
+            <p class="Table-text-centred">30</p>
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(-5x + 20\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr><tr class="Row-Column-17"><td class="cell-style-override-1">
+            <p class="Table-text-centred">\(-5x + (-20)\)</p>
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+
+          <td class="cell-style-override-1">
+
+          </td>
+        </tr></tbody></table>
+  </div>
+</div>
+    <div class="container">
+        <ul class="pager">
+          <li><a class="previous" ref="#">&larr; Previous section</a></li>
+          <li><a href="tableofcontents.html">Table of Contents</a></li>
+          <li><a class="next" href="#">Next section &rarr;</a></li>
+        </ul>
+    </div>
+        <div id="footer">
+    
+   <div class="container"> 
+       <div class="col-md-9"> 
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+            
+               <a href="http://www.education.gov.za/" target="_blank"><img src="/img/depbas.jpg" alt="Department of Basic Education - South Africa"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasol.com/" target="_blank"><img src="/img/sasol.jpg"  alt="Sasol - Reaching New Frontiers"></a>
+            </div>
+           <!-- <div class="col-md-2 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.sasolinzalofoundation.org.za/" target="_blank"><img src="img/inzalo.jpg"  alt="Sasol Inzalo Foundation"></a>
+            </div>-->
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://www.siyavula.com" target="_blank"><img src="/img/siyavula.jpg"  alt="Siyavula - Technology-powered Learning"></a>
+            </div>
+            <div class="col-md-3 col-sm-6 col-xs-12 footer-logo">
+                <a href="http://ukuqonda.co.za/" target="_blank"><img src="/img/ukuqonda.jpg"  alt="Ukuqonda Institute"></a>
+            </div>
+
+           </div>
+           </div><!--./container-->
+    </div><!--./footer-->
+
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/language-toggler.js"></script>
+    <script src="/js/toc-handler.js"></script>
+<!--    <script src="js/filter-html.js"></script> -->
+    </body>
+</html>
