@@ -1,0 +1,1193 @@
+---
+layout: content-page-maths
+title: Gr9 Maths
+---
+<div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-11">I nterpret, analyse and report on data</h1> 
+
+
+
+ <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">In this chapter, you will
+    develop and practise some critical data analysis skills. This
+    means looking at reported data and analysing the whole data
+    handling cycle for this data. You need to decide which way of
+    representing data is best in a given situation. In summarising
+    data, some measures are more appropriate for different types of
+    data. You also need to recognise some ways in which bias can
+    appear in data, including methods of collecting, representing
+    and summarising data.</p>
+  
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-12">Which graph is best?</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">You have learnt that certain types of
+    graphs are best for displaying certain kinds of information.
+    The type of graph depends mostly on the type of data that needs
+    to be represented. Here is a summary of the advantages of
+    different types of graphs:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent"><span class="char-style-override-2"><b>Tables</b></span> show more information
+      than graphs but the patterns are not as easy to see. They do
+      not give a visual impression of particular trends.</p>
+      
+       <p class="Body-content-no-indent"><b>Pie charts</b> show a whole divided into parts. They
+show how the parts relate to each other and how the
+parts relate to a whole. They do not show the
+quantities involved.
+</p>
+       <p class="Body-content-no-indent"/><p class="Body-content-no-indent"><b>Bar graphs</b> show the amounts or quantities
+involved but do not show the relationship as
+effectively as pie charts. They are useful for showing
+<b>quantitative</b> data. Bar charts allow us to compare
+the quantities of different categories, for example,
+the sales of different items.
+</p><p class="Body-content-no-indent"/><p class="Body-content-no-indent">A <b>double-bar graph</b> is used to compare two or
+more things for each category. For example, we could
+use a double-bar graph to compare the differences
+between males and females.
+</p><p class="Body-content-no-indent"><b>Histograms</b> are used to represent numerical data
+that is grouped into equal class intervals. Histograms
+are useful to show the way the data is spread out.
+</p><p class="Body-content-no-indent"><b>Broken-line graphs</b> show trends or changes in
+quantities over time.
+</p>
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Choose the best representation</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Which kind of graph is best to
+    represent each of the following? Explain your answers.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Showing the value of the rand against
+    the US dollar over several years</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Comparing the monthly sales of six
+    different makes of car in 2014 and 2015</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) The proportion of people of different
+    age groups in a town</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) The quantities of different crops
+    produced on a farm</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) The percentages of different goods sold
+    to make up the total sales for a shop</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(f) The change in HIV infection rates over
+    time</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. This graph was
+    published by Statistics South Africa to show the assets owned
+    by South Africans. The blue bar shows the Census 2011 results
+    and the yellow bar shows the General Household Survey 2012
+    results.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/155531.png" alt="155531.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Give reasons for your answers to
+    the questions below.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Is it useful to show the differences in
+    the results of Census 2011 and the General Household Survey
+    2012?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Is it useful to collect data on assets
+    that people own?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Is it useful to show that lower
+    percentages of people own certain assets?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) The different coloured bars represent
+    the two different surveys. Draw up a table to show the data in
+    table form. (Read the percentages from the table as accurately
+    as you can and round off the data to the nearest whole
+    number.)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-31" class="No-Table-Style"><tbody><tr class="Row-Column-39"><td class="cell-style-override-3"/>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+        </tr><tr class="Row-Column-97"><td class="cell-style-override-3">
+            
+             
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr><tr class="Row-Column-97"><td class="cell-style-override-3">
+           
+           
+          </td>
+
+          <td class="cell-style-override-3">
+          
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+        </tr><tr class="Row-Column-97"><td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr><tr class="Row-Column-97"><td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+        </tr><tr class="Row-Column-97"><td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+
+          <td class="cell-style-override-3">
+             
+          </td>
+        </tr><tr class="Row-Column-97"><td class="cell-style-override-3">
+            
+             
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+
+          <td class="cell-style-override-3">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) Does the table show the data as
+    effectively as the double bar chart? Give your own opinion.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. The table below shows
+    the employment status of people ages 15-64
+    years in South Africa. Discuss some ways of representing the
+    data (e.g. graphs). Justify your answers.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-32" class="No-Table-Style"><tbody><tr class="Row-Column-30"><td class="cell-style-override-3" rowspan="2"/>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred">
+           <b> Jul-Sept 2012</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Apr-June 2013</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-header-centred"><b>Jul-Sep 2013</b></p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3" colspan="3">
+            <p class="Table-header-centred"><b>Number of people (thousands)</b></p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Population 15-64 years old</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">33 017</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">33 352</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">33 464</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2"><b>Labour
+            force</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">18 313</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">18 444</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">18 638</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Employed</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>13
+            645</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>13
+            720</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>14
+            028</b></p>
+          </td>
+        </tr><tr class="Row-Column-60"><td class="cell-style-override-3">
+            <p class="Table-text-left">Formal sector
+            (non-agricultural)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9 663</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9 694</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">10 008</p>
+          </td>
+        </tr><tr class="Row-Column-60"><td class="cell-style-override-3">
+            <p class="Table-text-left">Informal sector
+            (non-agricultural)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 197</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 221</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 182</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left">Agriculture</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">661</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">712</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">706</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left">Private households</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 124</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 093</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 132</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Unemployed</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>4
+            668</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>4
+            723</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>4
+            609</b></p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2"><b>Not
+            economically active</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>14
+            705</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>14
+            908</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred para-style-override-2"><b>14
+            826</b></p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left">Discouraged work-seekers</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 170</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 365</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 240</p>
+          </td>
+        </tr><tr class="Row-Column-60"><td class="cell-style-override-3">
+            <p class="Table-text-left">Other (not economically
+            active)</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12 535</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12 543</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12 586</p>
+          </td>
+        </tr><tr class="Row-Column-30"><td class="cell-style-override-3">
+            <p class="Table-text-left para-style-override-2">
+            <b>Unemployment rate (%)</b></p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">25,5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">25,6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">24,7</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) The percentages of the employed,
+    unemployed, and not economically active people in
+    July-September 2013.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) The change in the employment
+    <span class="char-style-override-2"><b>rates</b></span> over three
+    time periods</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) The proportions of employed people who
+    work in the formal sector, informal sector, agriculture and
+    private households.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) The numbers of the employed and
+    unemployed over the three time periods.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-13">The effects of summary statistics on how data is</h2>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-14">Reported</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Information articles often use
+    averages to report information. The articles might not use the
+    exact terms for average that you have learnt about: the mean,
+    median and mode. Instead, they may use terms such as
+    ‘most’. However, it is important to be sure
+    which kind of average a report refers to, because they give us
+    different information.</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet--indented-">Remember that the
+      <b>mean</b> is useful for describing a set of measurement
+      values, but can also be used for other numerical data sets.
+      The word ‘average’ usually refers to the
+      ‘mean’ if it is not explained further. The
+      mean is not reliable if a data set is too spread out.</li>
+
+      <li class="Body-bullet--indented-">The <b>median</b> is the
+      value in the middle of a data set when it is arranged in
+      order. Half the values in the data set are lower than the
+      median and half of them are higher than the median. The
+      median is often the average used when data values are not
+      uniformly distributed, because the mean is affected by
+      extreme values in the data set, while the median is not. For
+      example, house prices vary widely, so the median would be a
+      better description of the data than the mean. When the median
+      is given in a report, the writer should state that they are
+      using the median or middle value.</li>
+
+      <li class="Body-bullet--indented-">The <b>mode</b> is the
+      number that occurs most often in a set of data. For example,
+      if we collect data about people's favourite colours, the data
+      set would be a list of colours, and the mode would be the
+      colour that comes up most often. The mode can also be used
+      for numbers. Not all data sets have a mode, because sometimes
+      none of the numbers occurs more than once.</li>
+    </ul><h4 xmlns="http://www.w3.org/1999/xhtml">Example</h4>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The standard way of reporting house
+    prices in South Africa and internationally is the median house
+    price, which is used by economists in financial reports. The
+    median is regarded as more useful than the mean house price
+    because the sale of a few expensive houses would increase the
+    mean, but would not affect the median.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">If a bank gives bonds for eight houses to the
+    value of R100 000, and for two houses to the value of R1
+    million, then the mean would be R280 000. This does not seem to
+    be an accurate reflection of the value of the houses, because
+    it is distorted by the higher values. The median house price
+    would be R100 000, which is an accurate reflection of the
+    prices.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Remember that the median is the middle point,
+    and half of the values fall below the median, and half above.
+    If the median is lower than the mean, this shows us that there
+    are high values that are distorting the mean.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Using different summary statistics</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. What kind of average is used
+    in each of these statements?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) The average family has 2,6
+    children.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Most families have 3
+    children.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) Most people prefer red
+    cars.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) The average height for
+    women is 1,62 m.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e) More people shop after
+    work than at any other time during the day.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. The mean monthly
+    salary of all the staff at company ABC is R8 000 per month, but
+    the median salary is R5 000.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Explain why the two summary statistics
+    are so different.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Which summary statistic gives a better
+    idea of the salaries at the company? Give reasons for your
+    answer.</p>
+<hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-15">Misleading graphs</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The media (newspapers, magazines,
+    television), regularly use graphs to show information.
+    Unfortunately, the information is often manipulated to
+    emphasise a particular result. This may be because the writer
+    simply wants to make his or her argument more obvious to the
+    reader.</p>
+
+    <h4 xmlns="http://www.w3.org/1999/xhtml"> Changing the
+    scale of the axis </h4>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">If you change the scale of the
+    vertical axis on bar graphs and line graphs, you will change
+    the way the graphs look. For a bar graph, the larger the spaces
+    between the numbers on the vertical axis, the bigger the
+    difference between the bars. The smaller the spaces between the
+    numbers on the axis, the smaller the difference in the height
+    of the bars. The same is true for a line graph which will
+    either have sharp points or be much flatter depending on how
+    you have changed the scale.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-2"><b>Example</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The two broken-line graphs below show
+    the same sales data for a business over a period of six months.
+    Which graph gives the more accurate impression?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/155376.png" alt="155376.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/155366.png" alt="155366.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Graph B has a different scale on the
+    vertical axis. The vertical axis does not start at 0 and so
+    <span class="char-style-override-2"><b>two</b></span> blocks on the
+    vertical axis represent 100 items instead of only <span class="char-style-override-2"><b>one</b></span> block, as in Graph A. This
+    makes it look as if the sales increased rapidly over the six
+    months.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Note that it is not necessarily wrong to change
+    the scale on the axes or not to start at 0. For example, graphs
+    showing stock exchange fluctuations rarely show the origin on
+    the graph and stockbrokers are taught to interpret the graphs
+    in that form. Sometimes small changes in data values have
+    important effects and in these cases, it may be valid to change
+    the scale to show these.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Analysing graphs</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. This graph from
+    Statistics South Africa shows the increase in the percentage of
+    households that had access to piped water over a ten-year
+    period.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/155356.png" alt="155356.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Comment on the scale used on the
+    vertical axis. Is this a misleading graph?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) How could you redraw the graph so that
+    the differences on the graph are more noticeable?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) How could you draw the graph so that the
+    differences are less noticeable?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. In this graph the height of
+    the houses represents the number of sales.</p>
+
+
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-2"><img class="frame-107" src="Maths_English_LB_gr9_term4_1-web-resources/image/Maths_English_LB_gr9_term445.png" alt="Maths%20ch10%20aw%20(house).tif"/></div>
+
+           </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Do you think that this graph is
+    misleading? Give reason(s) for your answer.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Look at the two graphs
+    below:</p>
+ 
+
+<div xmlns="http://www.w3.org/1999/xhtml" class="frame-2"><img class="frame-107" src="Maths_English_LB_gr9_term4_1-web-resources/image/Maths-Gr9-Eng-Term4-p171-img1.png" alt="Maths%20ch10%20aw%20(house).tif"/></div>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Which graph do you think is drawn
+    correctly? Explain your answer.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-16">Analysing extreme values and outliers</h2>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">A data item that is very
+      different from all (or most) of the other items in a data set
+      is called an <span class="char-style-override-2"><b>outlier</b></span>.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">It is sometimes difficult to notice
+    outliers in numerical data. However, outliers often become
+    clearly noticeable when data is displayed with graphs.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-15"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/155339.png" alt="155339.png"/></span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. The above scatterplot
+    below shows the performance of a group of learners in
+    Mathematics and History. Which of the points on the scatterplot
+    can be regarded as outliers? Give reasons for your answer.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Outliers in data sets can be very
+    important. We need to decide whether there is a particular
+    reason for the value being so different to the others.
+    Sometimes it gives us important information. In some cases, the
+    data collected for that point could be wrong.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The scatterplot below is for data collected by
+    a transport company.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/157049.png" alt="157049.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The company uses just one type of
+    truck. Before each transport job, the company has to specify
+    the price for the job. In order to specify a price before a
+    job, the company needs to estimate how much their costs will be
+    for doing the job. One of the main costs is the cost of fuel,
+    and the main factor influencing the amount of fuel used is the
+    distance. The load weight also plays a role: the greater the
+    load weight, the higher the fuel consumption (litres/100
+    km).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The table on the next page gives information
+    that was recorded for previous transport jobs. The jobs are
+    numbered from 1 to 16 and for each job the values of the four
+    variables <span class="char-style-override-1">distance</span>,
+    <span class="char-style-override-1">load weight</span>,
+    <span class="char-style-override-1">amount of fuel used</span>
+    and <span class="char-style-override-1">fuel consumption
+    rate</span> are given.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) Which of the three variables are
+    represented on the scatterplot given above?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) What are the values of these two
+    variables for the point indicated by the blue arrow on the
+    scatterplot?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><table xmlns="http://www.w3.org/1999/xhtml" id="table-34" class="No-Table-Style table-style-override-3"><tbody><tr class="Row-Column-43"><td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Job number</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Distance (km)</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Load weight (kg)</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Fuel used (litres)</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Fuel consumption (litres/100 km)</b></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 304</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5 445</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">879</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">67.4</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 320</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 954</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">639</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">48.4</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 151</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 705</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">698</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">60.6</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 371</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 378</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">787</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">57.4</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">325</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3 673</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">176</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">54.2</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 630</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5 995</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 113</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">68.3</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 023</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5 357</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">600</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">58.7</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">620</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 988</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">382</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">61.6</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">73</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 992</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">35</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">47.9</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 071</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5 529</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">680</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">63.5</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">11</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">370</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 140</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">218</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">58.9</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 423</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 062</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">843</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">59.2</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">13</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">394</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 068</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">221</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">56.1</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">14</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 536</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 678</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">682</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">44.4</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">15</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 633</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3 736</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">887</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">54.3</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-centred">16</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">435</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">3 644</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">241</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">55.4</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3. (a) Consider the scatterplot and the data
+    set. What is the effect of load weight on fuel consumption?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Is job 7 an exception in this respect?
+    Explain your answer.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Further investigations
+    revealed that the driver for jobs 2 and 7 was the same person,
+    and that he was not the driver for any other jobs. What may
+    this indicate?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Find outliers</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Researchers collected data on the
+    population of some African countries plus the Seychelles, the
+    income per person, and the percentage of the income spent on
+    health.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-35" class="No-Table-Style"><tbody><tr class="Row-Column-43"><td class="cell-style-override-4">
+            <p class="Table-header-centred"><b><b>Count</b><span>r</span>y</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Total population (in 1 000s)</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Total annual national income per person (US$)</b></p>
+          </td>
+
+          <td class="cell-style-override-4">
+            <p class="Table-header-centred"><b>Percentage of income spent on health</b></p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Angola</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">18 498</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4 830</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4,6</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Botswana</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 950</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">13 310</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">10,3</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">DRC</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">66 020</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">280</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2,0</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Lesotho</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 067</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 970</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8,2</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Malawi</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">15 263</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">810</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6,2</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Mauritius</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 288</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12 580</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5,7</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Mozambique</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">22 894</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">770</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5,7</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Namibia</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">2 171</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6 250</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5,9</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Seychelles</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">84</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">19 650</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4,0</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">South Africa</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">50 110</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">9 790</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">8,5</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Swaziland</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 185</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5 000</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">6,3</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left"><span>T</span>anzania</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">43 739</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 260</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">5,1</p>
+          </td>
+        </tr><tr class="Row-Column-15"><td class="cell-style-override-3">
+            <p class="Table-text-left">Zambia</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">12 935</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">1 230</p>
+          </td>
+
+          <td class="cell-style-override-3">
+            <p class="Table-text-centred">4,8</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. What are the three variables
+    in this table?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Why do you think it is
+    important to look at income per person in this case, rather
+    than the total income?</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Plot the points for
+    the national income per person and the percentage spent on
+    health care for each country.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term4_1-web-resources/image/157865.png" alt="157865.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Write a short report
+    on the data in the table and what the scatter plot shows you
+    about the data. Comment on the general trend and any
+    outliers.</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/> 
+  </div>
+</div>

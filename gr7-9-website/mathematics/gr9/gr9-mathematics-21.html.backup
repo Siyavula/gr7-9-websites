@@ -1,0 +1,570 @@
+---
+layout: content-page-maths
+title: Gr9 Maths
+---
+<div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-24">Surface area, volume and capacity of 3d objects</h1>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">By now you should know how to
+    calculate the surface area and volume of cubes, rectangular
+    prisms and triangular prisms. In this chapter, you will revise
+    how to do this, practise converting between equivalent units
+    used for volume, and revise the difference between volume and
+    capacity. You will investigate how to calculate the surface
+    area and volume of cylinders, and explore how the volumes of a
+    prism and cylinder are affected when one or more of their
+    dimensions is doubled.</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-25">Surface area</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Surface area of prisms</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The <b>surface area</b> of an object
+    is the total area of all of its faces added together. You
+    learnt the following formula in previous grades:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Surface area of a prism =
+      Sum of the areas of all its faces</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-4"><span>Calculate
+    the surface area of the following objects to revise what you
+    should already know.</span></p>
+
+    
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+	<p class="ques-a--2-column-with-answers">1. </p>
+      <div class="frame-23"><img class="frame-335" src="Maths_English_LB_gr9_term3_1-web-resources/image/149514.png" alt="149514.png"/></div>
+	<hr/>
+	<p> 2.</p>
+      <div class="frame-23"><img class="frame-336" src="Maths_English_LB_gr9_term3_1-web-resources/image/149522.png" alt="149522.png"/></div><hr/>
+    </div>
+
+
+    
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+	<p class="ques-a--2-column-with-answers">3. </p>
+      <div class="frame-23"><img class="frame-337" src="Maths_English_LB_gr9_term3_1-web-resources/image/149533.png" alt="149533.png"/></div> <hr/>
+
+	<p> 4. </p>
+      <div class="frame-23"><img class="frame-338" src="Maths_English_LB_gr9_term3_1-web-resources/image/149540.png" alt="149540.png"/></div><hr/>
+    </div>
+
+   
+
+    
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+	<p class="ques-a--2-column-with-answers">5. </p>
+      <div class="frame-23"><img class="frame-339" src="Maths_English_LB_gr9_term3_1-web-resources/image/151571.png" alt="151571.png"/></div><hr/>
+	
+	<p> 6. </p>
+      <div class="frame-23"><img class="frame-340" src="Maths_English_LB_gr9_term3_1-web-resources/image/151578.png" alt="151578.png"/></div><hr/>
+    </div>
+
+    
+
+   
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+	 <p class="ques-a--2-column-with-answers">7. </p>
+      <div class="frame-23"><img class="frame-345" src="Maths_English_LB_gr9_term3_1-web-resources/image/151626.png" alt="151626.png"/></div> <hr/>
+	
+	<p> 8. </p>
+      <div class="frame-23"><img class="frame-346" src="Maths_English_LB_gr9_term3_1-web-resources/image/151633.png" alt="151633.png"/></div><hr/>
+    </div>
+
+
+    
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Investigating the surface area of cylinders</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In order to calculate the surface
+    area of a cylinder, you need to know what shape the surfaces of
+    the cylinder are.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The surfaces of the top and base of a cylinder
+    are made up of circles. The curved surface between the top and
+    base of a cylinder can be unrolled to create a rectangle.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-349" src="Maths_English_LB_gr9_term3_1-web-resources/image/151227.png" alt="151227.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">So the net of a cylinder looks like
+    this:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-350" src="Maths_English_LB_gr9_term3_1-web-resources/image/151650.png" alt="151650.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">\(\begin{align} \text{Surface area of a cylinder }&amp;= \text{ Area of
+    all its surfaces} \\ &amp;= \text{ Area of top} + \text{ Area of base} +\text{ Area
+    of curved surface} \\ &amp;=  \pi r^2 + \pi r^2 + (l \times b)\\ &amp;= 2\pi r^2 + (2\pi r \times h)\\ &amp;= 2\pi r(r + h) \end{align}\)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Can you explain why the length
+      of the rectangle is equal to the circumference of the top or
+      base of the cylinder?</p>
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Calculating the surface area of cylinders</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">From the formula on the previous
+    page, you can see that we need only know the radius
+    (r) and the height
+    (h) of a cylinder in
+    order to work out its surface area.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Calculate the surface
+    areas of the following objects. Use \(\pi = 3,14\) and
+    round off all your answers to two decimal places.</p>
+
+    
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+	<p class="ques-a--2-column-with-answers">A </p>
+      <div class="frame-23"><img class="frame-352" src="Maths_English_LB_gr9_term3_1-web-resources/image/151879.png" alt="151879.png"/></div><hr/>
+	
+	<p> B</p>
+      <div class="frame-23"><img class="frame-353" src="Maths_English_LB_gr9_term3_1-web-resources/image/151887.png" alt="151887.png"/></div><hr/>
+    </div>
+
+	<p xmlns="http://www.w3.org/1999/xhtml">2. Calculate the surface area of a cylinder if its height is 60 cm and the
+		circumference of its base is 25,12 cm. </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">3. Calculate the surface area of a cylinder if its height is 5 m and the
+		circumference of its base is 12,56 m. </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+   <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. The outside of a
+    cylindrical structure at a factory must be painted. Its radius
+    is 3,5 m and its height is 8 m. How many litres of paint must
+    be bought if 1 litre covers 10 m<sup>2</sup>? (The bottom of the structure
+    will not be painted.) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+<h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-26">Volume</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The <b>volume</b> of an object is the
+    amount of space it occupies. We usually measure volume in cubic
+    units, such as mm<sup>3</sup>,
+    cm<sup>3</sup> and
+    m<sup>3</sup>.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">To convert between cubic units,
+      remember:</p>
+
+      <p class="Body-box-no-indent">1 cm<sup>3</sup> = 1 000 mm<sup>3</sup></p>
+
+      <p class="Body-box-no-indent">1 m<sup>3</sup> = 1 000 000 cm<sup>3</sup></p>
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Formulae for volume of prisms</h3>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">The general formula for the
+      volume of a prism is:</p>
+
+      <p class="Body-content-no-indent"> \( \text{Volume of a prism} = \text{Area of
+      base} \times \text{height}\) .</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">In case of a triangular prism
+      do not confuse the height of the base of the triangle
+      (\(h_b\)) with the
+      height of the prism (\(h_p\)).</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Therefore, the formulae to work out
+    the volumes of the following prisms are:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-358" src="Maths_English_LB_gr9_term3_1-web-resources/image/Selection_017.png" alt="Selection_017.png"/></span> </p>
+
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Calculating the volume of prisms</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Calculate the volumes of the
+    following prisms.</p>
+
+    
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+	<p class="ques-a--2-column-with-answers">A </p>
+      <div class="frame-23"><img class="frame-359" src="Maths_English_LB_gr9_term3_1-web-resources/image/152175.png" alt="152175.png"/></div><hr/>
+
+	<p>B </p>
+      <div class="frame-23"><img class="frame-360" src="Maths_English_LB_gr9_term3_1-web-resources/image/152184.png" alt="152184.png"/></div><hr/>
+    </div>
+
+
+    
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+	<p class="ques-a--2-column-with-answers">C </p>
+      <div class="frame-23"><img class="frame-361" src="Maths_English_LB_gr9_term3_1-web-resources/image/152337.png" alt="152337.png"/></div><hr/>
+
+	<p>D</p>
+      <div class="frame-23"><img class="frame-362" src="Maths_English_LB_gr9_term3_1-web-resources/image/152344.png" alt="152344.png"/></div><hr/>
+    </div>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) The area of the base of a rectangular
+    prism is 32 m<sup>2</sup> and
+    its height is 12 m. What is its volume? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) The volume of a cube is 216
+    m<sup>3</sup>. What is the
+    length of one of its edges? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Calculate the volume of the
+    following objects.</p>
+
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+	<p class="ques-a--2-column-with-answers">A</p>
+      <div class="frame-23"><img class="frame-345" src="Maths_English_LB_gr9_term3_1-web-resources/image/152569.png" alt="152569.png"/></div><hr/>
+
+	<p>B </p>
+      <div class="frame-23"><img class="frame-363" src="Maths_English_LB_gr9_term3_1-web-resources/image/152577.png" alt="152577.png"/></div><hr/>
+    </div>
+
+
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Volume of cylinders</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">You also calculate the volume of a
+    cylinder by multiplying the area of the base by the height of
+    the cylinder. The base of a cylinder is circular,
+    therefore:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-364" src="Maths_English_LB_gr9_term3_1-web-resources/image/152640.png" alt="152640.png"/></div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent"> \(\begin{align} \text{Volume of a cylinder} &amp;= \text{Area
+      of base} \times h \\ &amp;= \pi r^2 \times h \end{align}\)</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Calculate the volume
+    of the following cylinders. Use \(\pi = 3,14\) and round
+    off all answers to two decimal places.</p>
+
+    
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+	<p class="ques-a--2-column-with-answers">A </p>
+      <div class="frame-23"><img class="frame-365" src="Maths_English_LB_gr9_term3_1-web-resources/image/152851.png" alt="152851.png"/></div><hr/>
+
+	<p>B</p>
+      <div class="frame-23"><img class="frame-366" src="Maths_English_LB_gr9_term3_1-web-resources/image/152859.png" alt="152859.png"/></div><hr/>
+    </div>
+
+
+    
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+	<p class="ques-a--2-column-with-answers">C </p>
+      <div class="frame-23"><img class="frame-367" src="Maths_English_LB_gr9_term3_1-web-resources/image/153041.png" alt="153041.png"/></div><hr/>
+
+	<p>D</p>
+      <div class="frame-23"><img class="frame-368" src="Maths_English_LB_gr9_term3_1-web-resources/image/153049.png" alt="153049.png"/></div><hr/>
+    </div>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Without using a
+    calculator, calculate the volume of cylinders with the
+    following measurements. Use \(\pi = \frac{22}{7} \).</p>
+
+   
+	<p xmlns="http://www.w3.org/1999/xhtml"> (a) \( r = 14 \text{ cm, } h = 20  \text{ cm  }\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \( r = 7  \text{ cm, } h = 35  \text{ cm  }\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>	
+	<p xmlns="http://www.w3.org/1999/xhtml"> (c) \(\text{diameter} = 28 \text{ cm, } h = 50 \text{ cm  }\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (d) \(\text{diameter} = 7 \text{ cm, } h = 10 \text{ cm  }\)</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+
+<div xmlns="http://www.w3.org/1999/xhtml">
+<p class="Body-investigation-hanging">3. Calculate the volume
+    of the following object. Use a calculator and round off all
+    answers to two decimal places. </p>
+
+    <div class="frame-23"><img class="frame-371" src="Maths_English_LB_gr9_term3_1-web-resources/image/153149.png" alt="153149.png"/></div><hr/>
+</div>
+
+<h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-27">Capacity</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Remember that the <b>capacity</b> of
+    an object is the amount of space inside the object. You can think
+    of the capacity of an object as the amount of liquid that the
+    object can hold.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">The <b>volume</b> of an object
+      is the amount of space that the object itself takes up.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The volume of a solid block of wood
+    is \(10\text{ cm} \times  6\text{ cm} \times 4 \text{ cm} = 240 \text{ cm}^3\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The same block of wood is carved out to make a
+    hollow container with inside measurements of 8 cm \times 4 cm
+    \times 3 cm. (Its walls are 1 cm thick.) The amount of space
+    inside the container must be calculated using the inside measurements. So the
+    capacity of the container is \(8 \text{ cm} \times   4 \text{ cm}  \times  3 \text{ cm} = 96
+    \text{ cm}^3\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-373" src="Maths_English_LB_gr9_term3_1-web-resources/image/153265.png" alt="153265.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Write, in ml, the volume of
+    water that would fill container B.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Remember:</p>
+
+      <p class="Body-box-no-indent">1 cm<sup>3</sup> = 1 ml</p>
+
+      <p class="Body-box-no-indent">1 m<sup>3</sup> = 1 kl</p>
+    </div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. If the walls and
+    bottom of container B were 0,5 cm thick, what would its
+    capacity be? Write the answer in ml. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. The inside
+    measurements of a swimming pool are 9 m \(\times\)  4 m \(\times\)  2 m.
+    What is the capacity of the pool in kl? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-28">Doubling dimensions and the effect on volume</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation-after-B-head">Doubling the dimensions of a prism</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The first prism below measures 5 cm
+    \(\times\)  3 cm \(\times\)  2 cm. The other diagrams show the prism with
+    one or more of its dimensions doubled.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Work out the volume of each
+    prism.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-23"><img class="frame-375" src="Maths_English_LB_gr9_term3_1-web-resources/image/153464.png" alt="153464.png"/></div><hr/>
+
+      <div class="frame-23"><img class="frame-376" src="Maths_English_LB_gr9_term3_1-web-resources/image/153473.png" alt="153473.png"/></div><hr/>
+    </div>
+
+    
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-23"><img class="frame-377" src="Maths_English_LB_gr9_term3_1-web-resources/image/153596.png" alt="153596.png"/></div><hr/>
+
+      <div class="frame-23"><img class="frame-378" src="Maths_English_LB_gr9_term3_1-web-resources/image/153605.png" alt="153605.png"/></div><hr/>
+    </div>
+
+   
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Complete the following:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) When one dimension of a
+    prism is doubled, the volume </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) When two dimensions of a
+    prism are doubled, the volume increases by .... times.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) When all three dimensions
+    of a prism are doubled, the volume increases by ....
+    times.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. The volume of a prism is 80
+    cm<sup>3</sup>. What is its
+    volume if:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) its length is doubled? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) its length and breadth are
+    doubled? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) its length, breadth and
+    height are doubled? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Doubling the dimensions of a cylinder</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The first cylinder below has a radius
+    of 7 cm and a height of 2 cm. The other diagrams show the
+    cylinder with one or more of its dimensions doubled.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Work out the volume of each
+    cylinder.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-23"><img class="frame-381" src="Maths_English_LB_gr9_term3_1-web-resources/image/154100.png" alt="154100.png"/></div><hr/>
+
+      <div class="frame-23"><img class="frame-382" src="Maths_English_LB_gr9_term3_1-web-resources/image/154110.png" alt="154110.png"/></div><hr/>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="frame-23"><img class="frame-384" src="Maths_English_LB_gr9_term3_1-web-resources/image/154129.png" alt="154129.png"/></div><hr/>
+
+      <div class="frame-23"><img class="frame-385" src="Maths_English_LB_gr9_term3_1-web-resources/image/154138.png" alt="154138.png"/></div><hr/>
+    </div>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Complete the following:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) When the height of a
+    cylinder is doubled, the volume. </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) When the radius of a
+    cylinder is doubled, the volume increases by .... times.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) When height and
+    radius of cylinder are doubled, the volume increases
+    by .... times.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. The volume of a cylinder is
+    462 cm<sup>3</sup>. What is its
+    volume if:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) its height is doubled? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) its radius is doubled? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) its height and radius are
+    doubled? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">4. (a) Study the following tables. Without
+    using the formulae to calculate volume, complete the last
+    column in each table. (Hint: Identify which dimensions are
+    doubled each time, then work out the volume accordingly.)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-96" class="no-border-plain"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2" colspan="4">
+            <p class="Table-header-centred"><b>Rectangular prism</b></p>
+          </td>
+        </tr><tr class="Row-Column-357"><td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Length (l)in m</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Breadth (b)in m</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Height (h)in m</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Volume (V)in m<sup>3</sup></b></p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">16</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">16</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">32</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">64</p>
+          </td>
+        </tr></tbody></table>
+<table xmlns="http://www.w3.org/1999/xhtml" id="table-97" class="no-border-plain"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2" colspan="3">
+            <p class="Table-header-centred"><b>Cylinder</b></p>
+          </td>
+        </tr><tr class="Row-Column-357"><td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Radius (r)in m</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Height (h)in m</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Volume (V)in m<sup>3</sup></b></p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">3,5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">154</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">616</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">3,5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">308</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">8</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1 232</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Explain how you worked out the answers
+    in the tables. </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+  </div>
+</div>

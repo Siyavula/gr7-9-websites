@@ -1,0 +1,1573 @@
+---
+layout: content-page-maths
+title: Gr9 Maths
+---
+<div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-9">Equations</h1>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">You have already solved
+    equations by inspection and inverse operations in the first
+    term. In this chapter you will first revise this work. Then you
+    will work with equations which contain product expressions,
+    like \(2x(x - 2) \) and \( (x - 5)(x + 3) \). You will learn new
+    methods to solve these equations, based on the fact that if the
+    product of two expressions (or numbers) equals zero, one or
+    both of the expressions or numbers must be zero. You will use
+    factorisation to write equations in the form \(pq = 0\) so that you can solve
+    them.</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-10">Introduction</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Solution by inspection</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Complete the following
+    table. Substitute the given \(x\)-values into the equation until
+    you find the value that makes the equation true.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">You can read the solutions of
+      an equation from a table.</p>
+    </div>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-41" class="no-border-plain"><tbody><tr class="Row-Column-69"><td class="none"/>
+
+          <td class="left-bottom">
+            <p class="Table-header-centred"><b>Equation</b></p>
+          </td>
+
+          <td class="left-bottom">
+            <p class="Table-header-centred"><b>LHS if \(x = 4\)</b></p>
+          </td>
+
+          <td class="left-bottom">
+            <p class="Table-header-centred"><b>Is LHS = RHS ?</b></p>
+          </td>
+
+          <td class="left-bottom">
+            <p class="Table-header-centred"><b>LHS if \(x = 5\)</b></p>
+          </td>
+
+          <td class="left-bottom">
+            <p class="Table-header-centred"><b>Is LHS = RHS ?</b></p>
+          </td>
+
+          <td class="left-bottom">
+            <p class="Table-header-centred"><b>LHS if \(x = 6\)</b></p>
+          </td>
+
+          <td class="left-bottom">
+            <p class="Table-header-centred"><b>Is LHS = RHS ?</b></p>
+          </td>
+
+          <td class="left-bottom-right">
+            <p class="Table-header-centred"><b>Correct solution</b></p>
+          </td>
+        </tr><tr class="Row-Column-21"><td class="none">
+            <p class="Table-text-left">(a)</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-centred">\(3x - 4 = 11\)</p>
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left-right">
+            <p class="Table-text-centred"> \(x = \) </p>
+          </td>
+        </tr><tr class="Row-Column-21"><td class="none">
+            <p class="Table-text-left">(b)</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-centred">\(2x + 7 = 19 \)</p>
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left-right">
+            <p class="Table-text-centred"> \(x = \) </p>
+          </td>
+        </tr><tr class="Row-Column-21"><td class="none">
+            <p class="Table-text-left">(c)</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-centred">\(13 - 5x = -7 \) </p>
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left">
+            
+          </td>
+
+          <td class="left-right">
+            <p class="Table-text-centred">\(x = \) </p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-14">(LHS = Left-hand side
+    and RHS = Right-hand side)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. In the following
+    table, you are given equations with their solutions. Insert +
+    or - or = signs between each term to make the equations true
+    for the solution given.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">The "searching" for the
+      solution of an equation is referred to as solving the
+      equation by <b>inspection</b>.</p>
+    </div>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-42" class="border-plain"><tbody><tr class="Row-Column-21"><td class="none"/>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Equation</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Solution</b></p>
+          </td>
+
+         
+        </tr><tr class="Row-Column-21"><td class="none">
+            <p class="Table-text-left">(a)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">\( 2x ~~~~~ 7 = 15\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(x = 4\)</p>
+          </td>
+
+        </tr><tr class="Row-Column-21"><td class="none">
+            <p class="Table-text-left">(b)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">\( 3 ~~~~~ 2x = 11 \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(x = -4\)</p>
+          </td>
+
+          
+        </tr><tr class="Row-Column-21"><td class="none">
+            <p class="Table-text-left">(c)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">\(-x ~~~~~ 7 = 3 \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(x = 4\)</p>
+          </td>
+
+
+        </tr><tr class="Row-Column-21"><td class="none">
+            <p class="Table-text-left">(d)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-left">\(28 ~~~~~ 5x = 3\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(x = 5\)</p>
+          </td>
+
+        </tr></tbody></table>
+
+<div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">Statements like \(21 - x = 2x + 3 \) and \((x - 3)(x - 5) = 0\), 
+      which are true for only some values of
+      \(x\) are called
+      <b>equations</b>.</p>
+	<p> A statement like \( 2(x + 3) = 2x + 6 \), which is true for
+	all values of \(x\) you can think of, is called an <b>identity</b>.</p>
+	<p> A statement like \( 2(x + 3) = 2x + 3 \), where there
+	are no values of \(x\) for which it is true, is called an
+	<b>impossibility</b>.</p>
+
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Solving equations through inverse operations</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In this section you are going to
+    explore a different way of solving equations.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Complete the following
+    calculations.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \(3 -3 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \( −9 765 + 9 765 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (c) \( −a + a \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (d) \( 13a − 13a \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. What do you notice? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. Complete the following
+    calculations.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \( 3 \div 3 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \(3 \times \frac{1}{3} \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (c) \( \frac{1}{x} \times x \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (d) \( \frac{x}{3} \times \frac{3}{x} \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+ 
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. What do you notice? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+   <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">We can start with a
+      solution as an equation and then apply some operations to it
+      to turn it into an equivalent but more complicated
+      equation.</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Two equations are
+      <b>equivalent</b> if they have the same solution.</p>
+    </div>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-45" class="no-border-plain"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2" colspan="2">
+            <p class="Table-header-centred"><b>Building an equation</b></p>
+          </td>
+
+          <td class="left" rowspan="3"/>
+
+          <td class="left" colspan="2">
+            <p class="Table-header-centred"><b>Solving an equation</b></p>
+          </td>
+        </tr><tr class="Row-Column-69"><td class="none">
+            <p class="Table-text-centred">Action on both sides</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Equivalent equations</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Action on both sides</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">Equivalent equations</p>
+          </td>
+        </tr><tr class="Row-Column-191"><td class="cell-style-override-2">
+            <p class="Table-text-centred">Solution (1)</p>
+
+            <p class="Table-text-centred">\(\times 3\)</p>
+
+            <p class="Table-text-centred">\(+ 2\)</p>
+
+            <p class="Table-text-centred">Solution (2)</p>
+
+            <p class="Table-text-centred">\(\times 2\)</p>
+
+            <p class="Table-text-centred">\(+ 6\)</p>
+
+            <p class="Table-text-centred">\(+ x\)</p>
+
+            <p class="Table-text-centred">factorise</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(x = 3\)</p>
+
+            <p class="Table-text-centred">\( 3x = 9 \)</p>
+
+            <p class="Table-text-centred">\(3x + 2 = 11\)</p>
+
+            <p class="Table-text-centred">\(x = -9 \)</p>
+
+            <p class="Table-text-centred">\(2x = -18\)</p>
+
+            <p class="Table-text-centred">\(2x + 6 = −12 \)</p>
+
+            <p class="Table-text-centred">\(3x + 6 = x − 12 \)</p>
+
+            <p class="Table-text-centred">\(3(x + 2) = x − 12 \)</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-centred">Equation (1)</p>
+
+            <p class="Table-text-centred">\(- 2\)</p>
+
+            <p class="Table-text-centred">\(\div 3\)</p>
+
+            <p class="Table-text-centred">Equation (2)</p>
+
+            <p class="Table-text-centred">remove brackets</p>
+
+            <p class="Table-text-centred">\(- x\)</p>
+
+            <p class="Table-text-centred">\(- 6\)</p>
+
+            <p class="Table-text-centred">\(\div 2\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(3x + 2 = 11 \)</p>
+
+            <p class="Table-text-centred">\(3x = 9\)</p>
+
+            <p class="Table-text-centred">\(x = 3\)</p>
+
+            <p class="Table-text-centred">\(3(x + 2) = x − 12 \)</p>
+
+            <p class="Table-text-centred">\(3x + 6 = x − 12\)</p>
+
+            <p class="Table-text-centred">\(2x + 6 = −12 \)</p>
+
+            <p class="Table-text-centred">\(2x = −18 \)</p>
+
+            <p class="Table-text-centred">\(x = -19 \)</p>
+          </td>
+        </tr></tbody></table>
+        <table xmlns="http://www.w3.org/1999/xhtml" id="table-46" class="no-border-plain"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2" colspan="2">
+            <p class="Table-header-centred"><b>Building an equation</b></p>
+          </td>
+
+          <td class="left" rowspan="2"/>
+
+          <td class="left" colspan="2">
+            <p class="Table-header-centred"><b>Solving an equation</b></p>
+          </td>
+        </tr><tr class="Row-Column-195"><td class="cell-style-override-2" style="vertical-align:top;">
+            <p class="Table-text-centred para-style-override-5">
+            Action on both sides</p>
+
+            <p class="Table-text-centred para-style-override-5">
+            Solution (3)</p>
+
+            <p class="Table-text-centred para-style-override-5">
+            \(\div - 1\)</p>
+
+            <p class="Table-text-centred para-style-override-5">\(+
+            3\)</p>
+
+            <p class="Table-text-centred para-style-override-5">\(+
+            2x\)</p>
+
+            <p class="Table-text-centred">\(\div 2\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-5">
+            Equivalent equations</p>
+
+            <p class="Table-text-centred para-style-override-5">
+            \(x = 1\)</p>
+
+            <p class="Table-text-centred para-style-override-5">
+            \(- x = -1\)</p>
+
+            <p class="Table-text-centred para-style-override-5">
+            \( - x + 3 =
+            2\)</p>
+
+            <p class="Table-text-centred para-style-override-5">\(+
+            x + 3 = 2 + 2x \)</p>
+
+            <p class="Table-text-centred">\(\frac{(x + 3)}{2} = 1 + x \)</p>
+          </td>
+
+          <td class="left" style="vertical-align:top;">
+            <p class="Table-text-centred para-style-override-5">
+            Action on both sides</p>
+
+            <p class="Table-text-centred para-style-override-5">
+            Equation (3)</p>
+
+            <p class="Table-text-centred para-style-override-5">
+            \(\times 2\)</p>
+
+            <p class="Table-text-centred para-style-override-5">\(-2x\)</p>
+
+            <p class="Table-text-centred para-style-override-5">\(-
+            3\)</p>
+
+            <p class="Table-text-centred">\(\div - 1\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-5">
+            Equivalent equations</p>
+
+            <p class="Table-text-centred para-style-override-5">
+           \(\frac{x + 3}{2} = 1 + x\)</p>
+
+            <p class="Table-text-centred para-style-override-5">
+            \(x + 3 = 2 + 2x \)</p>
+
+            <p class="Table-text-centred para-style-override-5">\(- x + 3 = 2 \)</p>
+
+            <p class="Table-text-centred para-style-override-5">\(-
+            x = - 1\)</p>
+
+            <p class="Table-text-centred">\(x = 1\)</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Try making up your own equations and
+    then solving them. Did you get the "solution" that you started
+    with?</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">When you solve an equation,
+      you actually reverse the making of the equation.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. Solve for \(x\):</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \(2(x + 4) + 9 = 15	\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+	<p xmlns="http://www.w3.org/1999/xhtml">(b) \( 5(x − 2) = 7(2 − x)\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(c) \( \frac{2x}{3} - 2 = 12 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">(d) \( \frac{3y - 3}{2} + \frac{5}{2} = \frac{5y}{3}\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Up to now you have only dealt with
+    equations of the <b>first
+    degree</b>. That means they contained only <i>first powers</i> of the unknown
+    \((x)\), for example
+    \(3x − 2 = 5x + 7 \). In the
+    following sections you will solve equations of the <b>second degree</b>, where the
+    expressions contain second powers. This is an equation of the
+    second degree:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">\(x^2 + 1 = x + 13\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">When the expression part of the
+    equation is written as the product of a monomial and a
+    binomial, e.g. \(x(x - 2) = 0 \); or the
+    product of two binomials, e.g. \((x - 2)(x + 3) = 0 \) the result is also an
+    equation of the second degree.</p>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-11">Solving by factorisation (part 1)</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Developing a strategy: multiplying by zero</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Can you find two
+    numbers \(x\) and
+    \(y\) so that if you
+    multiply them the answer is 0, i.e. \(xy = 0? \)</p>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">Each part of a product is
+      called a <b>factor</b> of the expression.</p>
+
+      <p class="Body-box">If \(c = ab\), then \(a\) and \(b\) are factors of \(c\).</p>
+
+      <p class="Body-box">If \(x^2 + 5x + 6 = (x + 2)(x + 3)\), then \(x + 2\) and
+      \(x + 3 \) are factors of \(x^2 + 5x + 6\).
+     </p>
+    </div>
+
+
+<p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Complete the following
+    table:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-48" class="no-border-plain"><tbody><tr class="Row-Column-203"><td class="cell-style-override-2"/>
+
+          <td class="left">
+            <p class="Table-header-centred"><b>Equation</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Factors</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Product</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>First possible solution</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Second possible solution</b></p>
+          </td>
+        </tr><tr class="Row-Column-204"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-19">
+            Example</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-centred">\(x(x − 2) = 0 \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(x\) and \((x - 2) \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(x = 0\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">\(x - 2 = 0\)</p>
+
+            <p class="Table-text-centred">\(x = 2\)</p>
+          </td>
+        </tr><tr class="Row-Column-204"><td class="cell-style-override-2">
+            <p class="Table-text-centred">(a)</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-centred">\(x(x + 5) = 0 \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+
+            
+          </td>
+        </tr><tr class="Row-Column-204"><td class="cell-style-override-2">
+            <p class="Table-text-centred">(b)</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-centred">\(2x(3x − 12) = 0 \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+
+            
+          </td>
+        </tr><tr class="Row-Column-204"><td class="cell-style-override-2">
+            <p class="Table-text-centred">(c)</p>
+          </td>
+
+          <td class="left">
+            <p class="Table-text-centred">\(0 = (x + 2)(x − 2) \)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+
+            
+          </td>
+        </tr></tbody></table><div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent"><b>Zero Product
+      Property</b></p>
+
+      <p class="Body-box-no-indent">If: \(a \times b = 0\)</p>
+
+      <p class="Body-box-no-indent">Then: \(a = 0\) or</p>
+
+      <p class="Body-box-no-indent">\(b = 0\) or</p>
+
+      <p class="Body-box-no-indent">\(a\) and \(b = 0\)</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">You can rewrite an equation
+      so that it is in the form \(expression = 0\); for example
+      you can write</p>
+
+      <p class="Body-content-no-indent">\(x^2 − 2x = 3x + 6\) as \(x^2 − 5x − 6 = 0\).
+</p>
+	<p>You can factorise \(x^2 − 5x − 6 \) and then use the Zero
+Product Property to solve the equation. </p>
+
+      <p class="Body-content-no-indent">\( x^2 − 5x − 6 = 0 \)</p>
+	
+      <p class="Body-content-no-indent">\( (x − 6)(x + 1) = 0 \)</p>
+
+      <p class="Body-content-no-indent">\(x = 6\) or \(x = −1 \)</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In a later section you will solve
+    equations like the above example. You have to write the
+    equation in the form, \( expression = 0\), then factorize
+    the left-hand side and then use the zero-product property.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Taking out the highest common factor</h3>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">The process of writing a
+      sum expression (polynomial) as a product (monomial) is called
+      <b>factorisation</b>. This is the inverse of
+      <b>expansion</b>.</p>
+
+      <p class="Body-content-no-indent">Look at the expression
+      \(2x^2 − 6x\).</p>
+
+      <p class="Body-content-no-indent">\(2x\) is a factor of both terms, therefore it is a factor
+	of \(2x^2 − 6x\).
+</p>
+	<p>By division we get \(\frac{2x^2 - 6x}{2x} = x - 3\). </p>
+	<p>Hence \(2x^2 − 6x = 2x(x − 3)\). </p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">It is unnecessary to write out
+      the division step of this method. After finding the common
+      factor, we write down the product form directly. \(2x^2 – 6x = 2x(\text{.........} )\)</p>
+
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Determine the values of \(x\) which will make the following
+    statements true:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">1. \(x^2 = −3x \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> 2. \( x^2 + 2x^2 = 6x\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> 3. \( \frac{6x}{3} +x = -4x^2\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> 4. \( x = x(2 - x)\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+   
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-12">Solving by factorisation (part 2)</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Solving by factorising trinomials</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The product of the first terms of the
+    factors must be equal to the \(x^2\) term of the trinomial.</p>
+
+
+        <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-98" src="Maths_English_LB_gr9_term3_1-web-resources/image/Selection_012.png" alt="Selection_012.png"/>
+	<p>Meaning: \(x.x = x^2 \) </p>
+	<p>meaning: \(2.3 = 6\) </p></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The product of the last terms of the
+    factors must be equal to the last term (the constant term) of
+    the trinomial.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-5">The sum of the inner and
+    outer products must be equal to the \(x\) term of the trinomial.</p>
+
+        <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-212" src="Maths_English_LB_gr9_term3_1-web-resources/image/Selection_013.png" alt="Selection_013.png"/>
+	<p>Meaning:\((2 + 3)x = 5x \)</p>
+	<p><b>The factors are of the form:</b> \((x.x) + (a + b)x + (a.b) = (x + a)(x + b)\).</p></div>
+
+       
+
+ 
+
+
+
+
+
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Determine the values of \(x\) which will make the following
+    statements true.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-4">Remember to
+    write the equation in the form \(expression = 0\) so that you can
+    use the zero-product principle.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">1. \(x^2 + 9x = −14 \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">2. \( x^2 + 3x = 18 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">3. \( x^2 − 18x = −17 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">4. \( x^2 + 30 = 11x\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">5. \( x^2 = 13x + 30 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">6. \( x^2 + 7x = 30\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	
+
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Solving by factorising the difference between two squares</h3>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <h4>Remember from the previous
+      chapter:</h4>
+
+      <p class="Body-content-no-indent">If p and q are perfect squares, also
+      "algebraic squares", then:</p>
+
+     <img class="frame-219" src="Maths_English_LB_gr9_term3_1-web-resources/image/Selection_014.png" alt="Selection_014.png"/>
+
+    </div>
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">An expression of the form
+      \(a^2 - b^2\) is called the <b>difference
+      between two squares</b>.</p>
+
+      <p class="Body-box">To factorise a difference between
+      squares, we use the identity: \( a^2 - b^2 = (a + b)(a - b) \) 
+	where \(a\) and \(b\) represent numbers or
+      algebraic expressions.</p>
+    </div>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Determine the values of the unknown
+    (x or a or n, etc.) which will make the
+    following statements true.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-4">Remember to write the
+    equation in the form expression = 0 so that you can
+    use the zero-product principle.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">1. \( x^2 = 4 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">2. \( x^2 = 16\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">3. \( 4a^2 = 9 
+\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">4. \( 81 = 9n^2
+\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">5. \( 25x^2 = 36	 
+\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>	
+	<p xmlns="http://www.w3.org/1999/xhtml">6. \(121x^2 = 144
+ \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>	
+	<p xmlns="http://www.w3.org/1999/xhtml">7. \( 16p^2 = 49	 
+\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml">8. \(64a^2 = 25
+ \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-13">Solving by factorisation (part 3)</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation-after-B-head">Solving by using properties of exponents</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Write the following
+    numbers as the product of their prime factors.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">All numbers can be written as
+      the product of their prime factors:</p>
+
+      <p class="Body-box-no-indent"><b>16</b>  \(= 4 \times 4 = 2
+      \times 2 \times 2 \times 2 =\) <b>2</b><sup><b>4</b></sup> </p>
+
+      <p class="Body-box-no-indent">Factorise the number until all
+      the factors are prime numbers.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column-narrow">(a) 128  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml">(b) 243 </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+ 
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column-narrow">(c) 125  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml">(d) 2 401 </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. Determine the values
+    of x which will make
+    the following statements true.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">If the base of the LHS is the
+      same as the base of the RHS, then the exponent on the LHS
+      must be equal to the exponent on the RHS.</p>
+
+      <p class="Body-box">If \(a^y\), then \(x = y \).</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column-narrow">(a) \(2^x = 2^7\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml"> (b) \(3^x = 3^5\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column-narrow">(c) \(5^x = 5^3\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> <p xmlns="http://www.w3.org/1999/xhtml"> (d) \(7^x = 7^4\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Determine the values of
+    x which will make
+    the following statements true:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(a) \(2^x = 128\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) \(3^x = 243\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(c) \( 5^x = 125\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml"> (d) \(7^x = 2 401\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">(e) \(2^x + 9 = 25 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml"> (f) \(27(3^x) = 3 \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">In the equation
+      \(2^x = 16\), the
+      letter symbol \((x)\)
+      is the exponent. Equations with the letter symbol as an
+      exponent are referred to as <b>exponential equations</b>.</p>
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Mixed exercises for more practice</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent para-style-override-4">Determine the
+    values of the unknown (\(x\) or \(m\) or b, etc.) which will make the
+    following statements true.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-column">1. \( \frac{6x}{3} + x = -4x^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> 2. \( x = x(2 - x) \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml"> 3. \( x^2 + 2x = 15 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> 4. \( m^2 + 4m = 21\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>  
+	<p xmlns="http://www.w3.org/1999/xhtml"> 5. \( x^2 + 3 = 4x \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml"> 6. \( b^2 - 16b = -15 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> 7. \( 1 = a^2 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml"> 8. \( 25x^2 = 49\)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+	<p xmlns="http://www.w3.org/1999/xhtml"> 9. \(2^x − 25 = 9  \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> 10. \(81(3^x) = 3 \)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/> 
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-14">Set up equations to solve problems</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">The mathematical modelling process</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><b>Consider this problem involving a
+    practical situation.</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Printing shop A charges 45c per page
+    and R12 for binding a book.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Printing shop B charges 35c per page
+    and R15 for binding a book.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">For a book with how many pages will
+    the two shops charge the same?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">You can write an equation to describe the
+    problem.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">The equation represents a
+      mathematical problem that can be solved without necessarily
+      keeping the practical situation in mind. It is called a
+      <b>mathematical model</b> of the practical situation.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Let the number of pages for which the work
+    costs the same be \(x\).
+    Then</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">\(45x + 1 200 = 35x + 1 500 \).</p>
+
+
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">We describe this as
+      <b>analysing</b> the mathematical model, to produce a
+      <b>mathematical solution</b>.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Now solve the equation.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">\(\begin{align}45x + 1 200 &amp;= 35x + 1 500 \\ 45x − 35x	 &amp;= 1 500 − 1 200 \\10x	 &amp;= 300  \\ x &amp;= 30\end{align}\)</p>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">We may now ask what the solution to
+    the mathematical problem ("\(x = 30\)") means in terms of the
+    practical situation. When the equation was set up above, the
+    symbol x was used as
+    a placeholder for the number of pages in a book for which the
+    two shops would charge the same. So - what
+    does the solution tell you?</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">The mathematical solution may
+      be <b>interpreted</b> to establish what it means in the
+      practical situation.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Now check whether the two shops will charge the
+    same for a book with 30 pages.<span>At shop A 30 pages will
+    cost \( 30 \times 45c = 1350c = R13,50\). Binding is R12, total cost
+    is R25,50.</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span>At shop B 30 pages will cost \(30
+    \times 35c = 1050c = R10,50\). Binding is R15, total cost is
+    R25,50.</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The solution to the mathematical
+    problem is also a solution to the practical problem.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">The mathematical solution
+      should be <b>tested in the practical situation</b>, because
+      mistakes may have been made.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="frame-234" src="Maths_English_LB_gr9_term3_1-web-resources/image/143638.png" alt="143638.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">When people work like this, we say
+    they do <b>mathematical modelling</b>.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Practice your modelling skills</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Three situations are described below.
+    For each situation the mathematical model is outlined and some
+    clues are provided. Fill in the missing information.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Louis is 6 years older
+    than Karin and Karin is 4 years older than Heidi. The sum of
+    their ages is 53 years. How old is Heidi?</p>
+	
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>Model: </b></p> 
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20"> Let \(x\) be: Heidi's age</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20">Then: Karin's age
+    will be ................</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20">And: ................</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20">Hence: ................= 53</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20"><b>Analysis:</b> \(x + (x + 4) + (x + 10) = 53 \) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><b>Interpretation:</b> So Heidi is: ................</p>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. The sum of two numbers
+    is 15. Three times the smaller number is 5 more than the larger
+    number. Calculate the two numbers. (<b>Hint:</b> Let the
+    smaller number be \(x\).)</p>
+	
+	<p xmlns="http://www.w3.org/1999/xhtml"><b> Model: </b></p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20">Let \(x\) be: ................</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20">Then: ................ is the larger
+    number</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20">Hence: ................</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20"><b>Analysis:</b> </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20"><b>Interpretation:</b> So the smaller
+    number is: ................</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">And the larger number
+    is: ................</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. The sum of three
+    consecutive even numbers is 108. What are the numbers?
+    <b>Hint:</b> Consecutive
+    numbers are numbers that follow on each other. We define an
+    even number as a number of the form 2n where n is a counting number.</p>
+
+	<p xmlns="http://www.w3.org/1999/xhtml"><b>Model:</b></p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20"> Let the first number
+    be: </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20">Then:................ </p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20">Hence: ................</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20"><b>Analysis:</b> ................</p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20"><b>Interpretation:</b> So the first
+    number is: ................</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-20">And the second number
+    is: ................</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">And the third number is: ................</p>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. Firm A calculates the
+    cost of a job using the formula \(\text{Cost} = 500 + 30t\), where \(t\) is the number of days it takes
+    to complete the job.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging para-style-override-3">
+    Firm B calculates the cost of the same job using the formula
+    \(\text{Cost} = 260 + 48t\),
+    where \(t\) is the
+    number of days needed to complete the job.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) What would Firm A charge for a job that
+    takes 10 days? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) How long would Firm B take to complete a
+    job for which their charge is R596? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Here is a specific job for which firms
+    charge the same and take the same time to complete. How long
+    does this job take? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-15">Equations and ordered pairs</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">When unknowns become variables</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">In the previous sections we dealt
+    with equations which had fixed or limited solutions. They only
+    had one letter symbol, which in this case acted as a
+    placeholder for the value/s which will make the statement
+    true.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">Study the equation: \(y = 5x + 2\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. How many letter symbols does
+    the equation have? (List them.)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+   <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Is it possible to solve this
+    "equation"?  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Complete the table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-53" class="no-border-plain"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">12</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">10</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">20</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">6</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-10</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred">\(5x + 2\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Functions as sets of ordered pairs</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">A specific input number, for example
+    10, and the output number associated with it (52 in the case of
+    the function described by \( y = 5x + 2 \)) is called an ordered pair. Ordered pairs can
+    be represented in a table like the one you completed in
+    question 3 above.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">In the function indicated by
+       \( y = 5x + 2 \)
+      the letter symbol in the formula (\(x\)) represents the
+      <b>input</b> or <b>independent</b> variable while the other
+      letter symbol (\(y\)) represents the
+      <b>output</b> or <b>dependent</b> variable.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Ordered pairs can also be written in brackets:
+    (input number; output number).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body para-style-override-4">For example the ordered
+    pairs you entered into the table in 3 can be written as (12;
+    62), (10; 52), (20; 102), (5; 27), (6; 32), (-5; -23), (-10;
+    -48)</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">If there is precisely one value
+      of \(y\) for
+      each value of \(x\), we say that</p>
+
+      <p class="Body-box-no-indent">\(y\) <b>is a function
+      of</b> \(x\)</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Complete each table by
+    writing the ordered pairs in brackets below the table, in the
+    table as shown in the example. Then choose two more input
+    numbers and write down two additional ordered pairs that belong
+    to each given function.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">For the function with
+    the rule \( y = 4x + 5 \)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-54" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+           \( y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">9</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">13</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">25</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-5">(-2; -3), (0; 5), (1;
+    9), (2; 13), (5; 25), and (10; 45) and (20; 85)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">(a) For the function
+    with the rule \(y =
+    x^2 + 9\)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-55" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">18</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">34</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(5;34), (3; 18 ), (0; 9), (-3; 18), (-5;
+    34), and ( . . ; . . .), and ( . . ; . . .)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">(b) For the function
+    with the rule \(y = 3x - 2 \)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-56" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-17</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(5; 13), (1; 1), (0; -2), (-3; -11), (-5;
+    -17), and (. . . ; . . .) and ( . . ; . . .)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">(c) For the function
+    with the rule \(y = 5x - 4\)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-57" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-5</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">21</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(-5; -29), (-3; -19 ), (1; 1), (2; 6), (5;
+    21), and (. . . ; . . .) and ( . . ; . . .)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">(d) For the function
+    with the rule \(y = 12 - 3x \)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-58" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">4</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-3</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(1; 9), (2; 6 ), (3; 3), (4; 0), (5; -3),
+    and (. . . ; . .) and ( . . ; . . .)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">(e) For the function
+    with the rule\( y = x^2 + 2 \)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-59" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+           \( x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-12</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-7</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">-2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">102</p>
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(-12; 146), (-7; 51 ), (-2; 6), (3; 11),
+    (10; 102), and (. . . ; . . .) and ( . . ; . . .)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a- para-style-override-3">(f) For the function
+    with the rule \( y = 2^x + 2 \)</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-60" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(x\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">0</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">1</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">2</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">3</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-10"><td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-7">
+            \(y\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred">18</p>
+          </td>
+        </tr></tbody></table>
+
+	<p xmlns="http://www.w3.org/1999/xhtml"> (0; 3), (1; 4 ), (2; 6), (3; 10), (4; 18) and (. . . ; . . .) and ( . . ; . . .)</p>
+
+	<p xmlns="http://www.w3.org/1999/xhtml"> 3. (a) Which ordered pair belongs to both \(y = 3x − 2\) and \(y = 5x − 4\)? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+	<p xmlns="http://www.w3.org/1999/xhtml"> (b) Which ordered pair belongs to both \(y = 12 − 3x\) and \(y = 5x − 4\)?  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+	<p xmlns="http://www.w3.org/1999/xhtml"> 4. Which ordered pair belongs to both \(y = 5x + 7\) and \(y = 3x + 25\)?  </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+  </div>
+</div>

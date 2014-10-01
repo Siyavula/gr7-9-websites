@@ -1,0 +1,1102 @@
+---
+layout: content-page-maths
+title: Gr9 Maths
+---
+<div class="container">
+  <div id="contents" class="col-md-12 main-content"><h1 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-29">Transformation geometry</h1>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener-no-indent">In Grade 8, you learnt how to
+    describe and perform translations, reflections and rotations on
+    a coordinate system. In such transformations, the original
+    figure and its image are always congruent. In this grade, you
+    will explore in more detail the change in the coordinates of
+    original figures and their images after different types of
+    reflections and translations.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-opener">You will then revise how a figure is
+    enlarged or reduced when its sides are multiplied by the same
+    number, called a scale factor, and how the scale factor affects
+    the area and perimeter of an image. In enlargements and
+    reductions, the corresponding sides of the original figure and
+    its image are in proportion, which makes the figures similar.
+    You will also perform enlargement and reduction of figures on
+    the coordinate system, and investigate the coordinates of the
+    vertices of such figures.</p>
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-30">Points on a coordinate system</h2>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">A rectangular coordinate
+      system is also called a <b>Cartesian coordinate system</b>.
+      It consists of a horizontal \(x\)-axis and a vertical
+      \(y\)-axis.</p> 
+	<p>The intersection of the axes is called the <b>origin</b>, and represents the point (0; 0). </p>
+
+	<p>Any point can be represented on a coordinate system using an <i>\(x\)-value</i>
+	and a <i>\(y\)-value</i>. These numbers are called <b>coordinates</b>, and describe the
+	position of the point with reference to the two axes.</p>
+
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-390" src="Maths_English_LB_gr9_term3_1-web-resources/image/162231.png" alt="162231.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The coordinates of a point are always
+    written in a certain order:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The horizontal distance from the origin</p>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">(\(x\)-coordinate) is written
+    first.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The vertical distance from the origin
+    (\(y\)-coordinate) is
+    written second.</p>
+ 
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">These numbers, called an <b>ordered pair</b>, are separated by a
+    semi-colon (;) and are placed between brackets. Here is an
+    example of an ordered pair: (4; 3) (see on the coordinate
+    system above).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The \(x\)-axis and \(y\)-axis divide the coordinate
+    system into four sections called <b>quadrants</b>. The diagram below
+    shows how the quadrants are numbered, and also whether the
+    x- and \(y\)-coordinates are negative or
+    positive in each quadrant.</p>
+   <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-391" src="Maths_English_LB_gr9_term3_1-web-resources/image/162222.png" alt="162222.png"/></div>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. In which quadrant will the
+    following points be plotted?</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) (-4; 1) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) (-1; -5)  </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml"> (c) (4;
+    -3) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml"> (d) (5;
+    2) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation para-style-override-1">2. Plot the
+    points in question 1 on the coordinate system above.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">When a point is translated to a
+    different position on a coordinate system, the new position is
+    called the image of the point. We use the prime symbol
+    (') to indicate an
+    image. For example, the image of A is indicated by
+    A' (read as "A
+    prime"). If the coordinates of A are labelled as \((x; y)\), the coordinates of
+    A' can be labelled
+    as \((x'; y')\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">We write A → A' and \((x; y) →(x'; y')\) to indicate that A is mapped to A'.</p>
+
+
+
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-31">Reflection (flip)</h2>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">The <b>mirror image</b> or <b>reflection</b> of a point is on
+      the opposite side of a <b>line of reflection</b>.</p>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="aside">
+      <p class="Body-box-no-indent">"Reflecting a point in the
+      \(x\)-axis"
+      means that the \(x\)-axis is the line
+      of reflection.</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The original point and its mirror
+    image are the same distance away from the line of reflection,
+    and the line that joins the point and its image is
+    perpendicular to the line of reflection.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Any line on the coordinate system can be a line
+    of reflection, including the \(x\)-axis, the \(y\)-axis and the line \(y = x\).</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Reflecting points in the (\(x\)-axis, \(y\)-axis and the line \(y =x\)</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. The points A(5; 4) and B(-3;
+    -2) are plotted on a coordinate system.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Reflect points A and B in the
+    \(x\)-axis and write
+    down the coordinates of the images.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Reflect points A and B in the
+    \(y\)-axis and write
+    down the coordinates of the images.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Compare the coordinates of the original
+    points with those of its images. What do you notice? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-393" src="Maths_English_LB_gr9_term3_1-web-resources/image/162080.png" alt="162080.png"/></div>
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span class="x2nd-level-bullet">2. Write down the coordinates of the images
+    of the following reflected points.</span></p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-100" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-21"><td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Point</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Reflection in the \(x\)-axis</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Reflection in the \(y\)-axis</b></p>
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-centred">(-131; 24)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-centred">(-459; -795)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-centred"> \((x;y)\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. The points J(-1; 5),
+    K(-2; -4) and L(1; -2) are plotted on the coordinate system.
+    K' is the
+    reflection of point K in the line \(y = x\). This means that the line
+    \(y = x\) is the line of reflection.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Reflect J and L in the line \(y = x\).</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/162060.png" alt="162060.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Write down the coordinates of the images
+    of the points. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) What do you notice about the coordinates
+    of the images of the points in (b) above? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Use your observation in (c) above to
+    complete this table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-101" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-357"><td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Point</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred">Coordinates of the
+            image of the point of reflected in \(y =
+            x\)</p>
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-centred">(-1 001; -402)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-centred">(459; -795)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-centred">(-342; 31)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-centred">(21; 67)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-centred">(x; y)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">While doing the previous activity,
+    you may have noticed the following.</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet-Left-indent"> For a
+      reflection in the \(y\)-axis, the sign of the
+      \(x\)-coordinate
+      changes and the \(y\)-coordinate stays the same:
+     \((x;y)\) →
+      \((-x; y)\) or
+      \(x' = -x\) and \(y' = y\), for example: (-3;
+      4)→ (3;
+      4)</li>
+
+      <li class="Body-bullet-Left-indent"> For a
+      reflection in the \(x\)-axis, the sign of the
+      \(y\)-coordinate
+      changes and the \(x\)-coordinate stays the same:
+      (x; \(y\)) →
+      (x; -\(y\)) or \(x' = x\) and \(y' = -y\), for example:
+      (<span>-</span>3; 4) → (-3;
+      -4)</li>
+
+      <li class="Body-bullet-Left-indent"> For a
+      reflection in the line \(y = x\), the values of the
+      \(x\)- and
+      \(y\)-coordinates are
+      interchanged: (x;
+      \(y\)) →
+      (\(y\); x) or \(x' = y\) and \(y' = x\), for example: (-3; 4)
+      → (4;
+      -3).</li>
+    </ul><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. Investigate the effect of
+    reflection in the line \(y= -x\)  on the coordinates of a
+    point. </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. A is the point (5;
+    -2). Write the coordinates of the mirror images of A if the
+    point is reflected in:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) the \(y\)-axis  </p> <hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml">(b) the line \(y= -x\) </p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) the line \(y = x\) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml">(d) the \(x\)-axis</p>
+
+    <hr xmlns="http://www.w3.org/1999/xhtml"/>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Reflecting geometric figures</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">The same principles as above apply
+    when reflecting geometric figures.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. (a) Reflect\(\triangle PQR\) in the
+    \(x\)-axis, in the
+    \(y\)-axis and in the
+    line \(y =
+    x\) in the coordinate
+    system (first reflect the vertices and then join the reflected
+    points).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body"><span><img class="frame-399" src="Maths_English_LB_gr9_term3_1-web-resources/image/161945.png" alt="161945.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Look at your completed reflections in
+    question 1(a), and write down the coordinates of the image
+    points in the following table.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-102" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-253"><td>
+            <p class="Table-header-centred"><b>Vertices of triangle</b></p>
+          </td>
+
+          <td>
+            <p class="Table-header-centred"><b>Reflection in the \(x\)-axis</b></p>
+          </td>
+
+          <td>
+            <p class="Table-header-centred"><b>Reflection in the \(y\)-axis</b></p>
+          </td>
+
+          <td>
+            <p class="Table-header-centred">Reflection in the line
+            \(y
+            = x\)</p>
+          </td>
+        </tr><tr class="Row-Column-314"><td>
+            <p class="Table-text-centred">P(-6; 3)</p>
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td>
+            <p class="Table-text-centred">Q(-5; -2)</p>
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td>
+            <p class="Table-text-centred">R(-2; 1)</p>
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+
+          <td>
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) What do you notice about\(\triangle PQR\),
+   \(\triangle P'Q'R'\),\(\triangle P''Q''R''\) and\(\triangle P'''Q'''R'''\)? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Reflect \(\triangle DEF\) in the
+    \(x\)-axis, in the
+    \(y\)-axis and in the
+    line \(y = x\).</p>
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Normal para-style-override-3"><span class="char-style-override-32"><span><img class="frame-402" src="Maths_English_LB_gr9_term3_1-web-resources/image/161875.png" alt="161875.png"/></span></span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. A quadrilateral has
+    the following vertices: A(1; 4), B(-6; 1), C(-2; -1) and D(7;
+    2). Without performing the actual reflections, write down the
+    coordinates of the vertices of the image when the quadrilateral
+    is:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) reflected in the \(x\)-axis </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) reflected in the \(y\)-axis </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) reflected in the line \(y = x\)</p>
+
+
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. In each case state around
+    which line the point was reflected.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) (-4; 5) → (-4;
+    -5) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) (2; -3) → (-2;
+    -3) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) (-13; -3) → (-3;
+    -13) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) (1; 16) → (16;
+    1) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(e) (12; -8) → (-12;
+    -8) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(f) (-7; -5) → (-5;
+    -7) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(g) (2; -3) → (-2;
+    -3) </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-32">Translation (slide)</h2>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Remember: A translation of a point or
+    geometric figure on a coordinate system means moving or sliding
+    the point in a vertical direction, in a horizontal direction,
+    or in both a vertical and horizontal direction.</p>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml">Translating points horizontally or vertically on a coordinate system</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Points R and W are plotted on a coordinate system.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/161695.png" alt="161695.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Plot the image of point R after a
+    translation of:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet-after--a-"> 5 units
+      to the right</li>
+
+      <li class="Body-bullet-after--a-"> 5 units
+      to the left</li>
+
+      <li class="Body-bullet-after--a-"> 2 units
+      up</li>
+
+      <li class="Body-bullet-after--a-"> 2 units
+      down</li>
+    </ul><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Plot the image of point W after a
+    translation of:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet-after--a-"> 4 units
+      to the right</li>
+
+      <li class="Body-bullet-after--a-"> 4 units
+      to the left</li>
+
+      <li class="Body-bullet-after--a-"> 3 units
+      up</li>
+
+      <li class="Body-bullet-after--a-"> 3 units
+      down</li>
+    </ul><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Look at your completed translations in
+    (a) and (b) on the previous page. Complete the following table
+    by writing down the coordinates of the original points and
+    their images after each translation.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-103" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">Coordinates of original
+            points</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-19">
+            <b>R(-1; 4)</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-text-centred para-style-override-19">
+            <b>W(-2; -3)</b></p>
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">Coordinates of image after a
+            translation to the <b>right</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">Coordinates of image after a
+            translation to the <b>left</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">Coordinates of image after a
+            translation <b>up</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">Coordinates of image after a
+            translation <b>down</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Look at your completed table in (c)
+    above. Choose the correct answers below to make each statement
+    true:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet-Left-indent para-style-override-40">
+       For
+      translations to the <b>right or left</b>, the (\(x\)-value/\(y\)-value)
+      changes and the \(x\)-value/\(y\)-value)
+      stays the same.</li>
+
+      <li class="Body-bullet-Left-indent para-style-override-40">
+       For
+      translations <b>up or down</b>, the (\(x\)-value/\(y\)-value) changes and the
+      (\(x\)-value/\(y\)-value) stays the same.</li>
+
+      <li class="Body-bullet-Left-indent para-style-override-40">
+       For
+      translations to the <b>right</b>, (add/subtract) the
+      number of translated units (to/from) the \(x\)-value.</li>
+
+      <li class="Body-bullet-Left-indent para-style-override-40">
+       For
+      translations to the <b>left</b>, (add/subtract) the
+      number of translated units (to/from) the \(x\)-value.</li>
+
+      <li class="Body-bullet-Left-indent para-style-override-40">
+       For
+      translations <b>up</b>,
+      (add/subtract) the number of translated units (to/from) the
+      \(y\)-value.</li>
+
+      <li class="Body-bullet-Left-indent para-style-override-40">
+       For
+      translations <b>down</b>,
+      (add/subtract) the number of translated units (to/from) the
+      \(y\)-value.</li>
+    </ul><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">2. Write down the coordinates of
+    each image after the following translations.</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-104" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-357"><td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Point</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>3 units to the right</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>4 units to the left</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>2 units up</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>5 units down</b></p>
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">(3; 5)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">(-13; 42)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">(-59; -95)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">\((x;~ y)\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">3. Write down the coordinates of
+    each image after the following translations:</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-105" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-204"><td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Point</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>4 units to the right and 3 units up</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>2 units to the left and 1 unit up</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>1 unit to the right and 5 units down</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>6 units to the left and 2 units down</b></p>
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">(4; 2)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">(-32; 21)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">(-68; -57)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">\((x; ~y)\)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">While doing the previous activity, you may
+    have noticed the following:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet-Left-indent"> For a
+      horizontal translation through the distance \(p\), the \(x\)-coordinate increases by the
+      distance \(p\) if the
+      slide is to the right, and decreases by the distance
+      \(p\) if the slide is
+      to the left. We may write \(x' = x + p\), with \(p \gt 0\) for a translation to
+      the right, and \(p \lt 0\) for a translation to the left. The \(y\)-coordinate remains the same,
+      so \((x; y)\)
+      →
+      \((x + p; y)\).</li>
+
+      <li class="Body-bullet-Left-indent"> For a
+      vertical translation through the distance \(q\), the \(y\)-coordinate increases by the
+      distance \(q\) if the
+      slide is upwards, and decreases by the distance \(q\) if the slide is downwards.
+      We may write \(y' = y + q\), with \(q \gt 0\) for a translation
+      vertically upwards, and \(q \lt 0\) for a translation
+      vertically downwards. The \(x\)-coordinate remains the same,
+      so\((x;y)\)
+      →
+      \((x; y + q)\).</li>
+    </ul><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Translation of geometric figures on a coordinate system</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. (a) Translate\(\triangle PQR\) 5 units to
+    the right and 3 units down.</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/162754.png" alt="162754.png"/></div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Translate\(\triangle PQR\) 2 units to the
+    left and 3 units up.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Are all the triangles congruent? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">2. (a) Translate\(\triangle DEF\)
+    4 units to the left and 2 units down.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) Translate\(\triangle DEF\) 3
+    units to the right and 4 units up.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Are all the triangles congruent? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="No-Paragraph-Style"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/161616.png" alt="161616.png"/></span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. The vertices of a
+    quadrilateral have the following coordinates: K(-5; 2), L(-4;
+    -2), M(1; -3) and N(4; 3). Write down the coordinates of the
+    image of the quadrilateral after the following
+    translations.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) 7 units to the right and 2 units up </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) 5 units to the right and 2 units
+    down </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) 4 units to the left and 3 units down </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) 2 units to the left and 7 units up </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. <span>Describe the translation
+    if the coordinates of the original point and the image point
+    are:</span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) (-2; -3) → (-2;
+    -5) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) (4; -7) → (-6;
+    0) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) (3; 11) → (16;
+    20) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(d) (-1; -2) → (5;
+    -4) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) (8; -11) → (-2;
+    -3) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><h2 xmlns="http://www.w3.org/1999/xhtml" id="toc-id-33">Enlargement (growing) and reduction (shrinking)</h2>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation-after-B-head">What are enlargements and reductions?</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">You will remember the following from
+    Grade 8.</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet-Left-indent"> An image
+      is an enlargement or reduction of the original figure only if
+      all the corresponding sides between the two figures are in
+      <b>proportion</b>. This
+      means that <i>all the
+      sides</i> of the original figure are multiplied by the
+      same number (the <b>scale factor</b>) to produce the image.</li>
+
+      <li class="Body-bullet-Left-indent para-style-override-16">
+        \(\text{Scale
+        factor }= \dfrac{\text{side length of image}}{\text{length of corresponding side of original figure}}\)
+      
+<ul>
+      <li class="Body-bullet-2nd-level para-style-override-43">
+      
+      If the scale factor is &gt; 1, the image is an
+      enlargement.</li>
+
+      <li class="Body-bullet-2nd-level para-style-override-43">
+      
+      If the scale factor is &lt; 1, the image is a reduction.</li>
+      </ul>
+</li>
+      <li class="Body-bullet-Left-indent"> The
+      original figure and its enlarged or reduced image are
+      <b>similar.</b></li>
+
+      <li class="Body-bullet-Left-indent"> Perimeter
+      of image = Perimeter of original figure \(\times\) scale
+      factor</li>
+
+      <li class="Body-bullet-Left-indent"> Area of
+      image = Area of original figure \(\times\) (scale
+      factor)<sup>2</sup></li>
+    </ul>
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/161488.png" alt="161488.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">Sometimes the terminology used for
+    enlargements and reductions can be confusing. Make sure you
+    understand the following examples. Refer to the diagram on the
+    previous page.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">"<b>Enlarge</b> a figure by a scale
+    factor of 2" means:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet-Left-indent para-style-override-16">
+        <p>\(\dfrac{\text{side length of image}}{\text{length of corresponding side of original figure}}= 2\)</p>
+      </li>
+
+      <li class="Body-bullet-Left-indent"> Each side
+      of the original figure must be <i>multiplied</i> by 2.</li>
+
+      <li class="Body-bullet-Left-indent"> Each side
+      of the image will be 2 times longer than its corresponding
+      side in the original figure.</li>
+
+      <li class="Body-bullet-Left-indent"> The
+      perimeter of the image will be 2 times <i>longer</i> than the perimeter of
+      the original figure.</li>
+
+      <li class="Body-bullet-Left-indent"> The area
+      of the image will be \(2^2\) times \((2 \times 2 = 4\) times)
+      <i>bigger</i> than the
+      area of the original figure.</li>
+    </ul><p xmlns="http://www.w3.org/1999/xhtml" class="Body">"<b>Reduce</b> a figure by a scale
+    factor of 2" means:</p>
+
+    <ul xmlns="http://www.w3.org/1999/xhtml"><li class="Body-bullet-Left-indent para-style-override-16">
+   <p>\(\dfrac{\text{side length of image}}{\text{length of corresponding side of original figure}}= 0,5\)</p>
+      </li>
+
+      <li class="Body-bullet-Left-indent">
+         Each side of the original figure must be <i>multiplied</i> by \(\frac{1}{2}\)(or <i>divided</i> by 2).
+      </li>
+
+      <li class="Body-bullet-Left-indent">
+         Each side of the image will be 2 times <i>shorter</i> than its
+        corresponding side in the original figure.
+
+        <div class="aside">
+          <p class="Body-box-no-indent">Note that the
+          multiplicative inverse of 2 is \(\frac{1}{2}\).</p>
+        </div>
+      </li>
+
+      <li class="Body-bullet-Left-indent"> The
+      perimeter of the image will be 2 times <i>shorter</i> than the perimeter of
+      the original figure.</li>
+
+      <li class="Body-bullet-Left-indent">
+         The
+        area of the image will be \(2^2\) times \((2 \times 2 = 4\) times) <i>smaller</i> than the area ofthe original figure. (Or area of image = (\( \frac{1}{2} )2 = \frac{1}{4}\)of the area of the original
+        figure.)
+      </li>
+    </ul><h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Practise working with enlargements and reductions</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">1. Work out the scale factor of
+    each original figure and its image.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Normal para-style-override-44"><span><img class="frame-415" src="Maths_English_LB_gr9_term3_1-web-resources/image/161438.png" alt="161438.png"/></span>  </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Normal para-style-override-45"><span><img class="frame-416" src="Maths_English_LB_gr9_term3_1-web-resources/image/161421.png" alt="161421.png"/></span>  </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Normal para-style-override-46"><span class="char-style-override-32"><span><img class="frame-417" src="Maths_English_LB_gr9_term3_1-web-resources/image/161401.png" alt="161401.png"/></span></span> </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. For each set of figures in question 1, write down by how many times the <i>perimeter</i> of each image is longer or shorter than the perimeter of the original image. Also write down the perimeter of each image.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-16">(a) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-16">(b) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(c) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. For each set of figures in question 1, write down by how many times the <i>area</i> of each image is bigger or smaller than the area of the original image. Also write down the area of each image.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-3">(a) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below"><span class="char-style-override-37">(b)</span> </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-4">
+    <span class="char-style-override-37">(c)</span> </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">4. The perimeter of rectangle
+    DEFG = 20 cm. Write down the perimeter of the rectangle
+    D'E'F'G' if the scale factor is 3. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">5. The perimeter of quadrilateral
+    PQRS = 30 cm and its area is 50 cm<sup>2</sup>.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) Find the perimeter of
+    P'Q'R'S' if the scale factor is \(\frac{1}{5}\). </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Determine the area of quadrilateral
+    P'Q'R'S' if the scale factor is \(\frac{1}{5}\). </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">6. The perimeter of \(\triangle DEF
+    = 17 \text{ cm}\) and the perimeter of \(\triangle D'E'F' = 25,5 \text{ cm}\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) What is the scale factor
+    of enlargement? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below para-style-override-10">(b)
+    What is the area of\(\triangle D'E'F'\) if the area of \(\triangle DEF
+    = 14 \text{ cm}^2\)? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">7. The area of\(\triangle ABC = 20
+    \text{ cm}^2\) and the area of \( \triangle A'B'C'= 5 \text{ cm}^2\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(a) What is the scale factor
+    of reduction? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a--2-space-below">(b) What is the perimeter of
+    the image if the perimeter of\(\triangle ABC = 22 \text{ cm}\)? </p><hr xmlns="http://www.w3.org/1999/xhtml"/>
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Investigating enlargement and reduction</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">When we do enlargements or reductions
+    on a coordinate system, we use one point from which to perform
+    the enlargement or reduction. This point is known as the
+    <b>centre of enlargement or reduction.</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">The centre of enlargement or reduction can be
+    any point on the coordinate system. In this chapter, we will
+    always use the <b>origin</b> as the centre of
+    enlargement or reduction.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">Rectangle ABCD, rectangle A'B'C'D' and rectangle A''B''C''D'' are plotted on a coordinate
+    system as shown below.</p>
+
+        <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/160665.png" alt="160665.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">1. (a) Is rectangle A''B''C''D'' an enlargement of rectangle
+    ABCD? Explain your answer. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Is rectangle A'B'C'D' a reduction of rectangle
+    ABCD? Explain your answer. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">2. (a) The origin is the centre of
+    enlargement and reduction. Draw four line segments to join the
+    origin with A'',
+    B'', C'' and D''.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) What do you notice about these line
+    segments? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">3. (a) List the coordinates of the images to
+    complete the following table</p>
+
+    <table xmlns="http://www.w3.org/1999/xhtml" id="table-106" class="No-Table-Style table-style-override-1"><tbody><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Vertices of ABCD</b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Vertices of A<span class="char-style-override-20">'</span>B<span class="char-style-override-20">'</span>C<span class="char-style-override-20">'</span>D<span class="char-style-override-20">'</span></b></p>
+          </td>
+
+          <td class="cell-style-override-2">
+            <p class="Table-header-centred"><b>Vertices of A<span class="char-style-override-20">''</span>B<span class="char-style-override-20">''</span>C<span class="char-style-override-20">''</span>D<span class="char-style-override-20">''</span></b></p>
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">A(6; 6)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">B(6; 4)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">C(10; 4)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr><tr class="Row-Column-314"><td class="cell-style-override-2">
+            <p class="Table-text-left">D(10; 6)</p>
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+
+          <td class="cell-style-override-2">
+            
+          </td>
+        </tr></tbody></table><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) What do you notice about the coordinates
+    of the vertices of the original rectangle and the coordinates
+    of the vertices of the image? </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-no-indent">From the previous activity, you
+    should have found the following:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">On a coordinate system, the
+      line that joins the centre of an enlargement or reduction to
+      a vertex of the original figure also passes through the
+      corresponding vertex of the enlarged or reduced image.</p>
+      <p>The coordinates of a vertex of the enlarged or
+reduced image are equal to the scale factor \(\times\) the
+coordinates of the corresponding vertex of the
+original figure.
+</p>
+    </div>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">For example:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">B(6; 4) → B' (3; 2): The coordinates of B' are \(\frac{1}{2}\) the coordinates of B. Note that the scale factor is \(\frac{1}{2}\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">B(6; 4) → B'' (12; 8): The coordinates of B'' are 2 times the coordinates of B. Note that the scale factor is 2.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body">In general, we therefore use the following
+    notation to describe the enlargement or reduction with respect
+    to the origin:</p>
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="note">
+      <p class="Body-content-no-indent">\((x; y )~ → ~(kx; ky)\) or \((x'; y') = (kx; ky)\) where k is the scale factor.</p>
+      <p>If 0 &lt; k &lt; 1, the image is a reduction. </p>
+      <p>If k &gt; 1, the image is an enlargement. </p>
+    </div>
+
+    <h3 xmlns="http://www.w3.org/1999/xhtml" class="Head-investigation">Practise</h3>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">1. Draw the enlarged or
+    reduced images of the following figures according to the scale
+    factor given. In each case, use the <b>origin as the centre of enlargement or reduction.</b></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) Scale factor = 2</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/162907.png" alt="162907.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) Scale factor \(= \frac{1}{2}\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"><span class="x2nd-level-bullet"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/160598.png" alt="160598.png"/></span></span></p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) Scale factor \(= \frac{1}{2}\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Normal para-style-override-48"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/160578.png" alt="160578.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) Scale factor \(= \frac{1}{3}\)</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation"><span><img class="medium" src="Maths_English_LB_gr9_term3_1-web-resources/image/160561.png" alt="160561.png"/></span> </p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">2. A quadrilateral has
+    the following vertices: A(-2; 4), B(-4; -2), C(4; -3) and D(2;
+    1). Determine the coordinates of the enlarged image if the
+    scale factor = 2. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">3. A quadrilateral has
+    the following vertices: P(-4; 0), Q(2,5; 4,5), R(6; -2,25) and
+    S(2; -4). Determine the coordinates of the enlarged image if
+    the scale factor = 4. </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">4. A quadrilateral has
+    the following vertices: D(6; -4 ), E(4; -6), F(-4; 2) and G(-2;
+    -2). Determine the coordinates of the reduced image if the
+    scale factor \(= \frac{1}{2}\). </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation-hanging">5. A quadrilateral has
+    the following vertices: K(8; -2), L(4; -6), M(-8; -4) and N(-6;
+    10). Determine the coordinates of the reduced image if the
+    scale factor \(= \frac{1}{4}\).</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">6. Describe the following
+    transformations:</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(a) A(7; -5) →
+    A'(9; 0) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(b) A(-4; 6) →
+    A'(4; 6) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(c) A(-3; -2) →
+    A'(-2; -3) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(d) A(8; 1) →
+    A'(8; -1) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(e) A(4; -2) →
+    A'(8; -4) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(f) A(12; -16) →
+    A'(3; -4) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-">(g) A(2; -1) →
+    A'(-3; -5) </p><hr xmlns="http://www.w3.org/1999/xhtml"/><p xmlns="http://www.w3.org/1999/xhtml" class="Body-investigation">7. Describe each of the following
+    transformations.</p>
+
+    <p xmlns="http://www.w3.org/1999/xhtml" class="ques-a-"> (a)</p>
+        <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-439" src="Maths_English_LB_gr9_term3_1-web-resources/image/160496.png" alt="160496.png"/></div>
+    <p xmlns="http://www.w3.org/1999/xhtml"> (b) </p>
+
+
+
+    <div xmlns="http://www.w3.org/1999/xhtml" class="frame-23"><img class="frame-440" src="Maths_English_LB_gr9_term3_1-web-resources/image/160488.png" alt="160488.png"/></div>
+    
+  </div>
+</div>
