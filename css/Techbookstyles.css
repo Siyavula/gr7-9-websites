@@ -1,0 +1,285 @@
+h3{
+    background-color:#D7BEAF;
+   
+    padding:3px;
+}
+
+/*ASSORTED TABLE STYLES FOR LONG DIVISION ETC*/
+table
+{
+    border-collapse:collapse;
+    margin:10px;
+}
+
+table td
+{
+    border: 1px solid black;
+}
+
+/*no border without right align for readability */
+table.no-border-plain td{
+    border-style:none;
+}
+
+table.no-border td{
+    border-style: none;
+    text-align: right;
+    padding: 5px;
+}
+
+table.no-border td.left-bottom{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+table.no-border td.left{
+    border-left: 1px solid black;
+}
+
+table.no-border td.dotted{
+    border-right: 1px dotted black;
+    }
+
+table.no-border td.underline{
+    border-bottom: 1px solid #0B8ED8;
+
+}
+
+table.no-border td.underline-black{
+    border-bottom: 1px solid black;
+
+}
+
+table.no-border-plain td.underline{
+    border-bottom: 1px solid black;
+
+}
+
+
+table.no-border td.dotted-underline{
+    border-bottom: 1px solid black;
+     border-right: 1px dotted black;
+
+
+}
+
+table.no-border td.division{
+    border-left: 1px solid #0B8ED8;
+    border-top: 1px solid  #0B8ED8;
+
+}
+
+table.no-border td.division-black{
+    border-left: 1px solid black;
+    border-top: 1px solid  black;
+
+}
+
+
+td.yellow{
+    background-color:#FEDD03;
+    }
+
+td.blue{
+    background-color:#69B4E7;
+    }
+
+td.red{
+    background-color:#D96773;
+}
+
+td{
+    padding: 10px;
+}
+
+td.brown{
+    background-color:#EFD0C2;
+
+}
+
+td > p{
+  
+    margin: 0px;
+}
+
+tr.dots > td{
+    border-bottom: 1px dotted black;
+    border-right: 1px dotted black;
+    border-left: 1px dotted black;
+}
+
+/*DIV ENVIRONMENT STYLES*/
+div.note{
+    /*border: 1px solid black;*/
+    border-left: 10px solid #5E2615;
+    padding-left: 10px;
+    padding-top: none;
+    max-width: 400px;
+margin-left: 20px;
+}
+
+div.aside{
+    background-color:#EADDD4;
+ max-width: 400px;
+margin-left: auto;
+margin-right: auto;
+padding: 5px 10px 5px 10px;
+
+}
+
+div.aside > p{
+    margin:  0px;
+}
+div.worksheet{
+    background-color:#F3DBD1;
+    padding-top:15px;
+    padding-bottom:5px;
+}
+
+div.worksheet:before{
+content: "Worksheet";
+margin-left: 43%;
+text-transform: uppercase;
+text-decoration: underline overline;
+font-weight: bold;
+font-size: 130%;
+color: #5E2615;
+}
+
+div.worksheet-afr{
+    background-color:#F3DBD1;
+    padding-top:15px;
+    padding-bottom:5px;
+}
+
+div.worksheet-afr:before{
+content: "Werkblad";
+margin-left: 43%;
+text-transform: uppercase;
+text-decoration: underline overline;
+font-weight: bold;
+font-size: 130%;
+color: #5E2615;
+}
+
+div.extension{
+    background-color: #f3e5dd;
+    padding: 5px;
+}
+
+
+ol > li > ol{
+    list-style-type:lower-alpha;
+}
+
+ol > li > ol > li > ol > li{
+    list-style-type: lower-roman;
+}
+
+li li{
+    padding-top:10px;
+}
+
+li > ol:last-child{
+    padding-bottom:10px;
+}
+
+
+
+span.box{
+    border: 1px solid black;
+    padding:1px;
+}
+
+
+
+span.blue-text{
+    color: #0B8ED8;
+}
+
+p.blue-text{
+    color: #0B8ED8;
+}
+
+img {
+max-height:40%;
+}
+
+img.xlarge{
+    max-width: 150%;
+    max-height: inherit;
+}
+
+img.mlarge{
+    max-width: 120%;
+    max-height: inherit;
+}
+
+img.large{
+    max-width: 100%;
+    max-height: inherit;
+}
+
+img.medium{
+    max-width: 80%;
+    max-height: inherit;
+}
+
+img.small{
+    max-width: 60%;
+    max-height: inherit;
+}
+
+img.smaller{
+    max-width: 40%;
+    max-height: inherit;
+}
+
+body > div > p{
+    margin-left:10px;
+}
+
+li > p {
+    margin: 0px;
+}
+
+/* figure & figcaption styles */
+figure  figcaption{
+    font-style: italic;
+}
+
+figure > figcaption > p{
+    font-style: italic;
+}
+
+/*   */
+table.no-border-plain td.left{
+    border-left: 1px solid black;
+}
+
+table.border-plain td.none{
+     border-style:none;
+     
+}
+
+table.border-plain td.table-total{
+      border-style: none;  
+      border-bottom: 2px solid black;
+     
+}
+
+div.titlebox{
+    text-align: center;
+    font-size: 300%;
+    font-weight: bold;
+}
+
+div.textbox{
+    text-align: center;
+}
+
+div.textboxbrown{
+    text-align: center;
+    font-weight: bold;
+    color: #A52A2A;
+}
