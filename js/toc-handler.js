@@ -505,7 +505,7 @@ $( document ).ready(function() {
         }
         // if it is the table of contents
         else {
-            grade = thispage[2];
+            grade = thispage[thispage.length-2];
         }
 
         // get the correct file list from the variable
